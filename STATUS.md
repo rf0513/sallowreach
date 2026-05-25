@@ -39,7 +39,7 @@
 - **Adaline Roux** — city leader; runs the Celebration
 - **Fen** — musician; accidentally breaks the binding
 - **Old Patience** — ancient Mire spirit; encounter + partial tether relief
-- **The Guide** — punt operator; **TBD** (develop once PCs are known)
+- *(Remy serves as the party's Mire guide — no separate Guide NPC needed)*
 
 ---
 
@@ -48,7 +48,7 @@
 - **The tether** = cannot leave the Mire. That's it. No party-to-party distance component (removed). They can split freely within the Mire.
 - **No ticking clock.** Players should not feel rushed. Urgency comes from personal stakes (where each PC was going), not a countdown.
 - **Personal tether manifestations** — held in reserve until PCs are known.
-- **The Guide** — name, personality, and backstory intentionally left blank until players exist.
+- **Remy is the guide.** The separate Guide NPC stub was redundant and has been removed.
 
 ---
 
@@ -58,17 +58,15 @@ Priority order based on campaign start:
 
 1. **The Celebration as a playable scene** — agreed, not yet written; biggest gap
 2. **Session 1 prep** — not started; needs PCs first
-3. **The Guide** — fill in once players are known
-4. **Mire encounter tables / random tables** — not started
-5. **More adversaries** — Mire creatures, city-side threats
-6. **Option D consequences** — what happens after the false ending
-7. **Oswin Cray pre-scene** — agreed but not urgent
-8. **Personal tether manifestations** — after Session Zero
+3. **Mire encounter tables / random tables** — not started
+4. **More adversaries** — Mire creatures, city-side threats
+5. **Option D consequences** — what happens after the false ending
+6. **Oswin Cray pre-scene** — agreed but not urgent
+7. **Personal tether manifestations** — after Session Zero
 
 ---
 
 ## Open Questions (Resolve Before Session 1)
 
-- What did each PC's character was traveling toward? (Session Zero answers)
-- Who is The Guide?
-- Which resolution option does the GM want to make most available? (Shapes how Act 2 clues are weighted)
+- What was each PC traveling toward? (Session Zero answers)
+- Which resolution option do you want to make most available? (Shapes how Act 2 clues are weighted)

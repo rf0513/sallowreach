@@ -28,7 +28,7 @@ It has also been feeling, for some time, a pressure in the deep water. Something
 
 This is not unusual in the way that missing children in the Mire are usually not unusual — the family knows the Mire, they know the risks, they know the outer boardwalks are being swallowed. But the shrine is close. She knows the route. She's done it a dozen times. Her grandmother is not panicking outwardly. She is very, very still.
 
-The family has already sent word to [[The Guide]]. The Guide will ask the party to come.
+The family has already sent word to [[Remy Duval]]. Remy will ask the party to come.
 
 ---
 
@@ -48,7 +48,7 @@ She will tell the party, on the way back, that she saw something while she was s
 
 ## Appearance
 
-After Lenne is found and clearly safe, the Guide keeps the punt still. Waits.
+After Lenne is found and clearly safe, Remy keeps the punt still. Waits.
 
 The bioluminescence in the pool begins to organize. Not glow more brightly — *organize.* Patterns resolve into something with direction and attention. The light arranges into a shape that suggests a face the way a cloud suggests a face: once you see it, you cannot unsee it.
 
@@ -62,7 +62,7 @@ The temperature drops slightly. Not cold. Still.
 
 Old Patience does not explain its rules. Violation results not in violence but in withdrawal — and the Mire becoming a harder place afterward. The bioluminescence stops. Channels that were readable become confusing. The sense of being watched without anything being interested.
 
-The Guide knows these. A party member with strong Instinct might intuit them. Otherwise they discover through play.
+Remy knows these — he has felt the Still Pool's attention once before, six years ago, and held very still. A party member with strong Instinct might intuit them. Otherwise they discover through play.
 
 **1. Wait.** Do not speak first. It will speak when it decides to. Initiating tells it the party doesn't understand what it is, and it will wait them out indefinitely.
 
@@ -76,7 +76,7 @@ The Guide knows these. A party member with strong Instinct might intuit them. Ot
 
 ## What It Communicates
 
-Old Patience communicates in something between language and impression. The Guide translates about half; the rest arrives directly. A party member who is quiet and still gets more than one who is talking.
+Old Patience communicates in something between language and impression. Remy translates about half; the rest arrives directly. A party member who is quiet and still gets more than one who is talking.
 
 **The first thing:** *"You carry two marks. The city's mark and the water's mark. You are the first in a long time."* — It has seen tethered people before. Not recently. If asked what happened to the last ones: *"They found what they were looking for."* It will not clarify. The implication should make the party uneasy, and the GM should leave it that way.
 
@@ -98,7 +98,7 @@ It is made of the same spirit-water magic that created the tether. It understand
 
 This is the first concrete sign that the tether *can* change. That it is not simply a permanent condition. That something in the Mire has the ability to touch it. The full cure is still out there, still requires the work — but this tells the party they are not chasing nothing.
 
-The Guide has no framework for what just happened. They will not speak for a while.
+Remy has no framework for what just happened. He will not speak for a while.
 
 ---
 

@@ -1,46 +1,35 @@
-# Act 3 — Resolution Options
+# Resolution — Levers, Costs, and Possible Shapes
 
-*Lightweight reference. Full design thinking lives in session notes. Flesh these out once the party's choices in Acts 1–2 are known.*
+*Lightweight reference, generated before any PCs exist. These are illustrative possibilities — levers the world already offers and outcomes they could produce — not a list of "the paths available." The table will invent options nobody wrote down. When that happens, trust it. Use this to know what's load-bearing in the setup, not to steer the party toward a pre-chosen ending.*
 
-The party has met the [[Mangrove Spirit]], delivered the [[Fishing Spear]], and learned the truth: the [[Tree Spirit]] is imprisoned inside [[Sallowreach]] by the [[Celebration]] ritual. These are the paths available to a Tier 1–2 outsider party.
-
----
-
-## A — Break the Ward
-**How:** Sabotage [[Oswin Cray]]'s salt circle.
-**Result:** The Mangrove Spirit floods in — not in anger, in *longing*. 60,000 people at risk.
-**Note:** Available but catastrophic. Useful as a threat the party could hold over the city without intending to use.
-
-## B — Surgical Sabotage of the Celebration
-**How:** Identify the load-bearing binding element hidden inside the ritual (probably the old-dialect chants — the Mangrove Spirit can translate through the spear; Caspar has them transcribed). Disrupt that element during one Celebration. The binding unravels quietly.
-**Result:** Tree Spirit freed. City wakes up to changed circumstances without knowing why. Happens without consent.
-**Note:** Requires research first. Medium difficulty. The weight is: it's done *to* Sallowreach, not *with* it.
-
-## C — Reveal the Truth / Let the City Choose
-**How:** Translate the chants, build the case, bring it to the [[City Leader]]. [[The Woodworker]] is probably the first civilian who'd accept it. The city decides its own fate.
-**Result:** If Sallowreach chooses to free the Tree Spirit, they lose the identity and economy built on it — but they *chose* that.
-**Note:** Hardest path. Requires every Act 1 relationship to matter. The "true ending" if the party has actually invested in the city.
-
-## D — The Spear Bridge (Partial Solution)
-**How:** Leave the spear with the Mangrove Spirit as a permanent bridge. The two spirits are in contact across the binding. The Mangrove Spirit stops expanding because it's no longer searching.
-**Result:** Party's tether may lift (TBD). City unchanged. Tree Spirit still imprisoned.
-**Note:** The "false ending" — works, feels like a win, leaves the injustice in place. Right players will feel the discomfort.
-
-## E — Work Through Oswin
-**How:** Instead of exposing Oswin via Marcel's deal, help him get free of Marcel another way. In return, Oswin modifies the ward — not breaks it, *modifies* it — to allow a controlled, peaceful reunion of the spirits.
-**Result:** Spirits reunited without flooding the city. Oswin is free. Marcel loses leverage.
-**Note:** Makes Oswin's arc matter beyond just "who gets hurt." Requires the party to find an alternative solution to the Marcel problem first.
+By the time any of this is live, the party has likely met the [[Mangrove Spirit]], delivered the [[Fishing Spear]], and learned the truth: the [[Tree Spirit]] is imprisoned inside [[Sallowreach]] by the [[Celebration]] ritual. What they do with that knowledge is theirs. The following are pressures and tools already present in the world — some shapes this could take for a Tier 1–2 outsider party.
 
 ---
 
-## Quick Matrix
+## The Levers That Exist
 
-| Option | Needs city's consent | Who pays | Difficulty |
+These are real things in the fiction the party could reach for. None is the "intended" answer. Most can combine, and the most interesting resolutions will probably braid two or three together — or go somewhere none of these anticipate.
+
+**Break the ward.** Sabotaging [[Oswin Cray]]'s salt circle is possible, and catastrophic: the Mangrove Spirit floods in — not in anger, in *longing* — with 60,000 people in its path. Available, devastating, and far more useful as a threat the party could hold over the city than as something they'd actually want to do. If they reach for it anyway, let the weight be real.
+
+**Surgical sabotage of the Celebration.** Somewhere in the ritual is a load-bearing binding element — probably the old-dialect chants (the Mangrove Spirit can translate through the spear; Caspar has them transcribed). Disrupt that during a Celebration and the binding could unravel quietly. The Tree Spirit goes free; the city wakes to changed circumstances without knowing why. Requires research first. The weight here: it's done *to* Sallowreach, not *with* it, and without its consent.
+
+**Reveal the truth and let the city choose.** Translate the chants, build the case, bring it to [[Adaline Roux|the City Leader]]. [[Théo Rouchard|The Woodworker]] is plausibly the first civilian who'd accept it. If Sallowreach chooses to free the Tree Spirit, it loses the identity and economy built on the binding — but it *chose* that. This is the hardest version to reach, and the one that asks every Act 1 relationship to have meant something.
+
+**The spear as a bridge (partial).** Leaving the spear with the Mangrove Spirit as a permanent tether keeps the two spirits in contact across the binding. The Mangrove Spirit could stop expanding — no longer searching — without anything else changing. The tree stays bound; the city stays whole; the injustice stays in place. It works, it feels like a win, and the discomfort it leaves behind is the point. A party that takes this and *feels* the catch is playing exactly the game the campaign is offering.
+
+**Work through Oswin.** Rather than exposing Oswin via Marcel's deal, the party could free him from Marcel some other way. In return, Oswin might *modify* the ward rather than break it — engineering a controlled, peaceful reunion of the spirits without flooding the city. Oswin gets free; Marcel loses his leverage. This makes Oswin's arc matter beyond "who gets hurt," and it depends on the party finding their own answer to the Marcel problem first.
+
+---
+
+## What Each Lever Costs
+
+| Lever | Needs consent | Who pays | Texture |
 |---|---|---|---|
-| A — Break ward | No | 60,000 civilians | Easy / catastrophic |
-| B — Surgical sabotage | No | Sallowreach (identity, economy) | Medium |
-| C — Truth + politics | Yes | Sallowreach, knowingly | Hardest / most earned |
-| D — Spear bridge | No | Tree Spirit (still bound) | Easy / morally messy |
-| E — Through Oswin | Yes (Oswin) | Marcel loses; Oswin free | Medium |
+| Break the ward | No | 60,000 civilians | Easy to do, catastrophic to live with |
+| Surgical sabotage | No | Sallowreach (identity, economy) | Quiet, unilateral, done *to* the city |
+| Truth + politics | Yes (the city's) | Sallowreach, knowingly | Hardest to reach, most earned |
+| Spear bridge | No | The Tree Spirit (still bound) | Easy, morally unresolved |
+| Through Oswin | Yes (Oswin's) | Marcel loses; Oswin freed | Depends on solving Marcel first |
 
-B and C are probably the intended poles. D is the trap. E is the most satisfying if the party's choices set it up.
+A few of these (truth-and-politics, the spear bridge) sit at opposite emotional poles, and the contrast between them is worth holding in mind as you read the table — but don't treat either as the destination. The party may walk a line between them, refuse both, or find a sixth thing. Flesh out whichever pressures are actually live once Acts 1–2 have happened and you can see what the party has built toward.

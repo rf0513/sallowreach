@@ -87,33 +87,52 @@ Three routes in, any of which works:
 
 **From the museum itself** — attentive players browsing the archive floor might notice Caspar's research files and find a folder labeled VANE — PROVENANCE INQUIRY with six years of dead-end correspondence.
 
-### Finding the Journal
+### The Trail
 
-**The trail:** Estate auction, six years ago. A lot of miscellaneous papers sold as a single lot to Natta Preis, a retired merchant collector who bought things that seemed interesting without always knowing what they were.
+Estate auction, six years ago. A single lot of miscellaneous papers went to **Natta Preis**, a retired merchant collector who bought things that seemed interesting without always knowing what they were. Natta died two years ago and left two floors of accumulated *stuff* to her niece, **Reille** — all of it in-city, of course; nobody's leaving the Mire.
 
-**Natta Preis is dead.** Died two years ago. Left the house and everything in it to a niece named **Reille Preis**, who inherited two floors of accumulated objects and hasn't finished cataloguing them and frankly isn't sure she wants to.
+### Reille Preis
 
-**Reille** is cooperative if the party is pleasant. She's not guarding the journal — she doesn't know she has it. She has, by her estimate, "about forty boxes of Aunt Natta's paper things" and would be relieved if someone took some of them off her hands with a plausible reason. A nominal payment, a favor, or just a kind explanation will get the party access to the boxes.
+Mid-thirties, inherited a hoard she never wanted and a question she can't shake: *who was Aunt Natta, really?* Overwhelmed, a little sad, and warm to anyone who's kind — she'll happily turn the party loose to dig if they give her a plausible reason and maybe haul a few boxes while they're at it. She is **not** an obstacle. She's a person who'd be relieved to have some of this gone.
 
-The journal is in a box labeled *OLD — UNCLEAR VALUE*, beneath some guild administrative correspondence and what appears to be a collection of annotated fish-market receipts.
+**The complication (use it or hold it):** a *polite man* came by last week offering to buy "Aunt Natta's old guild papers." Reille told him to come back. She doesn't know who sent him — but the party might wonder, and might want to dig *before* he returns. *(GM: it's [[Marcel Dray|Marcel]]'s quiet buyer, or a rival collector — your call. Since the spear and Marcel sit downstream of this quest, a Marcel thread here pays off.)*
 
-### The Return Scene
+### Digging the Hoard *(the fun part)*
 
-They bring it back to Caspar.
+Two floors of a dead eccentric's treasures. Let the party **dig as long as they like** — each real search turns up a find. Roll or pick; the journal is in here, but make them earn it past a couple of other things. The point is rooting through a weird, charming, slightly dangerous pile and seeing what turns up.
 
-He opens it with careful hands. Reads. Goes very still — the tell that means genuine engagement, not avoidance. Reads for what feels like longer than it is.
+| d8 | What you turn up |
+|---|---|
+| 1 | **The prize** — Vane's field journal, in a box marked *OLD — UNCLEAR VALUE,* under guild correspondence and a stack of annotated fish-market receipts. |
+| 2 | **The chest that's too nice** — a wardrobe of dark Mire blackwood, finer than anything around it. Natta couldn't resist it. *It is not furniture.* → [[mire-bestiary#Mire-Wrought Mimic|Mire-Wrought Mimic]] |
+| 3 | **Quiet coin** — a string of deep-Mire pearls, wax-sealed reagent jars; a handful or two at the pawnbroker (boat fund). |
+| 4 | **⟦PC hook — fill after Session Zero⟧** — something tied to one character's stakes: a record, a letter, a token, a name they'd know. Natta bought *everything.* |
+| 5 | **Pure Natta** — forty identical brass spoons; a stuffed heron in a tiny waistcoat; love letters addressed *"my darling,"* all, it turns out, to the heron. She was a *person.* (Reille will need a moment.) |
+| 6 | **The ledger** — Natta's purchase records, with a margin note in a fresh hand: someone asked after *"the guild man's papers"* recently. No name. (Feeds the complication.) |
+| 7 | **Mind your hands** — a sealed jar of preserved Mire venom, *or* a spirit-stone that hums louder the nearer it gets to the blackwood chest. Mishandle it: minor hazard. (And — why does it hum near the chest?) |
+| 8 | **A wonder** — a deep-water curio: a lamp of impossible design, a jar of water that still faintly glows. Valuable, or the perfect gift for an NPC. |
 
-Then he finds the attractor passage and goes quiet in a different way.
+### The Mimic
 
-Stage his realization. Let the players watch him work through it. Then the name.
+When the digging's run a beat too long — or someone opens the beautiful blackwood chest — it **bites.** Full stats: [[mire-bestiary#Mire-Wrought Mimic|Mire-Wrought Mimic]] (Tier 1). It's a *surprise,* not a death-trap: low HP, it can't chase, it wants to feed not fight. Kill it and it disgorges everything it's swallowed over the years — coins, a locket, someone's good dentures, and one thing that matters. *(GM-secret: the chest is Mire blackwood half-woken by the [[Tree Spirit]]'s essence — a tiny echo of the campaign's whole secret. A Mire-attuned PC feels the kinship and won't know why. It lands later.)*
 
-**After he says the name:** he does not offer anything else immediately. If they press on why he knows Marcel has it, he'll answer — but briefly, carefully, without details. That conversation is for another time. What matters is the name is out.
+### Make the Clue Theirs
+
+When a PC turns up the journal, **let them read it** — especially the late entry where Vane wonders whether the answer is in the Celebration chants he couldn't translate. *The players* should be the ones who go *"…wait."* Don't save the realization for Caspar.
+
+### The Return to Caspar
+
+They bring him the journal **and a theory.** He opens it with careful hands, reads, goes very still — and when a player says *"he thought it was in the chants,"* Caspar looks up at them differently. Forty years of his own dead ends, and these strangers walked in and *saw* it. *That's* what unlocks him — not the delivery, the **engagement.**
+
+Then, quietly: *"You need the spear. The man who has it is named Marcel Dray."* He won't explain how he knows, or the complicated look that comes with it. That's for another time. The name is out.
 
 ---
 
 ## GM Notes
 
-- The mini-quest is not about difficulty. It's about trust. The journal isn't locked up or guarded. Reille Preis is not an obstacle. The point is that the party did something for Caspar without being asked to, and that act unlocked the conversation.
-- If a player asks to look through the museum archive while there on another visit, let them find the provenance folder. Reward investigation with the trail.
-- The scene where Caspar reads the journal should be slow. Don't rush it. The party has been patient; let them watch the moment land.
-- The fact that Vane couldn't identify the attractor is meaningful twice: once for Caspar in the moment, and again later when the party understands what the attractor IS. Vane was looking for something external. The Tree Spirit was inside the city the whole time, in the Celebration, in the wood, in the water.
+- **It's a playground, not a puzzle.** No lock, no guard — the fun is digging through a weird hoard with a surprise in it. Let them root around as long as they're enjoying it; reward thorough searching with more finds.
+- **The mimic is a surprise, not a threat to fear.** Spring it for delight and a jolt, not lethality. It's the chest that bites and then coughs up treasure.
+- **Give the players the clue, not Caspar.** The win is a *PC* connecting Vane's chant passage; Caspar reacts to *them* having seen it. That flip is the whole point of the rebuild.
+- **Reille and the "polite buyer" are threads.** Reille can become a recurring friendly face; the buyer is a string to pull toward [[Marcel Dray|Marcel]] (or a rival). A little urgency makes the dig a choice, not a chore.
+- If a player browses the museum archive on another visit, let them find the *VANE — PROVENANCE INQUIRY* folder and pick up the trail there.
+- **The double meaning still lands twice:** Vane hunted an *external* attractor and failed; the [[Tree Spirit]] was *inside* the city the whole time — in the Celebration, in the water, and (that chest!) in the wood. The mimic is that truth in miniature, hiding in a junk pile.

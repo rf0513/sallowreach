@@ -34,13 +34,9 @@ No physical marks. No visible symptom. The curse is purely relational — betwee
 
 ### Why the Water Is Charged
 
-**GM NOTE — open question to resolve before play:** Options:
-- Ancient spirit presence has always saturated the swamp
-- The [[Tree Spirit]]'s trapped essence leaches into the water over generations (mirrors the wood — its nature pours into everything it touches)
-- The ward has altered the water chemistry in ways the Mages Guild didn't anticipate or disclose
-- Some combination of the above
+**Resolved.** The [[Tree Spirit]]'s trapped essence saturates all the Mire's black water — its nature pours into everything it touches, the way it pours into the wood. The water is charged everywhere, always. But the binding is *performed* once a week, and on **Celebration nights it peaks and the whole Mire's water Turns** (see **The Turn** in [[Cosmology]]). The party went under, far from the city, *during a Turn.* That is why they came up tethered — and so completely: they drowned in the binding at the height of its song, caught in the same net that holds the Tree Spirit.
 
-The second option is the most elegant and ties the tether directly to the campaign's emotional core. The third adds culpability to [[The Wizard]] without making them the direct curse-giver.
+They have no way to know this yet. They were hours from Sallowreach; you cannot connect a curse in open water to a city ritual you've never seen. The link is a **recognition reveal** they earn by witnessing The Turn *again* — at the Celebration — and feeling their tether answer it. The clue chain lives in [[session-01-prep]]; the recognition beat in [[The Celebration]]; the full mechanism in [[Cosmology]].
 
 ### The Urgency
 
@@ -48,35 +44,38 @@ The tether traps them, but what makes it urgent is personal: each PC was traveli
 
 ## The Emotional Core
 
-A love story between two ancient spirits — [[The Mangrove Spirit]] and [[The Tree Spirit]] — separated by an act a city has forgotten it committed. The campaign is about finding that story, understanding it, and deciding what to do with it. The answer costs the people the party has come to love something fundamental.
+A love story between two ancient spirits — [[The Mangrove Spirit]] and [[The Tree Spirit]] — separated by an act a city has forgotten it committed. The campaign is about finding that story, understanding it, and deciding what to do with it. The trap the setup lays is that the most humane answers tend to cost the people the party has come to love something fundamental — and there may be no clean way out.
 
 See [[Cosmology]] for full spirit lore and the truth about [[The Celebration]].
 
 ## Campaign Structure
 
-### Act 1 (Sessions 1–3): Arrival
+*A loose skeleton for GM planning, not a track the players are on. These are tendencies — what tends to be true early, as things develop, and once the truth surfaces — written before any PCs exist. Expect the party to reorder, skip, or blow past them. The beats below describe what the world is offering, not what the party will do with it.*
+
+### Early: Arrival
 - Shipwreck in the Mire; wake on the bank as strangers; discover the tether
 - Enter Sallowreach, get taken in, navigate being unexpectedly stuck
 - Experience the city's warmth, culture, the weekly Celebration
 - Hear rumors about the Mire, things that might help
-- Start pulling on NPC threads — [[The Healer]] → [[The Old Stories Keeper]] → [[Marcel Dray]]
+- The NPC threads are there to pull on — [[The Healer]] → [[The Old Stories Keeper]] → [[Marcel Dray]] is one chain that's wired up, not the only door
 - Personal urgency: each PC has somewhere they were supposed to be
 
-### Act 2 (Sessions 4–6): The Mire
-- Pursue [[The Fishing Spear]] deeper into the swamp
-- Encounter the Mangrove Spirit or signs of it
+### As Things Develop: The Mire
+- The [[The Fishing Spear|Fishing Spear]] is out there, deeper in the swamp, for a party that goes looking
+- Encounters with the Mangrove Spirit, or signs of it
 - NPC threads unravel — [[The Wizard]]'s situation, the old stories proven true
-- Learn about the Tree Spirit through Mire encounters and the Old Stories Keeper
-- The Celebration takes on a different meaning
+- The Tree Spirit becomes legible through Mire encounters and the Old Stories Keeper
+- The Celebration starts to mean something different
 
-### Act 3 (Sessions 7–8+): The Choice
-- [[Marcel Dray]]'s deal comes to a head — expose the wizard, get the spear, condemn a man
-- The party likely realizes what revoked guild protection means for the wizard before or after accepting
-- Obtain the spear at whatever cost they choose
-- Confront the truth about the binding and the Celebration
-- Final negotiation: reunite the spirits? Free the Tree Spirit? What happens to the city?
-- **Gut-punch:** freeing the spirits saves the party but costs Sallowreach its lumber, its Celebration, its identity
-- **Potential second gut-punch:** the wizard's fate, depending on choices
+### Once the Truth Surfaces: The Choice
+- [[Marcel Dray]]'s deal is sitting there to come to a head — expose the wizard, get the spear, condemn a man — if the party engages it
+- If they take the deal, they may realize what revoked guild protection means for the wizard before or after accepting
+- The truth about the binding and the Celebration is available to be confronted
+- And then the open question the whole setup has been building toward: reunite the spirits? Free the Tree Spirit? Hold the line? What happens to the city — and who decides?
+- **The gut-punch the setup makes possible:** any path that frees the spirits tends to cost Sallowreach its lumber, its Celebration, its identity. The weight is real however they get there.
+- **A second gut-punch is in reach:** the wizard's fate, depending on choices
+
+See [[resolution-options]] for the levers, costs, and possible shapes this could take — explicitly a menu of possibilities, not a chosen ending.
 
 ## Tools & Setup
 

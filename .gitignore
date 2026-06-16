@@ -2,3 +2,6 @@
 .claude/
 *.DS_Store
 Thumbs.db
+
+# Large editable art source files — kept local, synced separately
+*.psd

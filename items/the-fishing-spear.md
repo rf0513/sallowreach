@@ -18,11 +18,12 @@ Marcel Dray finds it genuinely pleasing to look at. He has no idea what it is.
 
 ## What It Actually Does
 
-The spear is not a weapon of power. It is a key — a bridge between the physical world and the spirit world, carrying the Tree Spirit's own nature. It cannot lift the tether on its own. What it can do is open communication with the spirits in a way nothing else can — make the conversation possible that would otherwise be impossible.
+The spear is a powerful magical artifact, and what it does is **break curses.** It carries the [[Tree Spirit]]'s own nature — the same boundary-crossing power that charges the Mire's black water — and in the right hands it can sever the spirit-magic that holds a soul where it shouldn't be.
 
-The tether lifting is a consequence of the party completing the actual work: reuniting the spirits, or freeing the Tree Spirit, or whatever the resolution becomes. The spear enables that work. It was never meant to be powerful. It was meant to be personal.
+- **[[Isotta]]'s ghost-condition and [[the-witch|the Witch]]'s clank-curse are within its power.** Once the party has the spear, those curses can be broken — clean, earned, personal payoffs for two PCs who'll have crossed the whole city to get it. *(GM: stage these as weighty scenes, not a quiet stat change.)*
+- **The tether is the exception — the final boss of curses.** The party isn't simply *cursed*; they're *caught,* tangled directly in the great binding at the city's heart (see [[Cosmology#The Turn & The Tether|The Turn]]). The spear can't just snip that. Lifting the tether means resolving the binding itself — freeing or reuniting the spirits — which is the finale, and where the cost to Sallowreach lives. ("Taste now, cure at the finale.")
 
-**Let a player use it as a weapon.** Let them get attached. Then make them give it up.
+The spear is also, still, **a bridge between worlds** — carved by the Tree Spirit as a gift for the [[The Mangrove Spirit|Mangrove Spirit]], it opens the conversation with the spirits that the central resolution requires, and in the deep Mire it becomes a compass toward the one it was made for (below).
 
 ---
 
@@ -74,9 +75,9 @@ See [[Marcel Dray]] for the full deal. The short version: Marcel will trade the 
 
 ## After Acquiring the Spear
 
-The party has the spear. Nothing happens. It doesn't hum, it doesn't glow, it doesn't speak. It's a beautifully made piece of wood that doesn't do anything.
+The party has the spear. For **Isotta and the Witch, this is the moment their curses can finally be broken** — the artifact does what the artifact does. Give them the scenes; they earned them (see their sheets).
 
-This is correct behavior. The party is not who it was made for.
+But for the **tether** — the thing all four of them share — it stays quiet. No hum, no glow, no instructions. Because the tether isn't a curse the spear can cut; it's the great binding itself, and the spear's role there isn't to *break* it but to *reach* it. They're holding the key to a conversation they don't yet know how to have. The natural next move is back to Caspar.
 
 ### Step 4 — Back to Caspar
 
@@ -86,7 +87,7 @@ When they arrive and he sees it, he goes very still. That particular stillness �
 
 He holds it for a long moment. Turns it over. Looks at the grain the way someone reads a letter.
 
-Then: *"You can't use this. I don't mean you're not capable — I mean it isn't for you. Look at it. It was made as a gift. A gift needs someone to receive it."*
+Then: *"This won't lift what's tying you here. I don't mean it's powerless — gods, look at it — I mean the thing holding you isn't a curse you *cut.* It was made as a gift. A gift needs someone to receive it."* *(He's right about the tether specifically — whatever the spear has already done for Isotta or the Witch, the binding at the city's heart is a different order of problem.)*
 
 He knows where the Mangrove Spirit is — roughly. Southwest Deep Mire. It's been moving toward Sallowreach from that direction for two hundred years, which is in his own records and confirmed by the journal. He'll give the party the best information available: the last documented sighting from the deep-Mire fishing accounts, the direction to travel, the warning that past the Wending the usual navigation stops working. He can get them pointed the right way.
 

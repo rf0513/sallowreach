@@ -189,7 +189,7 @@ The lantern rays appear four times in the campaign. Run them as a coherent threa
 
 When the party understands what the Celebration actually is — a prison — that detail about the lanterns should be somewhere in their minds. The city built something beautiful in unconscious memory of something beautiful. The city is also unknowingly keeping a spirit captive. Both things are true. Both things are Sallowreach.
 
-**Thematic note:** Sallowreach has never learned the concept of resource depletion because the Tree Spirit's essence has made the lumber inexhaustible. The lantern ray side-plot is the lesson in miniature: something finite can be taken past the point of return, and a city that has never experienced that has no framework for recognizing it until it's too late. The party learns this lesson here. They'll need it for the main plot's ending.
+**Thematic note:** Sallowreach has never learned the concept of resource depletion because the Tree Spirit's essence has made the lumber inexhaustible. The lantern ray side-plot is the lesson in miniature: something finite can be taken past the point of return, and a city that has never experienced that has no framework for recognizing it until it's too late. The party learns this lesson here. It's the kind of understanding that tends to matter when they reckon with the main plot — what the spirits' situation costs, and what restraint or sacrifice the resolution might ask of them.
 
 The Tessak have a word for it. *Tessavrak.* Taking beyond the season.
 

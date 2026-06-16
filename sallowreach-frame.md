@@ -152,7 +152,7 @@ The celebration is performance, tradition, and something older than either. A Ba
 
 #### Rogue
 
-In a town of 200 where everyone knows everyone, information is the real currency. A Rogue who deals in secrets will find Sallowreach both richer and more dangerous than it looks — because the secrets here have been kept for generations, and the people keeping them have had time to get good at it.
+In a city of sixty thousand that still feels like everyone knows everyone, information is the real currency. A Rogue who deals in secrets will find Sallowreach both richer and more dangerous than it looks — because the secrets here have been kept for generations, and the people keeping them have had time to get good at it.
 
 ---
 

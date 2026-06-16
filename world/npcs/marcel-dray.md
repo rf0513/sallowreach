@@ -5,6 +5,8 @@
 **Faction:** Independent (his own organization)
 **Tier:** 3
 
+*Lawful evil in the old shorthand: not cruel for sport, but bound by a code of his own making and merciless inside it. He keeps his word, keeps his rules, and keeps a cold hand on the city's throat that everyone has quietly agreed not to look at.*
+
 ---
 
 ## Appearance
@@ -16,6 +18,10 @@ His hands are cold. Not cool — cold. The kind of cold that doesn't belong to a
 He doesn't sweat. In the bayou humidity, where everyone is always damp, Marcel Dray is always dry. His breath doesn't fog in cold air. Food and drink pass his lips at social occasions; whether he requires them is unclear. He moves through the world like a man who has already settled all his accounts with it.
 
 When something displeases him, he goes very still and very quiet. This is more frightening than anger.
+
+## The Name You Don't Say
+
+Everyone in Sallowreach knows Marcel Dray exists. Almost no one says his name out loud. You refer to *the Pale Room,* or *the man who runs the back channels,* or just *him* — with a dropped voice and a glance — because speaking of his business carelessly has a way of reaching him, and being noticed by Marcel when you didn't mean to be is the start of a bad season. He is **not** a public figure. He is not out on the boardwalks. He does not stand at the back of the Celebration. He is a pressure felt through the people who answer to him, and a name you save for when you mean it.
 
 ## Personality & Mannerisms
 
@@ -39,20 +45,30 @@ That once guild protection is revoked, the wizard's debt becomes immediately col
 
 ## The Operation
 
-**The Pale Room** — invitation-only underground casino. White tablecloths, low light, exceptional service. The games are fair — Marcel runs fair games because rigged games create enemies and fair games create addicts. [[The Wizard]] has lost a significant sum here over three years.
+**The Pale Room** — invitation-only underground casino, and the one place Marcel is fully himself. White tablecloths, low light, exceptional service, fair games — he runs fair games because rigged games make enemies and fair games make *addicts.* It is his favorite place in the world and the one place he is reliably found; he rarely leaves it. [[Oswin Cray|The wizard]] has lost a significant sum here over three years. To be invited to the Pale Room is a privilege and a warning in the same breath.
 
-**The Mire Spirits** — bootleg distillation using Mire ingredients that can't legally be exported. The resulting liquors are extraordinary and distributed throughout the city, exported quietly through sympathetic punt operators.
+**Lending** — in a city with no bank and no imperial credit, Marcel *is* the money. He lends to merchants between shipments, to families between bad seasons, to guild men with expensive habits. The terms are plain, the interest is fair by the standard of having nowhere else to go, and repayment is not a matter of opinion. A debt to Marcel is the most reliable contract in Sallowreach — for both sides, right up until it isn't.
 
-**Information** — his real operation. Everything that happens in Sallowreach eventually reaches Marcel. He doesn't sell information cheaply, but he doesn't hoard it either.
+**The Mire Spirits** — bootleg distillation using Mire ingredients that can't legally be exported. The liquors are extraordinary, moved quietly through sympathetic punt operators: the contraband logistics an export city pretends it doesn't need.
 
-**The Courtesy** — businesses in certain districts pay a monthly sum for which nothing bad happens to them. The courtesy is reasonable, the protection is real, and Marcel has never had to demonstrate the alternative.
+**Information** — his real operation. Everything that happens in Sallowreach eventually reaches Marcel. He doesn't sell it cheaply and he doesn't hoard it; he simply, always, *knows.*
 
-**What he doesn't do:** traffic in people. This is his line, absolute. It's one of the things that makes the city's relationship with him complicated.
+**The Courtesy** — businesses in certain districts pay a monthly sum for which nothing bad happens to them. The courtesy is reasonable, the protection is real, and Marcel has never had to demonstrate the alternative — because everyone has heard, secondhand, what the alternative was the one time it was.
+
+**What he doesn't do:** traffic in people. This is his line — not mercy, *code.* His power rests on being the most predictable force in an unpredictable place, and a man with no lines is only chaos with a ledger. Those who try to run flesh through his city don't get a warning; they get a vacancy where they used to be. The line is real. It is also a demonstration.
 
 ## Key Relationships
 
-- [[The Wizard]] — debtor; currently untouchable; Marcel's primary irritation
-- [[Sallowreach]] — his home; he participates in the Celebration every week, always near the back; contributes to communal feast tables generously and anonymously
+- [[Oswin Cray]] — debtor; currently untouchable behind Guild protection; Marcel's primary irritation
+- [[Sallowreach]] — his city, in a sense no one would say to his face. His *money* touches it; his person does not. He gives to the communal feast tables generously and anonymously — the food arrives, the giver doesn't — but he is never *seen* at the Celebration, never out among the boardwalks. He rules the underneath and leaves the warm surface to itself, which is exactly how the warm surface prefers it.
+
+## Why Marcel Fits a Warm City
+
+Sallowreach has no road, no garrison, no imperial law, no police — the isolation that makes it self-sufficient and communal also leaves a vacuum where a state would be. Someone has to lend where there's no bank, move what can't legally be exported, settle what can't go before a magistrate, and know what's coming up the channel before it arrives. Marcel is that someone. He isn't a parasite on the warm city; he's the cold machinery beneath its floor, and the warm city runs on him whether it admits it or not.
+
+It holds because he is **disciplined** — fair games, kept words, plain terms, no theatrics, no wasted violence, one hard line he never crosses. A community can route around a *predictable* danger; it cannot route around chaos. So Sallowreach makes the bargain warm places always make with the thing they fear: it takes the benefit, keeps its voice down, and agrees not to look directly at it.
+
+Which is exactly what the city does with the [[The Celebration|Celebration]]. **Marcel is the campaign's whole theme in one man** — a gracious surface over a cold thing no one will name. The party will learn to deal with him long before they realize they're living inside a larger version of the same arrangement.
 
 ## The Deal
 

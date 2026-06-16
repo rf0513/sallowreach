@@ -89,7 +89,7 @@ He also knows where the Still Pool is. He will not take clients there. Once, six
 
 ## Campaign Function
 
-**Act 1:** Remy saves the party. The ship goes down in the Mire — Remy, amphibious and completely at home in the water, gets the emergency raft secured and pulls people out. He is in the water but never submerged in the way the party is; his frog nature means he's working the surface, not the depths. The party goes under and comes up marked by the spirit-water. Remy comes up wet and already thinking about next steps.
+**The opening:** Remy saves the party. The ship goes down in the Mire — Remy, amphibious and completely at home in the water, gets the emergency raft secured and pulls people out. He is in the water but never submerged in the way the party is; his frog nature means he's working the surface, not the depths. The party goes under and comes up marked by the spirit-water. Remy comes up wet and already thinking about next steps.
 
 He is not tethered. He doesn't fully understand why the party is behaving strangely in those first hours — one of them tries to leave and ends up back where they started — but he clocks it quickly, asks the right questions, and gets everyone to the inn before anything else.
 
@@ -97,11 +97,11 @@ Once they're inside: he's their translator. He knows what honored guest status m
 
 He connects them to [[Delphine]] with a specific referral: *"Her practice is on the Thornside boardwalk, third door past the red lantern. Tell her I sent you. She'll actually look at you."*
 
-**Act 2:** Their guide into the Mire. He runs the Wending well and his clients feel it. He names things as they go. He reads the water in a way that becomes quietly impressive once the party has seen him do it three or four times. The tether being loosened by Old Patience changes the logistics of what he can do with them.
+**As their guide into the Mire:** He runs the Wending well and his clients feel it. He names things as they go. He reads the water in a way that becomes quietly impressive once the party has seen him do it three or four times. The tether being loosened by Old Patience changes the logistics of what he can do with them.
 
 When the party needs to go into the Deep Mire: he goes. He doesn't explain what it costs him. If the party has been paying attention, they'll be able to tell.
 
-**Act 3:** He's not a political actor, but he's spent twenty years building relationships in Sallowreach and the city trusts him. If the party needs a character witness, a voice that the outer boardwalk families will listen to, a person who can stand up in front of the City Leader and say *I have been in that Mire, I have seen what it's doing, and these people are telling you the truth* — Remy can do that.
+**As a voice the city trusts:** He's not a political actor, but he's spent twenty years building relationships in Sallowreach and the city trusts him. If the party ever needs a character witness, a voice that the outer boardwalk families will listen to, a person who can stand up in front of the City Leader and say *I have been in that Mire, I have seen what it's doing, and these people are telling you the truth* — Remy can do that.
 
 ---
 
@@ -187,6 +187,14 @@ This is not the Mangrove Spirit that killed Seve. Seve went further than the Dee
 **What this does:** It gets the party and Remy into the Deep Mire for a real reason before the main quest requires it. Remy confronts his guilt and comes out the other side of it. The journal confirms that others have been drawn to the spirit presence — that this is not new, that something in the Mire has been attracting attention for longer than the city has existed. And Remy, having done this, is ready to take the party further when they need it.
 
 **Reward:** Remy, fully. Whatever he was holding back, he stops. He'll go into the Deep Mire for the Mangrove Spirit encounter without being asked twice. He's been preparing for that trip for three years without knowing it.
+
+---
+
+### A Boat of Their Own *(Act 1 — standing pressure, not a one-off)*
+
+Remy's boat went down with the ship — and the wreck was sabotage ([[Caius Maren|Caius]]'s doing, unknown to anyone yet). He's gutted but functional, and too proud to take charity; he'd rather earn a new one *with* the party than be handed it. Until then, getting into the Mire means **renting a punt at [[The Mooring]]** — a constant coin-bleed on a tethered, penniless party, with the deep channels (where the cure lives) locked behind a boat they can't yet afford.
+
+This is less a quest than the economic spine of Act 1: rent the leaky skiff → take jobs → save toward a used boat (the bleed ends), then the proper Deep-Mire craft (Act 2 opens, and it's the boat that reaches [[The Mangrove Spirit's Heart]]). The money fork — honest ([[Théo Rouchard|Théo]]), dirty ([[Marcel Dray|Marcel]]), or poisoned ([[Caius Maren|Caius]]) — is the choice that makes the pressure produce story. **Full system, prices, and the dock-boss [[The Mooring#Sabine Aucoin|Sabine Aucoin]] live in [[The Mooring]].** Let the party restore Remy, not rescue him.
 
 ---
 

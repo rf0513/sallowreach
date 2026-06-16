@@ -115,7 +115,14 @@ After he's dead: the Mire goes still. The bioluminescence disperses slowly. No o
 ## Key Relationships
 
 - [[Remy Duval]] — professional contempt that is entirely one-directional; Remy finds him an active offense against the Mire; Gault finds Remy sentimental and irrelevant; they have had three confrontations in eight years, each time Remy unable to do anything; this will be the fourth
+- [[Brin Sevarre]] — the Hunters' Guild's balance-keeper, and the closest thing Gault has to a true opposite (Remy is the *reverent* anti-Gault; Brin is the *stewardship* one). She knows his method on sight and has been telling the Guild about him for three years. **The personal edge:** one of Gault's eleven disposable hired hands — the one who "didn't make it out" three years ago — was a young hunter Brin had half-trained and vouched for. Gault has no memory of which one. Brin has nothing else. *(Gault doesn't think about her. She thinks about him constantly. That asymmetry is the relationship.)*
 - [[The Mire]] — his warehouse; has no other relationship with it; the Mire has changed him anyway, indifferent to his indifference
+
+## The Tavern Cameo *(GM — first planting, Session 1 cold open)*
+Before the party ever boards, they see Gault across the opening tavern, offloading sealed jars to an intermediary — one of them holding a faintly glowing creature, dying in the glass. A child presses close in wonder; Gault slides the jar out of reach: *"Don't smudge the glass. It's spoken for."* He recounts his own coin, gathers his goods, and leaves without looking at the room. **Remy tags him for the players** — *"That's Gault. We don't do business with Gault."* — which plants the name, the face, and the anti-Remy contrast minutes after Remy's spirit-story about *not taking more than you're given.* It's a pure character plant (no plot yet); the payoff is recognition when they find the nets and the jarred rays in Act 2. *(Optional: the jar's glow holds in his eyes a half-second too long — the "wrong eyes" seed.)* See [[session-01-read-aloud#1 · The Tavern|Read-Aloud · Beat 1]]. The boat that brings them to town is a [[sallowreach-roster#Tessak Scout|Tessak]] craft, not his — keep this cameo strictly a face-and-vibe introduction.
+
+## The City Thread *(GM — early planting via Fletcher)*
+Gault's buyers are outside Sallowreach, but his pipeline *stages* live specimens through the city before they ship — the **night berths at [[The Mooring]]**, where the Wardens look away and [[Marcel Dray|Marcel]]'s edge-trade already moves contraband. [[Fletcher]]'s in-town trust-test for [[Brin Sevarre]] (the escaped "amber civet" — see Brin's file) brushes the edge of this operation: a broken crate, a holding cache, a live-specimen chain. It's a low-stakes, early brush with the main villain's reach, long before the party meets the man himself in the deep Mire. Brin recognizes the method instantly; it's the proof she's been missing.
 
 ---
 
@@ -140,24 +147,20 @@ After he's dead: the Mire goes still. The bioluminescence disperses slowly. No o
 
 ## Stat Block
 
-*Gault — Mire Extractor, Tier 2 Solo* [VERIFY: Daggerheart adversary format and stat ranges for Tier 2]
+*Gault — Mire Extractor, Tier 2 Solo*
 
-**Difficulty:** 15 [VERIFY]
-**HP:** 50 [VERIFY]
-**Stress:** 6 [VERIFY]
+**Difficulty:** 16 | **Thresholds:** 12/24 | **HP:** 10 | **Stress:** 6
+**ATK:** +2 | **Short Harpoon:** Far | 2d6+3 phy *(on a critical hit, the target is also pulled to Nearby)*
+**Experience:** Knows Every Channel +3, Eight Years Mire-Deep +2
 
-**Major Threshold:** 25 — Gault stops trying to manage the situation and commits; his next attack is made with advantage and he does not use his movement to escape this round [VERIFY: threshold mechanic and advantage]
-**Severe Threshold:** 12 — something in the Mire-touched quality surfaces; the bioluminescence near him pulses wrongly; creatures in the area (if any) flee; he fights without tactics, just survival [VERIFY]
+*(Thresholds corrected to Daggerheart scale: take 1 HP under 12, 2 HP at 12+, 3 HP at 24+. As a Solo he carries a high HP/Stress pool for his Tier so he can stand against a whole party.)*
 
-**Moves:**
-- **Weighted Net** — Gault throws a net at a target within Far range. On a hit, the target is Restrained until they break free. Gault can maintain one net at a time. [VERIFY: Restrained condition, Far range]
-- **Harpoon Strike** — a direct attack with his short harpoon. On a critical hit, the target is pulled Nearby. [VERIFY: crit mechanic, Nearby distance]
-- **Channel Read** — Gault uses his knowledge of the terrain. He moves up to Far without provoking reactions and takes no penalties for difficult terrain in the Mire. [VERIFY: movement and reaction mechanics]
-- **Into the Water** — Gault shoves a target into the channel. The target takes 1d6 damage and must make an Agility roll or be Submerged (cannot act until they surface; costs their action). [VERIFY: Agility roll difficulty for Tier 2, improvised condition]
-
-**Fear Move — *The Mire Knows Me*:** Spend Fear. A creature in the encounter that is not Gault is targeted by the environment — a root breaks, a current pulls, something in the water investigates. The creature takes 1d8 damage and is moved Nearby Gault against their will. [VERIFY: Fear spend, damage dice]
-
-**Special — *Wrong to the Mire*:** Mire creatures that would be incidental hazards in the encounter ignore Gault entirely. They will attack the party. They will not attack him. He does not explain this. [VERIFY: whether incidental creature rules exist in Daggerheart or if this is a narrative note]
+**Features:**
+- **Weighted Net - Action:** Gault throws a net at a target within Far range. On a success, the target is Restrained until they break free (Strength or Finesse Roll). He can maintain one net at a time.
+- **Channel Read - Passive:** Gault moves up to Far without provoking reactions and ignores difficult terrain in the Mire. He cannot be Lost.
+- **Into the Water - Action:** Mark a Stress to shove a target in Melee into the channel. They take 1d6 damage and must succeed on an Agility Roll or be Submerged (cannot act until they surface).- **The Mire Knows Me - Fear:** Spend a Fear. A creature in the encounter that is not Gault is "noticed" by the Mire — a root breaks, a current pulls, something investigates. That creature takes 1d8 damage and is moved Nearby Gault against their will.
+- **Wrong to the Mire - Passive:** Mire creatures and incidental hazards ignore Gault entirely — they will attack the party, never him. He does not explain this. *(In play: the [[mire-bestiary|Mire creatures]] you'd summon against the party simply won't target Gault — a tell the party can read.)*
+- **When He Commits - Passive:** The first time Gault is reduced to half HP or fewer (5 HP marked), he stops managing his exit: his attacks are made with advantage and he no longer spends movement to flee. At his last HP, the Mire-touched quality surfaces — the bioluminescence near him pulses wrongly, nearby creatures scatter, and he fights on pure survival, no tactics, no bargaining.
 
 **Combat notes:**
 - He fights to escape in encounters 1 and 2. He fights to survive in encounter 3. The difference is visible.

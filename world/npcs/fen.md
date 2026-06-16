@@ -70,14 +70,14 @@ She's also noticed that when she plays near the water, something responds. The b
 
 ## Campaign Function
 
-### Act 1 — Early Encounter
+### Early Encounter
 The party finds her playing on the outer boardwalks, or hears about the Accord controversy, or stumbles into a venue where she's performing to a small and slightly guilty-looking crowd. She's easy to like if the party doesn't lead with judgment.
 
 What she demonstrates, without stating it: the Celebration has not changed in two hundred years. Not the words, not the patterns, not the torch positions, not the drum rhythms. When she describes what the Accord told her — *"The rhythmic pattern in the second movement is not the traditional form"* — the party should be able to hear that this is a city that treats a two-century-old ritual as untouchable. Not out of malice. Out of love. That's what makes it hard.
 
 She also shows the party that Sallowreach has its tensions. Not everyone here is in easy agreement about what the city is or should be.
 
-### Act 2-3 — Potential Ally (Option B: Surgical Sabotage)
+### If the Party Learns the Truth and Comes to Her
 
 If the party has built a relationship with her and they come back with the truth — *the Celebration is a two-hundred-year binding ritual; the old words are a binding spell; the drum pattern in the second movement is load-bearing and your arrangement broke it* — she will be very still for a moment.
 

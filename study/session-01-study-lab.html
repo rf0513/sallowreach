@@ -1,0 +1,1127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Session 1 Study Lab — Black Water</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --surface2: #21262d;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --accent: #58a6ff;
+  --hope: #e3b341;
+  --fear: #f85149;
+  --success: #3fb950;
+  --r: 12px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+html, body {
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 16px 40px;
+}
+
+/* ── Header ──────────────────────────────────────────────── */
+.hdr {
+  width: 100%;
+  max-width: 680px;
+  margin-bottom: 16px;
+}
+
+.prog-track {
+  width: 100%;
+  height: 6px;
+  background: var(--surface2);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.prog-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent), #79c0ff);
+  border-radius: 3px;
+  transition: width .4s ease;
+}
+
+.prog-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 5px;
+}
+
+.dot-row {
+  display: flex;
+  gap: 7px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
+
+.dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--surface2);
+  border: 2px solid var(--border);
+  cursor: pointer;
+  transition: all .2s;
+  position: relative;
+}
+
+.dot[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 14px;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-size: 11px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 2px 6px;
+  border-radius: 4px;
+  pointer-events: none;
+}
+
+.dot.done  { background: var(--success); border-color: var(--success); }
+.dot.active { background: var(--accent);  border-color: var(--accent); transform: scale(1.35); }
+
+/* ── Card ────────────────────────────────────────────────── */
+.card {
+  width: 100%;
+  max-width: 680px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 28px 28px 24px;
+  margin-bottom: 14px;
+  animation: fadeUp .2s ease;
+}
+
+@keyframes fadeUp {
+  from { opacity:0; transform:translateY(6px); }
+  to   { opacity:1; transform:translateY(0); }
+}
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.card h2 {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 14px;
+}
+
+.body {
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.body strong { color: var(--text); }
+.body em     { color: var(--hope); font-style: normal; font-weight: 600; }
+
+hr { border: none; border-top: 1px solid var(--border); margin: 14px 0; }
+
+/* ── Chips / tags ────────────────────────────────────────── */
+.chips { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+.chip {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+.chip-a { background:rgba(88,166,255,.15); color:var(--accent); }
+.chip-h { background:rgba(227,179,65,.15); color:var(--hope); }
+.chip-f { background:rgba(248,81,73,.15);  color:var(--fear); }
+.chip-s { background:rgba(63,185,80,.15);  color:var(--success); }
+
+/* ── Nav row ─────────────────────────────────────────────── */
+.nav-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 680px;
+}
+
+.btn {
+  padding: 11px 22px;
+  border-radius: 8px;
+  border: none;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .15s;
+}
+
+.btn-primary { background: var(--accent); color: #0d1117; flex: 1; }
+.btn-primary:hover { background: #79c0ff; }
+.btn-primary:active { transform: scale(.97); }
+
+.btn-ghost {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--border);
+}
+.btn-ghost:hover  { color: var(--text); border-color: var(--muted); }
+.btn-ghost:disabled { opacity: .35; cursor: not-allowed; }
+
+/* ── Timeline ────────────────────────────────────────────── */
+.timeline { display: flex; flex-direction: column; margin: 12px 0; }
+
+.tbeat {
+  display: flex;
+  gap: 14px;
+  padding: 9px 0;
+  position: relative;
+}
+
+.tbeat::before {
+  content: '';
+  position: absolute;
+  left: 14px; top: 0; bottom: 0;
+  width: 2px;
+  background: var(--border);
+  z-index: 0;
+}
+
+.tbeat:first-child::before { top: 50%; }
+.tbeat:last-child::before  { bottom: 50%; }
+
+.tdot {
+  width: 30px; height: 30px;
+  border-radius: 50%;
+  background: var(--surface2);
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  flex-shrink: 0;
+  z-index: 1;
+  position: relative;
+}
+
+.tdot.fight  { border-color: var(--fear);    color: var(--fear); }
+.tdot.social { border-color: var(--accent);  color: var(--accent); }
+.tdot.payoff { border-color: var(--hope);    color: var(--hope); }
+
+.tlabel { font-size: 14px; font-weight: 600; padding-top: 4px; }
+.tsub   { font-size: 12px; color: var(--muted); }
+
+/* ── Flashcard ───────────────────────────────────────────── */
+.fc-wrap {
+  perspective: 1000px;
+  cursor: pointer;
+  margin: 12px 0;
+  min-height: 150px;
+}
+
+.fc-inner {
+  position: relative;
+  width: 100%;
+  min-height: 150px;
+  transition: transform .45s;
+  transform-style: preserve-3d;
+}
+
+.fc-wrap.flipped .fc-inner { transform: rotateY(180deg); }
+
+.fc-face {
+  position: absolute;
+  width: 100%;
+  min-height: 150px;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.fc-front {
+  background: var(--surface2);
+  border: 2px solid var(--accent);
+  text-align: center;
+}
+
+.fc-back {
+  background: var(--surface2);
+  border: 2px solid var(--success);
+  transform: rotateY(180deg);
+}
+
+.fc-hint {
+  font-size: 12px;
+  color: var(--muted);
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.fc-nav {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* ── Quiz ────────────────────────────────────────────────── */
+.quiz-opts { display: flex; flex-direction: column; gap: 9px; margin-top: 14px; }
+
+.qopt {
+  padding: 12px 16px;
+  background: var(--surface2);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  text-align: left;
+  color: var(--text);
+  transition: border-color .15s;
+  line-height: 1.5;
+}
+
+.qopt:hover:not(:disabled) { border-color: var(--accent); }
+.qopt.correct  { border-color: var(--success); background: rgba(63,185,80,.08); }
+.qopt.wrong    { border-color: var(--fear);    background: rgba(248,81,73,.08); }
+.qopt:disabled { cursor: default; }
+
+.qfeed {
+  display: none;
+  margin-top: 12px;
+  padding: 11px 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.qfeed.show    { display: block; }
+.qfeed.correct { background:rgba(63,185,80,.08);  border:1px solid var(--success); color:var(--success); }
+.qfeed.wrong   { background:rgba(248,81,73,.08);  border:1px solid var(--fear);    color:var(--fear); }
+
+/* ── Stat block ──────────────────────────────────────────── */
+.sb {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+.sb-name { font-size: 17px; font-weight: 700; color: var(--fear); margin-bottom: 3px; }
+.sb-tier { font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+
+.sb-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-bottom: 10px;
+}
+
+.stat {
+  background: var(--bg);
+  border-radius: 6px;
+  padding: 5px 10px;
+  text-align: center;
+  min-width: 60px;
+}
+
+.stat-k { font-size: 10px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); display: block; }
+.stat-v { font-size: 15px; font-weight: 700; color: var(--text); }
+
+.sb-atk { font-size: 13px; color: var(--muted); margin-bottom: 8px; }
+.sb-atk strong { color: var(--text); }
+
+.sb-move {
+  padding: 7px 0;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.sb-move.fear-move { color: var(--muted); }
+.sb-move strong { color: var(--accent); }
+.sb-move.fear-move strong { color: var(--fear); }
+
+/* ── Fear scenario ───────────────────────────────────────── */
+.f-scenario {
+  background: rgba(248,81,73,.05);
+  border: 1px solid rgba(248,81,73,.2);
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin: 12px 0;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text);
+}
+
+.f-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--fear);
+  margin-bottom: 7px;
+}
+
+/* ── NPCs ────────────────────────────────────────────────── */
+.npc-card {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.npc-name  { font-size: 16px; font-weight: 700; color: var(--hope); margin-bottom: 3px; }
+.npc-want  { font-size: 12px; color: var(--accent); font-weight: 600; margin-bottom: 7px; }
+.npc-body  { font-size: 13px; color: var(--muted); line-height: 1.55; }
+.npc-quote {
+  margin-top: 9px;
+  padding: 7px 12px;
+  border-left: 3px solid var(--hope);
+  font-size: 13px;
+  color: var(--text);
+  font-style: italic;
+}
+
+/* ── Secrets ─────────────────────────────────────────────── */
+.secret-list { margin-top: 10px; }
+
+.secret-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 11px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.secret-row:last-child { border-bottom: none; }
+
+.scheck {
+  width: 20px; height: 20px;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  flex-shrink: 0;
+  margin-top: 2px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  transition: all .15s;
+}
+
+.scheck.on { background: var(--success); border-color: var(--success); color: #0d1117; }
+
+.stext.on { opacity: .38; text-decoration: line-through; }
+
+/* ── Checklist ───────────────────────────────────────────── */
+.cl-item {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 10px 13px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1.45;
+  transition: all .15s;
+}
+
+.cl-item.on {
+  border-color: var(--success);
+  background: rgba(63,185,80,.06);
+  color: var(--muted);
+  text-decoration: line-through;
+}
+
+.cl-box {
+  width: 18px; height: 18px;
+  border: 2px solid var(--border);
+  border-radius: 4px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+  transition: all .15s;
+}
+
+.cl-item.on .cl-box { background: var(--success); border-color: var(--success); color: #0d1117; }
+
+/* ── Done screen ─────────────────────────────────────────── */
+.done-wrap { text-align: center; padding: 32px 0; }
+.done-wrap h1 { font-size: 26px; color: var(--hope); margin-bottom: 10px; }
+.done-wrap p { color: var(--muted); font-size: 15px; max-width: 380px; margin: 0 auto; line-height: 1.65; }
+.done-links { display: flex; flex-direction: column; gap: 9px; max-width: 280px; margin: 28px auto 0; }
+
+/* ── Scroll area ─────────────────────────────────────────── */
+.scroll { max-height: 360px; overflow-y: auto; padding-right: 4px; }
+.scroll::-webkit-scrollbar { width: 4px; }
+.scroll::-webkit-scrollbar-track { background: transparent; }
+.scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="hdr">
+  <div class="prog-track"><div class="prog-fill" id="pFill" style="width:0%"></div></div>
+  <div class="prog-meta">
+    <span id="pLabel">Starting…</span>
+    <span id="pPct">0%</span>
+  </div>
+  <div class="dot-row" id="dotRow"></div>
+</div>
+
+<!-- Card container -->
+<div id="stage"></div>
+
+<!-- Nav -->
+<div class="nav-row" id="navRow">
+  <button class="btn btn-ghost" id="btnBack" onclick="go(-1)">← Back</button>
+  <button class="btn btn-primary" id="btnNext" onclick="go(1)">Continue →</button>
+</div>
+
+<script>
+// ── Global quiz data store (avoids JSON-in-onclick issues) ─────────────────
+const QD = {};
+
+// ── State ──────────────────────────────────────────────────────────────────
+let mi = 0, ci = 0;
+const modDone = [];
+const secrets = new Set();
+const checks  = new Set();
+const fcIdx   = {};   // flashcard current index per card key
+
+// ── Modules ────────────────────────────────────────────────────────────────
+const M = [
+
+// 0. Welcome
+{ id:'welcome', title:'Welcome', cards:[
+  { type:'info',
+    eyebrow:'Session 1 — Black Water',
+    title:'Study Lab',
+    body:'This app teaches you everything you need for <strong>tonight\'s session</strong> — one small piece at a time.<br><br>You\'ll learn the run order, the rules, the stat blocks, and the NPCs. Each module takes <strong>2–5 minutes.</strong> You can stop and come back anytime.<br><br>When you\'re done: sit down and run a great game.',
+    tags:[
+      { label:'~30 min total', cls:'a' },
+      { label:'9 modules', cls:'a' },
+      { label:'No walls of text', cls:'s' },
+    ]
+  },
+]},
+
+// 1. Pre-Session Checklist
+{ id:'checklist', title:'Checklist', cards:[
+  { type:'checklist',
+    eyebrow:'Before you sit down',
+    title:'Pre-Session Checklist',
+    body:'Do these before the session. The ones you skip bite you mid-game.',
+    items:[
+      'Lock the three "back home" names — Fletcher\'s grieving town face, Isotta\'s bloodhunter-family member',
+      'Read the four entrance hooks so the tavern doesn\'t stall',
+      'Load Swamp_Wreck_30x46_Mist in Roll20 — the Encounter A fight map',
+      'Load a tavern/arrival scene for the opening beat',
+      'Decide your hard out: inside the gates (best) › mid-crossing cliffhanger › on the bank',
+      'Skim Conditions card once — Grappled & Submerged are your custom ones; know them cold',
+    ]
+  },
+]},
+
+// 2. Run Order
+{ id:'spine', title:'Run Order', cards:[
+  { type:'timeline',
+    eyebrow:'Module 2 of 9 · ~3 min',
+    title:'The Night in 7 Beats',
+    body:'Your map for the session. Follow the beats — you don\'t need to improvise structure.',
+    beats:[
+      { type:'social', label:'0 · Housekeeping', sub:'Session Zero recap, safety check-in — 10–15 min' },
+      { type:'social', label:'1 · The Tavern', sub:'Remy\'s spirit-story → Gault cameo → PC intros → The Board. Biggest time variable.' },
+      { type:'social', label:'2 · On the Water', sub:'Remy banter, plant the Celebration — ~10 min' },
+      { type:'social', label:'3 · The Explosion', sub:'Remy thrown, tether takes — ~5 min' },
+      { type:'fight',  label:'4–7 · Encounter A: The Swim', sub:'Gar fight, going under, rays rescue. No deaths.' },
+      { type:'fight',  label:'9 · Encounter B: The Scout', sub:'Tessak on the bank. The drag-off is the horror.' },
+      { type:'payoff', label:'10–12 · The Arrival', sub:'Crossing → Sallowreach reveal → boardwalk → tether reveal. The payoff.' },
+    ]
+  },
+  { type:'quiz',
+    eyebrow:'Quick check',
+    title:'What\'s the emotional payoff of the session?',
+    options:[
+      { text:'Killing all the gar and proving they\'re tough', c:false, fb:'The fights show vulnerability, not toughness. The gar are dread, not the point.' },
+      { text:'Arriving at Sallowreach and feeling the tether snap into place', c:true,  fb:'✓ They survived, the city is beautiful, and they can\'t leave. That\'s the hook that starts everything.' },
+      { text:'Learning about the Mangrove Spirit', c:false, fb:'That\'s Act 1–2 territory. Session 1 is about arrival and the tether.' },
+      { text:'Getting the dinner invite from Caius', c:false, fb:'The invite is the session-end hook, not the payoff. The payoff is the tether reveal.' },
+    ]
+  },
+  { type:'info',
+    eyebrow:'Pacing note',
+    title:'Both fights are short on purpose',
+    body:'<strong>Encounter A (The Swim):</strong> run it fast. Minions + a chase to shore. The danger is the water, not the gar\'s teeth.<br><br><strong>Encounter B (The Scout):</strong> one Tessak. The horror is the dragging-off. Let it <em>escape</em> if costly — it does not die for one meal.<br><br>Both fights are deliberately under-budgeted. Bank time for the arrival. <strong>Don\'t grind either one.</strong>'
+  },
+]},
+
+// 3. Daggerheart Basics
+{ id:'basics', title:'DH Basics', cards:[
+  { type:'info',
+    eyebrow:'Module 3 of 9 · ~5 min',
+    title:'The Two Dice',
+    body:'Every action roll uses <strong>two d12s</strong> — one <strong style="color:var(--hope)">Hope die</strong> and one <strong style="color:var(--fear)">Fear die</strong>.<br><br>Add both + your trait. Hit the Difficulty = success.<br><br><strong>But which die is higher changes things:</strong><br><br><span style="color:var(--hope)">■</span> <strong>Hope die higher</strong> → player gains <span class="chip chip-h">1 Hope</span><br><span style="color:var(--fear)">■</span> <strong>Fear die higher</strong> → you (GM) gain <span class="chip chip-f">1 Fear</span> — even on a success<br><span style="color:var(--success)">■</span> <strong>Both dice match</strong> → <span class="chip chip-s">Critical success</span> — auto-succeed, +Hope, clear Stress, crit damage'
+  },
+  { type:'quiz',
+    eyebrow:'Check: Hope vs Fear',
+    title:'A player rolls Hope 8, Fear 11, Agility +2. Difficulty 16.',
+    options:[
+      { text:'Success + player gains Hope (8 is higher than average)', c:false, fb:'Fear die (11) is higher, so GM gains Fear. Also, total is 11+2=13 — under 16, so it\'s actually a failure.' },
+      { text:'Failure + GM gains Fear', c:true,  fb:'✓ Total = 11+2 = 13, under Difficulty 16 = failure. Fear die was higher = GM gains 1 Fear. Fear die being higher always triggers GM Fear, even on failures.' },
+      { text:'Failure + player gains Hope because they tried', c:false, fb:'Hope is gained when the Hope die is higher than the Fear die — not automatically on any roll.' },
+      { text:'Failure + nothing happens', c:false, fb:'The Fear die being higher always hands GM a Fear token, even on a failure.' },
+    ]
+  },
+  { type:'info',
+    eyebrow:'This is different from D&D',
+    title:'Advantage = +1d6 added (NOT a reroll)',
+    body:'In D&D: advantage = roll twice, take higher.<br><br>In Daggerheart: <strong>add one extra d6 to the total.</strong> No reroll. More numbers.<br><br>Disadvantage = subtract one d6 from the total.<br><br>They cancel 1-for-1. Never more than one net advantage or disadvantage die.<br><br><span class="chip chip-f">⚠ Don\'t forget this mid-session</span> — it\'s the #1 mechanic that trips up D&D GMs running Daggerheart.'
+  },
+  { type:'info',
+    eyebrow:'Damage → HP',
+    title:'Thresholds: how hits land',
+    body:'Adversary stat blocks list thresholds as <strong>X / Y</strong> (Major / Severe).<br><br><strong>Damage below X</strong> → mark <strong>1 HP</strong><br><strong>Damage ≥ X</strong> → mark <strong>2 HP</strong><br><strong>Damage ≥ Y</strong> → mark <strong>3 HP</strong><br><br><strong>Example:</strong> Tessak Scout has thresholds <strong>7 / 14</strong>.<br>Party deals 9 damage → 9 ≥ 7 → mark <strong>2 HP</strong>.<br>Party deals 16 damage → 16 ≥ 14 → mark <strong>3 HP</strong>.'
+  },
+  { type:'quiz',
+    eyebrow:'Threshold check',
+    title:'Old Gar has thresholds 8/15. A player deals 15 damage. How many HP does Old Gar mark?',
+    options:[
+      { text:'1 HP',  c:false, fb:'1 HP is for damage under 8. 15 is not under 8.' },
+      { text:'2 HP',  c:false, fb:'2 HP is for damage ≥8 but below 15. 15 equals the Severe threshold, not below it.' },
+      { text:'3 HP',  c:true,  fb:'✓ 15 meets the Severe threshold exactly. At or above = 3 HP marked.' },
+      { text:'15 HP', c:false, fb:'Damage is not HP in Daggerheart. Thresholds convert damage into HP marks.' },
+    ]
+  },
+]},
+
+// 4. Conditions
+{ id:'conditions', title:'Conditions', cards:[
+  { type:'info',
+    eyebrow:'Module 4 of 9 · ~4 min',
+    title:'Five conditions for tonight',
+    body:'Three are official SRD. Two are <em>feature-defined</em> — explicitly SRD-legal, but defined by the adversary feature, not the base rules.<br><br>Click each card to flip it. You need all five cold — they\'ll all come up tonight.'
+  },
+  { type:'flashcards',
+    eyebrow:'Conditions',
+    cards:[
+      { front:'💫  Vulnerable', sub:'Official SRD condition', back:'All rolls <strong>targeting</strong> this creature have <strong>advantage (+1d6)</strong>.<br><br>In practice: a PC going under becomes Vulnerable. The gar pile on.' },
+      { front:'⛓  Restrained', sub:'Official SRD condition', back:'Target <strong>cannot move</strong> but <strong>can still act</strong> from where they are.<br><br>Escape: Strength or Finesse roll, or deal the listed damage to the restraint (net/line/bola).' },
+      { front:'👁  Hidden',     sub:'Official SRD condition', back:'Rolls <strong>against</strong> a Hidden creature have <strong>disadvantage</strong>.<br><br>Lost the moment they\'re seen, move into view, or attack.' },
+      { front:'✊  Grappled',   sub:'Feature-defined (SRD-legal)', back:'Treat as <strong>Restrained + physically held</strong>. The adversary <strong>drags the target</strong> when it moves — that\'s the Tessak harpoon-line horror.<br><br>Same escape options as Restrained.' },
+      { front:'🌊  Submerged',  sub:'Feature-defined (SRD-legal)', back:'Dragged <strong>under and out of the surface scene</strong>. Cannot act freely.<br><br>On your turn: spend your action, roll <strong>Str or Agility vs Difficulty 15</strong> to surface.<br><br>While under: also <strong>Vulnerable</strong>.<br><br>⚠ Session 1 safety: the rays guarantee a surface before anyone dies.' },
+    ]
+  },
+  { type:'quiz',
+    eyebrow:'Conditions check',
+    title:'A player is Submerged. It\'s their turn. What can they do?',
+    options:[
+      { text:'Nothing — their turn is skipped while underwater', c:false, fb:'Submerged doesn\'t skip the turn. They spend their action trying to surface.' },
+      { text:'Spend their action and roll Str or Agility vs Difficulty 15 to surface', c:true,  fb:'✓ They still get a turn — it just costs their action. Fail = stay under, and they\'re Vulnerable while there.' },
+      { text:'Attack normally but at disadvantage', c:false, fb:'Submerged takes them out of the surface scene entirely. They can\'t attack until they surface.' },
+      { text:'Surface automatically at the start of their turn', c:false, fb:'They have to roll for it. Difficulty 15 is hard for Tier 1 characters.' },
+    ]
+  },
+]},
+
+// 5. Encounter A
+{ id:'enc-a', title:'Encounter A', cards:[
+  { type:'info',
+    eyebrow:'Module 5 of 9 · ~4 min',
+    title:'Encounter A — The Swim',
+    body:'<strong>Trigger:</strong> Remy is thrown. The water closes over the PCs.<br><br><strong>The key truth:</strong> The danger is the <em>water</em>, not the gar\'s teeth. Call environmental action rolls vs the current — <strong>Agility or Strength, Difficulty 15–16.</strong><br><br><strong>Failure ≠ damage.</strong> Failure = mark Stress, you gain Fear, gar close, PC slips toward deeper water → Vulnerable → risk Submerged.<br><br><strong>End condition:</strong> Spring the rays (Beat 7) before any death roll lands. Rays scatter the gar instantly. Don\'t grind.'
+  },
+  { type:'statblock',
+    eyebrow:'Encounter A stat block',
+    name:'MIRE GAR',
+    tier:'Tier 1 Minion',
+    stats:{ Diff:'10', HP:'1', Stress:'1', ATK:'+1' },
+    atk:'Snapping Bite (Melee) — 2 phy',
+    moves:[
+      { name:'Minion (3)', fear:false, text:'Defeated by any damage. For every 3 damage a PC deals, drop another gar in range.' },
+      { name:'Drawn to Blood', fear:false, text:'Advantage vs any target who is Vulnerable, in the water, or already marked HP.' },
+      { name:'Feeding Frenzy', fear:true, text:'All gar in Close spotlight one target — shared 2 phy each. Target who marks HP is pulled Close into deeper water.' },
+    ]
+  },
+  { type:'statblock',
+    eyebrow:'Optional — field if the pack alone isn\'t scary',
+    name:'OLD GAR',
+    tier:'Tier 1 Bruiser',
+    stats:{ Diff:'13', Thresholds:'8/15', HP:'6', Stress:'2', ATK:'+1' },
+    atk:'Crushing Bite — 1d10+2',
+    moves:[
+      { name:'The False Light', fear:false, text:'Glow mimics a ray. Instinct roll to tell predator from wonder. First strike from that mistake: +1d6.' },
+      { name:'Drag Into the Dark', fear:false, text:'Action. Spend Stress + attack. Hit = 1d10+2 and target is Submerged.' },
+      { name:'Blood in the Water', fear:false, text:'Reaction. When anyone Close marks HP, Old Gar + nearby gar get advantage on their next attack.' },
+    ]
+  },
+  { type:'quiz',
+    eyebrow:'Encounter A check',
+    title:'A PC has marked HP and is in the water. A Mire Gar attacks. What happens?',
+    options:[
+      { text:'Normal attack — Difficulty 10', c:false, fb:'Close! It\'s Diff 10, but Drawn to Blood gives the gar advantage (+1d6) vs marked-HP or in-water targets.' },
+      { text:'Attack with advantage (+1d6) — Difficulty 10', c:true,  fb:'✓ Drawn to Blood gives advantage vs anyone in the water or marked HP. Difficulty stays 10.' },
+      { text:'Attack with advantage (+1d6) — Difficulty 8', c:false, fb:'Difficulty doesn\'t lower from HP marks in Daggerheart. Advantage is the key effect.' },
+      { text:'The gar must use Feeding Frenzy instead', c:false, fb:'Feeding Frenzy is a Fear spend — not automatic. Drawn to Blood is the passive trigger.' },
+    ]
+  },
+]},
+
+// 6. Encounter B
+{ id:'enc-b', title:'Encounter B', cards:[
+  { type:'info',
+    eyebrow:'Module 6 of 9 · ~3 min',
+    title:'Encounter B — The Thing on the Bank',
+    body:'<strong>Trigger:</strong> They drag themselves ashore. A Tessak Scout was watching.<br><br><strong>The horror is the dragging-off, not the bite.</strong> Run this as a predator encounter: it works the most wounded/isolated target and drags them away.<br><br><strong>Key GM move:</strong> Remy goes completely cold. Sallowreach\'s biggest believer, silent and afraid. That says everything without exposition.<br><br><strong>Let it flee</strong> if it\'s costing too much. It does not die for one meal. Track: did it escape? Did it take someone?'
+  },
+  { type:'statblock',
+    eyebrow:'Encounter B stat block',
+    name:'TESSAK SCOUT',
+    tier:'Tier 1 Skulk',
+    stats:{ Diff:'12', Thresholds:'7/14', HP:'6', Stress:'3', ATK:'+1' },
+    atk:'Barbed Harpoon (Close) — 1d8+2  ·  Weighted Bola (Far) — 1d6 + Restrained',
+    moves:[
+      { name:'Of the Deep Channels', fear:false, text:'Never Lost. Ignores terrain/current. Stays submerged at will. Advantage on nearly everything in water.' },
+      { name:'Haul It Home', fear:false, text:'Action. Spend Stress + attack. Hit = 1d8+2 and target Grappled on the line. Each turn it drags the Grappled target Close toward deep water. Escape: Str/Finesse roll, or ally deals 6 dmg to the line.' },
+      { name:'Food That Walks', fear:false, text:'Always targets most wounded/isolated PC. First attack vs such a target = advantage.' },
+      { name:'Sound the Channel', fear:true, text:'Spend Fear. A trill summons a fresh Mire Gar group at the blood.' },
+      { name:'Slip the Net', fear:false, text:'Reaction. On marking HP, may submerge + move Close, vanishing. Does not die for one meal — if costly, it flees (with its catch if it has one).' },
+    ]
+  },
+  { type:'quiz',
+    eyebrow:'Encounter B check',
+    title:'The Tessak has a PC Grappled and is dragging them toward the water. It\'s the PC\'s turn. Options?',
+    options:[
+      { text:'Nothing — Grappled = Restrained = can\'t move or act', c:false, fb:'Restrained means can\'t move freely, but you can still act. Grappled follows the same rule.' },
+      { text:'Roll Strength or Finesse to escape, OR wait for an ally to cut the line', c:true,  fb:'✓ Escape options: Str/Finesse roll to break free, or an ally deals 6 damage to the harpoon line. They can also attack the Scout directly.' },
+      { text:'Their only option is to attack the Scout', c:false, fb:'Escape is also an option — Str/Finesse roll, or ally cuts the line for 6 damage.' },
+      { text:'They surface automatically since they\'re not yet Submerged', c:false, fb:'Grappled isn\'t Submerged. They\'re on the surface being dragged. Submerged only happens if pulled under.' },
+    ]
+  },
+]},
+
+// 7. Fear Menu
+{ id:'fear', title:'Fear Menu', cards:[
+  { type:'info',
+    eyebrow:'Module 7 of 9 · ~4 min',
+    title:'Your Fear Economy',
+    body:'You gain <span class="chip chip-f">Fear</span> every time a player rolls with the Fear die higher — even on a success. Across two fights you\'ll bank it fast.<br><br><strong>New GMs hoard it. Don\'t.</strong><br><br>Spend Fear to:<br>• Make an extra or enhanced GM move<br>• Spotlight an additional adversary<br>• Trigger a <strong style="color:var(--fear)">Fear Feature</strong> (the red-labeled abilities on stat blocks)<br><br><strong>Tonight\'s rule of thumb:</strong> spend for dread and complication, not cheap damage. The session has a safety net (the rays). Tighten the screws — don\'t kill someone.'
+  },
+  { type:'info',
+    eyebrow:'The two Fear Features — built into your stat blocks',
+    title:'When to trigger them',
+    body:'<strong style="color:var(--fear)">Mire Gar — Feeding Frenzy:</strong><br>All gar in Close spotlight one target — shared 2 phy each. Target who marks HP is pulled Close into deeper water.<br><br><em>Use it when</em> a PC is already Vulnerable and you want to escalate toward Submerged.<br><br><hr><br><strong style="color:var(--fear)">Tessak Scout — Sound the Channel:</strong><br>A trill summons a fresh Mire Gar group at the blood.<br><br><em>Use it when</em> the Scout fight feels too contained. Suddenly the bank has gar in it too.'
+  },
+  { type:'scenario',
+    eyebrow:'Fear scenario',
+    title:'You have 2 Fear. The swim is going well — players are rolling Hope, nobody in danger. What do you do?',
+    options:[
+      { text:'Hold the Fear — don\'t spend when things are fine', c:false, fb:'"Fine" means tension is draining. This is exactly when to spend — interrupt the momentum.' },
+      { text:'Spend 1 Fear: shift the environment — the current sweeps the behind-PC another Close into the dark', c:true,  fb:'✓ Cheap, terrifying, no damage. Re-introduces danger without HP math.' },
+      { text:'Spend 2 Fear: trigger Feeding Frenzy on the healthiest PC', c:false, fb:'Feeding Frenzy on the healthiest PC wastes the spend. Most effective when someone is already slipping.' },
+      { text:'Spend 1 Fear: signal an off-screen threat — a second wake moves against the current', c:true,  fb:'✓ Also right. You never have to field what\'s in the second wake. The dread is free.' },
+    ],
+    multi:true
+  },
+  { type:'info',
+    eyebrow:'8 narrative spends — your toolbox',
+    title:'What to spend Fear on tonight',
+    body:'Pick whichever fits the moment:<br><br><strong>1. Shift the environment</strong> — current sweeps someone, wreck section collapses<br><strong>2. Mark Stress on a PC</strong> — cold reaches their chest, limbs stop answering<br><strong>3. Capture someone important</strong> — enhance Haul It Home: PC dragged fully under for a round<br><strong>4. Signal an off-screen threat</strong> — second wake, doesn\'t have to materialize<br><strong>5. Reveal unwelcome danger</strong> — Old Gar\'s false light swells like a rising ray<br><strong>6. Use a PC\'s backstory</strong> — the Turn stirs in Isotta; Tenson feels something<br><strong>7. Make an NPC act on motive</strong> — Remy\'s competence cracks into open fear<br><strong>8. Spotlight another adversary</strong> — second gar group surges the same turn'
+  },
+]},
+
+// 8. Your Cast
+{ id:'cast', title:'Your Cast', cards:[
+  { type:'npcs',
+    eyebrow:'Module 8 of 9 · ~3 min',
+    title:'NPCs you\'ll run tonight',
+    npcs:[
+      { name:'Remy Duval', want:'To show these strangers the Mire is alive and worth protecting', body:'First ally. Was on the ship. Warm, fast, reverent — Steve Irwin energy. Knows the Mire like a conversation. Goes completely cold when the Tessak appears. That silence is the most frightening thing he does all session.', quote:'"The rays always know where the shallow water is."' },
+      { name:'Delphine', want:'To understand what the water did to these people before they understand it themselves', body:'The healer Remy brings them to. Gentle, unhurried, deeply watchful. Gives care and a long look. Holds back more than she offers. She recognizes something she can\'t name.', quote:'[She looks at the group a beat too long — like she\'s confirming something she already suspected.]' },
+      { name:'Gault (tavern cameo only)', want:'To offload his cargo and leave before anyone makes this complicated', body:'Lean, sun-dark, scar-handed. In the tavern offloading sealed jars with faintly glowing creatures inside. Keep him mysterious — just a face and a vibe tonight. The payoff is Act 2 when they find the nets.', quote:'"Don\'t smudge the glass. It\'s spoken for."' },
+      { name:'Caius Maren (session-end hook)', want:'To extend a warm welcome to the survivors of the wreck', body:'Handwritten dinner invite arrives at session end. He arranged the wreck. He doesn\'t know they survived. Warm, formal, "a proper imperial welcome." The dinner opens Session 2.', quote:'[The invite is handwritten. The handwriting is very neat.]' },
+    ]
+  },
+]},
+
+// 9. Secrets
+{ id:'secrets', title:'Secrets', cards:[
+  { type:'secrets',
+    eyebrow:'Secrets & Clues — aim to reveal ~5',
+    title:'The 10 Secrets',
+    body:'Drop these naturally — an NPC conversation, something Remy says on the water, a sign on the boardwalk. Check off each as you plant it.',
+    list:[
+      'The black water did something to all of them — every road out ends the same: resistance, agony, back where they started.',
+      'Sallowreach is reachable only by hours of shifting channels — no road in or out. That\'s why it\'s never been conquered.',
+      'The Mire is growing — boardwalks clear two seasons ago are choked; the SW edge is losing ground.',
+      'Once a week the whole city celebrates, without fail; missing it already feels wrong in the body.',
+      'The city calls the swamp\'s presences "honored guests" — you welcome, you don\'t command.',
+      'Remy was a passenger too; amphibious, found them by following the rays to the shallows.',
+      'The healer looks at the group a beat too long — like she recognizes something she can\'t name.',
+      'The weekly lanterns are the exact shape & color of the rays that lit the water as they drowned. (Plant quietly.)',
+      'The wizard maintaining the SW salt-ward is behind on his work; the edge families have noticed.',
+      'PC-personalized: someone back home is noticing a PC never arrived. Tenson\'s is live — Magistra Silence was told the ship was lost, refuses to believe it, her first letter is coming.',
+    ]
+  },
+]},
+
+// 10. Done
+{ id:'done', title:'Done!', cards:[
+  { type:'done' },
+]},
+
+];
+
+// Initialize modDone array
+M.forEach(() => modDone.push(false));
+
+// ── Navigation ─────────────────────────────────────────────────────────────
+function go(dir) {
+  ci += dir;
+  if (ci < 0) {
+    if (mi > 0) { mi--; ci = M[mi].cards.length - 1; }
+    else ci = 0;
+  } else if (ci >= M[mi].cards.length) {
+    modDone[mi] = true;
+    if (mi < M.length - 1) { mi++; ci = 0; }
+    else ci = M[mi].cards.length - 1;
+  }
+  render();
+  window.scrollTo(0, 0);
+}
+
+function jumpTo(moduleIndex) {
+  mi = moduleIndex;
+  ci = 0;
+  render();
+  window.scrollTo(0, 0);
+}
+
+// ── Progress ────────────────────────────────────────────────────────────────
+function totalCards() { return M.reduce((s, m) => s + m.cards.length, 0); }
+function cardsBefore(idx) { let c=0; for (let i=0;i<idx;i++) c+=M[i].cards.length; return c; }
+
+function updateProgress() {
+  const total = totalCards();
+  const cur   = cardsBefore(mi) + ci;
+  const pct   = Math.round((cur / total) * 100);
+
+  document.getElementById('pFill').style.width = pct + '%';
+  document.getElementById('pPct').textContent  = pct + '%';
+  document.getElementById('pLabel').textContent = M[mi].title + ' — card ' + (ci+1) + ' of ' + M[mi].cards.length;
+
+  const row = document.getElementById('dotRow');
+  row.innerHTML = '';
+  M.forEach((mod, i) => {
+    const d = document.createElement('div');
+    d.className = 'dot' + (modDone[i] ? ' done' : '') + (i===mi ? ' active' : '');
+    d.title = mod.title;
+    d.onclick = () => jumpTo(i);
+    row.appendChild(d);
+  });
+}
+
+// ── Renderers ───────────────────────────────────────────────────────────────
+function render() {
+  const card = M[mi].cards[ci];
+  const html = {
+    info:       renderInfo,
+    checklist:  renderChecklist,
+    timeline:   renderTimeline,
+    quiz:       renderQuiz,
+    flashcards: renderFlashcards,
+    statblock:  renderStatblock,
+    scenario:   renderScenario,
+    npcs:       renderNPCs,
+    secrets:    renderSecrets,
+    done:       renderDone,
+  }[card.type] || (() => `<div class="card"><pre>${card.type}</pre></div>`);
+
+  document.getElementById('stage').innerHTML = html(card);
+  updateProgress();
+
+  const isFirst = mi===0 && ci===0;
+  const isLast  = mi===M.length-1 && ci===M[mi].cards.length-1;
+  const nav     = document.getElementById('navRow');
+  document.getElementById('btnBack').style.display = isFirst ? 'none' : '';
+  document.getElementById('btnNext').textContent   = isLast  ? 'Done ✓' : 'Continue →';
+  nav.style.display = card.type === 'done' ? 'none' : '';
+}
+
+function renderInfo(c) {
+  const tags = c.tags ? `<div class="chips">${c.tags.map(t=>`<span class="chip chip-${t.cls}">${t.label}</span>`).join('')}</div>` : '';
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    ${tags}
+    <div class="body">${c.body}</div>
+  </div>`;
+}
+
+function renderTimeline(c) {
+  const iconMap = { fight:'⚔', social:'💬', payoff:'★' };
+  const beats = c.beats.map(b => `
+    <div class="tbeat">
+      <div class="tdot ${b.type}">${iconMap[b.type]||'•'}</div>
+      <div>
+        <div class="tlabel">${b.label}</div>
+        <div class="tsub">${b.sub}</div>
+      </div>
+    </div>`).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    <div class="body" style="margin-bottom:12px">${c.body}</div>
+    <div class="timeline">${beats}</div>
+  </div>`;
+}
+
+function renderQuiz(c) {
+  const qid = `q_${mi}_${ci}`;
+  QD[qid] = c.options;
+  const opts = c.options.map((o,i) =>
+    `<button class="qopt" id="${qid}_${i}" onclick="pickAnswer('${qid}',${i})">${o.text}</button>`
+  ).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    <div class="quiz-opts">${opts}</div>
+    <div class="qfeed" id="${qid}_fb"></div>
+  </div>`;
+}
+
+function pickAnswer(qid, chosen) {
+  const opts = QD[qid];
+  const o    = opts[chosen];
+  document.querySelectorAll(`[id^="${qid}_"]:not([id$="_fb"])`).forEach((btn,i) => {
+    btn.disabled = true;
+    if (opts[i].c) btn.classList.add('correct');
+    else if (i===chosen) btn.classList.add('wrong');
+  });
+  const fb = document.getElementById(qid+'_fb');
+  fb.textContent = o.fb;
+  fb.className   = `qfeed show ${o.c ? 'correct' : 'wrong'}`;
+}
+
+function renderFlashcards(c) {
+  const key = `fc_${mi}_${ci}`;
+  if (fcIdx[key] === undefined) fcIdx[key] = 0;
+  const idx = fcIdx[key];
+  const fc  = c.cards[idx];
+  const fid = `fc_face_${idx}`;
+
+  const front = `<div class="fc-face fc-front">
+    <div style="font-size:28px;margin-bottom:8px">${fc.front.split(/\s+/)[0]}</div>
+    <div style="font-weight:700;font-size:17px">${fc.front.replace(/^\S+\s+/,'')}</div>
+    ${fc.sub ? `<div style="font-size:12px;color:var(--muted);margin-top:5px">${fc.sub}</div>` : ''}
+  </div>`;
+
+  const back = `<div class="fc-face fc-back">
+    <div class="body" style="font-size:14px">${fc.back}</div>
+  </div>`;
+
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <div style="text-align:center;color:var(--muted);font-size:13px;margin-bottom:10px">Card ${idx+1} of ${c.cards.length}</div>
+    <div class="fc-wrap" id="${fid}" onclick="this.classList.toggle('flipped')">
+      <div class="fc-inner">${front}${back}</div>
+    </div>
+    <div class="fc-hint">Click to flip</div>
+    <div class="fc-nav">
+      <button class="btn btn-ghost" onclick="fcGo('${key}',-1,${c.cards.length})" ${idx===0?'disabled':''}>← Prev</button>
+      <button class="btn btn-ghost" onclick="fcGo('${key}',1,${c.cards.length})"  ${idx===c.cards.length-1?'disabled':''}>Next →</button>
+    </div>
+  </div>`;
+}
+
+function fcGo(key, dir, total) {
+  const next = (fcIdx[key]||0) + dir;
+  if (next < 0 || next >= total) return;
+  fcIdx[key] = next;
+  render();
+}
+
+function renderStatblock(c) {
+  const chips = Object.entries(c.stats).map(([k,v]) =>
+    `<div class="stat"><span class="stat-k">${k}</span><span class="stat-v">${v}</span></div>`
+  ).join('');
+  const moves = c.moves.map(m =>
+    `<div class="sb-move${m.fear?' fear-move':''}">
+      <strong>${m.fear?'⚡ ':''}${m.name}${m.fear?' — Fear':''}</strong>: ${m.text}
+    </div>`
+  ).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <div class="sb">
+      <div class="sb-name">${c.name}</div>
+      <div class="sb-tier">${c.tier}</div>
+      <div class="sb-stats">${chips}</div>
+      <div class="sb-atk"><strong>Attack:</strong> ${c.atk}</div>
+      ${moves}
+    </div>
+  </div>`;
+}
+
+function renderScenario(c) {
+  const qid = `sc_${mi}_${ci}`;
+  QD[qid] = c.options;
+  const opts = c.options.map((o,i) =>
+    `<button class="qopt" id="${qid}_${i}" onclick="pickScenario('${qid}',${i})">${o.text}</button>`
+  ).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <div class="f-scenario">
+      <div class="f-label">⚡ Fear Scenario</div>
+      <strong>${c.title}</strong>
+    </div>
+    <div class="quiz-opts">${opts}</div>
+    <div class="qfeed" id="${qid}_fb"></div>
+    ${c.multi ? '<div style="font-size:12px;color:var(--muted);margin-top:8px">More than one answer may be correct.</div>' : ''}
+  </div>`;
+}
+
+function pickScenario(qid, chosen) {
+  const opts = QD[qid];
+  const o    = opts[chosen];
+  document.querySelectorAll(`[id^="${qid}_"]:not([id$="_fb"])`).forEach((btn,i) => {
+    btn.disabled = true;
+    if (opts[i].c) btn.classList.add('correct');
+    else if (i===chosen && !opts[i].c) btn.classList.add('wrong');
+  });
+  const fb = document.getElementById(qid+'_fb');
+  fb.textContent = o.fb;
+  fb.className   = `qfeed show ${o.c ? 'correct' : 'wrong'}`;
+}
+
+function renderNPCs(c) {
+  const cards = c.npcs.map(n => `
+    <div class="npc-card">
+      <div class="npc-name">${n.name}</div>
+      <div class="npc-want">Wants: ${n.want}</div>
+      <div class="npc-body">${n.body}</div>
+      <div class="npc-quote">${n.quote}</div>
+    </div>`).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    ${cards}
+  </div>`;
+}
+
+function renderSecrets(c) {
+  const count = secrets.size;
+  const items = c.list.map((s,i) => {
+    const on = secrets.has(i);
+    return `<div class="secret-row">
+      <div class="scheck${on?' on':''}" onclick="toggleSecret(${i})">${on?'✓':''}</div>
+      <div class="stext${on?' on':''}">${i+1}. ${s}</div>
+    </div>`;
+  }).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    <div class="body" style="margin-bottom:10px">${c.body}</div>
+    <div style="font-size:13px;color:${count>=5?'var(--success)':'var(--muted)'};margin-bottom:10px">
+      ${count} of 10 revealed${count>=5?' — great work':'  — aim for ~5 tonight'}
+    </div>
+    <div class="scroll secret-list">${items}</div>
+  </div>`;
+}
+
+function toggleSecret(i) {
+  secrets.has(i) ? secrets.delete(i) : secrets.add(i);
+  render();
+}
+
+function renderChecklist(c) {
+  const count = checks.size;
+  const items = c.items.map((item,i) => {
+    const on = checks.has(i);
+    return `<div class="cl-item${on?' on':''}" onclick="toggleCheck(${i})">
+      <div class="cl-box">${on?'✓':''}</div>
+      <span>${item}</span>
+    </div>`;
+  }).join('');
+  return `<div class="card">
+    ${c.eyebrow ? `<div class="eyebrow">${c.eyebrow}</div>` : ''}
+    <h2>${c.title}</h2>
+    <div class="body" style="margin-bottom:12px">${c.body}</div>
+    <div style="font-size:13px;margin-bottom:12px;color:${count===c.items.length?'var(--success)':'var(--muted)'}">
+      ${count}/${c.items.length} done${count===c.items.length?' — you\'re set ✓':''}
+    </div>
+    ${items}
+  </div>`;
+}
+
+function toggleCheck(i) {
+  checks.has(i) ? checks.delete(i) : checks.add(i);
+  render();
+}
+
+function renderDone() {
+  return `<div class="card">
+    <div class="done-wrap">
+      <div style="font-size:52px;margin-bottom:14px">🌊</div>
+      <div class="eyebrow" style="text-align:center">Study complete</div>
+      <h1>You're ready.</h1>
+      <p style="margin-top:10px">You know the run order, the rules, the stat blocks, and the NPCs. You know the Fear menu. You know the secrets.<br><br>Go make them love this game.</p>
+      <div class="done-links">
+        <button class="btn btn-ghost" onclick="jumpTo(${M.findIndex(m=>m.id==='secrets')})">Go to Secrets →</button>
+        <button class="btn btn-ghost" onclick="jumpTo(${M.findIndex(m=>m.id==='checklist')})">Back to Checklist →</button>
+        <button class="btn btn-ghost" onclick="mi=0;ci=0;render()">Start over</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+// ── Boot ────────────────────────────────────────────────────────────────────
+render();
+</script>
+</body>
+</html>

@@ -8,12 +8,14 @@ aliases:
 
 # Caspar Renne
 
-**Role:** Curator of the Sallowreach Historical Museum; keeper of oral traditions and Mire-lore
+**Role:** Curator of the Sallowreach Historical Museum; keeper of oral traditions and Mire-lore — and, behind the front, a discreet **fence of illicit magical goods**
 **Location:** [[Sallowreach]] — the Museum occupies a converted three-story stilted building in the old quarter; Caspar lives on the top floor
 **Faction:** Independent (nominally city-funded, functionally autonomous)
 **Tier:** 1
 
 ---
+
+*A brilliant, anxious, self-serving mess who inherited a legacy he didn't want and turned it into a hustle. A **hedge mage** — self-taught outside the Citadel, only ever ground his way to low-level spells — whose entire repertoire is illusions and self-preservation. Genuinely loves history; will absolutely sell it to save his own skin. The live first meeting is the [[session-03-caspar-encounter]].*
 
 ## Appearance
 
@@ -43,19 +45,19 @@ The second floor is his archive, closed to visitors without appointment. The thi
 
 ## What He Wants
 
-To get the spear back. He traded it six years ago and has regretted it since. The party showing up is the first thing that has happened in six years that might change his situation — and he can see it, which is why the conversation about the spear puts him in an impossible position.
+Out from under [[Marcel Dray]] — and failing that, to *survive* Marcel, which lately he's stopped believing he will. He doesn't want the spear back; he barely believes it was anything. What he wants is for the leash to come off, the tribute to stop bleeding his collection dry, and the next knock on his door to not be the one that kills him. Four cursed strangers showing up is the first thing in years to rattle his certainty the spear was junk — and that's almost worse.
 
-## What He's Hiding
+## What He's Hiding *(the canon — see [[session-03-caspar-encounter]])*
 
-**The trade:** Six years ago, city government interests moved to seize the museum building — prime boardwalk property that certain old-family factions had been eyeing for years. Caspar had no legal recourse, no money, and nowhere else to go. He went to someone who could make the problem disappear. The price was the spear, which had arrived in a donated estate collection three months prior and which Caspar had already identified as something extraordinary. He handed it over. The museum stayed. He has been trying to get it back ever since, and been told no twice.
+**The operation.** Behind the respectable museum, Caspar runs a quiet **illicit magic-pawn-and-fence trade.** A hedge mage is exactly the man who can appraise and move minor enchanted goods nobody legitimate will touch, and the museum is the perfect cover — provenance, storage, a reason rare objects come and go. *Object on Loan,* the placards say. Some of them are lying.
 
-**The name:** He knows exactly where the spear is. He will not say. Naming the person who has it — naming their dealings, their operation — to strangers he met an hour ago is not something a man does if he wants to continue living in this city without incident. The stranger might be anyone. The name might reach the wrong ears. The person who has the spear does not appreciate being discussed by people he hasn't vetted.
+**The original sin.** Years ago the **[[the-tidebreaker|Tidebreaker]]** came across his counter in a donated estate lot. He clocked it as extraordinary — old, impossible, worth a fortune — and tried to fence it privately to an out-of-city buyer, **cutting [[Marcel Dray]] out of the biggest relic deal to move through Sallowreach in a decade.** On Marcel's turf. Marcel traced it inside a week.
 
-Caspar's evasion, when the party asks directly about the spear's location, is not primarily about his own guilt. It's about the entirely rational calculation that talking about certain people to strangers in this city is dangerous. He is afraid. He is bad at hiding that he's afraid. He is not going to say the name.
+**The leash.** Marcel didn't kill a useful man — he *collateralized* him. He took the Tidebreaker as the penalty and put Caspar on a debt that never closes: **keep paying tribute in relics, or I expose the whole operation** (which ends the museum, the legacy, and hands an unsanctioned magic-dealer to the Empire). Caspar has been gutting his own collection ever since, case by case, behind a hundred small public lies. **Marcel stuffs the relics in a closet** — the goods were never the point; owning the city's memory-keeper was.
 
-**How this resolves:** Trust, time, or circumstance. If the party demonstrates over the course of Act 1 that they can be trusted — through action, through reputation, through someone Caspar already trusts vouching for them — he will tell them. Alternatively, if they find out the name through another route and come back with it, he'll confirm and fill in what he knows. What he will not do is hand the information to strangers in a first conversation no matter how hard they push.
+**Why he's barricaded now.** A few days ago Marcel's collector came with a new demand and a softer, worse threat, and Caspar — a panicking amateur, not a rational actor — became convinced Marcel has finally decided to collect his *life.* *(Marcel does NOT want him dead; a dead asset pays no tribute. Caspar doesn't know that.)* So he sealed the museum and rigged the one defense a frightened hedge mage can manage: a plan to **fake his own murder** so any killer finds the job done and leaves. That's the trap the party walks into.
 
-**The primary trust path: [[The First Maintainer's Journal]].** Caspar has been searching for Aldric Vane's original field journal for six years — the earliest first-hand account of the Mangrove Spirit's behavior, lost at an estate auction. If the party tracks it down and returns it to him, he reads it in front of them, has a genuine discovery moment, and tells them Marcel's name. The journal isn't locked up or dangerous to retrieve. The difficulty is finding it. The reward is watching Caspar understand something he's been trying to understand for forty years — and watching that understanding unlock the name.
+**What he doesn't believe.** Caspar holds the full documentation on the Tidebreaker — gift between two great spirits, the power to break curses — and **thinks it's fairytales.** He sold the cure for the Mire's curse as a pretty antique because he deals in *worth,* not spirit-stories. Four genuinely cursed strangers in his museum are the first thing to ever make him doubt that. He gives them the **papers,** not a conviction.
 
 See [[The First Maintainer's Journal]] for the full mini-quest, the journal's contents, and the scene where Caspar reads it.
 
@@ -77,27 +79,18 @@ Caspar watches from behind it, deeply unhappy. He does not want this. He will ca
 
 **If the golem is destroyed:** The museum relationship is significantly damaged. Caspar is shaken and frightened. He will not talk to the party again without an intermediary and a significant gesture of goodwill. The golem took years to commission and cannot be easily replaced. He will be cold, professional, and clearly hurt.
 
-### Warden Stat Block
+### Warden Stat Block — *use the SRD **Construct** (Tier 1 Solo), wax-reskinned* ✅ *verified vs SRD*
 
-*The Warden — Wax Guardian, Tier 1 Solo* [VERIFY: Daggerheart adversary format and stat ranges for Tier 1]
+**Difficulty 13 · Thresholds 7/15 · HP 9 · Stress 4 · ATK +4**
+**Fist Slam** — Melee, **1d20** physical.
 
-**Difficulty:** 13 [VERIFY]
-**HP:** 30 [VERIFY]
-**Stress:** 4 [VERIFY]
+**Features:**
+- **Relentless (2)** — *Passive:* can be spotlighted up to twice per GM turn (spend Fear as usual).
+- **Weak Structure** — *Passive:* when it marks HP from physical damage, it marks **+1 HP.** *(A wax golem melts fast — keep it scary, not durable. **HP 9, not 30** — the old number turned a relationship-cost golem into an unkillable slog.)*
+- **Trample** — *Action:* mark a Stress to attack every target in its path as it moves; targets it succeeds against take **1d8** physical.
+- **Burning Wax** *(reskin of the Construct's Overload)* — *Reaction:* before its damage roll, mark a Stress to add **+1d6 fire** and leave a patch of burning wax (difficult terrain) where it stands.
 
-**Major Threshold:** 15 — wax partially melts; movement slows, but burning wax begins pooling on the floor around it (difficult terrain) [VERIFY: threshold mechanic]
-**Severe Threshold:** 8 — form destabilizes; the Warden's attacks become erratic and it begins targeting the nearest creature regardless of alignment [VERIFY]
-
-**Immunities:** Cannot be Frightened. Not affected by mind-affecting effects. [VERIFY: condition names]
-
-**Vulnerabilities:** Cold damage causes it to stiffen and lose a Move action. [VERIFY: action economy]
-
-**Moves:**
-- **Burning Grip** — the Warden seizes a creature and holds. The target takes 1d6 fire damage at the start of each round until they break free or the Warden releases. [VERIFY: damage dice]
-- **Wax Cascade** — the Warden shakes its arm, spraying burning droplets in a close area. All creatures in range take 1d4 fire damage and must succeed on an Agility roll or be Slowed. [VERIFY: Agility roll mechanic, Slowed condition]
-- **Interpose** — the Warden steps in front of Caspar, imposing itself between him and any attacker. Attacks targeting Caspar must first pass through the Warden. [VERIFY: cover/interpose mechanic]
-
-**Fear Move — Reforming:** When the Warden takes damage that would destroy a limb or section, it partially melts and resolidifies in a new configuration. The GM spends Fear to activate. The Warden loses its Major Threshold penalty until its next turn and regains 5 HP. [VERIFY]
+*Flavor that survives the re-stat: cold/water effects make it stiffen and lose its next action; it can't be Frightened; it interposes between Caspar and the party and **herds** them toward the door rather than pressing to kill. Full fight choreography in [[session-03-caspar-encounter#Beat 4 — The Warden]].*
 
 **Notes for the GM:**
 - The Warden is not trying to kill the party. It is trying to remove them from the premises. If a PC goes down, it does not pursue — it positions itself at the door.
@@ -106,37 +99,38 @@ Caspar watches from behind it, deeply unhappy. He does not want this. He will ca
 
 ## Key Relationships
 
-- [[Marcel Dray]] — gave him a service, took the spear, declined twice to return it; Caspar cannot resent him cleanly because Marcel held up his end; the feeling is complicated
-- [[Delphine]] — old friends; she knows he went to Marcel for something, doesn't know the price; she would be troubled if she knew; he hasn't told her
-- [[The Fishing Spear]] — six years of research with the object absent; he knows its significance better than anyone and cannot publish without it; the empty case haunts him
+- [[Marcel Dray]] — the man who owns him. Caught Caspar cutting him out of the Tidebreaker deal, took the spear, and turned the offense into a debt that never closes. Caspar is terrified of him and pays in relics he can't spare.
+- [[Delphine]] — old friends; she knows he's tangled himself with dangerous people, doesn't know the half of it; she'd be troubled if she did; he hasn't told her
+- [[the-tidebreaker|The Tidebreaker]] — the one that got away. He sold it as a pretty antique, never believing the lore — and now four cursed strangers are making him wonder what he did
 
-## What He Knows
+## What He Knows *(but doesn't believe)*
 
-Everything the party needs about the spear's nature:
-- The Tree Spirit's existence and imprisonment — documented across multiple old accounts
-- The spear's origin — carved as an undelivered gift, impossible wood, a bridge between worlds
-- That the spear could open communication with the spirits — can't prove it, but the accounts strongly suggest it
-- That the Mangrove Spirit moves toward Sallowreach with intention, not randomly — he's documented this in secondary sources and believed Aldric Vane's field notes would confirm it. After the party returns [[The First Maintainer's Journal]], he has the primary source confirmation.
-- The Celebration's origins — he has transcribed the old chants without understanding their function; the truth is in his archive, in pieces, waiting for someone who knows what to look for [VERIFY: decide whether this is a clue the party can find in Act 2]
-- The existence of [[The First Maintainer's Journal]] — where it was last seen, what it should contain, and why finding it matters. He's been searching for six years.
+It's all in his **archive** — Caspar holds the documentation; he just files it under fairytale. Hand him the right question (or four cursed people) and the papers speak even when he won't:
+- The **[[the-tidebreaker|Tidebreaker]]'s nature** — a gift carved from impossible wood, a bridge between worlds, the power to break curses. *(He'll read it to you in a flat, this-is-nonsense voice and then not quite be able to let it go.)*
+- The **[[The Tree Spirit|Tree Spirit]]'s existence and imprisonment** — across multiple old accounts.
+- That the spear could **open communication with the spirits** — the accounts strongly suggest it.
+- That the **[[The Mangrove Spirit|Mangrove Spirit]] moves toward Sallowreach with intention,** not randomly — documented in secondary sources; [[the-first-maintainers-journal|Aldric Vane's journal]] would confirm it firsthand.
+- The **Celebration's origins** — he's transcribed the old chants without understanding their function; the truth sits in his archive in pieces, waiting for someone who knows what to look for. [VERIFY: decide whether this is an Act 2 clue.]
+- The existence and significance of **[[the-first-maintainers-journal|The First Maintainer's Journal]]** — where it was last seen and why it matters. *(A historian's curiosity to him now more than a holy grail — but returning it is still the beat where the cynic gets converted.)*
 
-What he does NOT know:
-- That the Celebration is a binding ritual (the pieces are in his archive; he hasn't assembled them)
-- What the attractor is — even after the party returns the journal, he knows something inside the city draws the spirit, but not that it's the Tree Spirit's essence saturating the Mire
-- That the tether and the spear and the Celebration are connected at the root
-- What the party will have to give up to get the spear
+What he does **NOT** know:
+- That the Celebration is a **binding ritual** (the pieces are in his archive; he never assembled them — he wasn't *looking,* because he doesn't believe).
+- What the **attractor** is — only that *something* inside the city draws the spirit.
+- That the **tether, the spear, and the Celebration are connected at the root.**
+- What the party will have to give up to get the spear.
 
 ## Dialogue Hook
 
-When the party comes to him with Delphine's referral, he listens to the description of the tether with that particular stillness — and then:
+*The live first meeting is the [[session-03-caspar-encounter]] — barricaded, faking his own death, the truth dragged out the hard way. These lines fit him in any calmer scene after.*
 
-*"Spirit-water binding. Yes. That's — yes, I have three accounts of something similar. Sit down, please — all of you. This is going to take a moment."*
+On the lore, flat and dismissive, reading off his own papers:
+*"It says here it's a gift between spirits and it breaks curses. It also says the wood came from a tree that walks. I sell things — I don't pray to them. ...Why are you looking at me like that."*
 
-He's been waiting for people who would actually listen. When the subject shifts to the spear's location, everything changes. His hands start moving again. He finds reasons to straighten things on shelves.
+On the spear being gone:
+*"I had it. I sold it. Best money I ever—"* [a beat he didn't plan] *"—it doesn't matter. He has it now. And he has me."*
 
-*"The spear. Yes. That's — I've documented it extensively. The accounts are quite clear about its nature, if somewhat less clear about its current — the thing is, the provenance after a certain point becomes — I can tell you what it is. I can tell you what it does. Where it is at this precise moment is a question that involves certain... complications that I'm not — it's not that I don't know, it's that — I really think Delphine may have given you the impression I could be more specifically helpful than I—"*
-
-The Warden stands behind them, near the entrance, in the candlelight, exactly where it was when they came in.
+When his own evidence finally lands (the conversion beat):
+*"...Oh. Oh, that's not — that's not supposed to be* real."
 
 ## Stat Block (Caspar)
 

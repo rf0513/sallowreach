@@ -48,7 +48,7 @@ It is also, still, **a bridge between worlds.** Carved as a gift for the Mangrov
 A chain. Nobody hands them the whole answer — each link knows one piece.
 
 ### Step 1 — Delphine *(the shape of the problem)*
-[[Delphine]] examines the tether and can't cure it — flat, no false hope. But she names the shape: this is **spirit-water magic, old and ancient,** past her shelf. *"You need something that speaks the spirit's language back at it. Not a spell. Not medicine."* She points them at **Caspar Renne** — the one man who studies what the Mire has made. *(See [[session-03-rp-and-dice]] for the hand-off card.)*
+[[Delphine]] examines the tether and can't cure it — flat, no false hope. But she names the shape: this is **spirit-water magic, old and ancient,** past her shelf. *"You need something that speaks the spirit's language back at it. Not a spell. Not medicine."* She points them at **Caspar Renne** — the one man who studies what the Mire has made. *(See [[session-03-run-sheet]] for the hand-off card.)*
 
 ### Step 2 — Caspar Renne *(the lore, the name, and the truth about how it got away)*
 **This is now the [[session-03-caspar-encounter]] — "The Counterfeit Corpse."** The soft, slow, trust-gated version is retired. In the live encounter the party breaks in on a barricaded, terrified Caspar, survives his faked-death trap and the [[caspar-renne#The Warden|Warden]], and earns the **whole truth at once:**

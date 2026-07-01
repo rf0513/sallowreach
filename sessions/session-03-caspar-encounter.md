@@ -154,4 +154,4 @@ However it ends — golem down, Caspar cornered, or talked off the ledge — the
 
 ---
 
-*Related: [[caspar-renne]] · [[marcel-dray]] · [[delphine]] · [[the-tidebreaker]] · [[session-03-prep]] · [[session-03-cheatsheet]] · [[session-03-rp-and-dice]]*
+*Related: [[caspar-renne]] · [[marcel-dray]] · [[delphine]] · [[the-tidebreaker]] · [[session-03-prep]] · [[session-03-run-sheet]]*

@@ -1,6 +1,6 @@
 # Session 2 — Recap (As Played)
 
-*What actually happened at the table, Tue 2026-06-16. This is **canon**: the prep files are what was planned, `session-02-live.md` is what we improvised, and this is the record of what landed. Springboard for Session 3.*
+*What actually happened at the table, Tue 2026-06-16. This is **canon** — the record of what landed. Springboard for Session 3. (The improvised NPCs from this night — [[chausson]], [[madame-vivienne]] — and the [[wandering-sights]] bank now live in their own files.)*
 
 ---
 
@@ -25,7 +25,7 @@ She did **not** explain the full curse yet. The PCs already knew they were curse
 ## The personal-quest visits
 - **Guardian → Sinope.** Sinope questioned him on several things and tipped him off to **the casino** — a new hook.
 - **Witch (Leavy) → Orna** at the Verdant Margin. They clicked. Orna dropped backstory clues — including that **a witch needs a coven** — and Leavy has none, because she doesn't remember her past. *(Dovetails with Delphine's "memories wiped" reveal and the earlier "you're **bound**" breadcrumb.)*
-- **Ranger (Fletcher) → the Hunters' Guild (Brin).** Brin **tested his motives** — accused him of hunting only for treasure. He answered that he hunts to **remove a threat, not for glory or profit** — and **passed.** Reward: a **quest to deal with a creature loose in town** (the "Haunt of Thornside" — full design in `session-02-live.md`).
+- **Ranger (Fletcher) → the Hunters' Guild (Brin).** Brin **tested his motives** — accused him of hunting only for treasure. He answered that he hunts to **remove a threat, not for glory or profit** — and **passed.** Reward: a **quest to deal with a creature loose in town** (the "Haunt of Thornside" — full design in [[brin-sevarre]]).
 
 ---
 
@@ -42,7 +42,7 @@ Delphine ended the night by naming the curse: **it binds them to the Mire.** The
 
 **Hooks the party is holding:**
 - 🍷 **The ambassador's dinner.** The guardian holds Caius's invitation; the group is **eager** to attend. *(Dramatic irony: they're dining with the man who tried to **assassinate** them — Caius blew up their boat, learned they survived, and invited them in. They don't know he's the saboteur.)*
-- 🐾 **The town creature hunt.** Fletcher's quest from Brin — the amber civet / Haunt of Thornside (`session-02-live.md`).
+- 🐾 **The town creature hunt.** Fletcher's quest from Brin — the Haunt of Thornside ([[brin-sevarre]]; played out as an owlbear cub in [[session-03-critter]]).
 - 📚 **Breaking the curse.** Now that they know leaving = death, they want a way out → points them at the **library and the scholar.** *(GM thread: Sinope name-dropped **Caspar**, who couldn't place the oldest chant's dialect — a natural scholar/library contact.)*
 - 🎲 **The casino.** Sinope's tip to the guardian.
 
@@ -55,4 +55,4 @@ Delphine ended the night by naming the curse: **it binds them to the Mire.** The
 - **More mechanics.** Build in natural rolls — the hunt is a perfect rules-forward set piece; the casino invites checks; the dinner supports social rolls and Stress/Hope swings.
 - **The party may stay together** this time instead of splitting — favor hooks that work for the whole group over four solo doors.
 - **Blood Hunter returns** — give Isotta a strong re-entry beat.
-- **The boat explosion is unclaimed bait.** The wreck was flagged "mysterious and strange," but the players haven't bitten — and it was **Caius's sabotage.** Keep it on a slow fuse and let clues *intrude* rather than waiting for them to go digging: the dock gossip in `session-02-live.md` (*"the imperial one… bought a whole table breakfast just to ask about that wreck"*) is Caius covering his tracks, and **the dinner** is the natural place to make it personal.
+- **The boat explosion is unclaimed bait.** The wreck was flagged "mysterious and strange," but the players haven't bitten — and it was **Caius's sabotage.** Keep it on a slow fuse and let clues *intrude* rather than waiting for them to go digging: the dock gossip in [[wandering-sights]] (*"the imperial one… bought a whole table breakfast just to ask about that wreck"*) is Caius covering his tracks, and **the dinner** is the natural place to make it personal.

@@ -102,7 +102,7 @@ The mob mood is already forming — somebody's got a gaff hook, somebody's shout
 
 ### 🏹 The Hunt — "The Haunt of Thornside" *(Fletcher; solo or one tag-along)*
 
-**Full design is in `session-02-live.md` (lines ~122–151) and `world/npcs/brin-sevarre.md`.** Quick version:
+**Full design is in [[brin-sevarre]] and [[session-03-critter]].** Quick version:
 
 - **Surface:** a "demon" terrorizing the boards. Bounty forming, mob forming. The glory move is obvious.
 - **Truth (he uncovers by tracking — Instinct + his Experiences):** an **amber civet**, invasive, escaped a smuggler's crate, *starving and terrified,* not hunting for sport.
@@ -180,7 +180,7 @@ If they chase it tonight, keep it to **atmosphere + a thread**, not a full set p
 - **Brin Sevarre** — balance-keeper; *precise, a steward with a culling knife.* **Wants:** to know if Fletcher's fire is discipline or glory. **Line:** *"How you handle it is the whole answer."*
 - **Vael Miroux** — retired Ghost Slayer; *calm, watchful, white eye sees spirits.* **Wants:** to know what's straining the veil. **Gives:** Isotta the grounding move and the wall.
 - **Caspar Renne** — curator; *excited, evasive, terrible liar.* **Wants:** the spear back. **Hiding:** Marcel's name, out of fear.
-- **Vivienne** (optional) — dressmaker who reads souls; dresses them anti-Caius. *(Full in `session-02-live.md`.)*
+- **Vivienne** (optional) — dressmaker who reads souls; dresses them anti-Caius. *(Full in [[madame-vivienne]].)*
 - **Chausson** (runner) — leave them a warm pebble/trinket before the day starts. Never seen. The table loves him.
 
 ---
@@ -218,7 +218,7 @@ If they chase it tonight, keep it to **atmosphere + a thread**, not a full set p
 - **Skip the dinner?** Caius re-extends it, warmer, and sends an aide with a small gift. The civet escalates on the boards (a child's pet, a near-miss) to keep the teeth in the night.
 - **Skip the hunt?** The mob does something stupid — a botched bounty attempt, the civet wounded and more dangerous, a Thornside person hurt. Brin hears how the party *didn't* step up.
 - **Skip the wall?** Hold it for Isotta whenever she's ready — it's her arc-opener, not a timed gate. The veil keeps thinning regardless.
-- **Drift with no goal?** The city adopts them (see the wandering-sights bank in `session-02-live.md`). Hand out 1d4 Stress/Hope and let warmth be the scene.
+- **Drift with no goal?** The city adopts them (see [[wandering-sights]]). Hand out 1d4 Stress/Hope and let warmth be the scene.
 
 ---
 

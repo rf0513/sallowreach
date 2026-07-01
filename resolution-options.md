@@ -2,7 +2,7 @@
 
 *Lightweight reference, generated before any PCs exist. These are illustrative possibilities — levers the world already offers and outcomes they could produce — not a list of "the paths available." The table will invent options nobody wrote down. When that happens, trust it. Use this to know what's load-bearing in the setup, not to steer the party toward a pre-chosen ending.*
 
-By the time any of this is live, the party has likely met the [[Mangrove Spirit]], delivered the [[Fishing Spear]], and learned the truth: the [[Tree Spirit]] is imprisoned inside [[Sallowreach]] by the [[Celebration]] ritual. What they do with that knowledge is theirs. The following are pressures and tools already present in the world — some shapes this could take for a Tier 1–2 outsider party.
+By the time any of this is live, the party has likely met the [[Mangrove Spirit]], delivered the [[the-tidebreaker|Fishing Spear]], and learned the truth: the [[Tree Spirit]] is imprisoned inside [[Sallowreach]] by the [[Celebration]] ritual. What they do with that knowledge is theirs. The following are pressures and tools already present in the world — some shapes this could take for a Tier 1–2 outsider party.
 
 ---
 

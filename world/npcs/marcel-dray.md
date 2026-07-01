@@ -78,7 +78,7 @@ Which is exactly what the city does with the [[The Celebration|Celebration]]. **
 
 ## The Deal
 
-Marcel's price for [[The Fishing Spear]]: deliver the wizard's embezzlement evidence to the Mages Guild in a way that results in the wizard's removal and revocation of guild protection.
+Marcel's price for [[the-tidebreaker|The Fishing Spear]]: deliver the wizard's embezzlement evidence to the Mages Guild in a way that results in the wizard's removal and revocation of guild protection.
 
 He has the evidence. He cannot use it himself without revealing he's been monitoring a guild wizard's finances. The party are his clean instrument.
 

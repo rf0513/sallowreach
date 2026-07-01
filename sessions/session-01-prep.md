@@ -24,7 +24,7 @@
 
 ## Review the Characters
 
-*Session Zero is done. The party (full sheets in `players/`): [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), [[the-witch|The Witch — name TBD]] (Witch/Hedge, Clank shapeshifter), [[isotta|Isotta]] (Bloodhunter/Ghost Slayer, Katari — a ghost), [[tenson|Tenson]] (Guardian/Stalwart, Faun).*
+*Session Zero is done. The party (full sheets in `players/`): [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), [[the-witch|Leavy — the Witch]] (Witch/Hedge, Clank shapeshifter), [[isotta|Isotta]] (Bloodhunter/Ghost Slayer, Katari — a ghost), [[tenson|Tenson]] (Guardian/Stalwart, Faun).*
 
 **⚠ Framing note — this party was sailing TO Sallowreach.** Unlike the scaffolded assumption (PCs en route to somewhere *else*, just passing through), every one of these four had **Sallowreach itself as the destination.** They arrive at the place they were trying to reach — and find they can never leave it. So the tether's cruelty here isn't "you can't get where you were going"; it's "you got exactly where you were going, and now it's a cage, and the *purpose* that brought you keeps getting more complicated." The "who's expecting you / outside NPC" pressure still applies — it just points *home,* to the people they left behind, not to a destination ahead.
 
@@ -201,7 +201,7 @@ The **[[lantern-rays|lantern rays]]** are **wonder, never a fight** — the emot
   - **Isotta** — her **casebook** of her own condition; the last entry written before she boarded, in a steadier hand than she has now.
   - **Tenson** — **[[Magistra Silence|Silence]]'s letter of introduction** and his personal ledger, both ruined and both kept; the seal still holds.
 - **The city's hospitality** — food as a genuine mechanical boon (clear Stress / gain Hope; see [[The Outer Market]] → *The Table That Adopts You*). The warmth is real; that's the point.
-- **NOT here:** [[The Fishing Spear]] is an Act 2+ quest, not Session 1 treasure. Don't hand it out early.
+- **NOT here:** [[the-tidebreaker|The Fishing Spear]] is an Act 2+ quest, not Session 1 treasure. Don't hand it out early.
 
 ---
 

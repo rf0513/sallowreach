@@ -28,7 +28,7 @@ The Wending covers the Mire's inner ring — the fishing grounds, the ingredient
 
 ### The Drowning Garden
 
-A sunken ruin deeper in the Mire — structures half-submerged, bioluminescent growth covering everything, water clear enough in places to see what's beneath. Possible location of [[The Fishing Spear]] or a key encounter with the [[Tree Spirit]].
+A sunken ruin deeper in the Mire — structures half-submerged, bioluminescent growth covering everything, water clear enough in places to see what's beneath. Possible location of [[the-tidebreaker|The Fishing Spear]] or a key encounter with the [[Tree Spirit]].
 
 *To be built out.*
 

@@ -178,7 +178,7 @@ If they chase it tonight, keep it to **atmosphere + a thread**, not a full set p
 
 - **Caius Maren** — imperial liaison; *charming, hungry, every question is testimony.* **Wants:** the written report (his annexation file). **Tell:** always too put-together for the humidity.
 - **Brin Sevarre** — balance-keeper; *precise, a steward with a culling knife.* **Wants:** to know if Fletcher's fire is discipline or glory. **Line:** *"How you handle it is the whole answer."*
-- **Vael Miroux** — retired Ghost Slayer; *calm, watchful, white eye sees spirits.* **Wants:** to know what's straining the veil. **Gives:** Isotta the grounding move and the wall.
+- **Vael Miroux** — former blood hunter (Ghost Slayer); *calm, watchful, white eye sees spirits.* **Wants:** to know what's straining the veil. **Gives:** Isotta the grounding move and the wall.
 - **Caspar Renne** — curator; *excited, evasive, terrible liar.* **Wants:** the spear back. **Hiding:** Marcel's name, out of fear.
 - **Vivienne** (optional) — dressmaker who reads souls; dresses them anti-Caius. *(Full in [[madame-vivienne]].)*
 - **Chausson** (runner) — leave them a warm pebble/trinket before the day starts. Never seen. The table loves him.

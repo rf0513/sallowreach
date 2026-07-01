@@ -55,11 +55,11 @@ The obstacle is a door with a person behind it, not a fight — ideal for a solo
 
 ## What They Know (useful to the party)
 - **Mire-reagent mastery,** the deepest in the city — all of it verbal, none of it filed. If it grows within a day's punt, Orna knows it cold and can't tell you how they know.
-- **They diagnose the Witch in one careless glance:** *"You're not sick. You're* bound. *No elixir touches that — wrong department entirely. You want a—"* and they trail off, already three thoughts away. A genius breadcrumb that points the Witch off the potion-path and toward [[The Fishing Spear|the thing that actually breaks bindings]] — without Orna ever finishing the sentence.
+- **They diagnose the Witch in one careless glance:** *"You're not sick. You're* bound. *No elixir touches that — wrong department entirely. You want a—"* and they trail off, already three thoughts away. A genius breadcrumb that points the Witch off the potion-path and toward [[the-tidebreaker|the thing that actually breaks bindings]] — without Orna ever finishing the sentence.
 - **The garden answers the city.** The lower platform's bioluminescent beds flare on Celebration nights, *nearly* syncing to the drums. Orna has noticed (of course they have) and never recorded it, and has half a brilliant theory they never finished. *(A live Turn clue — see [[Cosmology#The Turn & The Tether|The Turn]] — that a Witch elbow-deep in those beds will catch. Orna holds the observation; they cannot assemble it. Keep them a fragment-holder.)*
 
 ## Key Relationships
-- [[the-witch|The Witch]] *(name TBD)* — the clank who wants their stolen self back; Orna's inverse, and the documentarian to Orna's chaos; the "Persona Non Grata" quest is where the bond forms
+- [[the-witch|Leavy — the Witch]] — the clank who wants their stolen self back; Orna's inverse, and the documentarian to Orna's chaos; the "Persona Non Grata" quest is where the bond forms
 - [[Delphine]] — the healer watches Orna's transformation with real concern and gets airy non-answers; Orna respects Delphine's hands and finds her caution quaint; neither names what Orna is becoming, for very different reasons
 - The Alchemists' Consortium — would pay a fortune for Orna's mind and have given up trying to organize, employ, or insure them
 - The person they cured — *(needs a name)* — alive in Sallowreach, living proof of the lost miracle

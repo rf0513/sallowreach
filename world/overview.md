@@ -61,7 +61,7 @@ See [[Cosmology]] for full spirit lore and the truth about [[The Celebration]].
 - Personal urgency: each PC has somewhere they were supposed to be
 
 ### As Things Develop: The Mire
-- The [[The Fishing Spear|Fishing Spear]] is out there, deeper in the swamp, for a party that goes looking
+- The [[the-tidebreaker|Fishing Spear]] is out there, deeper in the swamp, for a party that goes looking
 - Encounters with the Mangrove Spirit, or signs of it
 - NPC threads unravel — [[The Wizard]]'s situation, the old stories proven true
 - The Tree Spirit becomes legible through Mire encounters and the Old Stories Keeper

@@ -75,7 +75,7 @@ It happens Mire-wide, not just in the city: the city sees it as the canals light
 They were too far away to connect a curse in open water to a ritual they hadn't seen, so they don't *deduce* it — they **recognize** it. Split it in two:
 
 - **The mid-game click** *(earnable):* at a Celebration — the **second** one, once they're primed and positioned by the water — they witness The Turn and feel their tether *answer* it. *"Our curse and this ritual are the same force."* They now suspect the Celebration's magic took them. They do **not** yet know it is a prison.
-- **The end-game gut-punch** *(still hidden):* that the Turn is a *binding,* that it holds a *Tree Spirit,* that the growth is its companion's *grief,* that the founders did it on purpose and the city forgot. These land later, through the chants (Vane's journal → [[Caspar Renne]] → the [[The Fishing Spear|spear]]).
+- **The end-game gut-punch** *(still hidden):* that the Turn is a *binding,* that it holds a *Tree Spirit,* that the growth is its companion's *grief,* that the founders did it on purpose and the city forgot. These land later, through the chants (Vane's journal → [[Caspar Renne]] → the [[the-tidebreaker|spear]]).
 
 **Never let an NPC say "the Celebration cursed you."** It is a thread they pull. The clue chain that feeds the click lives in [[session-01-prep]]; the recognition beat in [[The Celebration]].
 

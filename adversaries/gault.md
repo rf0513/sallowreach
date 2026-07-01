@@ -100,7 +100,7 @@ If the party successfully separates the Tessak from Gault: he loses his workforc
 
 ### Encounter 3 — The Deep Mire *(Act 2–3)*
 
-The party is following the [[Fishing Spear]] toward the [[Mangrove Spirit]]. Gault has been following the same bioluminescent concentrations, thinking he's tracking a massive undiscovered population of lantern rays. He's wrong about what's producing the light. He is in entirely the wrong place for entirely the wrong reasons.
+The party is following the [[the-tidebreaker|Fishing Spear]] toward the [[Mangrove Spirit]]. Gault has been following the same bioluminescent concentrations, thinking he's tracking a massive undiscovered population of lantern rays. He's wrong about what's producing the light. He is in entirely the wrong place for entirely the wrong reasons.
 
 He is alone. He has no exit the party doesn't know about. He is, for the first time, slightly out of his depth — and too greedy to acknowledge it.
 

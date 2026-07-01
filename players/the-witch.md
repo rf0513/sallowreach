@@ -3,7 +3,7 @@ aliases:
   - The Witch
 ---
 
-# [Name TBD] — The Witch
+# Leavy — The Witch
 
 *The player hasn't settled on a name yet. Update this file and the wiki-links when they do. (Worth asking: do they want the **clank's** name, or the name of **the person they used to be** — assuming that name is even recoverable?)*
 
@@ -35,7 +35,7 @@ The practical pursuit is alchemy. They came to Sallowreach because the Mire grow
 **First stop in Sallowreach:** the community garden, [[The Verdant Margin]], where [[Professor Orna Tessant]] catalogs exactly the botanical boundary-cases that matter most to them.
 
 ## The Spear Is Their Shot
-*(GM — this is now a burning, concrete motive.)* [[The Fishing Spear]] is a powerful artifact that **breaks curses.** The Witch's clank-curse is squarely within its power. Once they learn the spear exists and what it does, *this* becomes the thing they will cross the city — and deal with [[Marcel Dray]], and brave the deep Mire — to get. It's not a vague hope of a cure anymore; it's a key with their name on it. (Same for [[Isotta]] — two PCs now burn for the same artifact, which fuses the party's personal stakes onto Marcel's deal and the spear-quest. See [[The Fishing Spear]].)
+*(GM — this is now a burning, concrete motive.)* [[the-tidebreaker|The Fishing Spear]] is a powerful artifact that **breaks curses.** The Witch's clank-curse is squarely within its power. Once they learn the spear exists and what it does, *this* becomes the thing they will cross the city — and deal with [[Marcel Dray]], and brave the deep Mire — to get. It's not a vague hope of a cure anymore; it's a key with their name on it. (Same for [[Isotta]] — two PCs now burn for the same artifact, which fuses the party's personal stakes onto Marcel's deal and the spear-quest. See [[the-tidebreaker|The Fishing Spear]].)
 
 The charged Mire water itself is part of why this place can touch their condition: it carries the [[Tree Spirit]]'s transforming essence (see [[Cosmology#The Turn & The Tether|The Turn]]). The same boundary-crossing power that the spear focuses is diffused through every channel they punt across. They drowned in a transformation-engine and didn't know it.
 
@@ -61,7 +61,7 @@ The formulary: three years of alchemical notes converging on a working they can'
 - **Whoever did this** — the maker the Witch is hunting. *(Player-facing: unknown. GM truth, default: it was the Witch themselves — see [[#The Truth — GM Only]].)* The search is the spine of the backstory, and it ends at a mirror.
   
 ## The Mirror *(GM)*
-[[Professor Orna Tessant|Tessant]] is the Witch's inverse, and it's brutal: a **firbolg cheerfully drinking themselves into a swamp-thing on purpose** meets a **former person trapped in a made body who'd give anything to get out of it.** One is throwing their self away one experiment at a time and calls it research; the other had their self *stolen* and wants nothing but it back. And the sharpest edge — the Witch is a compulsive **documentarian** (every step of the formulary recorded, because they know what it is to lose what was never preserved), while Tessant, who could fill libraries, writes *nothing* and lets the most valuable mind in the region wash out untranscribed. The Witch will find that unbearable. That's the bond. *(Tessant also clocks the Witch's real problem in one careless glance — "you're not sick, you're* bound" *— pointing them off the potion-path toward [[The Fishing Spear|the thing that actually breaks bindings]], without ever finishing the sentence.)*
+[[Professor Orna Tessant|Tessant]] is the Witch's inverse, and it's brutal: a **firbolg cheerfully drinking themselves into a swamp-thing on purpose** meets a **former person trapped in a made body who'd give anything to get out of it.** One is throwing their self away one experiment at a time and calls it research; the other had their self *stolen* and wants nothing but it back. And the sharpest edge — the Witch is a compulsive **documentarian** (every step of the formulary recorded, because they know what it is to lose what was never preserved), while Tessant, who could fill libraries, writes *nothing* and lets the most valuable mind in the region wash out untranscribed. The Witch will find that unbearable. That's the bond. *(Tessant also clocks the Witch's real problem in one careless glance — "you're not sick, you're* bound" *— pointing them off the potion-path toward [[the-tidebreaker|the thing that actually breaks bindings]], without ever finishing the sentence.)*
 
 ## The Tether
 They came searching and meant to keep moving — the Wanderborne never stop. The tether stops them. Now the search is pinned to one swamp: the one place the cure might actually exist, and the one place they can't leave. A wanderer caged in the exact spot their long road was heading anyway. And the cruelest rhyme: the charged water that tethered them is *the same kind of force* that's holding their soul in the wrong body. They are, like [[Isotta]] and like the bound [[Tree Spirit]], a small binding — caught between states. The campaign is full of mirrors for them.

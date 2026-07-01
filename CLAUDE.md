@@ -37,6 +37,37 @@ Channel this into the creative DNA of the world:
 ### The "Toys" Philosophy
 As Brennan describes it: you build toys (NPCs, locations, factions, items) and dump them out for the players to play with. Every piece of content should be a **toy the DM can improvise with**, not a script they must follow. Build NPCs with personalities ready to go, locations with inherent tension, and factions with active agendas — then trust the DM to wing it.
 
+## Table-Tested Lessons
+
+*Hard-won rules from actual play and prep (started 2026-07-01, Isotta arc redesign). Keep this list growing — when a session or a rework teaches something, add it here.*
+
+### Two voices, not one
+- **Anything meant to be read aloud (read-alouds, cold opens, dreams) is a script, not prose.** Casual spoken register: contractions, short sentences, direct address ("Isotta, you wake up—"), plain words, room to pause. The GM's delivery carries the emotion — write vivid *images*, not vivid *syntax*. "Still as a nail driven into wood" is a page sentence, not a mouth sentence.
+- **GM-facing notes and lore files keep the polished sourcebook voice.** The split matters: notes get skimmed, read-alouds get performed.
+- **NPC dialogue is performable as written speech** — give big NPCs a *delivery tic* the GM can act (the Tallykeeper: no contractions, short ruled lines, a beat between sentences).
+
+### Clues at table brightness
+- **Subtle clues die at the table.** Every key clue fires **twice, through two channels: shown once, said out loud once** (an NPC states it in plain words).
+- **Best delivery mechanism: another PC.** Hand the clue to the character whose skill set would spot it (the Ranger clocks the wrong-behaving animal) so a *player* says it to the table. Keep an NPC fallback ready if the player hesitates.
+- **Track delivery in a clue ledger table** — Secret | Shown | Said aloud — and note what's deliberately held back. Pattern: [[session-04-salt-wall]].
+
+### PC arc design
+- **Never make a PC the lore conduit.** A personal arc is about the *character*; if their quest is really a delivery system for campaign lore, rework it ([[isotta-arc]] is the template — and [[isotta-arc-brainstorm]] is the cautionary before-picture).
+- **Personal antagonists with legitimate claims beat villains.** The Tallykeeper is *owed*. The scariest pressure is a claim the player can't call unjust.
+- **Bargains must never reduce to yes/no.** "Live or die, pick one" is a four-second decision. Negotiate *time, terms, collateral* — things with ongoing cost.
+- **Tune the arc to what the player lights up for** (Isotta's player: mystery + wonder) — ask, don't assume. Let mystery players *deduce* the answer from evidence; never hand it over via NPC.
+- **Conditions get costs AND gifts,** plus one hidden explanation that unifies every symptom — discoverable, so solving it feels like detective work.
+- **House style:** two-stage reveals (eerie first, the flip later) and endings as menus, not scripts.
+
+### Mechanics that work at this table
+- **Dice-forward set pieces:** 3–4 real rolls with Hope/Fear stakes per big scene (the Session 3 "dice fix" — it stuck).
+- **Physical props and visible clocks** land better than abstract stakes (the grace cord: loops the player can see tighten).
+- **Set pieces get their own session file:** beats with spoken-register read-alouds, the rolls with difficulties, a clue ledger, a GM quick-reference, and a "threads opened" list.
+
+### Repo hygiene
+- **Grep the repo before coining ANY new name** (NPC, spirit, place). Canon already contained an "Old Patience" and an "Odile" — a fresh invention collided with both. Pull local-flavor names from `gm-table-pack/improv-ammo.md` name lists.
+- **New canon terms enter the wiki-link web the day they're coined** — aliases in frontmatter, disambiguation notes where confusion is possible, and a one-line pointer wherever the old version lived.
+
 ## Lazy DM Framework (Sly Flourish)
 
 All session prep files follow the **Eight Steps** structure. Not all steps are needed every session — use what serves the game.

@@ -1,4 +1,6 @@
-# Isotta — Arc Brainstorm (DRAFT — not locked in)
+# Isotta — Arc Brainstorm (SUPERSEDED — see [[isotta-arc]])
+
+> ⚠️ **Superseded 2026-07-01** by [[isotta-arc]] ("The Uncollected"). The investigator/lore-conduit direction is dropped. **Still worth salvaging from here:** the salt-wall opening quest (Part 2's beats and read-alouds) — recast Beat 4's lingering ghost as her first Lantern Docket case.
 
 *Working notes from 2026-06-22. The direction is agreed; the details aren't final and none of this is canon yet. For established facts about her, see `players/isotta.md` in the repo. Built against the cosmology in `world/cosmology.md` and the fronts in `world/world-in-motion.md`.*
 

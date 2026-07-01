@@ -5,13 +5,7 @@ aliases:
 
 # Isotta
 
-> 🎨 **ARC REDESIGN NEEDED — needs creative juices** *(flagged at the Session 3 wrap).*
-> Isotta is a great PC and deserves better than the current plan, which makes her *"the diligent one who solves the mystery"* — a lore-delivery conduit more than a person. **Rework her arc from scratch next session.** The old direction lives in [[isotta-arc-brainstorm]] (raw material, not gospel). Seed questions to answer first:
-> 1. What specifically feels **off** — too cerebral/investigative? too passive? no personal antagonist? her cure being the whole story?
-> 2. What does her **player** actually lean into — spirit-world wonder / detective work / ghost-pathos / horror / combat?
-> 3. What feeling should her arc **end** on — peace / a hard sacrifice / becoming something new / reunion / letting go?
->
-> New threads Session 3 opened to build from: the salt wall's *"you came back **wrong-shaped**"*; [[Vael Miroux]] as **blood-hunter kin**; the veil physically *pulling at her in the dark* (she nearly came apart the night before). Don't lean on the current investigator plan until this is reworked.
+> ✅ **ARC REDESIGNED — see [[isotta-arc]] ("The Uncollected").** Her death was never collected; the heron psychopomp — **the Tallykeeper** — holds the open line, and the **Lantern Docket** (the dead's cases) is her sidequest engine. Tuned to her player's confirmed leans: **mystery + wonder.** The old investigator plan in [[isotta-arc-brainstorm]] is superseded (salvage only the salt-wall set piece). Session 3's threads — *"wrong-shaped,"* [[Vael Miroux]] as kin, the dark pulling at her — are all folded in.
 
 **Class:** Bloodhunter — Order of the Ghost Slayer subclass
 **Ancestry:** Katari

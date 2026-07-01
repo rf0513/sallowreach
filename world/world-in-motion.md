@@ -211,6 +211,24 @@ Each front is a dial. Format: what it is, who drives it, where it stands at the 
 
 ---
 
+### Front 9 — The Grieving Mother *(the party's own thread — session 3)*
+
+**What it is:** A mother owlbear whose two cubs were trafficked out of the uplands through [[Gault]]'s Mooring pipeline. One cub the party wounded, saved, and left recovering with [[Brin Sevarre]]; the other is [[Marcel Dray]]'s pet. She is following their scent toward Sallowreach.
+
+**Driven by:** grief and instinct. Owlbears do not forget their young.
+
+**Where it stands now:** Distant, coming. The smuggler who took the cubs is dead (see [[Marcel Dray]]), so no one manages her but the Mire itself.
+
+**If left alone:** she reaches the city — a Tier 2+ storm of talons and grief — and the only thing that calms her is the cubs. One's with Brin; one's in Marcel's quarters. Getting the second back means going through Marcel.
+
+**Player levers:** reunite her with the cub(s); intercept her before she reaches the boardwalks; or let her arrive on her own terms. Returning Marcel's cub is a lever *on Marcel* as much as on her.
+
+**Tells at the table:** a far-off answering call the night the cub was hurt; trappers' tales of something huge moving up the southwest channels; the saved cub going still and crying toward the dark at the same hour each night.
+
+**Thematic rhyme:** a vast grieving parent reaching toward stolen young, kept apart by human greed — the [[Mangrove Spirit]]'s whole story, scaled to fur and talons. The party meets the small version long before they understand the large one.
+
+---
+
 ## The Gravity Well — One Trajectory If No One Ever Intervenes
 
 This is **not the ending.** It is the direction the fronts drift when nothing pushes back — the gravity the party is perturbing the moment they wash up on the bank. Useful for knowing which way "downhill" runs, so you can feel where player action bends the curve.
@@ -252,14 +270,15 @@ Each holds one piece. Assembling them requires someone who can move freely betwe
 
 | Front | Driver | Stage at start | Current stage |
 |---|---|---|---|
-| 1 — The Grief Rises | Mangrove Spirit | Accelerating | |
-| 2 — The Wall Thins | Oswin / grief / Interlock | ~60%, visibly thinning | |
-| 3 — The Edge Erodes | Displacement / Adaline's lag | First relocation orders posted | |
-| 4 — The Fracture | Fen / displacement | Latent, warming | |
-| 5 — The Wrong Note | Fen / Interlock | Private, undocumented | |
-| 6 — The Patient Man | Caius | Shipwreck done, file building, waiting | |
-| 7 — The Holstered Gun | Marcel | Holstered, seeking an instrument | |
-| 8 — The Steward's Blindness | Adaline | Managing decline, not looking | |
+| 1 — The Grief Rises | Mangrove Spirit | Accelerating | Unchanged |
+| 2 — The Wall Thins | Oswin / grief / Interlock | ~60%, visibly thinning | **S3:** Vael flagged the SW breach to Isotta; she hasn't gone to the wall yet |
+| 3 — The Edge Erodes | Displacement / Adaline's lag | First relocation orders posted | Unchanged |
+| 4 — The Fracture | Fen / displacement | Latent, warming | Unchanged |
+| 5 — The Wrong Note | Fen / Interlock | Private, undocumented | Unchanged |
+| 6 — The Patient Man | Caius | Shipwreck done, file building, waiting | **S3:** dinner held; report **unsigned**; Tenson pulled the Oswin-funding thread → Caius now **wary of Tenson** |
+| 7 — The Holstered Gun | Marcel | Holstered, seeking an instrument | **S3:** now also holds an **owlbear cub** + the **Tidebreaker** the party will come wanting |
+| 8 — The Steward's Blindness | Adaline | Managing decline, not looking | Unchanged |
+| 9 — The Grieving Mother | Grief / instinct | *(new S3)* | Distant, coming; smuggler dead; one cub w/ Brin, one w/ Marcel |
 
 ---
 

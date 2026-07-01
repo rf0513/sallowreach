@@ -1,6 +1,6 @@
 # Session 3 — Run Sheet *(everything you run from)*
 
-*The single table doc: dice, spine, per-scene cards (read-aloud + how-to-play + dice in one place), secrets, wander table, guardrails. Deep design lives in [[session-03-prep]]; the museum set-piece is its own doc, [[session-03-caspar-encounter]]. **Two goals tonight: roll more dice, and end with all four in one room.***
+*The single table doc: dice, spine, per-scene cards (read-aloud + how-to-play + dice in one place), secrets, wander table, guardrails. Deep design lives in [[session-03-prep]]; the two big set-pieces are their own docs — [[session-03-caspar-encounter]] (the museum) and [[session-03-the-dinner]] (the Embassy & Caius). **Two goals tonight: roll more dice, and end with all four in one room.***
 
 **Jump to:** [Pre-Session](#-pre-session) · [Dice](#-dice-first) · [The Spine](#-the-spine) · [Scenes](#the-night-scene-by-scene) · [Secrets](#️-secrets--clues) · [Wander Table](#-they-just-wander) · [Guardrails](#-hard-guardrails)
 
@@ -9,6 +9,7 @@
 ## ✅ Pre-Session
 - [ ] **Isotta catch-up sent** (her private Delphine beat → points her at Vael).
 - [ ] **Skim [[session-03-caspar-encounter]] once** — the new centerpiece; the one scene you haven't run cold.
+- [ ] **Skim [[session-03-the-dinner]] once** — the evening set-piece; the Staff + hints menu reward a read.
 - [ ] **Decide the shape:** day-errands → dinner, or straight to the dinner if they're hungry for it.
 - [ ] **Give Isotta the wall early** — her spotlight + 4 rolls.
 - [ ] **Diff numbers ready:** wall reach **15**, wall pull **14**, civet **12**, Warden **13** *(all verified vs SRD)*.
@@ -47,22 +48,32 @@
 
 ---
 
-### 0 · Too Many Teeth *(strong start)*
-> Morning on the boards, and it's the good kind — the cleanup feast still going from the Celebration, somebody pressing warm bread into hands, the smell of frying lantern-root. You're three bites into the best welcome a city ever gave anyone. And then a woman screams. She comes down the boardwalk at a dead run, and she's holding — you see it before your brain wants to — a little dog, or what's left of one, its leash chewed clean through, blood on her forearms. People scatter. She's not screaming for help. She's screaming at the *city.* *"It came back! In daylight — it came BACK! Eyes like coins under the boards. And a sound — it sounded like a* child. *Somebody do something before it takes one of ours."* And behind you the mood's already turning — a man pulling a gaff-hook off a wall, somebody shouting a number like a bounty. And every face that was smiling at you a second ago is now turned your way, waiting.
+### 0 · Strong Start — "The Water's Loud Today" *(Delphine, afraid; the round of the table)*
+*Open not on a lecture but on **Isotta almost not surviving the night** and Delphine — who never flinches — **scared.** She goes person to person and reads a* different *wound on each. Every PC is spotlit in the first ten minutes; the exposition rides her fear.*
 
-*GM — the door into the whole day. The "haunt" is the amber civet; the crowd's the real hazard. **Open on the crowd's eyes, not dice.** If Fletcher doesn't bite, the civet stays loose and escalates toward dinner.*
+**Cold open:**
+> Dawn. Isotta — you don't sleep, not really, but last night the not-sleeping was *different.* Something in the dark was **pulling** — the city's edge, the grey wall, the thin place beyond it wanted you, and you spent the whole night with your hands pressed to your own arms, making sure they stayed arms. By first light you're at Delphine's door, and you're not entirely… *solid* when she opens it. And here's the thing about Delphine — sixty years a healer, never once flinched — she looks at the way the dawn comes *through* you at the edges, and something crosses her face none of you have seen there. **She's afraid.** *"Get in. All of you — sit. I've turned this over since you left and I'm done being gentle: what's on you is old, it's got teeth, and I'd rather frighten you than bury you."*
 
----
+**The round of the table** *(hit each PC present):*
+- **🩸 Isotta:** *"You didn't just get caught in the water like the others. You died in the crossing and something dragged you back* attached. *That's not their curse — it's older, and it's* yours."* → find **Vael** (*"he sees what I only feel"*).
+- **🏹 Fletcher:** [pulls back like she touched a hot stove] *"That thing you're hunting is looking* back *now — knows the shape of your name. And it isn't just an animal, is it. There's a* want *in it. Mind it doesn't find you first."*
+- **🕯️ Leavy:** *"There's a* hole *in you, child. Someone took a whole life out clean, and you've been walking around the shape of what's missing. A witch with no past and no coven is a candle with no wick."*
+- **⚖️ Tenson:** [holds his hand, goes quiet, finds *nothing*] *"You're the strange one. The others each carried their own wound through my door. You're just tied to the water with them — clean, otherwise. Whatever's got its eye on* you *isn't in your blood. It's a* person. *And they think you're already dead."*
 
-### 🌿 Delphine's Hand-Off *(launches the curse path)*
-**Walk-in:** drying herbs and beeswax, the mineral smell of deep Mire water; bundles from every rafter; she's already looking at whoever's most worn-down before anyone speaks.
+**The shared curse, deepened:** *"What ties all four of you is* old *— past my shelf. Leave the Mire and it kills you; I can't cut it. But I know a man who chases things this old — **Caspar Renne,** the museum, old quarter. Tell him I sent you."*
 
-**How to play:** gets **very close and very quiet** when she examines. Blunt but never cruel — what's wrong, what she can do, what she can't, what to do next, *in that order.* **The tell:** her eyes drift a half-second *left,* she goes still a beat too long, then she's back like nothing happened. Bristles at being treated like an oracle.
+🎲 **Isotta holds her shape** — *Presence/Instinct* (turn-one roll; others **Help** — a hand, a name, grounding her). · **Read what Delphine won't say** — *Instinct 13* → *"Old habit. The water's loud today."*
+> **Guardrails:** she doesn't name any binding/Tree Spirit; the snake is "more than an animal" but *unspecified*; no "it's like the Celebration" yet.
 
-> *"I've turned this over since you left, and I'll tell you plain: this isn't new. What's tied to you is* old *— older than me, maybe older than the stories this city tells about itself. That's past my shelf. But I know a man who chases things that old for a living. Caspar Renne — the museum, up in the old quarter. Tell him I sent you. He'll actually listen."*
+**⏱️ THE SOFT HAND-OFF *(no forced encounter — you pick where they go):*** Delphine runs out of gentle and out of answers at the same moment. *"That's all I've got. Go see Caspar — and get her" [Isotta] "to Vael before the sun's high. Now get out of my house before you frighten my morning patients."* She shoos them into the warm, ordinary morning — bread on the boards, the cleanup feast still going — with a **menu, not a track:**
+> - 📚 **Caspar's museum** (the curse path — the obvious pull; [[session-03-caspar-encounter]])
+> - ☕ **Vael / the Still Cup** (Isotta — Delphine just sent her)
+> - 🏹 **the Ranging House** (Brin) · 🥊 **the Drillfield** (Sable) · or just **wander** (the d6 table below)
+> - 🍷 all roads bend toward **the dinner** tonight
 
-🎲 **Read what she's not saying** — *Instinct 13* → catches the drift-left; *something hit her* she won't name. Don't disclose the vision — *"Old habit. The water's loud today."* · **Press her on how old** — *Presence/Knowledge 12* → old, deep, past her shelf → Caspar.
-> **Guardrails:** she doesn't know about any binding/prison/Tree Spirit. The "it's like the Celebration" line is a *return-visit* reward, not now.
+*GM — **let them choose; don't push.** Caspar is the strongest magnet if they hesitate.*
+
+> 🌙 **The civet ("Too Many Teeth") is PARKED — you haven't prepped it and you don't need it tonight.** It's nocturnal: **Brin hands it over as a night job** (or hold it for Session 4). If you ever want the daylight scream later, it's a great cut-in — but nothing tonight rides on it. Breathe.
 
 ---
 
@@ -127,26 +138,8 @@
 
 ---
 
-### 🏛️ The Embassy *(the showpiece — don't fumble it; two movements)*
-**Movement I — wonder *(let them love it):***
-> There's a door at the end of the inner boardwalk, and you step through — and you step *out of Sallowreach.* The heat goes first — two hundred years of wet bayou air, gone — and you're breathing something dry and clean and faintly sweet, like the first cool morning of an autumn you haven't felt since you got here. There's *grass.* Gravel paths. Apple trees in full white blossom *and* heavy with red fruit at once. A gold butterfly drifts past. Birdsong up in the blossoms. It is, honestly, beautiful. It feels like *home.*
-
-**Movement II — the seams *(drip, don't dump):***
-> And then it starts to come apart at the edges. You go to brush the butterfly away and your hand passes *through* it — no weight, the same lazy pattern, because it isn't flying, it's being *drawn.* You pick one of those impossible apples and it's flawless and it has no *smell* — and when you bite it there's no crunch, no juice, your teeth close on cool air and a fading image. And now you can't stop seeing it: no insects in this grass. No frogs. No gnats. The birdsong loops. The breeze pulses on a schedule. And half-hidden behind a blossoming hedge, three people in plain robes sit very still with their eyes shut and their hands open and **real sweat** running down their faces — the only real sweat in this whole garden — from the effort of holding all of it up.
-
-*GM — **the Empire's thesis vs. Sallowreach's, in one room.** The swamp's magic is alive and asks nothing; the Empire's is illusion maintained by hidden labor. Caius doesn't see the irony — to him this IS "better infrastructure." Let them love it, then let the seams teach them what kind of man hosts a dinner inside a lie. **File it, don't underline it.** If a PC pities the straining mages, the scene's working.*
-
----
-
-### 🍷 The Dinner — Caius *(the centerpiece; SOCIAL, not combat)*
-
-**How to play:** imperial true believer; warm, delighted, genuinely charming — younger than expected, dry and pressed and at ease in his impossible garden. Every warm question is quietly **filed as testimony.** **Tell:** always too put-together for the humidity.
-
-**The host read-aloud:**
-> In the middle of his impossible garden, at a table set with the best of everything, Caius Maren stands to greet you — *delighted.* He's poured the wine himself. *"You came. Good. I've read three incident reports out of this Mire in two years, and not one had survivors. And here you are, at my table. Sit. Eat something that hasn't been fried in swamp-fat."* [wonderful company — asks about the city, your trades, the Celebration, listens like every word's a gift. Then, second course, gentle, almost an afterthought:] *"Can I ask — and stop me if it's too soon — where exactly did she go down? Out past the southwest channels, was it? And there were the — what, the four of you, and your guide? How long were you in the water, before the light?"* [and he waits. And listens. Like he'll remember all of it.]
-
-🎲 **Catch the slip** — *Instinct/Knowledge* → he knows a detail he shouldn't (*"past the southwest channels" / "the four of you" / "before the light"*). A hit plants *"this man already knew about our wreck"* — **not** that he did it. **For Tenson:** this is the man who was told the Guardian died. Let the divination itch; don't pay it off. · **Decline the written report** — *Presence* → his real ask (a formal incident report = document fourteen in his annexation file) turned down without burning the bridge.
-> **Vivienne's armor:** if she dressed them, they arrive in **Sallowreach finery, not imperial fashion** — a quiet "he doesn't own you." Caius feels it and is mildly, genuinely put out. **He is NOT a fighter** (two guards, an unused knife) — keep it social; the payoff is the *realization later.*
+### 🏛️🍷 The Embassy & The Dinner *(the evening centerpiece — its own doc)*
+**This is now [[session-03-the-dinner]] — "An Imperial Welcome."** The magical illusion-garden, the living-spell **Staff**, and the tense (no-combat) dinner with Caius: the interview + the wreck **slip**, the **report** he wants signed (*document fourteen*), the manifest-destiny philosophy, and the **Oswin-funds crack** if Tenson pulls it. Full read-aloud, hints menu, and dice live there — don't run it off a one-liner.
 
 ---
 
@@ -193,4 +186,4 @@ They **rolled real dice with stakes,** **felt the Empire's hollow perfection** a
 
 ---
 
-*Related: [[session-03-prep]] · [[session-03-caspar-encounter]] · [[caspar-renne]] · [[the-tidebreaker]] · [[cosmology]] · [[world-in-motion]]*
+*Related: [[session-03-prep]] · [[session-03-caspar-encounter]] · [[session-03-the-dinner]] · [[caspar-renne]] · [[caius-maren]] · [[the-tidebreaker]] · [[cosmology]] · [[world-in-motion]]*

@@ -57,6 +57,12 @@ That once guild protection is revoked, the wizard's debt becomes immediately col
 
 **What he doesn't do:** traffic in people. This is his line — not mercy, *code.* His power rests on being the most predictable force in an unpredictable place, and a man with no lines is only chaos with a ledger. Those who try to run flesh through his city don't get a warning; they get a vacancy where they used to be. The line is real. It is also a demonstration.
 
+## The Owlbear Cub *(session 3)*
+
+Marcel keeps an **owlbear cub** in his private quarters — an exotic pulled from a beast-smuggler's contraband running through the [[The Mooring|Mooring]]'s night berths. *Two* cubs came up the channel; Marcel took one because it *pleased* him — a collector's fondness, and the one soft thing in the Pale Room. He named it. He feeds it from his own hand. The smuggler who brought it met an **unfortunate end** soon after — an unpaid courtesy, a crossed line, or simply knowing too much — which is why the second cub, the boat, and the rest of the cargo were never collected.
+
+*(GM: the party wounded, saved, and kept the **sibling** cub — and took the smuggler's boat. The **grieving mother owlbear** (Front 9, [[world-in-motion]]) is following both scents toward the city: one leads to the party, one leads to Marcel's parlor. Marcel has no idea a mother is coming, and would be honestly — dangerously — put out to lose the pet.)*
+
 ## Key Relationships
 
 - [[Oswin Cray]] — debtor; currently untouchable behind Guild protection; Marcel's primary irritation

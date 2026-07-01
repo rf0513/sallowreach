@@ -1,6 +1,6 @@
 # The Still Cup
 
-**Type:** Cafe / professional gathering space
+**Type:** Cat café / professional gathering space
 **Region:** [[Sallowreach]] — inner boardwalk district, one block off the main market
 **Controlled By:** [[Vael Miroux]]
 
@@ -9,6 +9,8 @@
 The Still Cup looks, from the outside, like a place that takes its coffee seriously and minds its own business. Both of these things are accurate. The sign is small — the name carved directly into the door frame rather than hung above it — and the interior runs to dark wood, good light at every table, and the specific kind of quiet that comes not from the absence of people but from their general understanding that this is not a loud establishment.
 
 The coffee is, by consensus, the best in Sallowreach, which is notable because Sallowreach has strong opinions about coffee. [[Vael Miroux]] sources the beans through a relationship they've maintained for fifteen years and prepares each cup with a precision that might look like ceremony if you didn't know them. It's not ceremony. It's habit. They have decided that something worth doing is worth doing correctly.
+
+**And there are cats.** Half a dozen have the run of the place — dozing on the warm counter, claiming laps uninvited, threading between the ankles of people who came for quiet. Vael feeds strays and has never once turned one out. The regulars swear the cats can read a person, and they're not wrong; more than one goes still and watchful the moment [[Isotta]] steps through the door, tracking something at her shoulder that isn't there.
 
 On any given day the Still Cup holds a mix: morning regulars from the neighborhood who have no idea what kind of professional organization meets here on the last day of every week; and, on that last day, the quieter, more deliberate presence of people who do this work — bloodhunters, ranging from actively practicing to long retired, from every suborder — who gather with the specific warmth of people who understand each other's nightmares. The two groups coexist without friction. The regulars know something happens on Thursdays. They have learned not to ask.
 

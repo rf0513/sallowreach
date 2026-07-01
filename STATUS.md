@@ -6,11 +6,13 @@
 
 ## Where We Are
 
-**Session Zero is done. PCs are known.** The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit — hunting the amphisbaena that ate his town's clutch), [[the-witch|The Witch — name TBD]] (Witch/Hedge, Clank shapeshifter — wants to permanently become human), [[isotta|Isotta]] (Bloodhunter/Ghost Slayer, Katari — *is a ghost*, wants curing), [[tenson|Tenson]] (Guardian/Stalwart, Faun — citadel auditor sent to investigate the salt-wall funding dispute). Full sheets in `players/`.
+**Sessions 1–3 are played.** The latest as-played record + full board state is **[[session-03-recap]]** — start there for cold context.
 
-**Key framing shift:** this party sailed *to* Sallowreach as their destination (not passing through to elsewhere). The tether's cruelty is "you arrived, and now it's a cage." See the framing note in [[session-01-prep]].
+The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch ([[the-witch]], Witch/Hedge, Clank shapeshifter), [[isotta|Isotta]] (Bloodhunter/Ghost Slayer, Katari — *is a ghost*), [[tenson|Tenson]] (Guardian/Stalwart, Faun — citadel auditor). Full sheets in `players/`.
 
-Next concrete step: **run Session 1** — `sessions/session-01-prep.md` is PC-wired, the tone is captured (**bayou wonder + personal-quest pathos**; intrigue/combat stay background), and per-PC wonder/pathos landing beats are written. The "who's waiting back home" names (Fletcher, Witch, Isotta) and the **Witch's name** are intentionally **left open** — collect from players in early play; the prep runs fine without them.
+**The tether:** they sailed *to* Sallowreach and can't leave the Mire — arrival became a cage. They now know it's old/ancient and it points at [[Caspar Renne|Caspar]] → the [[the-tidebreaker|Tidebreaker]] (the curse-breaking spear, held by [[Marcel Dray|Marcel]]).
+
+**Session 4 headlines** *(full state in [[session-03-recap]])*: Isotta's **salt wall** (untouched — her big spotlight), the **Caspar encounter** (barricaded, ready — [[session-03-caspar-encounter]]), the **unsigned imperial report** (Tenson wants to redline — handout in `players/`), the **owlbear cub + grieving mother** (Front 9 in [[world-in-motion]]), and **Marcel** quietly holding both the Tidebreaker *and* the sibling cub.
 
 ---
 
@@ -24,7 +26,7 @@ Next concrete step: **run Session 1** — `sessions/session-01-prep.md` is PC-wi
 | The Mire location | Done |
 | All major NPCs (see below) | Done |
 | Gault (main villain adversary) | Done |
-| The Fishing Spear (key item) | Done |
+| The Tidebreaker (key item — formerly "the Fishing Spear") | Done |
 | The First Maintainer's Journal (key item / quest) | Done |
 | Session Zero document | Done |
 | Resolution levers & possible shapes (not fixed endings) | Done |
@@ -64,7 +66,7 @@ Next concrete step: **run Session 1** — `sessions/session-01-prep.md` is PC-wi
 **PC Anchor NPCs (post–Session Zero — each PC's "place to go" + an interesting NPC who helps their personal quest):**
 - **Brin Sevarre** — the Hunters' Guild **balance-keeper** (ethical population-control / invasives) at **The Ranging House**; **Fletcher's** anchor. The amphisbaena is invasive = her domain, but too dangerous to cull solo. She distrusts hunters (a mentee she vouched for died as one of **Gault's** disposable hired hands), so she gates the nest intel behind an **in-town trust-test** ("the Haunt of Thornside" — an escaped trafficked civet that brushes the edge of Gault's pipeline). **Gault is her antithesis** (steward vs. strip-miner); the test plants the main villain early.
 - **Professor Orna Tessant** — eccentric-genius alchemist (a firbolg) directing **The Verdant Margin**; the best alchemist in the city and its worst teacher; **drinks their own experiments** and is slowly Davy-Jones-ing into a swamp-thing, doesn't care; chasing the **all-cure elixir**; never writes anything down. **Secret:** already made one impossible cure years ago, can't reproduce it, racing their own dissolving mind. Light Witch quest: **"Persona Non Grata"** (fetch gloamcap distillate from the Alchemists' Consortium, where Orna is banned — a social door + an outside-POV reveal on Orna; optional price = get Orna to write down *Lastlight*, their coveted reagent-fixative recipe). Diagnoses the Witch as *bound, not sick* (spear breadcrumb). The **Witch's** anchor + mirror (self-dissolving-by-choice vs. self-stolen). Garden beds = a Turn clue.
-- **Vael Miroux** — owner of **The Still Cup**; retired Ghost Slayer; one white eye that **sees spirits** (incl. the small ones passing as human); **Isotta's** anchor and teacher about what she is. Quest **"Old Basile"** = a beloved cafe regular revealed as a slipping spirit (the clean showcase of the spirit-world cosmology); teaches Isotta anchoring + parley + that she's *bound, not crossed* (curse → spear). *Still a fragment-holder:* feels something vast *held* deep in the Mire but can't resolve it (Tree Spirit stays end-game). **New setting metaphysics** (WBN-flavored): spirit world + thin veil + spirits-among-us are now formalized in `cosmology.md` (player-facing; the binding stays the secret).
+- **Vael Miroux** — owner of **The Still Cup** (now a **cat café**); a retired **blood hunter** (Order of the Ghost Slayer); one white eye that **sees spirits** (incl. the small ones passing as human); **Isotta's** anchor and teacher about what she is. Quest **"Old Basile"** = a beloved cafe regular revealed as a slipping spirit (the clean showcase of the spirit-world cosmology); teaches Isotta anchoring + parley + that she's *bound, not crossed* (curse → spear). *Still a fragment-holder:* feels something vast *held* deep in the Mire but can't resolve it (Tree Spirit stays end-game). **New setting metaphysics** (WBN-flavored): spirit world + thin veil + spirits-among-us are now formalized in `cosmology.md` (player-facing; the binding stays the secret).
 - **Sable Crue** — sergeant at **The Drillfield** (SW perimeter); **Tenson's** anchor and funhouse mirror: brawny, sunny, full of life, completely at peace being average (vs. Tenson, brawny and desperate to prove they have brains); the happiest person in a "hated" posting. Trust earned **on the field** (mini-quest "Sweat First" — Tenson's buried sports-medicine skill turns around a struggling guard, Perrin), not with the seal. Then Sable is the **man on the inside** = *access* to the records. The Caius memo sits there **unread** (parsing it is "a brain job") — Tenson is the one who finds it. *(Remy = the water-side half; Tenson fuses.)*
 - **Magistra Silence** — citadel wizard, **off-screen**; Tenson's patron who sent the assignment; a face of urgency via letters. GM-only fork: kind patron vs. someone who'd weaponize a trapped agent. *(High-powered wizards are named for spells — see her file.)*
 
@@ -83,17 +85,17 @@ Next concrete step: **run Session 1** — `sessions/session-01-prep.md` is PC-wi
 
 ---
 
-## What's Next
+## What's Next — Session 4
 
-Priority order based on campaign start:
+Full board state in [[session-03-recap]]. Top threads:
 
-1. **Session 1 is PC-wired** (`sessions/session-01-prep.md` — table, clues, items, "followed the light"=Isotta). Remaining: collect the last private "who's waiting back home" names for **Fletcher**, **the Witch**, **Isotta** (Tenson's is locked = [[Magistra Silence|Silence]]), then run it.
-2. **Post–Session Zero, PC-gated:** the [[The Drowning Edge]] edge-family placeholder (good candidate: tie to Tenson via [[The Drillfield]]/[[Sable Crue]], or to Fletcher's southwest hunt); personal tether manifestations; assign the bank's first-contact NPC (Remy is the natural pick).
-4. **Spear-bridge consequences** — what the world looks like if the party leaves the injustice in place (one possible shape among several; see [[resolution-options]])
-5. **Oswin Cray pre-scene** — agreed but not urgent
-6. **Personal tether manifestations** — after Session Zero
-
-*(The Celebration as a playable scene — DONE, now `environments/the-celebration.md`.)*
+1. **Isotta's salt wall** — Vael's hook, still untouched; her biggest personal beat. Give it early.
+2. **The Caspar encounter** ([[session-03-caspar-encounter]]) — he's barricaded; the "Counterfeit Corpse" is fully ready to run.
+3. **The unsigned report** — Tenson wants to edit it before the party decides; handout ready in `players/incident-report-handout.md`.
+4. **The grieving mother owlbear** (Front 9, [[world-in-motion]]) — coming; one cub with Brin, one with Marcel.
+5. **Brin's snake intel** — promised, pending (Fletcher passed the trust-test).
+6. **Leavy's gloamcap quest** for Orna → a familiar of her own.
+7. **The party has a boat now** — deep-Mire trips (the amphisbaena / Double Knot) are on the table.
 
 ---
 
@@ -108,7 +110,8 @@ Priority order based on campaign start:
 - **The immigrant quarter / "people like us"** *(Tier 2)* — the ~3,000 outsiders who got kept; a mirror for the party; also where Caius's guild/imperial reps sulk.
 - **An outfitter / general goods** *(Tier 2)* — the [[The Outer Market]] *place* exists; the buy/sell function and a shopkeeper don't.
 
-## Open Questions (Resolve Before Session 1)
+## Open Questions (ongoing)
 
-- What was each PC traveling toward? (Session Zero answers)
-- Don't pre-pick an ending. Keep the [[resolution-options|resolution levers]] all live going into play, and let how you weight clues follow the party's choices once they're playing — not a pre-committed pole. Revisit only if the table's investments clearly start pointing somewhere.
+- **Don't pre-pick an ending.** Keep the [[resolution-options|resolution levers]] all live; let clue-weighting follow the party's choices, not a pre-committed pole.
+- **Pending canon reconciles:** the Tessak / lantern-rays rewrite (still flagged in Key Decisions below). Session-3 reconciles (Vael-as-blood-hunter, cat café, the boat, Marcel's cub, Orna's familiar carrot, the owlbear front) are **applied** to their files.
+- **Judgment calls left for the GM:** whether to delete `_archive-sallowreach-draft.md` (superseded) and whether to slim the Session-2 file sprawl down to the recap. Flagged, not touched.

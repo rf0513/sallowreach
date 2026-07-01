@@ -6,12 +6,12 @@ aliases:
 
 # Vael Miroux
 
-**Role:** Owner of [[The Still Cup]]; retired Order of the Ghost Slayer; Sallowreach's quiet authority on the spirits who walk among people
+**Role:** Owner of [[The Still Cup]]; a **former blood hunter** (Order of the Ghost Slayer), long retired; Sallowreach's quiet authority on the spirits who walk among people
 **Location:** [[Sallowreach]] — [[The Still Cup]]
-**Faction:** Order of the Ghost Slayer (retired, and privately heretical about it)
+**Faction:** Blood hunters — the Order of the Ghost Slayer (retired, and privately heretical about it)
 **Tier:** 2
 
-*Isotta's anchor and first true teacher about what she is. The one person in the city who looks at a ghost wearing her own face and isn't surprised — because Vael has spent a decade watching far stranger things order coffee and pay their tab.*
+*Isotta's anchor and first true teacher about what she is. The one person in the city who looks at a ghost wearing her own face and isn't surprised — because Vael has spent a decade watching far stranger things order coffee and pay their tab. He was a **blood hunter** himself, once — the same dark craft Isotta walks now — and that is the other half of why he knows her the instant she steps in.*
 
 ---
 

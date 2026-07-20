@@ -9,11 +9,13 @@ aliases:
 # Caius Maren
 
 **Role:** Imperial Cultural Liaison; the Empire's most patient instrument in Sallowreach
-**Location:** [[Sallowreach]] — the Imperial Attaché Quarters, inner boardwalk district; the nicest rooms in the building, which he had reassigned from a previous occupant on arrival
+**Location:** [[Sallowreach]] — the Imperial Attaché Quarters, inner boardwalk district; the nicest rooms in the building, which he had reassigned from a previous occupant on arrival. *(That occupant was **[[the-eddy|Severin Calder]]**, the senior attaché who answered his own recall by crossing over to the immigrant quarter. Caius took the rooms as flag-planting and hasn't thought about the man since. The man reads him perfectly — and wrote the capital one anonymous letter saying so, a year ago. No answer. See [[the-eddy]].)*
 **Faction:** The Empire / Mages Guild (nominally)
 **Tier:** 2
 
 *His official mandate: observe, document, report. What he is actually doing is building the case for annexation. None of it has been sanctioned. He is betting the capital ratifies success after the fact.*
+
+> **Set pieces & blind spot:** the report's return runs as [[session-04-redline-meeting]]. His attendant, [[bigsby|Mr. Bigsby]], is the one unsteered record in his house — and Caius has spent two years treating him as furniture. That blindness is load-bearing; see Bigsby's file before running any Embassy scene.
 
 ---
 
@@ -53,6 +55,7 @@ Two years ago, Caius Maren arrived in Sallowreach with a mandate to observe, doc
 - Arranged the shipwreck. He needed a documented incident demonstrating that unregulated Mire waterways are dangerous to imperial-adjacent travelers. He sourced a man through [[Marcel Dray]]'s network — without Marcel's knowledge or permission — and paid him to ensure the ship went down. He expected everyone to die. [[Remy Duval]] was on the ship. Remy is amphibious. The party is alive. Maren has adjusted.
 - Denied [[Oswin Cray]]'s maintenance budget request. Oswin submitted a formal appeal for additional ward maintenance funds through the imperial bureaucratic channel — the Guild's relationship with the Empire means this crosses Maren's desk. Maren declined it with pleasant, well-reasoned language about fiscal protocol and existing maintenance guarantees. He does not know about the embezzlement. He simply wants the ward to fail. A Mire incursion into the outer boardwalk — property damage, displaced families, a city overwhelmed — is the crisis that completes his file.
 - Built an incident file spanning two years: navigational failures, ward degradation reports, outer boardwalk displacement records, the shipwreck. Every document is real. Every document is framed.
+- Begun collecting witness statements in [[the-eddy|the Eddy]] — the annexation case wants credible imperial-adjacent voices "describing conditions." He has misread the quarter as his people; the old hands sandbag him with warm, useless vagueness, but the newest, loneliest arrivals sign what's put in front of them. *(If ignored: three year-one clerks' names end up on a document read aloud in the capital.)*
 
 **What he has miscalculated:** He thinks he is opening a door for a manageable flood. He does not know about the [[Mangrove Spirit]]. He does not know about the [[Tree Spirit]]. He does not know that what is pressing on the other side of [[Oswin Cray]]'s ward is two hundred years of compressed grief from something ancient and vast. He thinks he is engineering a bad season. He is engineering a catastrophe.
 

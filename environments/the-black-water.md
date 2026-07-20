@@ -2,6 +2,8 @@
 
 **Tier 1 · Event** — *the swim after the wreck. Session 1's first real scene.*
 
+> ✅ **Played (S1)** — this file's job is done ([[session-01-recap]]). Kept as the house exemplar for Event environments: two clocks, five verbs, both endings safe. Steal its bones for any future disaster scene.
+
 > The antagonist of this scene is **not the gar.** It's the swamp. The Black Water is hungry and it is *patient* — it doesn't pull hard, it doesn't need to. It wants to turn you away from each other in the fog, make you spend every breath just to move ten feet, and quietly close over your head. The gar are just the moment it shows teeth. **Run the water. The gar are texture.**
 
 ---

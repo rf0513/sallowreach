@@ -5,6 +5,8 @@ aliases:
 
 # Tenson
 
+> **Arc: [[tenson-arc|The Reconciliation]]** *(designed 2026-07-02)* — the audit as reveal ladder; S4 opener: [[session-04-maintenance-house]] + [[oswin-papers-handout]].
+
 **Class:** Guardian — Stalwart subclass
 **Ancestry:** Faun
 **Community:** Orderborne
@@ -49,7 +51,7 @@ A letter of introduction from [[Magistra Silence]] — official enough to open d
 - **[[Caius Maren]]** — the liaison denying the funds; Tenson has no reason yet to suspect the denial is sabotage
 
 ## The Tether
-Tenson came on official business with the exit built into the brief: investigate, report, return. The tether cuts off *return.* Now it's an indefinite audit in a city they can't leave, on behalf of a patron who will, eventually, want answers and updates. The Magistra knows the city's politics. She presumably does not know it can trap people. Whether she'd consider Tenson's tether a tragedy or an *asset* — a permanent, deniable agent inside Sallowreach — is a question worth letting Tenson lie awake over.
+Tenson came on official business with the exit built into the brief: investigate, report, return. The tether cuts off *return.* Now it's an indefinite audit in a city they can't leave, on behalf of a patron who will, eventually, want answers and updates. The Magistra knows the city's politics. She presumably does not know it can trap people. Whether she'd consider Tenson's tether a tragedy or an *asset* — a permanent, deniable agent inside Sallowreach — is a question worth letting Tenson lie awake over. *(Table execution — their signature, cost, and gift: [[tether-manifestations]].)*
 
 ## Notes for the GM
 - **They'll want the ledgers — give them ledgers.** Documentation is how this PC engages the world. The Oswin/Caius story is, underneath, a paper trail, and Tenson is built to read it. [[Sable Crue]] is the *access* (the inside man who waves them into the records); [[Oswin Cray]]'s document box ([[Oswin Cray#The Evidence In His Office|the evidence]]) is a later payoff.

@@ -33,3 +33,7 @@ These are real things in the fiction the party could reach for. None is the "int
 | Through Oswin | Yes (Oswin's) | Marcel loses; Oswin freed | Depends on solving Marcel first |
 
 A few of these (truth-and-politics, the spear bridge) sit at opposite emotional poles, and the contrast between them is worth holding in mind as you read the table — but don't treat either as the destination. The party may walk a line between them, refuse both, or find a sixth thing. Flesh out whichever pressures are actually live once Acts 1–2 have happened and you can see what the party has built toward.
+
+---
+
+*When a lever actually fires: the finale's narration is pre-written, menu-compliant, in [[ending-read-alouds]] (one script per lever + a kit for the sixth thing), and the closing montage lives in [[epilogue-seeds]]. Neither commits the table to anything — they're the words for after the choice, not the choice.*

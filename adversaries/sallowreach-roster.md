@@ -2,7 +2,7 @@
 
 *The people who might stand in the party's way. Daggerheart SRD adversary format (Tier 1: Difficulty 11, Thresholds 7/12, ATK +1, damage 1d6+2–1d12+4; Tier 2: Difficulty 14, Thresholds 10/20, ATK +2, damage 2d6+3–2d12+4).*
 
-*A note that matters in this campaign: per [[Sallowreach (Campaign Frame)#GM Principles|Complications Have Faces]], almost none of these want a fight. The bandits want a toll, the enforcers want you gone (not dead), the marshals want order, the guards want to follow orders, and the Tessak want their children to live. Lead with the want. The stat block is what happens when the want isn't met.*
+*A note that matters in this campaign: per [[Sallowreach (Campaign Frame)#GM Principles|Complications Have Faces]], almost none of these want a fight. The bandits want a toll, the enforcers want you gone (not dead), the marshals want order, the guards want to follow orders, and the Tessak want the meal, not the fight — a predator that takes losses over one catch is doing bad math. Lead with the want. The stat block is what happens when the want isn't met.*
 
 *Used by: [[The Wending]], [[The Pale Room]], [[The Celebration]], [[The Hall of the Mire]], [[The Lantern-Ray Shallows]], [[The Deep Mire]].*
 
@@ -103,7 +103,7 @@
 ---
 
 > ## ⚠ Canon note — the Tessak are man-eaters *(GM decision)*
-> The sympathetic "dying children / they're just parents" framing in `world/creatures/lantern-rays.md` is **superseded.** The Tessak are a **predatory deep-channel clan** for whom the warm-blooded peoples are simply the finest prey the Mire offers — no malice, you don't hate a fish. **Retained:** their `tessavrak` restraint-ethic ("taking beyond the season") and the keystone-ray collapse plot — predators with a strict sustainable-take code, *corrupted by Gault into excess.* **Re-cut:** why they serve Gault — from "medicine for the sick" to a **predator-supply deal** (he stirs the channels and sinks ships; the wrecks feed the clan). The full `lantern-rays.md` / `gault.md` Act 2 rewrite is **pending** (see `STATUS.md`). Until it lands, run the clan as predators, not victims.
+> The Tessak are a **predatory deep-channel clan** for whom the warm-blooded peoples are simply the finest prey the Mire offers — no malice, you don't hate a fish. **Retained:** their `tessavrak` restraint-ethic ("taking beyond the season") and the keystone-ray collapse plot — predators with a strict sustainable-take code, *corrupted by Gault into excess* via a **predator-supply deal** (he stirs the channels and sinks ships; the wrecks feed the clan). *(The rewrite landed 2026-07-11: [[lantern-rays]] carries the full canon — the détente, Sresh, the three diplomacy levers — and the table-ready encounter is [[set-piece-the-tessak-camp]]. The old "dying children" framing is fully retired.)*
 
 ## Tessak Scout
 

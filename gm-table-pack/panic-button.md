@@ -45,7 +45,7 @@
 
 ### 🌑 Sallowreach Fear *(the campaign's own flavor)*
 - **The bioluminescence does something wrong** — something vast turns its attention *through* a PC. The grief, brushing past. (1 Stress, no explanation.)
-- **A tether ache** — a PC feels the pull toward the place they were going. Mark Stress; make it *personal* (use their Session Zero stakes).
+- **A tether ache** — a PC feels the pull toward the place they were going. Mark Stress; make it *personal* — each PC's register is scripted in [[tether-manifestations]] (the home-smell, the almost-name, the water that looks back, the bell).
 - **The Mire reaches** — roots where they weren't, a channel closing behind them, the way back gone.
 - **Word lands at the worst moment** — a message arrives via [[The Long Room|Lucien]] from the person waiting for a PC.
 - **The hidden cost ticks** — disrupt the Celebration and the next morning the wall is thinner (the [[world-in-motion|Interlock]]).
@@ -66,4 +66,4 @@
 
 ---
 
-*Pairs with [[improv-ammo|Improv Ammo]]. Next table-pack tools on request: the full GM Screen, the Twist-the-Knife emotional menu, the printable fronts tracker. See [[STATUS]].*
+*Pairs with [[improv-ammo|Improv Ammo]] (facts), [[voice-cards]] (mouths), and [[twist-the-knife]] (this page's sibling — it escalates* meaning *where this one escalates danger). Still on request: the full GM Screen, the printable fronts tracker. See [[STATUS]].*

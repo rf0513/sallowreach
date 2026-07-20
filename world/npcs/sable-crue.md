@@ -54,9 +54,17 @@ And here's the elegant part *(GM)*: **Sable is sitting on the evidence and doesn
 
 *(Division of evidence, unchanged: Sable + the records = the **paper/access** half; [[Remy Duval]] = the **water-side** observation of the wall's methodical erosion. Tenson is the one who fuses them.)*
 
+## Shipment Week — "the Parade" *(canon 2026-07-18)*
+
+Once a quarter, the lumber goes out — barges strapped into a floating acre of timber and walked to the coast handoff under guard. It's the biggest recurring event in the garrison's calendar and **Sable's favorite week of the year**: double shifts, extra pay, the whole southwest line working like one animal, and half the city turning out to watch the wealth leave. Sable calls it **"the parade"** and means it fondly.
+
+- **The work is real:** escort rotation to the handoff and back (roughly a week), yard watches, manifest counts. [[The Mooring]] hires **temp hands** every shipment week — dockers, pole-men, channel pilots. This quarter, [[Remy Duval|Remy]]'s name is on that list ([[remy#The Shipment Berth *(S5 — the negotiation; canon 2026-07-18)*|his file]] — the party will feel it).
+- **The paper trail:** every run refills the Kit Room with lumber manifests. The [[Caius Maren|Caius]] denial memo Tenson will find is sitting **between two of them** — filed by Sable, top line read, push-ups resumed.
+- **If asked why the city guards wood harder than people:** *"Cher, the wood IS the people. Wall, ward, wages — pull one plank out of that and count what falls."* He's righter than he knows.
+
 ## Key Relationships
 - [[Tenson]] — the citadel auditor who wins Sable not with rank or brains but by caring for a struggling guard; Sable's funhouse-mirror and, soon, genuine friend and inside man
-- The southwest guards (esp. **Perrin**, the recruit Sable won't give up on) — Sable's people, their whole heart; the lever to Sable's trust runs straight through them
+- The southwest guards (esp. **Perrin**, the recruit Sable won't give up on — a Thornside Perrin; his grandmother Maud keeps [[the-last-board|The Last Board]], and the whole quarter hears how the boy is treated) — Sable's people, their whole heart; the lever to Sable's trust runs straight through them
 - [[Oswin Cray]] — knows him from perimeter meetings; finds him likeable and a bit sad; has no idea the wall's failure is partly his doing (that's a brain job)
 - [[Caius Maren]] — a signature on a memo Sable filed without a second thought; Sable has no instinct about him either way, which is exactly why the bombshell sat unnoticed
 - [[Remy Duval]] — drinking buddies, basically; two people who love this city out loud; Sable trusts Remy's read on the water completely
@@ -76,6 +84,18 @@ And here's the elegant part *(GM)*: **Sable is sitting on the evidence and doesn
 
 **On the wall, the worry under the grin:**
 *"I keep it light for the lot. Somebody's got to."* [a beat — the smile stays but the eyes don't] *"But I've carried furniture out of more homes this year than last. You do the sums on that, brain-boy. That's your department."*
+
+## The Ambush-Spar *(promised in S3 — a drop-in combat beat, fire in any lull)*
+
+Canon owed to the table: Sable promised to **ambush-spar Tenson when he least expects it** ([[session-03-recap]]). This is the campaign's free combat — full dice, zero funerals. Fire it mid-errand, in public, at the worst possible moment: off a fish-stall awning, out of a doorway, from a rooftop with a whoop — practice staves already stashed nearby, one tossed mid-air: *"Don't answer, just catch!"*
+
+**The game (he announces the rules mid-swing):** first to three touches · anything's a weapon if it can't cut · the crowd counts as terrain. **The party piling in is encouraged** — Sable is delighted, starts calling targets, and will happily fight all four: *"Yes! Bring the witch! Bring the GHOST one!"*
+
+**Spar stat line:** Difficulty 12 | Touches instead of HP (first to 3) | **Staff:** Melee, 1d6+1 *nonlethal — touches, not damage* `[VERIFY: run as opposed action rolls or attack rolls vs Difficulty, GM's pick]`
+- **Reads Bodies — Passive:** advantage on the first exchange against anyone he's watched train. He has watched Tenson.
+- **Teaching Moment — Passive:** any PC who takes a touch with a laugh — leans into the bit — clears a Stress. Joy is the point, and it's mechanical.
+
+**Stakes (all warm):** Tenson wins → *"Brains AND hands?! Cher, you're wasted on paperwork—"* [beat] *"—no, wait, do the paperwork, we NEED the paperwork."* Tenson loses but plays → same grin, full credit. The only way to lose the scene is to refuse to play — and even that just makes Sable patient. Either way it banks "Sweat First" progress ([[#The Trust Mini-Quest — "Sweat First" *(Tenson, in town, at the Drillfield)*|above]]), and **Perrin is watching** from the crowd — the first thread of the winning beat.
 
 ## Stat Block
 A capable Tier 1 guard sergeant — fights well, protects their people first, and would honestly find a good scrap kind of fun. [VERIFY: appropriate Tier 1 soldier/officer stat line if combat ever occurs.]

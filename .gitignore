@@ -5,3 +5,9 @@ Thumbs.db
 
 # Large editable art source files — kept local, synced separately
 *.psd
+
+# generated table packets (rebuild with tools/Build-Packet.ps1)
+sessions/packets/
+
+# generated knowledge graph (rebuild with graphify update .)
+graphify-out/

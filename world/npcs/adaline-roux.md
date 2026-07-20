@@ -105,7 +105,7 @@ She will ask, at some point, what they were doing on that ship. Where they were 
 
 She is also the person who, if the party has been building real relationships in the city — the outer boardwalk families, Théo, Remy — starts to believe in them. Not as tourists. As people.
 
-**If the party brings her the truth:** This is potentially the hardest conversation in the campaign. To get there, the party has to look at the woman who has devoted her life to this city and this Celebration and tell her what both are built on. She will not believe them immediately. She will ask for evidence. She will ask the right hard questions. She will go very quiet when the evidence is sufficient.
+**If the party brings her the truth:** This is potentially the hardest conversation in the campaign. **Table-ready run file: [[set-piece-show-me]]** — the gate, the Weighing, the box, and the what-she-does-next menu. To get there, the party has to look at the woman who has devoted her life to this city and this Celebration and tell her what both are built on. She will not believe them immediately. She will ask for evidence. She will ask the right hard questions. She will go very quiet when the evidence is sufficient.
 
 What she does next is a lever, not a foregone conclusion. If she chooses to carry the truth to the city herself, she is the only one who can do it in a way the city will hear. The party may have Théo, Remy, Caspar, Sinope, Delphine — but Adaline Roux standing in front of Sallowreach and saying *"I need to tell you something about the Celebration"* is the only version of that conversation that stops sixty thousand people and makes them listen.
 
@@ -134,7 +134,7 @@ Whether she ever does it — and whether the party ever asks her to — depends 
 *"The Mire knows. I know that sounds like a thing people say. I've watched it my whole life. People who come in here treating it like a resource fail. People who come in treating it like a house they've been invited into — they find their way. The swamp is discerning. It always has been."*
 
 **If the party brings her the truth:**
-Very still. Then: *"Show me."* Not angry. Not dismissive. The voice of someone who has been deciding not to look at something for twenty-two years and has just been handed what was always going to be there when she did.
+Very still. Then: *"Show me."* Not angry. Not dismissive. The voice of someone who has been deciding not to look at something for twenty-two years and has just been handed what was always going to be there when she did. *(Run the scene from [[set-piece-show-me]].)*
 
 ---
 

@@ -87,7 +87,7 @@ Her one move is to negotiate for time to fix herself — and time, to a ledger, 
 - [[Isotta]] — the open line; the only error in an eternity of clean accounts. Not prey. Not a target. *Owed.*
 - [[old-patience|Old Patience]] — **a different being entirely**: the Still Pool spirit, a neighbor of comparable age. They keep a companionable distance. The Still Pool is one of the few places the Tallykeeper has never needed to visit — nothing dies there.
 - [[Vael Miroux]] — has never once raised a blade at it in forty years of hunting. It knows. It considers this correct.
-- **Anselme Thouvenel** ([[session-04-salt-wall]]) — an account not yet ready; it does not rush him. The dead revere it the way sailors revere the tide.
+- **Anselme Thouvenel** ([[session-04-salt-wall]]) — **account closed, S4:** it came for him at last, with courtesy, the night his ledger balanced ([[session-04-recap]]). The worn path outside the wall is already softening in the silt. The dead revere it the way sailors revere the tide — and Anselme's crossing is why: it never rushed him, and it never forgot him.
 - **The city's heart** — see What It's Hiding.
 
 ## Dialogue Hook
@@ -112,6 +112,7 @@ None by design — the resolution is a parley, not a fight. If the table forces 
 
 ## GM Notes
 
+- **The introduction parley is staged table-ready as [[set-piece-convince-me-to-wait]]** — the arrival, the three courtesies, the terms dials, the Fear menu, the cord. It runs the same engine for any later renegotiation.
 - **Staging lives in [[isotta-arc]]:** Session 4 is pure stalking — rooflines, the salt wall, silence. **The introduction (collection notice + grace negotiation) fires in a later session, on its own schedule — UNLESS Isotta directly, insistently addresses it first. It is courteous: it will not refuse a direct question twice.** Be ready for the introduction any night she decides to force it.
 - **Endgame is a menu, not a script** — the live options (step back into life / out-of-grace renegotiation / choose the crossing / the player's invention) are in [[isotta-arc#Endgame — a menu, not a script]].
 - **Clue delivery:** the Secrets & Clues list in [[isotta-arc]] is the drip-feed; the six titles above are a parallel, countable clue chain for a mystery-loving player.

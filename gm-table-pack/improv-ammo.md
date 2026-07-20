@@ -33,7 +33,7 @@
 | 3   | Cook / communal-table host            | 3   | To get out (and can't say why)          | 3   | Quotes their grandmother             |     |
 | 4   | Boardwalk kid running errands         | 4   | To protect their kin                    | 4   | Too friendly, hands on you           |     |
 | 5   | Off-duty marshal / Accord steward     | 5   | To sell you one specific thing          | 5   | Won't meet your eyes                 |     |
-| 6   | Immigrant shopkeep (one of the 3,000) | 6   | To know your business                   | 6   | Talks to the water mid-sentence      |     |
+| 6   | Immigrant shopkeep (one of the 3,000 — [[the-eddy|ask their year]]) | 6   | To know your business                   | 6   | Talks to the water mid-sentence      |     |
 | 7   | Lantern-maker / craft artisan         | 7   | To be left in peace                     | 7   | Always eating something              |     |
 | 8   | Miserable guild/imperial clerk        | 8   | To *belong* — to be claimed by the city | 8   | Names everything (boats, tools, you) |     |
 | 9   | Waterside musician / drunk poet       |     |                                         |     |                                      |     |
@@ -69,7 +69,7 @@
 
 1. *(T)* "The southwest wall's thinner than it was. My cousin's floor takes water at high tide now."
 2. *(½)* "That guild man at the Maintenance House hasn't filed a proper report in a year. Loses at cards, they say."
-3. *(T)* "[[Fen]] played at the water again. The lights *moved* for her. I saw it with my own eyes."
+3. *(T)* "Half of Thornside's saying they'll skip the next Celebration. After that relocation order? 'Let the inner districts sing to themselves' — that's [[Fen|the drummer girl's]] line, and it's catching."
 4. *(T)* "Don't take the Hinge this season. It's not where it was."
 5. *(T)* *(quietly, after a glance around)* "That whole table's feast last Celebration? Came from the Pale Room. Anonymous. You didn't hear it from me."
 6. *(T)* "The imperial one's been asking about that shipwreck. Buys you dinner just to ask."
@@ -77,12 +77,31 @@
 8. *(T)* "There's a frog-man at the Mire's edge who takes outsiders into the swamp. Lost his boat in that wreck, poor soul."
 9. *(T)* "The rays were thick as a road off the southeast last spring. Half as many now. Nobody says why."
 10. *(½)* "They pulled a wrecker's net from where that ship went down. Funny place for a net."
-11. *(F)* "The Celebration felt *off* this week. Flat. Like a string gone out of tune." — *(no one can prove it; everyone half-felt it)*
+11. *(½)* "The Celebration felt *off* this week. Flat. Like a string gone out of tune." — *(no one can prove it; everyone half-felt it. **Now quietly true**: benches went empty, and attendance is amplitude — [[world-in-motion]] Front 4)*
 12. *(T)* "A man went into the deep Mire with the frog-guide three years back and never came out. Ruled an accident. They all are."
 13. *(½)* "The lizardfolk haven't traded at the edge in months. Something's wrong in the deep channels."
 14. *(T)* "You can send word out at [[The Long Room|Lucien's]]. Costs a fortune and the swamp eats half of it — but it leaves, even when you can't."
 15. *(T)* "[[The Mooring|Sabine]] would charge the Mire itself a docking fee if she could find where to nail the sign."
 16. *(T)* "*Honored guests,* they're calling those wreck survivors. The swamp caught them for a reason. The swamp always has a reason."
+
+---
+
+## 4b · Overheard Later — Acts 2–3 chatter
+
+*Same use as §4, but gated: each line has a board-state tag — check it against [[world-in-motion]] before dropping. None of these touch the secret; town mouths never do.*
+
+1. *(any time after S5)* *(T)* "Adaline walked the outer boards herself this week. Counting benches. First time in years."
+2. *(shipment week)* *(T)* "Parade week. Every strong back's on the coast road, and every light-fingered soul in three districts knows it."
+3. *(shipment week)* *(½)* "They pay us in salt and silk and call it square. My grandfather said the same thing. Louder. In this exact chair."
+4. *(after the Bad Season — [[set-piece-the-bad-season]])* *(T)* "They hit the basin, the pens, the castings — and walked right past the Ranging House. Didn't need it, I reckon. Like the map had already left."
+5. *(after the Bad Season)* *(T)* "Southwest. The big mother went southwest, screaming — and God help whatever she's following."
+6. *(if the party freed Oswin's situation any amount)* *(½)* "The wall wizard's been *whistling.* Fifteen years on that row, never once heard the man whistle."
+7. *(Caius still operating)* *(T)* "The imperial's buying dinners again. Anybody who saw anything the night of that wreck. Third time he's asked my aunt — she orders the crab now."
+8. *(any time)* *(T — told as a joke, and everyone laughs, and nobody checks)* "Marcel Dray? He's dead, cher. Executed out east, years back. My cousin swears it." *(barkeep, refilling:)* "Then his ghost pours a fair measure."
+9. *(any time)* *(½)* "The girl on the Pale Room door knew my name before I said it. Witch-blood, I'm telling you." *(It's not. It's Camille, and it's homework.)*
+10. *(late — Gault's operation broken)* *(T)* "Rays came back thick off the southeast this spring. Thick as a road. Nobody says why that either."
+11. *(late — Front 4 hot)* *(½)* "Maud Perrin let the drummer girl behind the Singing Table. Behind it. My mother says that's how wars start."
+12. *(endgame doorstep — the party visibly carrying weight)* *(T)* "Those four from the wreck have been quiet lately. The talkative kind of quiet. My grandmother says that's weather coming."
 
 ---
 

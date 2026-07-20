@@ -5,6 +5,8 @@ aliases:
 
 # Fletcher
 
+> **Arc designed (2026-07-02): [[fletcher-arc]] — "The Season-Eater."** Everything player-facing below stays true; the GM-side answer (the snake's nature, the Gault weld, the party counter-build, the session ladder) lives there. Note: the amber-civet trust-test referenced below was overtaken at the table — the **owlbear cub** was the test as played, and he passed ([[session-03-recap]]).
+
 **Class:** Ranger — Wayfinder subclass
 **Ancestry:** Ribbit
 **Community:** Wildborne
@@ -42,7 +44,7 @@ His field journal — three years of professional observation: hazard notes, pre
 - **Home** *(needs a name from Fletcher)* — a spawning-town that is grieving a clutch and a hunter both; someone there will eventually wonder why he never sent word
 
 ## The Tether
-Fletcher came to do a job and leave — the second half was always the plan. The tether deletes it. The snake is still in the Mire, there's no deadline anymore, and somehow the *absence* of a deadline is worse than the snake. A professional with no exit, in the one place his work might actually mean something to him. He should hate how much that starts to matter.
+Fletcher came to do a job and leave — the second half was always the plan. The tether deletes it. The snake is still in the Mire, there's no deadline anymore, and somehow the *absence* of a deadline is worse than the snake. A professional with no exit, in the one place his work might actually mean something to him. He should hate how much that starts to matter. *(Table execution — his signature, cost, and gift: [[tether-manifestations]].)*
 
 ## Notes for the GM
 - **Play the snake-fear straight.** Don't milk it for comedy. When the amphisbaena finally surfaces, the frog who hunts it should be genuinely, bodily afraid — and do it anyway. That's the character in one image.

@@ -51,6 +51,7 @@ The heron has its own sheet now: **[[the-tallykeeper]]** — six titles (the cou
 - It is **owed her death** and it has come to **collect it** — not from malice, from arithmetic: if she frays to nothing there is nothing to collect and her line stays open forever, the one entry it cannot make. A late, wrong-shaped collection still balances the ledger. Dissolution never does.
 - The bargain is never "life or death, pick one" — it's **time**: a revocable grace period, bought with collateral (closed docket cases), while she races for the cure. Full terms and the grace-cord prop: [[the-tallykeeper#The Grace Period]].
 - It **does not speak first** — Session 4 is pure stalking — but it will not refuse a direct question twice. If she insists, the introduction fires early. Never meant to be fought.
+- **The introduction (and every renegotiation after) is staged table-ready: [[set-piece-convince-me-to-wait]]** — three doors in (scheduled / forced-early / reprise), terms-never-whether, the cord as the closing image.
 
 ## The Reveal — two stages, her favorite shape
 
@@ -58,6 +59,8 @@ The heron has its own sheet now: **[[the-tallykeeper]]** — six titles (the cou
 2. **The Introduction (the flip):** the deduction lands — likely at a docket case where a death is collected *properly* in front of her and she finally sees the transaction she never completed. Then the Tallykeeper introduces itself — in a later session on its own schedule, **or early, any night she directly and insistently addresses it (it will not refuse a direct question twice)** — and the horror inverts into something cleaner and worse: it was never hunting her. It has come to **collect, while there is still enough of her to take** — and the only thing on the table is **time**. The parley is not "live or die"; it is negotiating the grace period ([[the-tallykeeper#The Grace Period]]), with her closed cases as collateral.
 
 ## The Lantern Docket — the sidequest engine
+
+> **The casebook is built (2026-07-19): [[lantern-docket]]** — Cases 2–5 table-ready (the Best Night · Eleven of Twelve ⭐ where the banked jewel + threshold line fire · Year One · the Rounds), the Deathbed staged, and the stage-two tripwire (the heron-convergence pattern in her own margins). The sketches below are the seed list; run cases from the casebook.
 
 Because she's a lit doorway, the dead of Sallowreach queue up. Case-of-the-session mysteries, each one small, each secretly asking her arc question in miniature — *what makes a person whole: the body, the memory, or being known?* — and each one a data point about how crossing is *supposed* to work.
 
@@ -83,9 +86,13 @@ She will try — probably immediately, with Anselme. The rules, and what each at
 
 She is watching the exact transaction that never completed for her. Casebook entry: *Observed: a correct death. Subject felt: envy.* And the departing dead may leave her a threshold line — the dead see clearly, and this is the obvious-clue channel (Anselme's: *"I seen your cord, miss. No knot in it. Smooth as riverglass — worn from handling. It keeps yours near the top."* Fires Secrets #4 and #10.)
 
+> **Banked (2026-07-15):** the jewel was slated to fire in the field (Gravois, [[set-piece-the-wrong-skin]]) — retired with the **ghosts-stay-in-town** ruling ([[cosmology]]). It fires on her **next closed town case** instead. Related pressure queued for S5: Old Plenty names her *"on another keeper's ledger"* out loud on the boat.
+
 **Closing a case (mechanics):** clear her Slipping clock and grant a Hope `[VERIFY]`; after the introduction, also loosen one loop of the grace cord — settling accounts calms the wound in the order of things around her. So helping the dead is literally how she manages her condition… and every closed case draws the Tallykeeper one roof closer. **She is medicating with the very thing that has come to collect her.**
 
 The salt-wall set piece is fully built as [[session-04-salt-wall]] — the lingering ghost there (**Anselme Thouvenel**, the Drowned Poler above) is her first docket case, not a clue dispenser.
+
+> **As played, S4 (2026-07-14): Case 1 CLOSED.** Isotta proved the ghost-speech to Solène in a hard conversation and won; the sale was withdrawn; Anselme crossed with the heron's help **while she was away** — she never saw the knot tied. So the **witnessed-collection jewel (above) and the threshold line ("I seen your cord…" — Secrets #4/#10) are still banked**: re-home them on the next docket case. Engine rule applies — the heron is one roof closer. The wall itself fired Secret #6 the hard way (ghost form thrown ~200 ft; human form tolerated). And the player is **smitten with the heron** — wonder is landing exactly as tuned; keep the Tallykeeper courteous and patient, never spooky-for-free.
 
 ## Veilside Sallowreach — the wonder budget
 
@@ -112,12 +119,12 @@ The mid-campaign introduction buys **time**, not resolution. The cure is a separ
 
 *(Ten, abstract from discovery, per the Lazy DM rules. Feed ~2 per session through docket cases, animal behavior, casebook review, Vael, or the dead themselves.)*
 
-1. There has been a grey heron within sight of Isotta every day since she reached Sallowreach.
+1. There has been a grey heron within sight of Isotta every day since she reached Sallowreach. ✅ *fired S4 — Remy said it plain*
 2. Mire folk never chase a heron off a sickroom roof, and none of them can say why anymore.
-3. The dead speak of "the tallykeeper" with reverence, the way sailors speak of the tide.
+3. The dead speak of "the tallykeeper" with reverence, the way sailors speak of the tide. ✅ *fired S4 — Anselme, at the wall*
 4. Every properly-dying thing in the Mire is met by something; the meeting is gentle and takes only a moment.
 5. Her symptoms don't match any haunting in the Order's taxonomy — they match a *ledger error*.
-6. The salt wall doesn't reject the dead; it rejects the *uncrossed*. There's a difference, and she's on the wrong side of it.
+6. The salt wall doesn't reject the dead; it rejects the *uncrossed*. There's a difference, and she's on the wrong side of it. ◐ *S4: SHOWN (the 200-ft rejection of her ghost form) — not yet said aloud; Vael is the mouth*
 7. A knotted-cord ledger hangs in her dreams; one cord is smooth and unknotted, and she wakes holding her own wrist.
 8. The night she died on the table, every heron within a day's flight of the ritual site took wing at once.
 9. The Tallykeeper has never once, in two hundred years, flown over the heart of the city.

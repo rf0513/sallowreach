@@ -23,7 +23,7 @@
 
 ## 🧵 Threads *(drop if you want them tugging a string)*
 - **Third notice.** A relocation notice nailed to a stilt-house door on a sagging boardwalk — the water's taken the floor, the family's still inside, a neighbor quietly moving pots to higher boards. *(the failing southwest edge)*
-- **The drummer at the water's edge.** Out past the last boards, a young woman drumming to the open channel — and the glow *answers her.* A little crowd, half-delighted, half-nervous. *([[Fen]] — quiet Celebration/Turn seed; don't explain.)*
+- **The drummer at the water's edge.** Out past the last boards, a girl drumming to the open black channel — no audience she'll admit to wanting, playing *out*, the old custom: music for the drowned. A little crowd keeps a respectful distance. *([[Fen]] — she plays for her grandfather. He listened for three years; he crossed in S4 and she doesn't know her audience is gone. Only Isotta knows he was ever there — [[session-04-recap]].)*
 - **The homesick queue.** A hand-painted sign: **THE LONG ROOM — WORD SENT ANYWHERE, EVEN WHERE YOU CAN'T GO.** A line waiting to send letters out. *(A gut-punch for someone who now literally can't leave.)*
 - **Dock gossip.** Two dockhands, low: *"…the imperial one. Bought a whole table breakfast just to ask about that wreck."* *"Lonely, maybe."* *"…Maybe."* *([[Caius Maren|Caius]], simmering.)*
 

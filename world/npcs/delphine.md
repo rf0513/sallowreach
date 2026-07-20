@@ -61,6 +61,7 @@ She doesn't know what it means. She knows it matters. She has been thinking abou
 
 ## Key Relationships
 
+- [[the-witch|Leavy]] — she read the hole in them (Session 3: *"someone took a whole life out clean"*) and, table-canon, named what the curse was for: **"to stop a coronation."** She can keep confirming evidence — the wipe was surgical, personal, a witch's work — but she doesn't know whose hand. Her touch-visions are a fragment channel for the arc (a cup undrunk, a hedge in flower, a black-and-white bird crossing a long distance): [[leavy-arc]]
 - [[Caspar Renne]] — old friends; mutual respect that occasionally shades into mutual exasperation; the referral is genuine and personal
 - [[Sallowreach]] — she has delivered half the city, treated the other half, and buried more than she'd like to count; she knows things about most families that she will take to her grave
 - [[The Celebration]] — she participates with full sincerity, but something in the oldest chants has always troubled her in a way she can't articulate; she's been trying to name the feeling for twenty years

@@ -4,7 +4,7 @@
 
 ## The Spiritual Life of Sallowreach
 
-The people of Sallowreach are not irreligious. They are deeply, practically spiritual — in the way that people who live above black water in a magical swamp cannot help but be. The bioluminescence moves in patterns that don't follow wind. Offerings left at certain roots disappear. Channels that should be impassable open for people the Mire seems to like. You don't need theology to know you share your home with forces larger than yourself.
+The people of Sallowreach are not irreligious. They are deeply, practically spiritual — in the way that people who live above black water in a magical swamp cannot help but be. The bioluminescence moves in patterns that don't follow wind. Offerings left at [[the-kept-root|certain roots]] disappear. Channels that should be impassable open for people the Mire seems to like. You don't need theology to know you share your home with forces larger than yourself.
 
 Sallowreach's spiritual life doesn't have a name for itself because it doesn't think of itself as a religion. It's closer to an etiquette. A protocol for living alongside presences you can't fully see or understand. There are no priests. No scripture. No formal worship. What there is: an understanding, passed down through families and lived in the body, that the Mire is full of spirits. How many? Unknown — it would be presumptuous to count. What are their names? Unknown — it would be presumptuous to name something that hasn't told you its name.
 
@@ -20,10 +20,11 @@ The Mire is the house. The city is the host. The spirits are guests who have bee
 
 Behind the etiquette is a literal cosmology the city only half-articulates. There is a **spirit world** alongside this one, divided from it by a **veil** — thick most places, **thin in the Mire,** worn to gauze in the deep channels. Spirits cross. They always have, and they come in every shape, size, and degree of power, from things that could drown a city to things barely able to keep a candle lit.
 
-Three principles the GM should hold:
+Four principles the GM should hold:
 - **Spirits are not good or evil by nature.** A spirit is a *person* from somewhere else — wants, temperament, kindness and cruelty in the same human proportions. The "honored guests" framing is exactly right: you treat a guest with care because you don't know them, not because they're holy.
 - **Small spirits can pass as human.** A spirit of modest power can put on a human seeming and live an ordinary life — usually not as a plot, but out of curiosity, loneliness, or love of something here. Most people never know they've met one. *(See [[Vael Miroux]], who can* see *which neighbors aren't human, and the "Old Basile" quest — the clean, in-town showcase of this.)*
 - **Spirits collect titles, not names.** Nothing from across the veil carries a name the way people do — it *accumulates* what each era and community calls it, layered like sediment. A small spirit may hold exactly one, worn like a favorite coat (Basile). Something old and powerful wears half a dozen, and the count is legible power: **count the titles and you've weighed the spirit.** [[Vael Miroux]] teaches it exactly that bluntly. The vastest things — the [[Mangrove Spirit]], the [[Tree Spirit]] — have titles the way a coastline has names; no one has ever counted them. *(Worked example: [[the-tallykeeper|the Tallykeeper]], six titles deep. [[old-patience|Old Patience]] holds two or three, which should now feel exactly right.)*
+- **Ghosts are not spirits** *(canon ruling 2026-07-15)*. A **spirit** crossed the veil from somewhere else; a **ghost** is a human dead who *failed to cross* — an account that didn't balance. Spirits inhabit the Mire and can show themselves to anyone; they're the whole table's encounters. Ghosts are **town business** — they linger where their unfinished lives are, and among the party **only [[Isotta]] sees them** (her curse; [[vael-miroux|Vael]]'s old trade). Practical rule: **the Mire showcases spirits; the docket engine ([[isotta-arc]]) keeps ghosts in the city, near her window.**
 
 This is **player-facing metaphysics,** not a secret — bloodhunters, [[Delphine]], the whole honored-guest tradition all assume it. What stays gated is the campaign's specific truth: that the vastest "spirit" of all, the [[Tree Spirit]], didn't *cross* — it was *bound,* deliberately, by the city, and the Celebration is the binding. The general spirit-world cosmology is the *water* the secret swims in; reveal the water freely, guard the fish. (The party's own conditions are spirit-world problems: the tether is a binding; [[Isotta]]'s ghost-curse is a human *tied* in a spirit's shape, not a natural crossing.)
 
@@ -37,6 +38,8 @@ An ancient spirit of the Mire. Free, vast, and diffuse — it does not think in 
 
 The Mangrove Spirit moves in geological time. It does not hurry. It will still be searching long after the party is gone, if nothing changes.
 
+**Register (locked 2026-07-18):** a great old one — a cosmic force, not a tangible creature. Write it as **weather and tide, never as a mourner.** The grief is real, but "grief" is the *human word* the party finds for what they touch at the Communing — the spirit itself never performs sorrow, and prep text shouldn't either. Awe first. The sad part is inferred, understated, said once, never repeated.
+
 ### The Tree Spirit
 
 The Mangrove Spirit's companion. Husband/wife energy — two halves of the same ecosystem, each incomplete without the other. Trapped for generations by the binding woven into Sallowreach's weekly [[The Celebration|Celebration]].
@@ -45,9 +48,13 @@ The Tree Spirit's essence has nowhere to go. It pours into the trees — which i
 
 The Tree Spirit was trapped by Sallowreach's founders, deliberately, long ago. What began as a calculated act has become invisible tradition. Nobody alive remembers it as imprisonment.
 
+**Register (locked 2026-07-18):** far weaker than its companion — vast to a diver, **person-scaled in mind.** It can be met. And it is *friendly*: it came as a guest, was welcomed with a feast and a song, said yes to staying — and was tricked; the song never let the yes lapse. It doesn't hate the city. It has been the perfect guest for two hundred years, and it holds very still, because the children sleep on the boards above it.
+
+**Where it is (canon 2026-07-18):** the **drowned tree beneath [[the-hall-of-the-mire|the Hall of the Mire]]'s anchorage** — straight down under the city's oldest pilings, in the deepest water inside the walls. Anyone who dives deep enough finds it, in any act. Its roots run under the whole city center; every offering-root — the [[the-kept-root|Kept Root]] above all — is this tree, surfacing. The full encounter (stages, the borrowed-words voice, the conversation menu, the ask) is **[[set-piece-the-honored-guest]]**.
+
 ### Their Relationship
 
-Companion spirits. The Mangrove Spirit's endless growth is grief — it is searching for the Tree Spirit. The campaign's emotional core is a love story. Two beings separated by an act a city has forgotten it committed.
+Companion spirits. The Mangrove Spirit's endless growth is longing — it is searching for the Tree Spirit. The campaign's emotional core is a love story. Two beings separated by an act a city has forgotten it committed. *(Per the register notes above: at the table this is longing at geological scale, not a weeping god — the word "grief" belongs to the players, and lands hardest if the text never leans on it.)*
 
 The party will not understand this at first. The Mire's growth reads as threat. The Mangrove Spirit reads as indifferent or hostile. The reveal that the expansion is *longing* is one of the campaign's key emotional reframes.
 
@@ -58,6 +65,8 @@ The party will not understand this at first. The Mire's growth reads as threat. 
 *The mechanism behind the party's curse — and the campaign's central recognition reveal. Guard the timing of what they can know.*
 
 The [[Tree Spirit]]'s essence saturates all the Mire's black water; it is charged everywhere, always. But the binding is **acoustic** — the old chants, the drum pattern, the torch positions — and once a week, at the [[The Celebration|Celebration]], it is *performed at full power.* On Celebration nights the binding peaks and the whole Mire's water **Turns.**
+
+**Attendance is amplitude** *(canon, 2026-07-03)*: the binding is choral — the city itself is the instrument, and "full power" means the *whole* city performing. Voices missing from a Celebration perform the working a little less than whole; sustained thin attendance frays the binding (and, per the Interlock, the ward) as surely as a wrong note inside the ritual would. No one alive knows this — see [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]]. Conversely, **nothing performed outside the working touches the binding at all** — busking, boardwalk sets, rehearsals; deviation and absence only count *inside* the ritual, live. And the taboo on variation is not superstition: **the founders built the binding as unchangeable sacred tradition on purpose** — tradition as error-correction, so the spell would survive two centuries of eroding meaning. The Accord's rigidity is the failsafe still working; [[adaline-roux|Adaline]]'s inherited warning — *variation is dangerous* — is the last surviving line of the operating manual.
 
 **The Turn** — the binding singing, made physical in the water:
 - the black water goes *glass-still* for a few breaths;
@@ -92,7 +101,7 @@ Two hundred years ago, the Mages Guild noticed something anomalous in the Mire: 
 
 **What the Empire does not know:** That the Tree Spirit is trapped inside the city. That the Celebration is a binding ritual. That what the Mangrove Spirit is "searching for" is its imprisoned companion. The Guild has been maintaining a ward against grief without knowing what the grief is.
 
-**The economic arrangement:** Sallowreach pays for the posting in lumber — quarterly shipments of Mire wood to Guild operations in the capital. Both parties understand this as tribute. Sallowreach pays for protection it requires. The Guild provides the service for which it is paid. Neither party pretends otherwise. The timber Sallowreach provides is extraordinary (GM SECRET: because of the Tree Spirit's saturating essence), which makes the arrangement economically sensible from the Guild's side regardless of the spiritual mechanics.
+**The economic arrangement:** Sallowreach pays for the posting in lumber — quarterly shipments of Mire wood to Guild operations in the capital. **Nobody on either side calls it tribute** *(ruled 2026-07-18 — the word is out of the vocabulary)*: in every mouth it is only ever **"the quarterly shipment,"** and both parties treat it as what it also genuinely is — a service contract, two centuries old. Sallowreach pays for protection it requires. The Guild provides the service for which it is paid. Neither party pretends otherwise. And because the export is the spine of civic finance, the city's whole ledger is denominated in it — budgets, allocations, and debts are figured in wood before they're figured in coin. [[Oswin Cray|Oswin]] says it best: *"There is no money here. There are trees, and there is paper about trees."* The timber Sallowreach provides is extraordinary (GM SECRET: because of the Tree Spirit's saturating essence), which makes the arrangement economically sensible from the Guild's side regardless of the spiritual mechanics.
 
 **What the current wizard knows:** Technically, very little. They know the ward holds back Mire growth and that the spirit moves "directionally" rather than randomly — this is in the institutional records somewhere. They have not read the records carefully. They have been too consumed by their own crisis to do the research.
 

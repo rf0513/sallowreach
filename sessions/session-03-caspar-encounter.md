@@ -1,157 +1,205 @@
 # The Counterfeit Corpse — the Caspar Encounter
 
-*A set-piece for Session 3 (the curse path). A locked museum, a faked murder, a panicked hedge mage, and a wax golem between the party and the truth. Built to be a **dice-and-combat showcase** — the fix for last session's two-rolls-all-night. Replaces the softer version in [[caspar-renne]]; reconcile that file after. Spear is now the **Tidebreaker**.*
+*Built for S3, retriggered for S4 via Caspar's note ([[session-04-caspar-note]]), **resumed mid-scene in S5.** Rewritten 2026-07-15 for cold-open readability — read-alouds and mechanics unchanged.*
 
-> **Tone:** tragicomic, full Brennan. The mystery is secretly a farce (a coward playing dead), the farce is secretly a tragedy (a man who fenced away the one thing that could save these people), and the tragedy is sitting in a loan shark's closet. Play the terror straight and the truth will gut them.
+## In plain words *(read this first — no jargon)*
+
+Caspar Renne runs the city's little museum. Secretly, the museum is a front: he fences illegal magical goods behind it. Years ago, the Tidebreaker — the spear whose papers say it can cut curses like the party's — passed through his counter, and he tried to sell it out of the city behind the local crime boss Marcel Dray's back. Marcel caught him, took the spear as penalty, and has been extorting relics from him ever since. Days ago, Marcel's collector made a new demand, and Caspar misread it as a death sentence. He barricaded himself in the museum and rigged the only defense a frightened hedge-mage can manage: a rehearsed fake murder scene, with beet-juice for blood. The party knocked instead of breaking in, he let them in — and Session 4 ended on his blurted request: *"help me fake my death."*
+
+What happens when the scene resumes: he tells them the whole truth — the fencing operation, the fact that the Empire officially *executed* Marcel Dray twelve years ago yet the man is alive and running a casino, and the spear's papers, which he hands over: **the cure for their curse exists, and Marcel has it.** Then he makes the ask properly: sail him deep into the swamp, drop him where he can flee, and have Tenson file a false imperial incident report saying he drowned. Imperial paper would make his death official — and a dead man's debts close. The costs are real: it's perjury over Tenson's seal, and the report hands ammunition to Caius (the imperial liaison building a case to annex the city). The party negotiates terms, or refuses — in which case Caspar tries his bad plan alone.
+
+The title means two things: his amateur fake death (the beet-paint corpse), and the professional one the party may execute for him (the paperwork).
+
+## Where this stands after Session 4 *(what's already played)*
+
+- They came **invited** — the knock, §1, is played. The break-in path (§4) never fired and is now pure contingency.
+- The session cut on the blurted ask. **Still owed on resume:** all of §2 (the truth, the Marcel rumor, the papers into their hands) and §3 (the ask said properly, with its costs out loud). The [[session-05-run-sheet|S5 run sheet]] opens here — re-entry line is in that file.
+
+## Why this scene matters *(the payoffs, with the codenames explained)*
+
+- **The cure gets a name and an address.** The Tidebreaker's own papers — *a gift carved by one great spirit for another; cuts what spirit-water binds* — go into the party's hands, and Caspar points at Marcel's house. From tonight, the curse plotline and the Marcel plotline are one road.
+- **Marcel gets his introduction — half of it.** The rumor is a two-stage reveal. **Stage 1, tonight, said out loud:** the Empire executed Marcel Dray twelve years ago — tried, certified, filed — and Caspar checked the records himself. **Stage 2, later, shown:** the first time Isotta *looks* at Marcel with her ghost-sight, she sees what he actually is ([[marcel-dray]] holds the line). Do not spend stage 2 tonight.
+- **Tenson's collision arms.** He is currently correcting Caius's incident report *for accuracy* — and is now being asked to author a *false* one. Same seal, same week. Do not resolve it for him; if the player names it, go quiet and let the table have it.
+- **The archive enters play.** Caspar holds the only transcription of the old ritual chant (printable prop: [[old-words-handout]]) plus decades of records. Whatever the party decides, **the archive stays in Sallowreach** — if he leaves, he bequeaths it.
+
+## The rolls at a glance
+
+| Roll | What | Diff |
+|---|---|:--:|
+| Meeting: read that he's *rehearsed*, not dangerous | Instinct | 12 |
+| Meeting: talk him down if someone spooks him (Warden steps once) | Presence | 14 |
+| Break-in: slip the guttering canal-hatch ward | Knowledge/Finesse | 12 |
+| Break-in: pop the side latch | Finesse | 10 |
+| Corpse investigation (clue-stack: 3 tells = certainty) | Instinct/Knowledge | 10–14 |
+| Talk him down before he bolts | Presence | 15 |
+| Cut off his escape / topple a case | Agility 12 / Str-Finesse 13 | — |
+| **The Warden** (Tier 1 Solo construct) | — | **Diff 13 / HP 9** |
+
+**Guardrails:** Caspar knows the spear breaks curses and bindings — **nothing** about the Tree Spirit or the Celebration; he points at Marcel and stops · **the archive stays in Sallowreach** however this ends · bargains never reduce to yes/no.
+**Tone:** tragicomic, full Brennan. A coward playing dead; a farce that's secretly a tragedy. Play the terror straight and the truth will gut them.
 
 ---
 
 ## What's Really Going On *(GM truth — the party learns it in pieces)*
 
-Caspar Renne inherited the **Sallowreach Historical Museum** and never much cared for it — but it's his legacy, his cover, and his living. Behind the respectable front he runs a quiet **illicit magic-pawn-and-fence operation**: a hedge mage (self-taught, outside the Citadel, only ever managed low-level spells through sheer grinding work) is exactly the man who can appraise and move minor enchanted goods nobody legitimate will touch. The museum is the perfect laundromat — provenance, storage, a reason rare objects come and go. *Object on Loan,* the placards say. Some of them are lying.
+- **The museum is a front.** Caspar, a self-taught hedge mage, runs a quiet illicit magic-fence behind it. *Object on Loan*, say the placards. Some are lying — "on loan" means fenced to Marcel.
+- **The original sin:** the **Tidebreaker** came through his counter years ago. He tried to fence it out-of-city, cutting **[[marcel-dray|Marcel]]** out of the decade's biggest relic deal, on Marcel's turf. Marcel found out first.
+- **The leash:** Marcel took the spear as penalty, plus permanent tribute in relics — or the whole operation gets exposed. Marcel shelves the relics in a closet. The goods were never the point; owning the city's memory-keeper was.
+- **The knife:** Caspar has the spear's papers — *a gift between two great spirits, breaks curses* — and never believed a word. He sold a fairytale for a fortune. Now four cursed strangers exist and the fairytale won't leave him alone.
+- **Why he's barricaded:** Marcel's collector made a new demand days ago; Caspar wrongly read it as a death sentence. (Marcel does NOT want him dead — dead assets pay no tribute.) So he rigged the fake murder.
 
-**The original sin:** Years ago the **Tidebreaker** came through his counter in a donated estate lot. He recognized it as extraordinary — old beyond reckoning, *wrong* in the hand, worth a fortune — and he tried to fence it privately to a buyer outside the city, **cutting [[marcel-dray|Marcel]] out of the biggest relic deal to move through Sallowreach in a decade.** On Marcel's turf. Marcel found out before the sale closed.
+## Caspar, in One Breath
 
-**What Marcel did:** Not violence — *acquisition.* He took the Tidebreaker as the penalty, and he put Caspar on a leash that never comes off: **keep paying tribute in relics, or I expose the whole operation** — which ends the museum, the legacy, and hands an unsanctioned magic-dealer to the Empire. Caspar has been gutting his own collection ever since, case by case, telling the public a hundred small lies. Marcel **stuffs the relics in a closet.** The goods were never the point. Owning the city's memory-keeper was.
-
-**The knife (the skeptic's doubt):** Caspar never believed the spear was anything but a beautifully made antique. He *has* the documentation — inherited with the museum, papers that name it **a gift between two great spirits with the power to break curses** — but Caspar deals in what things are *worth,* not in swamp-grandmother fairytales, and he sold the pretty fishing spear for a fortune without a second thought. Now four genuinely cursed strangers are standing in his ruined life, and for the first time the fairytale won't quite leave him alone. He doesn't *know* it's their cure. He's terrified it might be. *(He has no idea it's also the key to the campaign's whole binding — that stays end-game.)*
-
-**Why he's barricaded right now:** A few days ago Marcel's collector came by with a new demand and a softer, worse threat than usual. Something in it convinced Caspar — wrongly — that Marcel has finally decided to **collect his life.** *(Marcel does NOT want him dead; a dead asset pays no tribute. But Caspar is a panicking amateur, not a rational actor.)* So he's sealed the museum, stopped answering, and rigged the one defense a frightened hedge mage can manage: **a plan to fake his own murder** so that any killer who comes finds the job already done and leaves.
-
----
-
-## Caspar, in one breath
-A brilliant, anxious, self-serving mess. Inherited a legacy he didn't want and turned it into a hustle. Genuinely loves the *history* (that part's real) and will absolutely sell it to save his own skin. A hedge mage whose entire magical repertoire is **illusions and self-preservation** — sound-tricks, minor glamours, and one rehearsed *feign death.* A terrible liar who knows he's a terrible liar and cannot stop. Right now: terrified, sleep-starved, and convinced he's about to die.
-
-**Body:** still as stone when fascinated; all motion — straightening, fidgeting, eyes to the ceiling — when lying. **Voice:** interrupts himself to over-clarify; says "fascinating" and means it; the words tumble faster the more scared he gets.
+Brilliant, anxious, self-serving mess. Loves the history genuinely; would sell it to save his skin. Repertoire: illusions, sound-tricks, one rehearsed feign-death. A terrible liar who knows it and can't stop.
+**Body:** stone-still when fascinated; fidgets and looks at the ceiling when lying. **Voice:** interrupts himself to over-clarify; says "fascinating" and means it; talks faster the more scared he is.
 
 ---
 
-## The Beats
+## §1 · The Closing-Bell Meeting *(✅ played in S4 — kept for the record)*
 
-### Beat 0 — The Wrong-Shut Door *(approach, incentive, entry)*
+This is the invited path: they followed the note, and he let them in.
 
-The museum is **dark and locked** in the late afternoon. The hand-lettered sign is gone. Through a gap: the Warden's candles are lit, and a shadow moves on the upper floor and goes still. *He's in there. He won't answer. And they need him* — Delphine sent them, the curse is on the clock.
+> Closing bell rings out across the water. When you come down the canal side, the little side door is already open a crack. There's a man in the gap — spectacles, days of no sleep, dressed neat like it matters. He looks at Tenson first. Only at Tenson.
+>
+> "Knock," he says. "Please. The way you did before."
+>
+> And he waits. He actually waits for you to knock on the open door.
 
-**Read-aloud:**
+- Inside: the Warden's candles, half-empty cases, Caspar talking too much — over-clarifying, offering tea he doesn't have. **The Warden stands close behind him the whole time.** His insurance; he's terrible at pretending it isn't.
+- **Instinct 12** (optional): he's not dangerous, he's *rehearsed*. This meeting has an exit plan he's practiced alone for days.
+- **If anyone spooks him** (weapon, crowding, an uninvited loud entrance): the Warden takes one step. **Presence 14** talks him back down. One step is scarier than a fight.
+- Otherwise pure RP: he must *believe* them before he says Marcel's name. Then §2, then §3.
+- **Leavy's job:** the canal-door hedge-ward is guttering, half-cast. Her read, free: self-taught, coven-less, exhausted, protecting himself *alone*. One practitioner clocking another.
+
+---
+
+## §2 · The Relief & The Truth *(the resume point — the "who is Marcel" scene)*
+
+He has just blurted the ask and heard that Delphine sent them. Days of waiting to die, and the relief breaks him — then he pays them in truth. This section is a gusher: three payloads, and each deserves a breath before the next.
+
+> He goes down the wall to the floor like a cut string, and for a second you think the fake-dead man is about to be really, properly sick. When he looks up, the cleverness is gone out of him — there's just an exhausted, frightened old man who hasn't slept. *"You're not—"* He laughs, and it's awful. *"You're not* his. *Oh. Oh, gods. I painted myself dead. I painted myself* dead *and you're just—"* He presses the heels of his hands into his eyes. *"Delphine sent you. Of course she did. Sit down. Please. I owe you the truth, and you are not going to like where it's kept."*
+
+**The three payloads, in order:**
+
+1. **The operation + the debt.** The front, the fencing, the leash. *"He doesn't even want them. I send him the heart of this place and he* shelves *it. It was never the museum. It was* me."
+2. **The Marcel rumor — SAY IT (stage 1 of the two-stage reveal):**
+
+> *"You know what they say about him — no. No, of course you don't. Nobody* says *it. The Empire executed Marcel Dray. Twelve years ago, for crimes they've since classified. Tried, sentenced, carried out. Pronounced dead — certified, sealed, filed."* [he laughs, once, badly] *"I deal in provenance. One is permitted to check imperial record, so I checked. The execution is real. There is a dead man's certificate with his name on it — and the man himself is stuffing my life's work into a closet. So when I tell you I nailed my door shut, I want you to understand my reasoning in full."*
+
+   - Stage 2 is **shown** later — Isotta's ghost-sight, the first time she sees Marcel in person: the line lives in [[marcel-dray#What Isotta Sees (the one-liner — do not forget)|his file]]. Don't spend it tonight.
+3. **The Tidebreaker papers — into their hands.** Provenance, old accounts, the lore: *a gift carved by one great spirit for another, cuts what spirit-water binds.* *"It's a fairytale. A very old, very pretty fairytale, and I sold it because a fairytale with a foreign buyer is worth more than a fairytale in a case. But you're standing there cursed, and I'm looking at these papers, and — I don't like the feeling in my stomach."*
+4. **The point at Marcel:** *"He took it for the debt. It's in his house somewhere — a trophy, a doorstop, who knows; he hasn't the faintest idea what he's got. The one thing your fairytale says could cut you loose, and the only road to it runs straight through the man who owns me."*
+
+---
+
+## §3 · "Object on Loan" *(the Ask, made properly — and its costs, said out loud)*
+
+Now he asks for real: the boat trip, and the false report. The rule for this scene — **the costs get said before anyone agrees.** Mercy with hidden costs is Caius's move, not yours.
+
+> He takes his spectacles off. Cleans them on his sleeve. Puts them back on. Doesn't look at you.
+>
+> "Sallowreach doesn't keep death records. No registry, no certificates — people here die the way they live, by word of mouth. If I run, he'll know I ran, and he has a very long reach and a very good memory. But if the *Embassy* writes that I died—" and he laughs, once, badly, "—then it's true. Imperial paper doesn't get argued with. It gets *repeated.*"
+>
+> He finally looks at Tenson. "Take me out on your boat. Somewhere deep. Come back without me, and file an incident report — a local antiquarian, consulting on recovered artifacts, lost in a channel accident. No body. The Mire keeps what it takes; nobody will blink. The rumor does the rest. A dead man's debts close. A runner's don't."
+>
+> "You'd be lying to your Empire, on paper, over your seal. I know exactly what I'm asking. I've been asking myself for days if I'd dare say it out loud."
+
+**The two halves of the plan:**
+1. **The exit** — the party's boat, deep channel, quiet hand-off at the Mire's edge (barge / Consortium run / caravan — GM's pick; the Mooring's night berths are Marcel-adjacent). **The irony — let the table feel it:** four people who *can't* leave are smuggling out a man who can. Nobody says it. Everybody thinks it.
+2. **The lie** — Tenson authors and files the incident report. The redliner, writing fiction. Caius's office stamps it; Embassy paper becomes town rumor becomes Marcel's truth.
+
+**The costs — say them out loud before anyone signs:**
+- **The report feeds Caius.** "The Mire kills residents now" — their mercy becomes ammunition in his annexation file. Tenson sees this first; give him the beat.
+- **It's perjury over an imperial seal.** Tenson's name, Tenson's handwriting.
+- **If Marcel ever learns the truth** — a live threat that never expires. A closed ledger reopening is the scariest sound in Sallowreach.
+
+**Bargain, never yes/no.** Negotiable: the report's wording (let Tenson draft it) · timing (after they mine the archive) · whether he goes at all. The counter-offer they may find themselves: *"Stay. Help us take the closet. When Marcel's leash breaks, you won't need to be dead."* Staying = terrified expert ally + archive in play. Leaving = clean debt, quiet boat.
+
+**⚠ The collision to relish:** Tenson is currently redlining Caius's report *for accuracy* — and is now asked to author a *false* one. Same seal, same week. **Do not resolve it for him.** If the player names it, go quiet and let the table have it.
+
+**Whatever they choose — the archive stays.** He holds the only transcription of the old words (**printable prop: [[old-words-handout]]**). If he vanishes, he bequeaths the papers: *"The papers stay. All of them. Someone should keep this city's memory — it was never going to be me."*
+
+**If the deal closes — stage the Legacy Bundle** (the send-off package, staged per [[the-tidebreaker]] § Step 4): the chant transcription fair copy + the Tidebreaker provenance + the *VANE* folder + **his farewell letter** ([[caspar-letter-handout]] — it has strike-or-keep lines depending on how the deal ends; one paragraph is verbatim-locked).
+
+**Consequence dials (bank these — don't fire tonight):**
+- **Marcel's verification** — one visit, one mild question. The party's composure *is* the roll.
+- **Caius's one question** — *"Odd, isn't it. You survive a wreck that kills no one, and a calm channel kills one of you."* He files their answer too.
+- **They refuse entirely?** Plan A — the beet-paint version, alone, badly.
+
+**What changes tonight:** the cure has a name and an address, both owned by a man they haven't met. The curse path and the Marcel path are now one path. *(Optional slow-burn: Caspar balks at the end on* how *to reach Marcel and routes them through returning Vane's journal first — [[the-first-maintainers-journal]].)*
+
+---
+
+## §4 · The Break-In Path *(contingency only — never fired; kept in case a future visit goes wrong)*
+
+The party came invited, so none of this played. It stays here because his reflexes haven't changed: if anyone ever breaches the museum uninvited, this is what they walk into.
+
+### Beat 0 — The Wrong-Shut Door
+
+Museum dark and locked, late afternoon. Sign gone. Candlelight inside; a shadow upstairs stops moving.
+
 > You find it the way Delphine said you would — three crooked storeys of stilted timber up in the old quarter, leaning on its neighbor like it's had a long day. But the door's bolted. And the little hand-lettered sign that's clearly hung there for thirty years — you can still see the paler rectangle where it lived — is *gone.* It's the middle of the afternoon. Through a gap in the shutters there's candlelight, warm and steady, and the shape of a big wax harbor-master keeping his eternal watch just inside the door. And then — for just a second — a shadow crosses the upstairs floor. It stops. It holds *very* still. Like the house just noticed you noticing it. You knock. Nobody answers. Nothing in this whole warm city has told you *no* until right now.
 
-**The incentive to go in:** not a crime — a necessity wearing concern. He's obviously home, obviously hiding, and *he never closes.* A neighbor, if asked, frowns: *"Caspar? Hasn't poked his head out in days. Somebody said he looked like he'd seen his own ghost."*
+- Neighbor, if asked: *"Caspar? Hasn't poked his head out in days. Somebody said he looked like he'd seen his own ghost."*
+- Entry: canal-side hatch, guttering ward (**Knowledge/Finesse 12**) · flimsy side latch (**Finesse 10**) · calling through the door → dead silence, which justifies going in.
+- **The trick fires on the breach, not a knock.** He's waiting to hear someone come *in*.
 
-**Easy, non-destructive entry** (player's choice — no smashed windows):
-- 🎲 **The canal-side artifact hatch** — his hedge-ward over it is **guttering like a dying candle**, half-cast and failing (his magic, like everything he maintains, is coming apart). *Knowledge or Finesse, Diff 12* slips it clean.
-- 🎲 **The flimsy side latch** — *Finesse, Diff 10.* A pocketknife and patience.
-- *(If a PC just calls through the door first: he goes dead silent. Which reads as deeply wrong, and justifies going in.)*
+### Beat 1 — The Trap Springs
 
-> ⚠️ **The trick only fires when they breach.** Caspar is waiting to hear someone actually come *in* — that's his cue. Don't spring it on a knock.
+The instant they cross the threshold: illusory window-crash upstairs, a strangled cry, a thud, then *drip. drip. drip.*
 
----
-
-### Beat 1 — The Trap Springs *(the staged murder)*
-
-The instant the party crosses the threshold, Caspar — certain these are Marcel's killers — executes his plan. From the upper gallery: the **shattering crash of a window** (an illusion — there is no glass), a strangled cry, a heavy thud. Then silence, and the slow drip of something onto the boards.
-
-**Read-aloud:**
 > You're in — and the dark museum swallows the daylight behind you. Cedar oil, dust, a hundred glass cases throwing back the candlelight. And then from up the stairs: a *crash* — glass, a window blown in — and a voice, a man's voice, cut off in the middle of a word. A thud. And then nothing, except a small, steady sound you place a half-second too late: *drip. drip. drip.*
 > At the top of the stairs, in the spill of the Warden's candles, a man is lying on his back in a spreading dark pool, one arm flung out, spectacles knocked askew. Above him a window gapes, jagged-toothed with broken glass, open to the evening. He is not moving. He is not breathing. He is, by every appearance, freshly and thoroughly murdered.
 
-*GM — he's playing dead and very pleased with his plan. The hope: the "assassins" see the job done by some rival who fled out the window, get spooked or satisfied, and leave. It is, of course, a bad plan, because he's an amateur and the scene is full of tells.*
+He's playing dead and very pleased with his plan. It's a bad plan; the scene is full of tells.
 
----
+### Beat 2 — The Counterfeit Corpse *(dice engine — 3 confirmed tells and it falls apart; 1 crit cracks it outright)*
 
-### Beat 2 — The Counterfeit Corpse *(the investigation — your dice engine)*
-
-This is where last session's missing dice live. **Any PC can roll to find a wrongness.** Run it as a **clue-stack: three confirmed inconsistencies and the death falls apart** (or one Critical Success cracks it outright). Let them pile on — this is built for the whole party to roll.
-
-| 🎲 The tell | Roll | What a hit reveals |
+| Tell | Roll | A hit reveals |
 |---|---|---|
-| **Cold body, fresh blood** | Instinct/Knowledge, **12** | A man dead two minutes isn't *room-cold* — and the "blood" is too red, too even, and has no iron smell. |
-| **The "blood" is paint** | Knowledge, **12** | Beet, ochre, a little fish-oil. Stage blood. A *hedge-mage's* stage blood. |
-| **No glass anywhere** | Instinct, **13** | You *heard* a window shatter. There isn't a single shard on the floor. The sound had no source. |
-| **The impossible window** | Knowledge/Instinct, **10** | It's twelve feet up a sheer wall, and the breakage reads wrong — no one came in or out of it. |
-| **The breath he can't hold** | Instinct, **14** *(he's good at this part)* | A flutter at the collar. His chest *moves.* Caspar Renne is holding his breath, badly. |
-| **Spell-residue** | Knowledge, **13** | The air tastes of ozone and chalk. Magic was worked here in the last minute — *this* minute. |
+| Cold body, fresh blood | Instinct/Knowledge **12** | Two minutes dead isn't room-cold; the blood is too red, no iron smell |
+| The "blood" is paint | Knowledge **12** | Beet, ochre, fish-oil. A hedge-mage's stage blood |
+| No glass anywhere | Instinct **13** | You *heard* a shatter. Not one shard. The sound had no source |
+| The impossible window | Knowledge/Instinct **10** | Twelve feet up a sheer wall; nobody came through it |
+| The breath he can't hold | Instinct **14** | A flutter at the collar. His chest *moves* |
+| Spell-residue | Knowledge **13** | Ozone and chalk. Magic worked here *this minute* |
 
-**Fail-forward on a miss:** the PC jostles the scene and Caspar nearly blows it — a twitch, a too-quick swallow — *or* they burn time and his nerve builds toward the bolt. Either way the spotlight stays hot.
+**Miss = fail-forward:** he nearly blows it (a twitch, a swallow) or his nerve builds toward the bolt. If they're slow: a PC touches him — warm breath, flinch.
 
-> **Three tells = certainty.** Once they've got it, go to Beat 3. If they're slow, have a PC *touch* him (the warm breath, the flinch) to tip it over.
+### Beat 3 — "You're Breathing, Caspar" *(the fork)*
 
----
+Eyes snap open. Animal panic — he braced to be stabbed, and they're *talking*.
 
-### Beat 3 — "You're Breathing, Caspar" *(the reveal & the fork)*
+- **DEFAULT — he bolts (→ combat):** shrieks the Warden's activation phrase, knocks a case over, flings one last illusion, runs for the archive stairs. The wax harbor-master turns its head. → Beat 4.
+- **HARD PATH — talk-down, Presence 15,** in the instant the bluff breaks, naming Delphine + the curse. He freezes — but his panic already half-spoke the phrase: **the Warden lurches one step and swings once**, then stills. They get a jolt, not the fight. Reward the roll; let the golem move once so the danger felt real.
 
-The moment they call it, his eyes snap open. Pure animal panic — he was braced to be *stabbed to be sure*, and instead these people are *talking to him.* This is the fork that decides whether there's a fight.
+### Beat 4 — The Warden *(combat — a scramble, not a slugfest)*
 
-**🔀 DEFAULT — he bolts (→ combat).** He shrieks the Warden's activation phrase as he scrambles up, knocking a case over, flinging a last illusion behind him (a second false crash, a smear of fake blood across a PC's vision) and **runs for the archive stairs.** The wax harbor-master by the door — the one they walked right past — turns its head. Go to **Beat 4.**
+Life-size wax figure of the first harbor-master, punt-pole and ledger. Herds; doesn't kill; doesn't stop. Caspar flees the whole time, knocking over cases, casting cover-illusions — the party splits between stopping him and handling it.
 
-**🔀 HARD PATH — they talk him down (avoid combat).** If, *in the instant the bluff breaks,* a PC lands a high-pressure plea — **Presence, Diff 15** — naming **Delphine** and the **curse** before he can flee (*"We're not Marcel's — we're CURSED, Delphine sent us, look at us—"*), he freezes instead of running. **But his panic-reflex already half-spoke the phrase:** the Warden lurches one step and swings once (a single attack, then it stills as he chokes out the stand-down word). They still get a jolt of combat; they just don't get the whole fight. *Reward the great roll — don't punish it — but let the golem move once so the table feels the danger was real.*
-
----
-
-### Beat 4 — The Warden *(combat — the centerpiece fight)*
-
-The life-size wax figure of Sallowreach's first harbor-master, punt-pole and ledger, candles guttering at its base. It's a **golem**, commissioned years ago from a practitioner Caspar won't name, and it is *patient* in the way mindless things are patient. Its job: **put itself between Caspar and the party and herd them out.** It is not trying to kill — but it does not stop.
-
-**The fight is a scramble, not a slugfest** (it's only HP 9). The fun is the *situation:*
-- **Caspar is fleeing the whole time** — slow, panicked, knocking over cases, casting little illusions to cover his run. The party is split between *stopping him* and *dealing with the golem.*
-- **Burning wax** pools where it moves (difficult terrain) and the air around it bakes.
-- **The museum is a toybox:** topple a display case onto it, lure it onto the canal hatch, use the narrow archive stair as a choke, drop a hanging channel-map over its head.
-
-🎲 **Roll moments in the fight:**
-- **Cut off Caspar's escape** — *Agility, Diff 12* to beat a slow man to the stairs.
-- **Topple a case onto the Warden** — *Strength or Finesse + the environment, Diff 13* → knock it prone / pin it in wax.
-- **Cold stiffens it** — any cold/water effect makes it *lose its next action* (vulnerability — lean into it).
-- **Talk Caspar down mid-chase** — *Presence, Diff 14* — even now, the right words freeze him and end the fight early.
-
-#### The Warden — Wax Guardian *(SRD **Construct**, Tier 1 Solo — verified statline)*
+> **The Warden — Wax Guardian** *(SRD Construct, Tier 1 Solo)*
 > **Difficulty 13 · Thresholds 7/15 · HP 9 · Stress 4 · ATK +4**
 > **Fist Slam** — Melee, **1d20** physical.
-> **Relentless (2)** — *Passive:* can be spotlighted up to twice per GM turn (spend Fear as usual).
-> **Weak Structure** — *Passive:* when it marks HP from physical damage, it marks **+1 HP.** *(Glass cannons melt fast — keep it scary, not durable.)*
-> **Trample** — *Action:* mark a Stress to attack every target in its path as it moves; targets it succeeds against take **1d8** physical.
-> **Burning Wax** *(reskin Overload)* — *Reaction:* before its damage roll, mark a Stress to add **+1d6 fire** and leave a patch of burning wax (difficult terrain) where it stands.
+> **Relentless (2)** — *Passive:* spotlight up to twice per GM turn.
+> **Weak Structure** — *Passive:* marks +1 HP from physical damage. *(Glass cannon — scary, not durable.)*
+> **Trample** — *Action:* mark a Stress; attack every target in its path; hits take **1d8** physical.
+> **Burning Wax** — *Reaction:* before its damage roll, mark a Stress for **+1d6 fire** + a burning-wax patch (difficult terrain).
 
-**Running it:** it positions between Caspar and the party, herds toward the door, never pursues a downed PC. **Caspar calls it off the instant the party stops threatening *him*** — the moment they convince him they're not here to collect, he gasps the stand-down word and the room goes very still. *Destroying it is a real relationship cost* (it took years to commission, he's shaken and hurt) — but in this version most parties end the fight by reaching *Caspar*, not by smashing the golem.
-
----
-
-### Beat 5 — The Relief & The Truth *(backstory → Tidebreaker → Marcel)*
-
-However it ends — golem down, Caspar cornered, or talked off the ledge — the break comes when he finally *believes* they're not Marcel's. A man who has spent days waiting to die looks at four cursed strangers and **crumples.** This is the pathos the whole farce was built to earn.
-
-**Read-aloud:**
-> He goes down the wall to the floor like a cut string, and for a second you think the fake-dead man is about to be really, properly sick. When he looks up, the cleverness is gone out of him — there's just an exhausted, frightened old man who hasn't slept. *"You're not—"* He laughs, and it's awful. *"You're not* his. *Oh. Oh, gods. I painted myself dead. I painted myself* dead *and you're just—"* He presses the heels of his hands into his eyes. *"Delphine sent you. Of course she did. Sit down. Please. I owe you the truth, and you are not going to like where it's kept."*
-
-**What he gives (now freely, all of it):**
-- **The operation.** The museum's a front; he fences magic; he's a hedge mage; he is, by the Empire's lights, a criminal. He's past hiding it.
-- **The debt.** Marcel. The Tidebreaker. How greed over one relic bought him a leash for life. The closet full of his legacy. *"He doesn't even want them. I send him the heart of this place and he* shelves *it. It was never the museum. It was* me."
-- **The Tidebreaker — and the papers.** He drags out the documentation: provenance, a chain of old accounts, the lore that it's *a gift carved by one great spirit for another,* with the power to cut what the spirit-water binds. He never believed a word of it. *"It's a fairytale. A very old, very pretty fairytale, and I sold it because a fairytale with a foreign buyer is worth more than a fairytale in a case. But you're standing there cursed, and I'm looking at these papers, and — I don't like the feeling in my stomach."* **He gives them the documents.** The cure-knowledge is in the archive; the expert just doesn't believe his own files.
-- **The point at Marcel.** *"He took it for the debt. It's in his house somewhere — a trophy, a doorstop, who knows; he hasn't the faintest idea what he's got. The one thing your fairytale says could cut you loose, and the only road to it runs straight through the man who owns me."*
-
-> **Guardrails:** Caspar knows the spear breaks **curses/bindings.** He does **NOT** know about the Tree Spirit, the prison, or that the Celebration is the binding — *he hasn't assembled the pieces in his own archive.* He points at **Marcel** and the **Tidebreaker**; the deeper truth stays end-game ([[cosmology]] reveal rules).
-
-**What changes for the party:** their cure has a name and a location — and both are owned by a man they haven't met yet, who turns out to be the quiet power behind half the city's troubles. The curse path and the Marcel front are now one path. *(Trust-to-the-name shortcut: if you'd rather keep the slow burn, Caspar can balk at the very end on exactly **how** to get at Marcel and route them through returning Aldric Vane's journal first — see [[the-first-maintainers-journal]]. Optional; the encounter stands without it.)*
+- The museum is a toybox: topple a case (**Str/Finesse 13** → prone/pinned) · the archive stair is a choke · **any cold/water effect = it loses its next action** · cut off Caspar (**Agility 12**) · talk him down mid-chase (**Presence 14**) — ends the fight early.
+- It never pursues a downed PC. Caspar calls it off the instant they stop threatening *him*.
+- **Destroying it costs relationship:** years to commission; he's hurt and slower to trust. Most parties end this by reaching Caspar, not smashing the golem.
+- After the fight → §2 The Truth, as written.
 
 ---
 
-## 🎲 Dice Index *(at a glance)*
-| Scene | Roll | Diff |
-|---|---|:--:|
-| Slip the failing canal-hatch ward | Knowledge/Finesse | 12 |
-| Pop the side latch | Finesse | 10 |
-| Investigate the "corpse" *(stack 3)* | Instinct/Knowledge | 10–14 |
-| Talk him down before he bolts | **Presence** | 15 |
-| Cut off Caspar's escape | Agility | 12 |
-| Topple a case onto the Warden | Strength/Finesse | 13 |
-| Talk Caspar down mid-fight | Presence | 14 |
-| **The Warden** | — | **Diff 13 / HP 9** |
+## If It Goes Sideways
 
-## If it goes sideways
-- **They don't break in?** He breaks first — a crash and a cry *for real* as he knocks something over in the dark, or Delphine's name called through the door makes him crack the latch himself, whispering *"are you alone?"*
-- **They believe the death and leave?** Brutal and funny. He has to come *find them* later — a sheepish, very-much-alive curator at the inn, having realized his "rescuers" think he's dead. Great Session 4 cold open.
-- **They smash the Warden to scrap?** It works, but it costs — he's wounded by it, slower to trust, and the golem can't be easily replaced. Let them feel they broke something that mattered to a sad man.
-- **They try to rob the half-empty museum?** They're not wrong that it's a fence's shop. But everything good is already in Marcel's closet — the cases are *empty.* That realization *is* the clue.
+- **They ignore the note:** he waits two closing bells, then Plan A — alone, badly. He seeds the rumor himself: *the curator was found murdered.* The world moved.
+- **They botch the approach at the door:** he cracks first — a real crash in the dark, or Delphine's name through the door gets a whispered *"are you alone?"*
+- **They believe the death and leave:** brutal and funny. A sheepish, very-much-alive curator finds them at the inn later.
+- **They smash the Warden:** it works; it costs. He's slower to trust, and something that mattered to a sad man is scrap.
+- **They rob the half-empty museum:** the good stuff is already in Marcel's closet. The empty cases *are* the clue.
 
 ---
 
-*Related: [[caspar-renne]] · [[marcel-dray]] · [[delphine]] · [[the-tidebreaker]] · [[session-03-prep]] · [[session-03-run-sheet]]*
+*Related: [[caspar-renne]] · [[marcel-dray]] · [[delphine]] · [[the-tidebreaker]] · [[session-04-caspar-note]] · [[old-words-handout]] · [[caspar-letter-handout]] · [[session-04-run-sheet]] · [[session-05-run-sheet]] (resumes here)*

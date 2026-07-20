@@ -65,17 +65,47 @@ See [[Marcel Dray]] for the full deal. The short version: Marcel will trade the 
 
 For **Isotta and the Witch, this is the moment their curses can finally be broken** — the artifact does what the artifact does. Give them the scenes; they earned them.
 
-But for the **tether** — the thing all four share — it stays quiet. No hum, no glow. Because the tether isn't a curse the spear can cut; it's the great binding itself, and the spear's role there isn't to *break* it but to *reach* it. They're holding the key to a conversation they don't yet know how to have. The natural next move is back to Caspar.
+**The cut that shows (canon 2026-07-06 — the anti-stuck beat):** when the spear severs a curse, don't let it work silently. For one held breath, the wielder *sees* what they're cutting — and the difference is the clue. Read (adapt to whoever's holding it):
+
+> The moment the point touches the curse, you see it — actually see it: a knot. Tight, ugly, old — but small. Local. *Hers.* And the spear parts it like wet cord.
+>
+> And behind it, for that same held breath, you see the other thing. The tether. And it's not a knot. It's four threads — one off each of you — running away southwest into the dark, pulled taut. And they're not alone. They're woven into something *huge* — thousands of strands, tens of thousands, all humming the same low note. You couldn't cut this any more than you could cut a river.
+
+But for the **tether** — the thing all four share — the spear stays quiet. No hum, no glow. It isn't a curse the spear can cut; it's the great binding itself, and the spear's role there isn't to *break* it but to *reach* it. They're holding the key to a conversation they don't yet know how to have. The natural next move is back to Caspar.
+
+**Whiff-proofing (two channels, guaranteed):** the vision above is *shown.* If the party doesn't take it to Caspar within a session, the *said* channel comes to them — [[Delphine]] or [[vael-miroux|Vael]] (whichever they see first; they will see one within the week) examines the newly-cured and says the plain version: *"It cut what was yours. What's holding the four of you isn't yours. It's* everyone's.*"* Then, if pressed on what to do with a blade that can't cut the thing: *"Ask the man who reads papers for a living."* Nobody explains the binding — they can't, they don't know it exists. They just aim the party back at Caspar, hard.
 
 ### Step 4 — Back to Caspar
 He sees it and goes very still — that genuine-interest stillness. *"May I?"* He holds it a long moment. Then: *"This won't lift what's tying you here. I don't mean it's powerless — gods, look at it — I mean the thing holding you isn't a curse you *cut.* It was made as a gift. A gift needs someone to receive it."* *(The cynic, finally outvoted by his own evidence.)*
+
+> **⚠ THE CASPAR FORK (2026-07-06) — if the party took the "Object on Loan" deal ([[session-03-caspar-encounter]] Beat 6) and Caspar is dead-on-paper and gone by the time they win the spear, Step 4 re-routes. Three pieces, all pre-built:**
+> 1. **The Legacy Bundle** *(fires the night he leaves — this is the canon guardrail "the archive stays" made concrete)*: Caspar leaves the working core of his archive in the party's hands (or with [[Delphine]], his oldest friend): the **old-words transcription** fair copy, the **Tidebreaker provenance file**, the *VANE — PROVENANCE INQUIRY* folder, and **a letter** *(written, print-ready: [[caspar-letter-handout]])*. The letter's key line is a two-stage plant — cryptic now, detonating the day the tether won't cut: *"The papers tell you what the spear does. Read again what it* is. *A gift, carved by one great thing for another, never delivered. Forty years I owned that sentence and never understood why it was the one that mattered. If the breaking ever fails you — try the making."*
+> 2. **The replacement mouth is Vael** *(said-channel for the gift-reframe — legitimately his domain, spirit-etiquette, no binding knowledge needed)*: *"A spirit's gift isn't a* tool, *girl. It's a message. This one's gone undelivered for two hundred years — no wonder it's got opinions. You don't cut with a thing like this. You* deliver *it."*
+> 3. **The heading survives without him:** Vane's journal says it plain — *"it will always be the southwest"* — and past the Wending the spear is its own compass. [[odile-verret|Odile]] or Remy handle the navigation Caspar's last-sighting notes would have covered.
+>
+> *(GM dial: "gone" can also mean "hidden, reachable at one remove" — a dead man can still get papers through Remy or a Long Room drop, slowly. If you want Caspar's voice in the endgame, that door stays open; the fork above just means the campaign never needs it.)*
 
 He knows where the Mangrove Spirit is — roughly. Southwest Deep Mire, the direction it's drifted toward the city for two hundred years (his records; confirmed by [[the-first-maintainers-journal|Vane's journal]]). He gives them the last documented sighting, the heading, and the warning that past the **Wending** the usual navigation stops working. What he *cannot* tell them is what happens when the spirit receives it — that part was never written down. *"I don't know what it does when it reaches the one it was made for. I know it was meant to. I imagine that's the point."*
 
 **The scene that belongs to him:** the man who sold a miracle as junk gets thirty seconds holding it, understanding at last, before the party carries it into the Deep Mire and maybe never comes back. He'll hold it a beat too long before he hands it over. He won't comment. Neither should you.
 
+**The send-off (canon 2026-07-06 — this puts the chants on the boat):** as they leave for the Deep Mire, Caspar presses a folio on them — a fair copy of the old-words transcription, the one nobody alive can read ([[cosmology]]; the same words [[fen|Fen]] proved have five contradictory translations). His reason is the best thing the old cynic ever says:
+
+> "Forty years I've owned words nobody alive can read. You're about to meet something older than the words." [he ties the folio shut, doesn't look up] "If it can speak to you — ask it to read my fairytales back to me."
+
+*(Why this matters, GM eyes: the [[the-mangrove-spirits-heart|Communing]] can translate the chants through the spear — it's the cleanest road to the campaign's final truth, and it only works if the transcription is physically aboard. No player will think to bring sheet music to meet a god. Caspar thinks of it for them, in character, as a skeptic's dare. **If Caspar is gone (the S4 fork): the folio is already in party hands via the Legacy Bundle** — the send-off line moves into his farewell letter's postscript: "And if you ever meet something older than the words — ask it to read my fairytales back to me." Failing everything, Remy remembers the folio Caspar left at the inn.)*
+
 ### The Spear in the Mire
+*(The whole journey — send-off → Wending → Deep Mire → the Heart — is staged table-ready in [[set-piece-the-delivery]].)*
+
 Past the Wending the balance shifts — it wants to be held pointed southwest, the grain drifting slowly in the direction of travel when aimed true and stilling when it isn't. A **compass seeking its destination.** It won't lead them around obstacles or protect them. It simply knows where it's going, and if they follow it, so will they.
+
+### After the Heart — the compass turns home *(canon 2026-07-06 — the failsafe that finds the cell)*
+The spear was carved *by* one spirit *for* another. Before the [[the-mangrove-spirits-heart|Communing]], it only knows the one it was made **for** — southwest, the searching grief. But the Communing closes a circuit two hundred years open: the gift has finally touched its recipient. From that day, carried back inside Sallowreach, **the grain drifts again — inward, toward the heart of the city.** Toward the one it was made **by.** It has a second destination now, and it is not subtle about it: stand anywhere in the city and the spear leans, patient as the tide, toward [[the-hall-of-the-mire|the Hall of the Mire]].
+
+*(GM eyes — why this exists: it's the whiff-proof convergence. A table that never assembled Vane's "attractor inside the city," the inward verse, and the heron's flight path still gets walked, physically, to the cell door — by the artifact they crossed the whole campaign to win. And it cannot fire early: no Communing, no second compass. The mystery stays earned; only the* geography *is guaranteed.)*
+
+**What's behind the door:** the Hall stands over the deepest water inside the walls, and at the bottom of that water is the one the spear was carved *by* — the drowned tree. The dive, the meeting, the conversation, and the ask are staged in **[[set-piece-the-honored-guest]]**. (The grain match is the shown clue: spear and tree are the same impossible wood.)
 
 ---
 

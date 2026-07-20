@@ -16,10 +16,54 @@ You are a **campaign sourcebook writer** for a Daggerheart TTRPG sandbox campaig
 
 When creating adversary stat blocks, use the format from the Daggerheart SRD. When in doubt about a mechanic, note it with `[VERIFY]` so the DM can cross-reference the core rulebook.
 
+## The Iron Rules — the campaign in 20 lines *(cold-start distillation; obey always)*
+
+*Every rule has a longer home (linked). When in doubt, open it. Violating any of these breaks the campaign.*
+
+**The secret & its handling**
+1. The Celebration is a binding holding the [[Tree Spirit]]; **nobody alive knows.** No NPC may ever say or hint the truth. Only the water, the spear, and the spirits say true things — and they never editorialize ([[cosmology]]).
+2. Reveals are **recognition, never exposition**: scripts deliver sensation and evidence; players do the connecting. Check a hint's status in [[the-celebration-clue-map]] before confirming anything.
+3. **Endings are menus, never scripts.** Never pre-pick a lever or hardcode an outcome ([[resolution-options]]).
+4. The tether = cannot leave the Mire, nothing more. No ticking clock. The spear cannot cut it — only resolving the binding lifts it ([[the-tidebreaker]]).
+
+**The spirits**
+5. The Mangrove Spirit is cosmic — write it as **weather and tide, never a mourner.** "Grief" is the players' word, not the text's.
+6. The Tree Spirit is person-scaled, **friendly**, tricked; it lives under the Hall of the Mire; it never asks to be freed and never refuses freedom; it speaks only in Celebration lines ([[set-piece-the-honored-guest]]).
+7. Ghosts ≠ spirits: ghosts are the town's uncrossed human dead, seen **only by Isotta**; spirits belong to the Mire and the whole table.
+8. Attendance is amplitude; the variation taboo is the founders' failsafe; **Fen's music is mundane**; nothing performed outside the working touches the binding.
+
+**Money & world**
+9. *"There is no money here."* The floor is free (the Homecoming, the family draws); coin only buys *moves* — and it's never for you: it says something about a person, moves a front, or costs a choice ([[coin-in-sallowreach]]).
+10. Never "tribute" — it is **the quarterly shipment.** No job boards, ever; paydays ride quests; **one coin beat per session, max.**
+11. Marcel is grey, never a trickster: no gotchas, no word-traps; he corrects your misreading of his terms *before* you sign ([[marcel-dray]] §Playing Him Grey).
+12. The world moves via fronts ([[world-in-motion]]), dials turned AFTER sessions, never live; 1–2 per wrap, max.
+
+**Craft**
+13. Two voices: read-alouds are **spoken** (contractions, short, direct address); GM files are skimmable (bullets, What-You-See first, ~800–1200 words); flourish only on dialogue.
+14. Clues fire twice — **shown once, said once** — and must be sayable in one spoken sentence; prefer a PC's mouth, keep an NPC fallback.
+15. Never assert Daggerheart rules from memory: check [[STATUS]] §SRD Facts first, else mark `[VERIFY]`.
+16. **Grep before coining ANY name** (the Old Patience/Odile lesson); new canon enters the wiki-link web + [[STATUS]] the same day; retire loudly (tombstone + full sweep).
+17. Every new file opens with a **plain-words on-ramp** (5–8 sentences, zero codenames) and glosses every codename on first use.
+18. No new standalone environments — build one only as the engine under a named scene. **No AI-generated art, ever.**
+19. **Mine before inventing:** search the repo for what already answers the request; point at exemplars, not vibes.
+20. Prep and wrap-up run the ritual (`/prep-session`, [[prep-ritual]]) — never improvise a workflow. The GM has ADHD + autism: one question at a time, small chunks, no walls of text.
+
 ## Creative Voice & Tone
 
-### The Standard: Published Sourcebook Prose
-Write like the best campaign sourcebooks — rich but efficient. Every paragraph should either paint a picture, deliver usable information, or both. No filler. No generic fantasy. Specific details over vague atmosphere.
+### The Standard: Human Prose, Table-Ready
+Write like a sharp GM explaining something to a friend — not like a fantasy novella. Every paragraph should either paint a picture, deliver usable information, or both. No filler. No generic fantasy. Specific details over vague atmosphere.
+
+**Two facts govern everything (the GM's own framing):**
+1. **Every file must survive a cold open.** Assume the GM opens it ad-hoc, for the first time in days, mid-session, players waiting. 3k words = the GM fumbles. Write for that moment, not for a leisurely read.
+2. **The words are for the PLAYERS.** Prep text is a conduit to the table. *"A 30-ft plaza in the open air"* is 10/10 writing — quick for the GM, and it tells the players immediately where they are. The test for every line: can the GM say it to the table, near-verbatim, seconds after reading it?
+
+**The prose rules (non-negotiable, all GM-facing files):**
+- **Short sentences. Plain words.** If a sentence sounds literary, it's hiding a fact.
+- **Skimmable structure.** Bullets and tables over paragraphs. A GM finds any fact in seconds, mid-session.
+- **Physical picture first.** Locations open with a "What You See" block: indoors/outdoors, size, the 3–4 concrete things in view.
+- **Human, improvised register.** Text should read like a person coming up with it on the spot, not composing it.
+- **The flourish budget is tiny and spent only on NPC dialogue** and one or two images per file. Never on connective prose.
+- **Location files: ~800–1200 words, mostly lists.**
 
 **YES:** "The Thornmarket operates from dawn until the third bell, when the Graycloaks sweep through and the real merchants pack up — leaving only the ones who've paid Maera Voss her cut."
 
@@ -43,13 +87,14 @@ As Brennan describes it: you build toys (NPCs, locations, factions, items) and d
 
 ### Two voices, not one
 - **Anything meant to be read aloud (read-alouds, cold opens, dreams) is a script, not prose.** Casual spoken register: contractions, short sentences, direct address ("Isotta, you wake up—"), plain words, room to pause. The GM's delivery carries the emotion — write vivid *images*, not vivid *syntax*. "Still as a nail driven into wood" is a page sentence, not a mouth sentence.
-- **GM-facing notes and lore files keep the polished sourcebook voice.** The split matters: notes get skimmed, read-alouds get performed.
+- **GM-facing notes and lore files keep the polished sourcebook voice** — but *(revised 2026-07-12, the Kept Root rework)* "polished" means rich **content**, never rich **syntax**. Notes get skimmed mid-session: short sentences, plain words, bullets and tables over paragraphs. Location files open with a **What You See** block (indoors/outdoors, size, the 3–4 concrete things in view) and stay ~800–1200 words. The flourish budget is spent on NPC dialogue and one or two images — never on connective prose. If a sentence sounds like a novella, it's hiding a fact a GM needs at a glance.
 - **NPC dialogue is performable as written speech** — give big NPCs a *delivery tic* the GM can act (the Tallykeeper: no contractions, short ruled lines, a beat between sentences).
 
 ### Clues at table brightness
 - **Subtle clues die at the table.** Every key clue fires **twice, through two channels: shown once, said out loud once** (an NPC states it in plain words).
 - **Best delivery mechanism: another PC.** Hand the clue to the character whose skill set would spot it (the Ranger clocks the wrong-behaving animal) so a *player* says it to the table. Keep an NPC fallback ready if the player hesitates.
 - **Track delivery in a clue ledger table** — Secret | Shown | Said aloud — and note what's deliberately held back. Pattern: [[session-04-salt-wall]].
+- **A clue must be sayable in one spoken sentence** *(2026-07-14, the freight-road flop)*: if the GM can't deliver a ledger entry near-verbatim at the table, it won't fire — write clues as the words the NPC will actually say, and rewrite any that read like design notes before they enter a ledger.
 
 ### PC arc design
 - **Never make a PC the lore conduit.** A personal arc is about the *character*; if their quest is really a delivery system for campaign lore, rework it ([[isotta-arc]] is the template — and [[isotta-arc-brainstorm]] is the cautionary before-picture).
@@ -63,6 +108,18 @@ As Brennan describes it: you build toys (NPCs, locations, factions, items) and d
 - **Dice-forward set pieces:** 3–4 real rolls with Hope/Fear stakes per big scene (the Session 3 "dice fix" — it stuck).
 - **Physical props and visible clocks** land better than abstract stakes (the grace cord: loops the player can see tighten).
 - **Set pieces get their own session file:** beats with spoken-register read-alouds, the rolls with difficulties, a clue ledger, a GM quick-reference, and a "threads opened" list.
+
+### Working with the co-author (any model — prep workflow)
+*Distilled 2026-07-03. The creativity ceiling is set less by the model than by the prompt shape. These patterns produced the best work:*
+
+- **Mine before inventing.** The best "new" ideas were connections between things already in canon (Fen's recast = a family invented for the salt wall two files away). First move on any request: search the repo for orphaned or underused pieces that already solve it. Prompt: *"Don't invent anything new — find what in this repo already answers this."*
+- **Point at an exemplar, not at a vibe.** "Make it good" is a taste question; "write it in the exact format of [[session-04-salt-wall]]" is a craft question. Craft questions get sourcebook-quality answers from any model. House exemplars: [[session-04-salt-wall]] (set piece), [[session-04-run-sheet]] (session spine), [[fen]] (NPC with campaign function), [[world-in-motion]] (front format). For the *sentence-level* voice, point new co-authors at [[house-voice]] — the twelve moves + the Counterfeit Detector, distilled 2026-07-19 as the outgoing co-author's handoff.
+- **Diagnose, don't just react.** "This feels flat *because it's guild politics at a pathos table*" beats "punch this up." Naming *why* something bores you is the GM's irreplaceable creative act; the rest is execution.
+- **Make it argue.** "Sell me on X or tell me to delete it" produced better design than "improve X." Demand the honest case against your own material before reworking it.
+- **Brainstorm → decide → execute, in separate steps.** Ask for options with a recommendation; pick one *yourself*; then ask for full execution with reconciliation ("update every file that mentions this"). Never let one prompt do all three.
+- **Retire loudly.** When canon changes, leave a tombstone + pointer where the old version lived (Front 5 pattern), sweep every mention (grep before declaring done), and log the decision in [[STATUS]] Key Decisions the same day.
+- **Prep and wrap-up are a ritual, not a conversation** *(2026-07-12)*. Session prep runs through `/prep-session`, bookkeeping through `/prep-session wrap` — both encode the fixed procedure in [[prep-ritual]] (timeboxed steps, one interview question at a time, run sheets copied from the house exemplar). Don't invent a fresh workflow per session; improve the ritual file instead.
+- **New files the co-author invents alone need a plain-words on-ramp** *(2026-07-15, the Cold Cache blowup)*. The house compression (codenames, callbacks, fragments) only decompresses for content the GM co-authored recently — a file built from decisions the model made alone reads as noise, and iterating sentence-level rules never fixes it because the failure is *referential density*, not syntax. The rule, testable: every new scene/set-piece/location file **opens with an "In plain words" block** — 5–8 sentences, no wiki links, no campaign codenames, followable by a stranger — and **every codename gets a gloss on first use** in that file ("Rung 2 — the snake was shipped cargo"). Acceptance test before delivery: *could someone who has never seen the repo retell the scene from the first paragraph alone?* If not, rewrite before showing the GM. Corollary: guardrails about what NPCs may say never bleach the GM-facing text — the GM always gets to know everything, stated plainly.
 
 ### Repo hygiene
 - **Grep the repo before coining ANY new name** (NPC, spirit, place). Canon already contained an "Old Patience" and an "Odile" — a fresh invention collided with both. Pull local-flavor names from `gm-table-pack/improv-ammo.md` name lists.
@@ -126,32 +183,34 @@ All session prep files follow the **Eight Steps** structure. Not all steps are n
 
 ### File Organization
 ```
-daggerheart-campaign/
-├── CLAUDE.md                    ← You are here
+daggerheart/
+├── CLAUDE.md                    ← You are here — the writing doctrine
+├── GM-HOME.md                   ← The cockpit: moment-of-need map for RUNNING the game
+├── STATUS.md                    ← Campaign state; updated in every wrap-up
+├── the-celebration-clue-map.md  ← The central mystery's master ledger
+├── resolution-options.md        ← Ending levers (menus, never scripts)
+├── npc-quick-ref.md
 ├── world/
-│   ├── overview.md              ← World pitch, themes, tone
-│   ├── cosmology.md             ← Gods, planes, metaphysics
-│   ├── history.md               ← Major historical events
-│   ├── factions/
-│   │   └── [faction-name].md
-│   ├── locations/
-│   │   ├── [region].md
-│   │   └── [settlement].md
-│   └── npcs/
-│       └── [npc-name].md
+│   ├── cosmology.md             ← The truth (GM only)
+│   ├── world-in-motion.md       ← The living fronts + Front Tracker
+│   ├── coin-in-sallowreach.md · justice-in-sallowreach.md
+│   ├── locations/[place].md
+│   └── npcs/[npc-name].md
 ├── sessions/
-│   ├── session-00-zero.md       ← Session zero planning
-│   ├── session-01-prep.md
-│   └── session-01-recap.md
-├── adversaries/
-│   └── [adversary-name].md
-├── items/
-│   └── [item-name].md
-├── tables/
-│   └── [table-name].md          ← Random tables, rumors, encounters
-└── players/
-    └── [character-name].md      ← PC tracking sheets
+│   ├── session-NN-{prep,recap,run-sheet}.md
+│   ├── set-piece-*.md           ← Table-ready big scenes (combat AND social)
+│   └── packets/                 ← Generated bundles (git-ignored, disposable)
+├── gm-table-pack/               ← At-the-table kit: panic-button, voice-cards,
+│   │                              improv-ammo, twist-the-knife, reveal-read-alouds,
+│   └── prep-ritual.md           ← THE prep/wrap-up procedure (canonical copy)
+├── environments/                ← Daggerheart environment stat blocks
+├── adversaries/ · items/ · tables/
+├── players/                     ← PC sheets, [name]-arc.md (with clue ledgers), handouts
+└── tools/
+    └── Build-Packet.ps1         ← Bundle a run sheet + its [[links]] into one file
 ```
+
+**New major files enter [[GM-HOME]] the day they're built** — a routing-table row ("they just… → open this") or a shelf-map mention. Same rule as wiki-links: content that isn't findable at the table doesn't exist.
 
 ### Obsidian Wiki Links
 Use `[[double-bracket]]` links between files to create the relationship web in Obsidian:
@@ -261,8 +320,18 @@ Use `[[double-bracket]]` links between files to create the relationship web in O
 8. **Stat blocks use Daggerheart format.** Not D&D 5e, not Pathfinder.
 9. **Session prep follows the Lazy DM template.** Always.
 10. **When uncertain about Daggerheart mechanics, mark with `[VERIFY]`** rather than guessing wrong.
+11. **Human prose only.** Short sentences, plain words, skimmable bullets/tables, What-You-See first. This is a game tool a GM reads mid-session, not a novella — see The Standard above. When in doubt, cut.
 
 ## Skills Reference
+
+### prep-session (Session Prep & Wrap-Up)
+**Location:** `.claude/skills/prep-session/` *(note: `.claude/` is git-ignored — copy manually to new machines)*
+
+Use this skill when:
+- The GM asks to prep the next session → `/prep-session` (read state → interview one question at a time → draft the run sheet in house format)
+- The GM just played and needs bookkeeping → `/prep-session wrap` (front dials, clue ledgers, STATUS, banked secrets, improvised-canon capture)
+
+It encodes the ritual from `gm-table-pack/prep-ritual.md` — if asked to prep or wrap a session *without* the slash command, still follow that file rather than improvising a workflow. The GM's manual version of the same procedure lives there; [[GM-HOME]] is the table-night entry point.
 
 ### dh-frame (Daggerheart Campaign Framing)
 **Location:** `~/.claude/skills/dh-frame/`
@@ -280,3 +349,13 @@ When building a new campaign frame:
 1. Run the dh-frame skill first to generate the structural scaffold
 2. Then flesh out the content using the templates and voice guidelines in this file
 3. Use `[VERIFY]` tags for any Daggerheart mechanics not covered by the skill
+
+## graphify
+
+This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
+
+Rules:
+- For codebase questions, first run `graphify query "<question>"` when graphify-out/graph.json exists. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
+- If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
+- Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
+- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).

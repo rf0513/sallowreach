@@ -18,7 +18,9 @@ It is also where the party first learns the shape of their cage. **Every road ou
 
 ## The Rental Economy
 
-*The campaign's standing money-sink. [[Remy Duval|Remy]]'s boat went down with the ship (sabotage — [[Caius Maren|Caius]]'s doing, though no one knows yet). Until the party can buy a boat, they **rent** to move through the Mire — and a tethered, penniless party feels every coin of it. This is how gold stops being fake: it finally has somewhere to go.*
+> **⚠ SUPERSEDED IN PART (2026-07-03).** The party-facing rental bleed died in S3 — they kept the smuggler's boat and never paid rent. The Mooring stays fully live (Sabine, the night berths, the racks), and the rates below still govern *other* Mire travelers. The party's money system is now **[[coin-in-sallowreach]]** — and the Mooring's starring role in it is **the Berth Contract**: Anselme's punt on Sabine's rent-to-own racks, the Bag-scale sink with three payoffs (Remy restored, Isotta's docket closed, the Thouvenels made whole).
+
+*Original design, kept for reference: The campaign's standing money-sink. [[Remy Duval|Remy]]'s boat went down with the ship (sabotage — [[Caius Maren|Caius]]'s doing, though no one knows yet). Until the party can buy a boat, they **rent** to move through the Mire — and a tethered, penniless party feels every coin of it. This is how gold stops being fake: it finally has somewhere to go.*
 
 **Use the optional coins tier** (10 coins = 1 handful) [VERIFY: SRD optional rule] so the bleed is granular and survivable rather than instantly ruinous. PCs start with **1 handful each** — pooled, a fresh party holds maybe **3–4 handfuls**, less after a shipwreck. Prices are GM-set (the SRD gives none); these are tuned for *significant but reachable.* Adjust to your table.
 
@@ -58,7 +60,7 @@ The boat is reachable in **two or three meaningful scores, not twenty errands.**
 
 ### Money still matters after the boat
 
-A mercantile city should give coin somewhere to go, or it goes fake again. Keep these live: rental deposits forfeited to the Mire, [[Marcel Dray|Marcel]]'s monthly Courtesy, bribes and informants, **medicine for the [[lantern-rays|Tessak]]'s sick young**, lodging once Remy's charity quietly wears thin, the pawnbroker, boat repairs, and premium guiding into territory no one sane visits.
+A mercantile city should give coin somewhere to go, or it goes fake again. Keep these live: rental deposits forfeited to the Mire, [[Marcel Dray|Marcel]]'s monthly Courtesy, bribes and informants, **wreck-salvage or trade-goods staked as passage-price in [[lantern-rays|Tessak]] water** (the prow-tooth's economy — see [[items/loot-ledger]]), lodging once Remy's charity quietly wears thin, the pawnbroker, boat repairs, and premium guiding into territory no one sane visits.
 
 ---
 
@@ -88,9 +90,13 @@ A broad, unhurried woman in her sixties with a ledger-memory and forearms like m
 
 **On Remy, privately:** she respects him and would never say so. She thinks his civilian-guiding is foolish and his reverence for the Mire is sentiment a working operation can't afford. Watching him rent is a small, daily satisfaction she's mildly ashamed of.
 
-**Voice:** *"You can leave whenever you like, cher. The water charges the same going out as coming in."* · *"A deposit. Because the Mire keeps what it takes, and I am not the Mire's creditor."* · *"Remy Duval, on my dock, renting. Sit down, this is the best part of my month."*
+**Voice:** *"You can leave whenever you like, cher. The water charges the same going out as coming in."* · *"A deposit. Because the Mire keeps what it takes, and I am not the Mire's creditor."* · *"Remy Duval, on my dock, renting. Sit down, this is the best part of my month."* · *"I don't have to be a predator in this city, cher. Pride does half my work for me."*
 
-**As a lever:** she's the recurring face of the money pressure — gouge them, warm to them slowly if they're straight with her, or (optional, very on-theme) offer a **rent-to-own** deal that is quietly a [[Marcel Dray|Marcel]] arrangement: climb out of the rental and into a worse debt.
+**What she knows about the vanished smuggler** *(the [[Marcel Dray#The Vacancy|Vacancy]]'s mundane channel — she'll say it for the price of being asked)*: *"His berth account was settled the morning after he disappeared. In full. In advance. With interest. Somebody paid a dead man's bills, cher — you tell me what that means."* She knows exactly what it means. So does everyone on this dock. Nobody says the name.
+
+**The Berth Contract, as written** *(the paper she hands Remy — prop + Tenson's clause-by-clause reads + her renegotiation table: [[berth-contract-handout]])*: Warden-standard boilerplate, honestly predatory, her own money — she'll fix almost every trap in it for anyone exact enough to cite clauses by number, because exactness is the one language she respects.
+
+**As a lever:** she's the recurring face of the money pressure — gouge them, warm to them slowly if they're straight with her, or (optional, very on-theme) offer a **rent-to-own** deal that is quietly a [[Marcel Dray|Marcel]] arrangement: climb out of the rental and into a worse debt. *(As-played: this deal is aimed at [[Remy Duval|Remy]] — "The Berth Contract," the whole-party job in [[tenson-arc#The Clients Runner (the dream, paid en route)|Tenson's arc]]. **S4 re-cut:** Anselme's punt left her racks when Solène withdrew the sale; the offer is now ordinary Warden stock, and the party's flagship counter-move — **the Thouvenel Lease** — lives in the job file with the rest of the menu.)*
 
 ---
 

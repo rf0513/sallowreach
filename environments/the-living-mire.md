@@ -2,6 +2,8 @@
 
 **Tier 1 · Traversal** — *the general swamp. The default backdrop for any scene out on the black water.*
 
+> ⭐ **THE table card** *(audit 2026-07-17)* — of all thirteen environments, this is the one to physically bring to a session. The teach-it-in-two-moves plan (§below) has never fired: run it on the next boat day. Mechanics swept vs [[STATUS]] SRD Facts.
+
 > **This is the one you share with the table.** It's a teaching environment: a clean, reusable card that shows your players what an environment *is* and why it's fun, before you ever spring a fancy one ([[the-lantern-ray-shallows|Lantern-Ray Shallows]], [[the-drowning-edge|Drowning Edge]], [[the-wending|the Wending]]). Use it whenever the party is *just in the swamp* and you want the place to feel alive. It is not a specific location — it's the Mire itself, anywhere.
 
 ---

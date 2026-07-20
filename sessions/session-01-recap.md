@@ -17,6 +17,7 @@
 ## The Beats (canon)
 
 - **The delay & The Ridgeback.** An unforeseen delay at the port, then aboard **The Ridgeback** — Remy's beloved boat. The party watched the Mire glow and wondered aloud about the Celebration *(first, unknowing brush with the campaign's central mystery)*.
+- **The tavern cameo (during the port delay).** Across the room: a lean, scarred man offloading **sealed jars** to a middleman — one of them holding a faintly glowing creature, dying in the glass. Remy, low: ***"That's Gault. We don't do business with Gault."*** *(First planting of the main villain — face, name, and the jarred glow. He resurfaces in the flesh at the Ranging House: [[fletcher-arc#The Ranging House Collision — S4|the S4 collision]].)*
 - **The explosion.** A **mysterious blast** wrecked The Ridgeback. *(GM truth, unknown to the PCs: this was [[Caius Maren|Caius]]'s sabotage — a manufactured incident meant to leave no survivors. See [[caius-maren]] / Front 6 in [[world-in-motion]].)*
 - **The wrongness in the deep.** As they sank, each felt something take hold of *the deepest part of themselves* — **the tether being laid.** The black water tied them to the Mire. They didn't know what it was yet.
 - **The swim.** Fast, chaotic water. A real drowning-risk sequence; some PCs handled it, others nearly went under — **teamwork** hauled everyone to the bank.
@@ -31,6 +32,7 @@
 - 🦎 **The Tessak are man-eaters** — confirmed *in play* as predators who see the warm-blooded peoples as prey. The old sympathetic framing is retired.
 - 🕳️ **The tether was laid in the black water** — felt as a "wrongness" during the drowning, before anyone had a name for it.
 - 🐸 **Remy survived** (taken by the Tessak, rescued by the party) — the party's first ally and guide.
+- 🫙 **[[gault|Gault]] has a face** — the party saw the jar man at the port tavern and got Remy's tag. The name is planted; the man himself is still a stranger.
 
 ---
 

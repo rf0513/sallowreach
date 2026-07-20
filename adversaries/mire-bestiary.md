@@ -95,6 +95,25 @@
 - **Drag Into the Dark - Action:** Mark a Stress and attack a target in or at the edge of the water. On a success, deal 1d10+2 physical damage and pull them a Close distance under; they are Submerged (cannot act until they surface — a successful Strength Roll). *(The classic "Remy hauls them back up" beat.)*
 - **Blood in the Water - Reaction:** When any creature within Close range marks HP, the Old Gar and every Mire Gar near her gain advantage on their next attack.
 
+## The Bull Gar
+
+**Tier 2 Standard** *(statted to a Tier 1 party — the rookery fight in [[set-piece-the-wrong-skin]], Session 5; scale checked vs the SRD's Shark and Stonewraith 2026-07-16)*
+
+*Longer than a punt is wide, grown fat on Old Plenty's nurseries — a gar so old the false light has gone out of him and he doesn't need it anymore. He eats a nest-shelf a week and the rookery's guardian can no longer drive him off. He is not the villain. He is what moves up when something else empties the water.*
+
+**Motives & Tactics:** Work the shelves like a market stall, dive after every strike, surface where the weapons aren't
+
+**Difficulty:** 13 | **Thresholds:** 10/19 | **HP:** 7 | **Stress:** 3
+**ATK:** +2 | **Crushing Maw:** Very Close | 2d8+3 phy
+**Experience:** The Deep Below +2
+
+**Features:**
+- **Sounding - Passive:** After the bull makes an attack, he dives. Until he is next spotlighted, attacks against him are made with disadvantage — he's a shape under black water, not a target.
+- **Breach - Fear:** Spend a Fear: the bull surfaces anywhere within Close range — under a hull, a swimmer, or a nest-shelf where nobody's weapon is pointing — and makes his standard attack with advantage. If he breaches under a shelf or the boat's rail, everyone standing on it must succeed on an Agility Reaction Roll (13) or go into the water.
+- **Blood in the Water - Reaction:** When any creature within Close range marks HP, the bull and every Mire Gar in the scene gain advantage on their next attack.
+
+*Run him with a boil of Mire Gar minions (above). The fight is a consequence, not a villain: the snake emptied the nurseries and the scavengers moved up — the party draws steel against the cascade two sessions before they meet the cause.*
+
 ## Mire-Wrought Mimic
 
 **Tier 1 Skulk** *(a one-off oddity — the surprise in Reille Preis's hoard; see [[The Field Journal of Aldric Vane]])*

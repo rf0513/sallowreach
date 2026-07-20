@@ -7,6 +7,8 @@ aliases:
 
 # Oswin Cray
 
+> **First encounter (S4):** [[session-04-maintenance-house]] — tea, the flinch, the volunteered file; handouts in [[oswin-papers-handout]]. He is the co-lead of [[tenson-arc|Tenson's arc]].
+
 **Role:** Mages Guild ward maintainer
 **Location:** [[Sallowreach]] — the Maintenance House, ward perimeter (Mire-edge, south side)
 **Faction:** [[Mages Guild]]
@@ -100,7 +102,7 @@ If he loses — if the evidence is taken from him — he goes very quiet. He wil
 - Full technical knowledge of the ward: what the salt does, why it has to be reset at intervals, why the southwest perimeter is always the problem.
 - **The direction:** the spirit has been moving toward Sallowreach from the southwest for as long as records exist. "Not random. Something in the city has its attention. I've noted it every quarter for four years. The previous maintainers noted it too. No one's ever figured out what."
 - Institutional records for the past fifty years (pre-Vane records have a gap he's noticed and not pursued).
-- The lumber arrangement: he signs the quarterly shipment paperwork. He'll explain it without embarrassment — *"Tribute, essentially. The timber's worth it. Extraordinary stuff. I've never seen anything like it anywhere else."*
+- The lumber arrangement: he signs the quarterly shipment paperwork. He'll explain it without embarrassment — *"Payment for the posting. The Guild keeps the ward; the city ships the wood. The timber's worth it, believe me. Extraordinary stuff. I've never seen anything like it anywhere else."* And if anyone asks how a city this rich handles its coin, his answer — delivered flat, over his ledgers — is the truest sentence the party will hear about how Sallowreach works: *"There is no money here. There are trees, and there is paper about trees."*
 - [[The First Maintainer's Journal|Aldric Vane's original field journal]] is missing from his archive. He'll mention it as a mild frustration if asked about early records: *"There's a gap — Vane's original notes. First maintainer, two hundred years ago, obviously the most interesting source. Gone. Misfiled somewhere during a transition, probably."* He has not investigated. He has not wanted to pull on that thread.
 
 ---

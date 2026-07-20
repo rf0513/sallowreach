@@ -91,29 +91,37 @@ He cannot run the operation alone. Lantern rays are fast, non-aggressive, and ex
 
 He found the Tessak.
 
-### The Tessak
+### The Tessak *(recut 2026-07-01 — man-eaters, played straight since Session 1; supersedes the "sick children" version)*
 
-A lizardfolk clan that has lived in the outer Mire's deep channels for generations. Not a large community — perhaps sixty adults, their young, their elders. They know the Mire in ways Remy doesn't know it, because they live inside it rather than navigating it. They have channels they've used for a hundred years. They have a relationship with the lantern rays that predates Sallowreach by centuries.
+A lizardfolk clan that has lived in the outer Mire's deep channels since before Sallowreach drove its first piling — perhaps sixty adults, their young, their elders. They know the Mire the way [[Remy Duval|Remy]] never will, because they live inside it rather than navigating it. And they are **man-eaters.** Not monsters, not cursed, not cruel — *predators.* To the Tessak, the warm-blooded peoples are the finest prey the Mire offers: soft, slow, and obligingly delivered by every wreck. There is no malice in it. You don't hate a fish.
 
-They also have a word — *tessavrak* — that translates approximately as "taking beyond the season." Their own concept of overpoaching, developed across generations of living in a finite ecosystem. The elders use it as a warning. The clan has always understood that the Mire gives back only what is taken with restraint.
+**The détente.** The city and the clan have an arrangement two centuries old that neither side has ever said aloud: the Tessak do not hunt into the city or the marked channels, and the city does not look into the deep ones. Sallowreach files them under the honored-guest fiction and pretends they aren't there; the clan takes only what the water brings — wrecks, strays, the drowned. It has held for two hundred years because of the clan's own oldest law:
 
-They are doing tessavrak right now. They know it. They are doing it anyway.
+***Tessavrak*** — "taking beyond the season." Their word for overpoaching, coined across generations of living in a finite ecosystem, and it governs *everything* they take: fish, rays, meat that talks. Take a channel beyond its season and it empties. Take the talking meat too boldly and the herd changes its ways — builds walls, hires hunters, comes with fire. The elders hold the law; **Sresh**, the oldest of them, keeps its count.
 
-**Why:** A sickness has been moving through the clan's youngest members for eight months. Something in the water chemistry of their home channels — altered by the Mangrove Spirit's growing pressure on the Mire's ecosystem — has been affecting their young disproportionately. They've lost four children. More are sick.
+They are doing tessavrak right now. The elders know it. Drevath is doing it anyway.
 
-Gault arrived with medicine sourced from Sallowreach's outer market and a job offer. He didn't know about tessavrak. He didn't ask. He offered what they needed and they said yes, because what else do you do when your children are dying.
+**Why — the deal:** Gault didn't come to the deep channels with coin; coin means nothing there. He came with **supply.** He stirs the channels ahead of barge traffic, stages accidents, marks foundering hulls, and lets the clan know where the water is about to provide. The wrecks feed the clan — easy meat, regular as a tide, and all it costs is labor in the ray-shallows. Drevath took the deal because it was good math. It is *still* good math. That's the problem.
 
-**Drevath** leads the Tessak delegation working with Gault. They speak enough common tongue to negotiate and to give orders. They are not comfortable with what they're doing — the elders have been clear about what tessavrak means for the channel ecosystem — but Drevath has children among the sick and has made a choice that the elders understand even as they oppose it. When the party first encounters the Tessak, Drevath will not be apologetic. They will be doing what they have to do. The shame is visible anyway, underneath.
+Sresh calls the deal what it is: tessavrak twice over. The rays taken beyond their season — and the talking meat coming so easily that the young are learning to *expect* it. A predator that waits for deliveries is one lean season away from making its own. *(This is also the thread that ties the clan to the campaign's sabotage engine — and to the party's own wreck: the scout that came for them in Session 1 came because the water had been providing.)*
 
-### Separating the Tessak from Gault
+**Drevath** leads the delegation that works with Gault (stats and GM note: [[sallowreach-roster#Tessak Diver|the roster]]). They speak enough common tongue to negotiate and give orders, and they are **not ashamed** — that framing is retired. Drevath weighs everything that approaches as *threat, trade, or food,* and acts on the math. What makes them dangerous at a parley is the same thing that makes them reachable: the math is real, and it can be changed.
 
-The Tessak can be separated from Gault without violence. They have no loyalty to him — only to the medicine he provides and the deal they've made. If the party can offer what they actually need, the deal ends.
+### Ending the Deal — predator diplomacy
 
-**What they need:** Treatment for the sick children. [[Delphine]] can do this. The water chemistry issue she cannot fix — the Mangrove Spirit's pressure on the ecosystem is beyond her — but she can treat the symptoms, stabilize the sick, and give the clan time to find their own solutions. She will do this without hesitation if the party explains the situation. She may have opinions about what the Tessak have been doing. She will treat the children anyway.
+The Tessak can be separated from Gault without violence — but **not by appeal.** They have no loyalty to him, no pity to reach, and no use for mercy, friendship, or the rays' beauty; lead with any of those and you get the blank lateral stare of something waiting for you to say a real thing. The clan leaves Gault the day the deal stops being good math. The party's job is to change the math, in the clan's own grammar. Three arguments they will actually weigh:
 
-The party may also be able to advocate with [[Adaline Roux]] for the Tessak's situation — the Mire's non-human inhabitants are not part of Sallowreach's formal concern, but they are part of the Mire, and Adaline's philosophy about the Mire as a shared home has implications she hasn't fully examined. This is a harder path but has longer-term benefits: formal recognition of the Tessak as a Mire community, access to Sallowreach's resources through legitimate channels.
+1. **The season-count** *(Sresh's lever)*: the elders oppose the deal but argue from law, not evidence. The party can bring the *count* — Remy's school tallies (forty-three to smaller, month on month), the emptying shallows, the collapse arithmetic in this file. Predators respect a season-count; it is the one form of argument their whole civilization runs on.
+2. **The détente is being spent** *(Tenson's lever — it's a paper argument)*: the party is living proof that Gault's supply is *loud* — wreck-meat that got up, walked to the city, and came back with names and a boat. Staged wrecks risk survivors; survivors make imperial paper ([[Caius Maren|Caius]] is filing it right now); paper ends two hundred years of nobody-looks. Gault is spending the clan's century of quiet to buy his own ray-oil.
+3. **The Season-Eater precedent** *(the argument they already believe)*: the clan will not fish past the Double Knot, because the thing out there is what taking-beyond-the-season *makes* ([[fletcher-arc]]). Gault is doing to their channels what its makers did to theirs.
 
-**When the deal ends:** Gault loses his workforce. Without the Tessak, he cannot run the extraction at scale. He continues alone — stubborn, greedy, accelerating toward the Deep Mire and whatever he thinks is the source of the concentrations. The operation slows dramatically. The rays get a reprieve.
+**Full table-ready encounter — read-alouds, the Weighing, the Fear menu, the fight if it breaks: [[set-piece-the-tessak-camp]].**
+
+**When the deal ends:** Gault loses his workforce. Without the Tessak he cannot run the extraction at scale. He continues alone — stubborn, greedy, accelerating toward the Deep Mire and whatever he thinks is the source of the concentrations. The operation slows dramatically. The rays get a reprieve. And the clan withdraws to the deep channels having learned one new fact it will not forget: *the talking meat sent negotiators, and the negotiation was good math.* File that away for the endgame.
+
+**How far "he is not going to stop" goes** *(canon 2026-07-19)*: losing the workforce — or being refused the trail-read — is what tips Gault from extraction to the masterstroke: the staged wreck-sign, the deliberately broken détente, and the raid-as-cover ([[gault]] §The Bad Season → [[set-piece-the-bad-season]]). **The basin empties in one night, not on the collapse timeline below** — and its refilling is the party's to pour back after [[set-piece-beyond-the-season]].
+
+**If the party brings threats instead:** the Tessak do not back down, Gault's containers are rigged to sink if the camp is raided (he thought of this; he's been doing this for eight years), and the party gets reclassified from *trade* to *food that threatens* — see the set piece for what that fight looks like.
 
 ### The Collapse Timeline
 
@@ -153,23 +161,23 @@ He doesn't say anything else for a while. The party should feel the shift withou
 
 They won't catch anyone today. The operation moves on the water faster than they can follow without knowing where it's going. But they have a face for the problem now: nets, remains, a school that's smaller than it should be.
 
-### Encounter 2 — The Tessak Camp *(Mid-Act 2)*
+### Encounter 2 — The Tessak Camp *(Mid-Act 2 — predator diplomacy; full set piece: [[set-piece-the-tessak-camp]])*
 
 Following the nets, following Gault's trail, following the extraction damage further southwest — the party finds the camp. A Tessak staging area on a Mire island, partially hidden, with Gault's waterproofed containers stacked and waiting for transport. The Tessak are there. Gault may or may not be — he moves constantly.
 
-Drevath meets them at the water's edge before they can land. Not aggressive — assessing. They've been expecting something like this. The city sends people eventually.
+Drevath meets them at the water's edge before they can land. Not aggressive — **weighing.** Threat, trade, or food; the conversation exists so Drevath can finish the arithmetic, and the party should be able to feel themselves being priced.
 
-The conversation should be uncomfortable in the right way. The Tessak are not villains. Drevath is not performing innocence — they know what tessavrak means, they're doing it, they've made a choice they're not proud of. They will tell the party about the sick children if pressed, without self-pity. They will tell the party what Gault is paying them. They will not apologize.
+The conversation should be uncomfortable in the right way — but the discomfort is *being prey at a negotiating table*, not moral ambiguity about desperate parents. Drevath performs nothing. They know what tessavrak means; they're doing it; the math holds. They will state plainly what Gault provides. They will not apologize, because apology is a concept for herds.
 
-*"You would do the same,"* Drevath says, and the party should not be entirely sure they wouldn't.
+*"Your kind pens the soft animals and eats them at leisure. We take what the water brings. One of us is honest about it, meat. Sit down."*
 
-If the party offers an alternative — Delphine, Adaline, some path to what the Tessak actually need — Drevath will be very still for a moment. Then: *"Bring what you say you can bring. We will wait."* They will, in fact, wait. Drevath's word is good even when the situation it's given in is not.
+If the party argues in the clan's grammar — the season-count, the spent détente, the Season-Eater precedent (above) — Drevath goes very still while the math runs. Then: *"Bring the count. We will weigh it."* And they will: Drevath's word is good, the way a scale is good.
 
-If the party comes with threats instead of alternatives: the Tessak don't back down, and Gault's containers are rigged to sink if the camp is raided. He thought of this. He's been doing this for eight years.
+If the party comes with threats: see the set piece. Prey that threatens is still prey — it's just prey that has stopped being interesting to talk to.
 
 ### Encounter 3 — The Deep Mire
 
-This is the Gault fight. See [[Gault]] for the full encounter. The Tessak are gone by this point — separated from the operation if the party gave them an alternative, or present but staying out of it if the situation resolved without their full buy-in.
+This is the Gault fight. See [[Gault]] for the full encounter. *(Now a door, not the default — [[set-piece-the-last-inventory]] fires only if the party corners him alone; the arc's built end is [[set-piece-the-bad-season]] → [[set-piece-beyond-the-season]].)* The Tessak are gone by this point — the deal ended if the party changed the clan's math, or the clan simply *stopped coming* once the shallows emptied enough that even Gault's deliveries couldn't cover the tessavrak (the law reasserts itself when the count gets bad enough; the elders only needed the numbers to say what Sresh had been saying all along).
 
 What changes now that the rays are central: the Deep Mire in this section is extraordinary bioluminescent territory. The lantern rays don't come this deep normally — but the concentrations Gault has been chasing, the same ones drawing him toward the Mangrove Spirit's territory, produce something that resembles the rays' natural light in the deep water. Gault has been following what he thinks is a massive undiscovered school. He's wrong about what it is. He is in entirely the wrong place for entirely the wrong reasons, and the party catches him there.
 

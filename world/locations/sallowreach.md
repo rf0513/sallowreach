@@ -15,7 +15,7 @@ At this scale, not everyone knows everyone. There are neighborhoods where strang
 ## Population
 
 - ~95% native-born Sallowreachers, multigenerational, deeply rooted
-- ~3,000 immigrants who arrived, survived the Mire's learning curve, and stayed — considered "almost local" after a decade or two
+- ~3,000 immigrants who arrived, survived the Mire's learning curve, and stayed — considered "almost local" after a decade or two. Most live in [[the-eddy|the Eddy]], the immigrant quarter around the canal loop.
 - Several hundred guild representatives, imperial trade attachés, and specialized merchants on rotating postings — they live in designated quarters, hate the humidity, and count the days until rotation
 
 ## Key Infrastructure
@@ -26,12 +26,14 @@ At this scale, not everyone knows everyone. There are neighborhoods where strang
 
 **The Soak** — the city's prison. A stilted structure over particularly deep water in an outer district. Not cruel by design, just deeply unpleasant. Local deterrent.
 
+**The offering-roots & [[the-kept-root|the Kept Root]]** — wherever old wood breaches the water near a boardwalk, the boards are cut back, a ring of clean plank is kept scrubbed, and things get left there: the city's devotion, practiced as etiquette rather than religion ([[Cosmology]]). The oldest — the Kept Root, a root-knee the founders built around rather than cut — stands in a small plaza near the center, tended by a retired piling-setter who'd deny tending anything.
+
 ---
 
 ## Why Sallowreach Is Rich
 
 - **Rare alchemical ingredients.** The Mire grows mosses, fungi, roots, venoms, and bioluminescent algae that don't exist anywhere else. Healers, alchemists, and mages across the region pay serious money for Sallowreach exports. The Alchemists' Consortium has a permanent presence here — their representatives among the most miserable of the posting-haters, since their work requires actually going into the Mire.
-- **Extraordinary lumber.** The wood from Mire trees is dense, waterproof, and beautiful in ways no managed forest produces. Sallowreach woodworkers and boat builders are the best in the region — generations of craft knowledge that can't be replicated. The Shipwrights' Guild has been trying to steal the techniques for thirty years. Large quarterly shipments go to the Empire as tribute — the agreed price for keeping the [[The Wizard|Mages Guild ward maintainer]] posted here. Both parties understand this arrangement clearly and neither is embarrassed by it. Sallowreach has plenty of the wood; the Empire's wizards are worth the price. *(GM SECRET: see [[Cosmology]] — the wood is extraordinary because the [[Tree Spirit]]'s essence pours into the trees with nowhere else to go. The ward the Empire maintains is holding back the Mangrove Spirit, which is trying to reach its imprisoned companion. The arrangement is circular in ways no one has noticed: the imprisonment makes the wood valuable; the wood funds the ward; the ward holds back the spirit drawn by the imprisonment.)*
+- **Extraordinary lumber.** The wood from Mire trees is dense, waterproof, and beautiful in ways no managed forest produces. Sallowreach woodworkers and boat builders are the best in the region — generations of craft knowledge that can't be replicated. The Shipwrights' Guild has been trying to steal the techniques for thirty years. Large quarterly shipments go to the Empire — the agreed price for keeping the [[The Wizard|Mages Guild ward maintainer]] posted here. Nobody calls it tribute; it is only ever **"the quarterly shipment,"** and shipment weeks are worked like a harvest: temp hands hired at [[The Mooring]], the garrison walking the barges to the coast handoff, the yards lit past dark, and half the city turning out to watch the wealth leave. What comes back is **the Homecoming**: the returning barges lead the Guild's deep-water freighter into the Mooring, loaded with everything a swamp can't make — salt, steel, grain, wine, spice, silk — and for two days every household in the city collects its draw from the guild warehouses, family book in hand. Coin is thin here; the wealth is the draw ([[coin-in-sallowreach]]). Both parties understand the arrangement clearly and neither is embarrassed by it. Sallowreach has plenty of the wood; the Empire's wizards are worth the price. *(GM SECRET: see [[Cosmology]] — the wood is extraordinary because the [[Tree Spirit]]'s essence pours into the trees with nowhere else to go. The ward the Empire maintains is holding back the Mangrove Spirit, which is trying to reach its imprisoned companion. The arrangement is circular in ways no one has noticed: the imprisonment makes the wood valuable; the wood funds the ward; the ward holds back the spirit drawn by the imprisonment.)*
 - **Unique food culture.** The bayou feeds sixty thousand people extraordinarily well. The culinary tradition runs deep enough to have its own professional guilds, famous chefs, and restaurants that attract wealthy visitors who suffer the journey specifically to eat. The Empire's court has been trying to import Sallowreach cooks for generations; the cooks mostly refuse.
 - **Skilled artisans.** Weavers, leatherworkers, boat builders — entire districts organized around specific crafts, all of it generations in the making.
 - **The Punt Network.** Sallowreach controls the only transit through the Mire. Every merchant, every guild shipment, every imperial attaché gets in and out via licensed punt operators. The city taxes this. Generously.
@@ -48,7 +50,7 @@ Economic capture is equally impossible. The city doesn't need outside supply cha
 
 So instead, the Empire trades. The guilds negotiate. They send representatives — and Sallowreach listens politely, charges what it wants, and reminds everyone, gently, that the alternative is nothing.
 
-The guild and imperial representatives know exactly what they are: supplicants with nice titles. Most find this humiliating. A few, after enough years in the city, stop finding it humiliating and stop wanting to go home. Those are the ones who eventually become immigrants.
+The guild and imperial representatives know exactly what they are: supplicants with nice titles. Most find this humiliating. A few, after enough years in the city, stop finding it humiliating and stop wanting to go home. Those are the ones who eventually become immigrants — and cross over into [[the-eddy|the Eddy]], where the quarter asks them what year they're on.
 
 ---
 
@@ -69,18 +71,22 @@ The guild and imperial representatives are expected to participate. Those who re
 - Old families vs. new money vs. guild money — political fault lines run through every major decision
 - The Mire is growing; the ward is [[The Wizard|undermaintained]]; the outer boardwalks are being swallowed
 - [[Marcel Dray]]'s operation is an open secret the city government has chosen not to confront
-- At least one ongoing municipal scandal (to be detailed)
+- The ongoing municipal scandal, detailed and live: the ward's maintenance money ([[Oswin Cray]]'s skim, [[Caius Maren]]'s pretext denials — [[players/tenson-arc|Tenson's audit]] is the thread that pulls it)
 
 ## Key NPCs Present
 
-- [[Marcel Dray]] — underground economy
-- [[The Wizard]] — Mages Guild ward maintainer
-- [[The Healer]] — TBD
-- [[The Old Stories Keeper]] — TBD
-- [[The City Leader]] — TBD
-- [[The Woodworker]] — TBD
-- [[The Guide]] — TBD
-- [[The Skeptic]] — TBD
+*(Full panic-sheet: [[npc-quick-ref]]. Performable voices: [[voice-cards]].)*
+
+- [[Adaline Roux]] — city leader; runs the Celebration
+- [[Marcel Dray]] — underground economy; holds the Tidebreaker
+- [[Oswin Cray]] — Mages Guild ward maintainer ("the Wizard")
+- [[Delphine]] — healer, Thornside; has visions
+- [[Caspar Renne]] — museum curator, old quarter; the old stories
+- [[Théo Rouchard]] — Woodworkers' Guild head
+- [[Remy Duval]] — innkeeper / Mire guide; the party's landlord
+- [[Sinope]] — philosopher vagrant; the city's resident skeptic
+- [[Caius Maren]] — imperial liaison, Attaché Quarters
+- **The keepers of the quarters:** Maud Perrin ([[the-last-board|The Last Board]], Thornside) · Cassia Fontaine ([[the-eddy|The Eddy]]) · Prosper Doucet ([[the-kept-root|The Kept Root]])
 
 ## Dungeon Alchemist Notes
 

@@ -60,6 +60,16 @@ What is actually tracking him: unknown. [GM: consider whether this is the Mangro
 
 ---
 
+## The Cargo — the Amphisbaena *(the Fletcher weld — full design in [[fletcher-arc]])*
+
+The biggest contract of his eight years — and he never even caught the thing. An **imperial research facility** (the kind whose name is redacted on every page) *built* it: two serpents fused into one body that never sleeps, specimen brand **2H-3**. When they needed it moved — quietly, off the books, to an unnamed buyer — they hired the one courier who moves freight with no paper. Three years ago, at a barge stage half a day upriver from a Ribbit spawning-town, the crate went into the water. Neither he nor the lab reported the loss; no one warned the river towns. He wrote it off within the week. He does not remember the town's name. He remembers the manifest number.
+
+The serpent followed the smell of his own Mire-sweating crates down the corridor — cracking his caches, eating his goods — and settled in the deep southwest channels, where it has been eating his margin ever since. He calls it *"my cargo."* **The recapture is pure money:** the contract line is still open, the buyer still pays, and the lab pays *double* for a specimen that survived three years feral — proof the product works. He has a **standing order** through Cauvin and every fence on the corridor: coin for word of the two-headed one, triple for a trail, **alive, never dead.** He can't net it (it sheds out of restraints and reads a trap the second time it sees one); what he needs is the best trail-read on the continent. Which is why, when he hears about the frog with the journal, he makes **the Offer** — his proper on-screen introduction, staged in [[fletcher-arc#The Offer]].
+
+*(This replaces the unfired tavern cameo as his first appearance — see note below.)*
+
+---
+
 ## Operations
 
 He works alone, or with hired hands he picks up in port towns outside Sallowreach and drops off after each run. The hired hands know the job is extraction and don't ask about permits because the pay is good and Gault doesn't answer questions. He has gone through eleven hired hands in eight years. Some left. Some didn't make it out of the Mire. He has no feelings about this.
@@ -68,11 +78,25 @@ His buyers are not in Sallowreach. He sells through intermediaries in port citie
 
 He is aware of [[Remy Duval]] in the way that two people who operate in the same territory become aware of each other. He finds Remy's monopoly on legitimate Mire access professionally irritating and personally irrelevant. He does not have legitimate access. He does not need it. The Mire does not check permits.
 
+**Why he gets away with it *(canon 2026-07-18)*:** Sallowreach's entire apparatus — guild, guard, ledgers, law — points at the trees. Wood is what gets counted, stamped, escorted, and avenged; cut one tree and sixty families know by dinner. Gault has never cut one. Everything he strips swims, glows, or breathes — and a city that counts every board-foot has no column for any of that. He knows it, and he'll say it, once, flatly, if anyone asks how he's lasted eight years: *"You can't touch a tree in this swamp without the whole town knowing. Nobody counts the rays."*
+
+---
+
+## The Bad Season — the masterstroke *(canon 2026-07-19 — the arc's turn)*
+
+*The GM ruling: Gault is the campaign's irredeemable villain, and he gets one night where he wins. Full table-ready staging: [[set-piece-the-bad-season]] (~S7–8, after the Offer is refused).*
+
+He told Brin himself, in front of the party: *"Everyone in this city is one bad season from a number."* So he manufactures the season. He stages the sign of the biggest wreck the Tessak have ever been offered — inside the town's own waterways — and breaks the two-hundred-year détente on purpose, as **cover**. While the town fights man-eaters on the boards, he takes three things: **the brightfin basin** (every remaining ray, the score of his career), **Brin's drawer** (the four castings and the channel map he was refused — the trail-read for 2H-3), and **Whimsy** (a live owlbear cub is the richest freight his pipeline has ever moved). He is never seen. He spends the town's blood and Brin's courage like coin.
+
+**His one mistake:** he priced everything except what the cub is worth to the thing that loves it. The mother tracks her child southwest — and the party follows *her*, no map needed, to the finale: **[[set-piece-beyond-the-season]]**.
+
+**If confronted with it later, his whole defense, flat:** *"I didn't eat anyone."*
+
 ---
 
 ## The Three Encounters
 
-*GM structure. Run these across Acts 1–2. Full encounter details — including the Tessak, the lantern rays, and the ecological stakes — live in [[Lantern Rays]]. This section is the Gault-specific view of each encounter.*
+*GM structure. Run these across Acts 1–2. Full encounter details — including the Tessak, the lantern rays, and the ecological stakes — live in [[Lantern Rays]]. This section is the Gault-specific view of each encounter. **The arc past them (canon 2026-07-19):** the Offer refused → [[set-piece-the-bad-season]] (his win) → [[set-piece-beyond-the-season]] (the final battle — party vs. his expedition vs. the loose 2H-3, the mother inbound). [[set-piece-the-last-inventory]] remains live as a **door**, not the destination — it fires if the party corners him alone before the raid, or after his crew breaks.*
 
 ### Encounter 1 — Dusk on the Wending *(Early Act 2)*
 
@@ -90,15 +114,15 @@ What he's taken: lantern rays in sealed containers. Their bioluminescent organs 
 
 ### Encounter 2 — The Tessak Camp *(Mid-Act 2)*
 
-Following the extraction damage southwest, the party finds Gault's staging operation — and the [[Lantern Rays#The Tessak|Tessak]], the lizardfolk clan he's recruited. Gault may or may not be present; he moves constantly.
+Following the extraction damage southwest, the party finds Gault's staging operation — and the [[Lantern Rays#The Tessak|Tessak]], the man-eating deep-channel clan whose labor he buys with **supply**: he stirs the channels, stages wrecks, and lets the water provide. The deal ties him to the clan, to the campaign's sabotage engine, and to the party's own Session 1 ambush. Gault may or may not be present; he moves constantly.
 
-This encounter is primarily about the Tessak and the possibility of separating them from Gault's operation. See [[Lantern Rays]] for the full Tessak situation, Drevath, and the resolution path.
+This encounter is primarily about the Tessak and ending that deal — **predator diplomacy, not rescue.** The canon and the three levers: [[Lantern Rays]]. The table-ready encounter — the Weighing, the Fear menu, the fight if it breaks: [[set-piece-the-tessak-camp]].
 
 Gault's role here: if present, he watches the party's conversation with Drevath with the specific attention of someone assessing whether his operation is about to be disrupted. He does not intervene in the negotiation — he doesn't need to, he thinks. He's wrong about that, if the party plays it right.
 
 If the party successfully separates the Tessak from Gault: he loses his workforce. He continues alone. He's stubborn and greedy and the concentrations are getting stronger the further southwest he goes, and he is not going to stop.
 
-### Encounter 3 — The Deep Mire *(Act 2–3)*
+### Encounter 3 — The Deep Mire *(Act 2–3 — table-ready staging: [[set-piece-the-last-inventory]], with three doors in and the ending as a menu)*
 
 The party is following the [[the-tidebreaker|Fishing Spear]] toward the [[Mangrove Spirit]]. Gault has been following the same bioluminescent concentrations, thinking he's tracking a massive undiscovered population of lantern rays. He's wrong about what's producing the light. He is in entirely the wrong place for entirely the wrong reasons.
 
@@ -118,10 +142,10 @@ After he's dead: the Mire goes still. The bioluminescence disperses slowly. No o
 - [[Brin Sevarre]] — the Hunters' Guild's balance-keeper, and the closest thing Gault has to a true opposite (Remy is the *reverent* anti-Gault; Brin is the *stewardship* one). She knows his method on sight and has been telling the Guild about him for three years. **The personal edge:** one of Gault's eleven disposable hired hands — the one who "didn't make it out" three years ago — was a young hunter Brin had half-trained and vouched for. Gault has no memory of which one. Brin has nothing else. *(Gault doesn't think about her. She thinks about him constantly. That asymmetry is the relationship.)*
 - [[The Mire]] — his warehouse; has no other relationship with it; the Mire has changed him anyway, indifferent to his indifference
 
-## The Tavern Cameo *(GM — first planting, Session 1 cold open)*
+## The Tavern Cameo *(✅ played — the port-delay tavern, Session 1; see [[session-01-recap]]. His next appearance: the S4 Ranging House collision, staged in [[fletcher-arc#The Ranging House Collision — S4]])*
 Before the party ever boards, they see Gault across the opening tavern, offloading sealed jars to an intermediary — one of them holding a faintly glowing creature, dying in the glass. A child presses close in wonder; Gault slides the jar out of reach: *"Don't smudge the glass. It's spoken for."* He recounts his own coin, gathers his goods, and leaves without looking at the room. **Remy tags him for the players** — *"That's Gault. We don't do business with Gault."* — which plants the name, the face, and the anti-Remy contrast minutes after Remy's spirit-story about *not taking more than you're given.* It's a pure character plant (no plot yet); the payoff is recognition when they find the nets and the jarred rays in Act 2. *(Optional: the jar's glow holds in his eyes a half-second too long — the "wrong eyes" seed.)* See [[session-01-read-aloud#1 · The Tavern|Read-Aloud · Beat 1]]. The boat that brings them to town is a [[sallowreach-roster#Tessak Scout|Tessak]] craft, not his — keep this cameo strictly a face-and-vibe introduction.
 
-## The City Thread *(GM — early planting via Fletcher)*
+## The City Thread *(⚠ partially superseded — the civet trust-test was overtaken at the table by the owlbear cub; Cauvin and the night-berth cache stay live as [[fletcher-arc]] ladder rungs)*
 Gault's buyers are outside Sallowreach, but his pipeline *stages* live specimens through the city before they ship — the **night berths at [[The Mooring]]**, where the Wardens look away and [[Marcel Dray|Marcel]]'s edge-trade already moves contraband. [[Fletcher]]'s in-town trust-test for [[Brin Sevarre]] (the escaped "amber civet" — see Brin's file) brushes the edge of this operation: a broken crate, a holding cache, a live-specimen chain. It's a low-stakes, early brush with the main villain's reach, long before the party meets the man himself in the deep Mire. Brin recognizes the method instantly; it's the proof she's been missing.
 
 ---

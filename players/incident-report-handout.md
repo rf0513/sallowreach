@@ -1,6 +1,6 @@
 # Player Handout — Caius's Incident Report
 
-*The document [[Caius Maren|Caius]] handed the party at dinner (transcribed by the living-spell attendant, **Mr. Bigsby**) and asked all four to review and sign. Give this to Tenson's player to mark up. **They haven't signed.** GM note in [[session-03-recap]]: signing = document fourteen in Caius's annexation file; every warm truth from the table has been filed off.*
+*The document [[Caius Maren|Caius]] handed the party at dinner (transcribed by the living-spell attendant, **Mr. Bigsby**) and asked all four to review and sign. Give this to Tenson's player to mark up. **They haven't signed.** GM note in [[session-03-recap]]: signing = document fourteen in Caius's annexation file; every warm truth from the table has been filed off. The return of the marked-up draft runs as its own set piece — [[session-04-redline-meeting]] — and the transcriptionist has a file now: [[bigsby]] holds the verbatim original this report was filed off of.*
 
 ---
 

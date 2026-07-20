@@ -5,7 +5,9 @@ aliases:
 
 # Leavy — The Witch
 
-*The player hasn't settled on a name yet. Update this file and the wiki-links when they do. (Worth asking: do they want the **clank's** name, or the name of **the person they used to be** — assuming that name is even recoverable?)*
+> **Arc: ACTIVE — [[leavy-arc]] ("Seven for a Secret").** The GM-only truth below was superseded 2026-07-01; the player-facing text on this sheet stays true word for word.
+
+*The player hasn't settled on a name yet. Update this file and the wiki-links when they do. (Worth asking: do they want the **clank's** name, or the name of **the person they used to be** — assuming that name is even recoverable? The arc gives this teeth: they never received their true name at all — it's waiting at the bottom of the coronation cup. See [[leavy-arc]].)*
 
 **Class:** Witch — Hedge subclass
 **Ancestry:** Clank
@@ -40,17 +42,11 @@ The practical pursuit is alchemy. They came to Sallowreach because the Mire grow
 The charged Mire water itself is part of why this place can touch their condition: it carries the [[Tree Spirit]]'s transforming essence (see [[Cosmology#The Turn & The Tether|The Turn]]). The same boundary-crossing power that the spear focuses is diffused through every channel they punt across. They drowned in a transformation-engine and didn't know it.
 
 ## The Truth — GM Only
-**They did it to themselves.** *(Default answer, to use if the player leaves the "who remade me" hook up to the GM.)*
+> **Superseded 2026-07-01.** The old default here — *"they did it to themselves"* — is retired; the live answer is **[[leavy-arc]] ("Seven for a Secret").** Short version below; the full truth, memory engine, clue ladder, and endgame menu live in the arc file.
 
-The Witch was a Hedge alchemist, and they were dying — *(leave the exact cause open: a wasting illness, a mortal wound, something that finally caught up to them).* Rather than go, they performed a working of their own design: they built a clank body and poured their own soul into it as the flesh failed. It half-worked. They crossed — and **the crossing burned away their memory, including the memory that the hand that made them was their own.**
+**Leavy was the chosen heir of the Nine Hedges coven.** Their dying teacher, **Feverfew**, named them successor; on coronation eve a passed-over rival — **Bindweed** — cursed them: killed the heir, scoured the mind, dissolved the ninth seat to grow the other eight. The clank vessel was **old Leavy's own contingency build** (the "search ends at a mirror" irony survives as a half-truth: the maker *was* them), and Feverfew spent her last hours pouring her student's soul into it — she died completing it, which is why no maker was waiting. Delphine's table-canon line was exactly right: the curse was cast **"to stop a coronation."** The coronation was Leavy's.
 
-So the maker they've been hunting across the world is **themselves.** The search ends at a mirror. When you choose to drop clues, point them inward: their own handwriting in an old formula, a workshop that turns out to have been theirs, someone who recognizes them as the alchemist who vanished. With the memory erased, none of it lands until you want it to.
-
-**Why this is the answer that sings:**
-- **They are their own curse.** No one to forgive or punish but the self they can't remember being.
-- **The craft is the cage.** Hedge alchemy isn't just their tool for a cure — it's the discipline that *built their prison.* The formulary in their hands may contain their own forgotten work. When they realize it, the whole character recolors.
-- **The spear becomes a knife.** The spear breaks curses — but undoing *this* one means undoing the act that saved them. To "be the person they were again" is to finish the death they cheated. Did past-them steal a clean death, or grant a second life? The cure they've chased all campaign turns out to ask the worst question: *do you actually want to live as what you were — or die as who you should have been?* Hold this for late. It's a finale-grade gut-punch, and it's the Witch's personal version of the campaign's central choice. *(GM lever, decide later: does the spear's cure offer a true living body at a cost, or is "cure" just the release into the death they dodged? Leave it open until the table's there.)*
-- **It rhymes with the binding.** A desperate act to hold on to a life that became a prison — the [[Tree Spirit]]'s story in miniature, self-inflicted. A small binding they laid on themselves.
+**What survived the wipe:** the craft (the hands remember), the taste-vault (memories brewed into unfinished draughts, keyed to Leavy's tongue, carried by the old familiar — the magpie **Seven**), and one unintended mercy: Leavy reads as a **smooth blank** to all scrying. Bindweed believes the heir destroyed. **The curse is the only thing hiding them — and the day it breaks, the blank lifts.** That's the price tag on the cure.
 
 ## What They're Carrying
 The formulary: three years of alchemical notes converging on a working they can't yet complete. Beautiful, precise, immaculate — and you can feel the longing bleeding up through the rigor. Also: a Hedge witch's kit, a chemist's nose, and a shapeshifter's reflex for reading a room and quietly matching it. *(Possible waterlogged item — see [[session-01-prep]]: the ink has run on exactly the pages that mattered most.)*
@@ -58,13 +54,14 @@ The formulary: three years of alchemical notes converging on a working they can'
 ## Key Relationships
 - [[Professor Orna Tessant]] — director of [[The Verdant Margin]]; the city's deepest authority on Mire reagents; ally, lore-source, and the mirror the Witch will least want to look into
 - [[Delphine]] — the healer; reads bodies (and what's *in* them) with a precision the Witch will recognize as kin; she'll clock the shapeshifting and say nothing
-- **Whoever did this** — the maker the Witch is hunting. *(Player-facing: unknown. GM truth, default: it was the Witch themselves — see [[#The Truth — GM Only]].)* The search is the spine of the backstory, and it ends at a mirror.
+- **Whoever did this** — the maker the Witch is hunting. *(Player-facing: unknown. GM truth: the vessel was their own build, the pour was Feverfew's dying act, the curse was Bindweed's — see [[leavy-arc]].)* The search still ends at a mirror — just not the one we first hung.
+- [[seven|Seven]] — the magpie familiar, arriving via Orna's Calling ([[session-04-gloamcap-run]]). It knew them before. It remembers everything. It can't say any of it. Arc beats: [[leavy-arc#Seven — the magpie]]; table sheet + phrasebook: [[seven]].
   
 ## The Mirror *(GM)*
 [[Professor Orna Tessant|Tessant]] is the Witch's inverse, and it's brutal: a **firbolg cheerfully drinking themselves into a swamp-thing on purpose** meets a **former person trapped in a made body who'd give anything to get out of it.** One is throwing their self away one experiment at a time and calls it research; the other had their self *stolen* and wants nothing but it back. And the sharpest edge — the Witch is a compulsive **documentarian** (every step of the formulary recorded, because they know what it is to lose what was never preserved), while Tessant, who could fill libraries, writes *nothing* and lets the most valuable mind in the region wash out untranscribed. The Witch will find that unbearable. That's the bond. *(Tessant also clocks the Witch's real problem in one careless glance — "you're not sick, you're* bound" *— pointing them off the potion-path toward [[the-tidebreaker|the thing that actually breaks bindings]], without ever finishing the sentence.)*
 
 ## The Tether
-They came searching and meant to keep moving — the Wanderborne never stop. The tether stops them. Now the search is pinned to one swamp: the one place the cure might actually exist, and the one place they can't leave. A wanderer caged in the exact spot their long road was heading anyway. And the cruelest rhyme: the charged water that tethered them is *the same kind of force* that's holding their soul in the wrong body. They are, like [[Isotta]] and like the bound [[Tree Spirit]], a small binding — caught between states. The campaign is full of mirrors for them.
+They came searching and meant to keep moving — the Wanderborne never stop. The tether stops them. Now the search is pinned to one swamp: the one place the cure might actually exist, and the one place they can't leave. A wanderer caged in the exact spot their long road was heading anyway. And the cruelest rhyme: the charged water that tethered them is *the same kind of force* that's holding their soul in the wrong body. They are, like [[Isotta]] and like the bound [[Tree Spirit]], a small binding — caught between states. The campaign is full of mirrors for them. *(Table execution — their signature, cost, and gift: [[tether-manifestations]].)*
 
 ## Notes for the GM
 - **The grief is for a stranger.** Play the not-knowing. They don't get tidy flashbacks; they get the *shape* of a missing life — a phantom reflex, an object that means something they can't explain, a name that almost surfaces. The reveal of who they were (if it ever comes) is a long, earned thread.

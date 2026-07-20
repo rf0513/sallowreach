@@ -11,7 +11,7 @@
 
 ## The Honored Guest Inn
 
-The inn was named generations before Remy was born. The tradition of honored guests runs through Sallowreach's founding — the name is old. Remy didn't choose it. It suits him anyway.
+The inn was named generations before Remy was born. The tradition of honored guests runs through Sallowreach's founding — the name is old. Remy didn't choose it. It suits him anyway. *(GM, 2026-07-18: the name now has a second edge — the campaign's literal honored guest is the drowned tree under the Hall, [[set-piece-the-honored-guest]]. The party has been sleeping in the answer's name since Session 1. Never point at it; let someone notice.)*
 
 The common room is hung with things he's pulled from the Mire or been given by clients: a deep-water lamp of impossible design, three mounted specimens of creatures that have no formal name, a hand-drawn map of the Wending that contradicts the official one in several important ways and is correct where they differ. The food is exceptional — he learned to cook from his grandmother, who learned from hers, in the specific lineage of Sallowreach cuisine that treats Mire ingredients as the foundation rather than the garnish. The rooms are small and kept well. The beds are better than the inn looks like they'd be.
 
@@ -195,6 +195,55 @@ This is not the Mangrove Spirit that killed Seve. Seve went further than the Dee
 Remy's boat went down with the ship — and the wreck was sabotage ([[Caius Maren|Caius]]'s doing, unknown to anyone yet). He's gutted but functional, and too proud to take charity; he'd rather earn a new one *with* the party than be handed it. Until then, getting into the Mire means **renting a punt at [[The Mooring]]** — a constant coin-bleed on a tethered, penniless party, with the deep channels (where the cure lives) locked behind a boat they can't yet afford.
 
 This is less a quest than the economic spine of Act 1: rent the leaky skiff → take jobs → save toward a used boat (the bleed ends), then the proper Deep-Mire craft (Act 2 opens, and it's the boat that reaches [[The Mangrove Spirit's Heart]]). The money fork — honest ([[Théo Rouchard|Théo]]), dirty ([[Marcel Dray|Marcel]]), or poisoned ([[Caius Maren|Caius]]) — is the choice that makes the pressure produce story. **Full system, prices, and the dock-boss [[The Mooring#Sabine Aucoin|Sabine Aucoin]] live in [[The Mooring]].** Let the party restore Remy, not rescue him.
+
+> **As-played update (S3, 2026-07-02):** the *party's* boat problem is solved — they kept the smuggler's boat ([[session-03-recap]]), so their rental bleed is over. **Remy is still boatless — and he will never ask for theirs.** Not pride alone: the **Honored Guest code**, his inn's name and his whole life — *a host does not reach for what belongs to his guests.* If they park it at his personal dock, he walks past a working boat every morning on his way to rent from Sabine, and says nothing, forever. He'd sooner sign her paper — and he's about to. His restoration now runs through **"The Berth Contract"** ([[tenson-arc#The Clients Runner (the dream, paid en route)|Tenson's arc]]): Sabine's rent-to-own trap (now ordinary Warden stock — Anselme's punt went home when Solène withdrew the sale, [[session-04-recap]]), the **Thouvenel Lease** counter-move, and the question of whether the party notices what the code is costing him.
+
+### The Shipment Berth *(S5 — the negotiation; canon 2026-07-18)*
+
+The **quarterly lumber shipment** hires temp hands every run — dockers, pole-men, channel pilots ([[sable-crue#Shipment Week — "the Parade" *(canon 2026-07-18)*|Sable's "parade"]]). This quarter, **Remy has signed on as a channel pilot.** Real wages, honest work — exactly the kind of money the Honored Guest code lets him take: *earned, not given.* It's how he means to fund his way back onto the water (the installments, Sabine's paper — above). He tells the party plainly, carefully casual, that he's taking the berth: the run is about a week out to the coast handoff and back, and he won't be on their water while it lasts.
+
+**The problem is theirs, not his.** The party needs him — nobody else can captain their boat through the Wending, and the whole cure-path runs on Mire trips. Remy is not making a play; he'd sooner sink than use his own need as leverage on his guests. He simply needs the money, and this is the first work in months that came *to* him.
+
+**Run it as a negotiation, never a guilt trip** *(coin doctrine: every sink is a person — [[coin-in-sallowreach]])*:
+- **Match the berth.** They pay what the shipment would — but he won't take charity, so it must be *hire*: a real retainer, his rates, standing captain of their boat. Tenson can paper it. Remy, embarrassed and pleased: *"You're… putting me on wages. On my own clients' boat."* [a beat] *"All right. But I cook."*
+- **Split the season.** He works this one shipment week; they plan Mire trips around the quarter. The absence is real and the calendar grows teeth — a recurring rhythm, not a doom clock.
+- **Let him go.** He takes the berth. A week without their captain — felt, not punished — and he comes back flush, with dockside gossip from the coast handoff worth having.
+
+No option is wrong. The scene's job is to make the party *notice* what Remy's pride has been costing him — and decide, out loud, what he's worth to them.
+
+### The Homecoming at the Honored Guest *(the redistribution show piece; canon 2026-07-18)*
+
+*Drop-in scene, one morning — fires best the week the return cargo lands (**the Homecoming**: the returning shipment barges lead the Guild's deep-water freighter into the Mooring — one huge ship, riding low, carrying everything a swamp can't make: salt, steel, grain, wine, spice, silk; full doctrine in [[coin-in-sallowreach]]). This is the scene that teaches the party the whole economy without a single number.*
+
+**The scale (say it even if nobody leaves the inn):** for two days the whole city collects. Every household sends someone to the warehouses with the family book and comes back loaded — a care package for every house in Sallowreach, at harbor scale. Punt traffic doubles. Kids ride sacks. It's the closest thing the city has to a second festival, and nobody thinks of it as remarkable.
+
+**Remy goes too.** He takes the handcart down in the morning like everyone else — the inn has its own book, modest and *his*, drawn against twenty years of feeding travelers, and he's quietly proud of that: listed, earned, nobody's charity. He comes back with the legitimate share: flour, salt, oil, a little wine. That part he takes with pleasure.
+
+**If a PC rides along to the draw** *(quick read-aloud — they probably won't go; don't work it hard):*
+
+> The Mooring's gone carnival. There's a ship at the deep berth that makes every boat you've seen here look like a toy — riding low, still unloading after two days. The warehouse line is every family in the city: books out, kids on shoulders, sacks going onto punts stenciled with household marks.
+>
+> The clerk knows every name without asking. "Duval — the Honored Guest." Flour, salt, oil, wine, down the counter. Then she adds a second sack of the good rice. Remy checks his book. "That's not—" — "Rounding," she says, already calling the next name.
+>
+> He takes it. He's learned that much.
+
+**What's happening back at the inn:** the quarter is running the honored-guest protocol *on Remy.* Everyone knows he lost his boat. Everyone knows the code won't let him accept help. So nobody offers help. They come to his inn **as guests, bearing gifts** — and a host cannot refuse what a guest brings to his table. The same etiquette the city uses on its spirits, weaponized as kindness against one proud frog.
+
+**Read-aloud (the party comes down to the common room):**
+
+> The common room smells like a spice barge sank in it. There's a woman from three berths down setting a sack of red pepper on the bar — "came in over-order, it'd only go stale." A kid drops off a wheel of coast cheese "that got cracked in the unloading." You look. It is not cracked.
+>
+> There's a bolt of silk on the corner table nobody will look at directly. Two jars of good lamp oil. A ham.
+>
+> And Remy is arguing with an old poler about a sack of wheat flour — arguing hard, hands going — and losing. He's losing because the poler just keeps saying the same sentence, patient as the tide: *"It's a gift for the house, Remy. You going to turn a guest out?"*
+>
+> Remy looks at you over the man's head like a drowning man. Then he takes the flour.
+
+**Beats:**
+- **A PC asks how he's paying for all this** — and gets the mechanism said aloud, from Remy, disgusted and moved at once: *"Paying? Nobody* pays. *The barges came home — everybody's book is full, so everybody's got 'extra.' Extra that walks itself to my door."* [beat] *"Coin's tight, yes. The berth, Sabine's paper — coin I need. But* poor? *Cher, you can't be poor in Sallowreach. The city won't allow it."* [darkly, taking another jar] *"It's extremely annoying."*
+- **Tenson's flicker** *(the auditor)*: no ledger records any of this. The largest transfer system in the city — the thing that actually feeds it — is entirely off-book. The books track *trees.* People are handled by custom.
+- **The teaching, left unsaid:** the floor is free; coin is only for *moves.* This is why the berth matters to Remy and bread doesn't — and why, when the party later weighs the endgame, "the lumber goes ordinary" means *this room, this morning, gone.* Don't say that. File it.
+- **Clue fire (shown + said):** shown — the lying labels ("cracked," "over-order," "only go stale"); said — Remy's line above. If the table misses it, the poler winks at a PC on his way out: *"House rule. He can't refuse a guest. Best rule we've got."*
 
 ---
 

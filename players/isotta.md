@@ -49,7 +49,7 @@ The Order's ritual tools, quietly adapted for a practitioner who is also a valid
 - The Mire's spirits — they will find her. So, in their way, will whatever is bound in the [[Cosmology#The Turn & The Tether|black water]].
 
 ## The Tether
-She came to cure a condition that left her between alive and dead. The tether, it turns out, is also a between — the charged water that might hold her cure is the very thing now holding *her.* She is more woven into this place than anyone else on that ship, and the longer she's here, the more it answers her. She of all of them should feel the recognition-click coming before her mind admits it.
+She came to cure a condition that left her between alive and dead. The tether, it turns out, is also a between — the charged water that might hold her cure is the very thing now holding *her.* She is more woven into this place than anyone else on that ship, and the longer she's here, the more it answers her. She of all of them should feel the recognition-click coming before her mind admits it. *(Table execution — her signature, cost, and gift: [[tether-manifestations]].)*
 
 ## Notes for the GM
 - **She's the early-warning system.** Let her get the first fragments — a feeling near the water, a wrongness on Celebration nights, a sense that the city's lanterns are *familiar.* But hold the cosmology's line: she perceives, she does not *understand.* No NPC and no instinct of hers should connect the Celebration to the curse before the earned recognition beat (see [[Cosmology#The Recognition Reveal — what they can know, and when|the reveal rules]]).

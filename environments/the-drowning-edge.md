@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Drowning Edge
+---
+
 # The Drowning Edge
 
 **Tier 1 Traversal / Event**
@@ -37,8 +42,8 @@
 > The face of the displacement, wired to the party three ways. Introduced on the page in [[session-04-salt-wall]] (Beat 1: Solène stripping the drowned house; Beat 2: Anselme past the salt line).
 >
 > - **The family & the home:** **Solène Thouvenel** (steady, dry-humored, too tired to be bitter out loud) and her daughter **[[fen|Fen]]** (17, the drummer). The house **Anselme** — Solène's father, drowned poler — built is already under; the party watches Solène salvage its windows. The family lives one row back now, *also in the path* ("she's done this before and figures she'll be doing it again").
-> - **The PC ties:** **Isotta** — Anselme *was* her first Lantern Docket case, **closed S4 the good way** (she proved his words to Solène; the sale withdrawn; he crossed — [[session-04-recap]]). **Tenson** — Solène holds the creased ward-fund denial notice with the signature that means nothing to her and everything to him. **The whole party** — Fen, the questioner, the absence campaign, and the end-game hands.
-> - **Who's refusing:** the Lethabys and Old Sera stay as the *neighbors* — the holdout porch two doors down, where Fen played the night the first order went up.
+> - **The PC ties:** **Isotta** — Anselme *was* her first Lantern Docket case, **closed S4 the good way** (she proved his words to Solène; the sale withdrawn; he crossed — [[session-04-recap]]). **Tenson** — Solène holds the creased ward-fund denial notice with the signature that means nothing to her and everything to him. **The whole party** — Fen, the punk kid who wants to play her own arrangement and isn't allowed *(⚰️ 2026-07-25: no walkout, no end-game role — [[fen]])*.
+> - **Who's refusing:** the Lethabys and **Old Sera Lethaby** stay as the *neighbors* — the holdout porch two doors down, where Fen played the night the first order went up. ⭐ *(Filled in 2026-07-24: Sera is the matriarch with **forty years of tide journals** and the grandmother of **Lenne**, the nine-year-old in [[set-piece-what-the-water-keeps]]. Her journals say the water now rises from the southwest — she's told three people and none of them wrote it down. The woman who won't stop sweeping an underwater porch has been quietly keeping the best record in the city of why it's underwater.)*
 > - **What they'd rather drown than ask:** Solène will accept no charity — and the boat *is* back in her hands now (she withdrew the sale herself, S4), which only sharpens it: a working boat under a tarp she can't work, in a family that needs the money. The pride-compatible answer is **the Thouvenel Lease** ([[coin-in-sallowreach]]). Fen would rather drown than be caught mouthing the old words at the Celebration — which she does, every week.
 
 ---

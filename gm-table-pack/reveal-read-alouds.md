@@ -11,11 +11,15 @@
 
 ---
 
-## 1 · THE CLICK — the second Celebration *(Layer 1's gate; hint #7, now staged)*
+## 1 · THE CLICK — at the lantern release *(Layer 1's gate; hint #7)*
 
-**Trigger:** the second *attended* Celebration, and only if a tethered PC is **positioned near open water** at the height of the chant (the [[session-05-first-celebration]] "After" notes track your candidate — the PC who half-noticed the first Turn). If nobody's positioned, the Turn passes buried again; don't force it. The click keeps.
+> ⚠ **RE-TRIGGERED 2026-07-25 (GM ruling).** This was written for the **second** attended Celebration, with a soft fallback — *"if nobody's positioned, the Turn passes buried again; don't force it, the click keeps."* **There is no second Celebration.** The endgame is close and the party won't spend another in-game week, so the one Celebration they attend is the only one. **The old fallback is deleted: there is nothing left for the click to keep to.**
 
-**Staging:** deliver to the positioned PC alone if you can — lean over, drop your voice, make the table watch a private thing happen. Speak slowly. This is the campaign's hinge; spend a full minute on it.
+**Trigger:** the Celebration's **lantern release** ([[session-05-first-celebration]] Beat 6), which puts the entire city — and the party — at the water by design. **Positioning is no longer a gate to hope for; it's staging you guarantee.** If a tethered PC somehow isn't at the rail, have Solène hand them a lantern.
+
+**When:** *after* Beat 5.5 (the chant reaching all four of them) — so this is the second, deeper turn of the same screw, twenty minutes later, in the same evening. Beat 5.5 is *the song touches us.* This is *and I have felt this exact thing before, while drowning.*
+
+**Staging — one PC, then it spreads** *(GM call 2026-07-25)*. Deliver the script below to **one** tethered PC alone: lean over, drop your voice, make the table watch a private thing happen to somebody. Speak slowly — this is the campaign's hinge, spend a full minute. **Then, the moment that player says any of it out loud, the other three feel it too.** One line each, fast, no script needed: *"—yeah. Yeah, I've got it too."* The intimacy of the original delivery survives, nobody watches the campaign's biggest moment happen to someone else, and the reveal travels through **a player's mouth** rather than yours.
 
 > The chant peaks — and the water in front of you goes still. Not calm. *Still.* Glass. A thousand lanterns sitting on a black mirror.
 >
@@ -63,7 +67,7 @@
 >
 > *Taken. Not lost. Not wandered. **Taken.***
 
-**Add-on — if they hold Vane's sentence or the click** *(the assembly paying out — Risk C)*:
+**Add-on — if they hold the click** *(the assembly paying out — Risk C)*. ⚠ *Vane's attractor sentence was cut in the 2026-07-24 journal rewrite; the party can no longer arrive holding it. Gate this on the click alone, or on anything else that named a heading.*
 
 > And here's the thing you can't un-feel: the reaching has a *heading.* Every root, every flood, two hundred years of growth — one compass bearing, held longer than any nation holds anything.
 >

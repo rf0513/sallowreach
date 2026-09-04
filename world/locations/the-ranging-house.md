@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Ranging House
+---
+
 # The Ranging House
 
 **Type:** Guild hall / professional organization

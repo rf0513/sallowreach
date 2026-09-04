@@ -8,6 +8,8 @@ aliases:
 
 # Odile Verret
 
+> ⭐ **FIRST MEETING STAGED 2026-07-24 → [[set-piece-what-the-water-keeps]].** Her §Campaign Function called for "the rescue" — the party lost or drowning in the deep, coming up alive without knowing how — and that scene now exists: the **Swamping** ([[the-living-mire]] §the Bilge) is the door, and she is what's on the other side of it. Her four dialogue hooks are staged verbatim as the scene's spine, with **Isotta's beat** (there are no ghosts in the reeds — Manon crossed, and nobody has ever been able to tell her) and the return menu. This file stays the canon source.
+
 **Role:** The one the Mire kept — a woman Sallowreach gave to the water twenty years ago, who did not drown
 **Location:** [[The Deep Mire]] — the reed-channels southwest of the Wending, in water even [[Gault]] won't work
 **Faction:** None. Not anymore.

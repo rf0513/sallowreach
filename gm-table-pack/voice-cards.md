@@ -48,6 +48,21 @@
 - **Exit:** "Run the protocol. Write both columns. Come back when the difference scares you."
 - **When surprised:** "Huh." — full stop. From Vael, that's a standing ovation.
 
+### Lucien Aubert — the Long Room *(the only wizard this city ever made)*
+
+**Find the voice:** slow, because he learned young that words sent in haste are the ones people regret. He doesn't fill silences and he doesn't perform kindness — he just *does* things for you while you talk. Hands always busy: kettle, slate, chalk, ledger. **Never spooky.** The room is a confessional, not a séance.
+- **Opening:** "Sit. Not there — *there.*" [the good chair] "Everyone stands the first time. It doesn't help."
+- **The working line (canon):** "Tell me what you want to say. Not the pretty version — the true one. I'll make it fit. I always make it fit."
+- **The price, no apology:** "A handful gets you thirty words, near enough. Most people spend the first twenty being sorry. Say the thing first. Be sorry in the next one."
+- **The refusal (canon — the door he shut forty years ago):** "I sing it like everyone sings it. I don't take it apart." [already back to the ledger] "Some things you leave whole."
+- **The mirror (canon):** "I could be gone by morning. I came back. Make of that what you will."
+- **The slip — what thirty years alone in this room costs him:** "I've been the room people say things into since before you were born." [a beat] "Nobody's ever handed me one to carry."
+- **Discretion, absolute — no roll beats this:** "No. And I'd like you to not have asked me that, so we can go on being friendly."
+- **When surprised:** he stops whatever his hands were doing. That's it. Everything else keeps going.
+- **Exit:** "Come back when there's an answer. There's usually an answer."
+
+*(Full scene: [[set-piece-the-long-room]]. He is a **clue, not a shortcut** — he never explains the Celebration, he describes what he heard and refuses to theorize.)*
+
 ### Sable Crue — sergeant, the Drillfield
 
 **Find the voice:** volume up, chin up, everything is delightful including losing. Physical — tosses things at people mid-sentence. "Cher" lands on everyone, from recruits to visiting auditors.

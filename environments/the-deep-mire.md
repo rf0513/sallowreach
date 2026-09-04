@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Deep Mire
+---
+
 # The Deep Mire
 
 **Tier 2 Traversal/Exploration**

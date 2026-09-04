@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Lantern-Ray Shallows
+---
+
 # The Lantern-Ray Shallows
 
 **Tier 1 Exploration**

@@ -1,5 +1,7 @@
 # Handout — Caspar's Farewell Letter *(the Legacy Bundle's heart)*
 
+> ⚠ **Not to be confused with [[caspar-letters-handout]]** (plural — *"The Unsent Letters"*): the forty years of love letters to [[delphine|Delphine]] the party found in S5. **This** file is the single farewell letter to the *party*, and it fires on his departure. Two different props, two different readers.
+
 *The letter the encounter file orders written in advance ("don't improvise it at the table" — [[session-03-caspar-encounter]]). It fires **the night Caspar leaves**, if the Object-on-Loan deal lands, atop the Legacy Bundle ([[the-tidebreaker]] § the Caspar Fork): the old-words fair copy ([[old-words-handout]]), the Tidebreaker provenance file, the VANE folder, the purse. Print the boxed text; bracketed lines are strike-or-keep depending on how the table played it. **The two-stage plant in the middle is canon-locked verbatim** — it must survive every edit, because it detonates the day the tether won't cut.*
 
 ---

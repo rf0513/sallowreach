@@ -1,3 +1,8 @@
+---
+aliases:
+  - Marcel Dray
+---
+
 # Marcel Dray
 
 **Role:** Head of Sallowreach's underground economy

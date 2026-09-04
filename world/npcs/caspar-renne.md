@@ -109,7 +109,7 @@ It's all in his **archive** — Caspar holds the documentation; he just files it
 - The **[[the-tidebreaker|Tidebreaker]]'s nature** — a gift carved from impossible wood, a bridge between worlds, the power to break curses. *(He'll read it to you in a flat, this-is-nonsense voice and then not quite be able to let it go.)*
 - The **[[The Tree Spirit|Tree Spirit]]'s existence and imprisonment** — across multiple old accounts.
 - That the spear could **open communication with the spirits** — the accounts strongly suggest it.
-- That the **[[The Mangrove Spirit|Mangrove Spirit]] moves toward Sallowreach with intention,** not randomly — documented in secondary sources; [[the-first-maintainers-journal|Aldric Vane's journal]] would confirm it firsthand.
+- That the **[[The Mangrove Spirit|Mangrove Spirit]] moves toward Sallowreach with intention,** not randomly — documented in secondary sources; [[the-first-maintainers-journal|Augury Vane's journal]] would confirm it firsthand.
 - The **Celebration's origins** — he's transcribed the old chants without understanding their function; the truth sits in his archive in pieces, waiting for someone who knows what to look for. [VERIFY: decide whether this is an Act 2 clue.]
 - The existence and significance of **[[the-first-maintainers-journal|The First Maintainer's Journal]]** — where it was last seen and why it matters. *(A historian's curiosity to him now more than a holy grail — but returning it is still the beat where the cynic gets converted.)*
 

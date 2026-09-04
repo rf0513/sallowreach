@@ -7,157 +7,269 @@ aliases:
 # Sinope
 
 **Role:** Public philosopher, professional crank, the city's unleverageable vagrant
-**Location:** [[Sallowreach]] — a covered alcove off the main market boardwalk, third pillar past the rice guild's loading dock; has been there long enough that the city stopped trying to move him
+**Location:** [[Sallowreach]] — a covered alcove off the main market boardwalk, third pillar past the rice guild's loading dock. He's been there long enough that the city stopped trying to move him.
 **Faction:** Independent (emphatically, philosophically, as a matter of principle)
 **Tier:** 1
 
-*His real name is [[NOBLE NAME]], heir to a barony in [[HOME REGION]]. He has been missing for a decade. There is a reward. One PC may know this without knowing they know it yet.*
+> ⚙️ **This file is a writing spec, not a table aid.** The GM does not open it mid-session — they open the run sheet. So this file's job is to make the **Sinope boxes I write into run sheets** correct and runnable cold. If you are a co-author about to write Sinope into a scene, read §Writing Him and obey it. Everything below that is grounding.
+
+---
+
+## In plain words
+
+Sinope is a homeless man who sits in the market and asks people questions. He's smart, he's not mean, and he can't be bought, threatened, or gotten rid of — he owns nothing and wants nothing, so there's no handle on him. He was Caspar's friend for a decade; they argued constantly and both enjoyed it.
+
+He caught the party sneaking around the night they faked Caspar's death, and they were cagey with him. That delighted him. At the funeral he told the whole town he'd keep solving puzzles in Caspar's honor. He now considers the party the puzzle.
+
+He is not a threat and not a villain. He's a friendly man in mourning who happens to be pointed directly at the thing they most need to hide.
+
+---
+
+## ⚙️ Writing Him *(the spec — obey this)*
+
+### The thesis
+
+**Sinope does not deliver information. He extracts it.** His campaign job is to ask the question that makes a *player* say the connecting sentence out loud — the house's preferred clue channel ([[CLAUDE]] §Clues at table brightness). If a draft has Sinope *explaining* something, that draft is wrong. Rewrite it so he asks and someone else answers.
+
+### The two moves (every line is one of these)
+
+1. **He repeats your own word back to you, flat.** No accusation, no follow-up question. He just isolates the word you chose. → *"You said 'out on the water.' You didn't say fishing."*
+2. **He asks for one physical detail instead of a feeling.** Never "what happened" — *"which side of the boat."* Never "how does the tether feel" — *"which direction does it pull."*
+
+A flat acknowledgment (*"Alright."*) is the legal third option. Nothing else is.
+
+### Sentence budget (hard limits)
+
+- **≤12 words per sentence. ≤3 sentences per turn. One bracketed beat.**
+- If a line needs a comma-spliced clause or a semicolon, it's wrong — cut it in half or cut it out.
+- **He never argues a position.** The old version of this file gave him theses and paragraphs; that made him unplayable, because it asked the GM to improvise philosophy live. He has *questions*, not arguments. He observes what someone **said**, never what the world **is**.
+
+### Never ship him as one line
+
+This is the failure mode. The GM reads a single Sinope line, the party responds unexpectedly, and now they're improvising a genius at 9pm. **Sinope always ships as a four-branch box**, sized for a run-sheet slot:
+
+```markdown
+### 🔍 Sinope (2 min — cuttable; he always comes back)
+**He opens:** [≤12 words]
+- **They dodge →** [line]
+- **They lie →** [line]
+- **They give him something true →** [line — he pays for it, visibly]
+- **They tell him to drop it →** [line]
+**He leaves on:** [one line that plants the next appearance]
+```
+
+Four branches covers everything a party actually does. The GM never has to invent him.
+
+### Register locks
+
+- **He escalates by getting happier, not colder.** Closer to the truth = more delighted. That's the comic engine *and* the reason a good-aligned party can't push back — there's nothing to push against.
+- **Dry, never cruel. No gotchas.** He never springs what he knows and never humiliates. Same family as Marcel's grey ([[marcel-dray]] §Playing Him Grey) but warm.
+- **He doesn't laugh at his own jokes.** He watches to see if you got it.
+- **He never writes anything down.** Say so in the brackets when he's given something juicy — the absence is the character.
+- **A lie makes him more interested, not less.** Straight answers are boring; evasions are data. Never write a Sinope beat where lying successfully gets rid of him.
+- **He cannot be intimidated, and the party will try once.** Write the response as deflating, not defiant: *"You're bigger than me. We both knew that."* [beat] *"Was there a second part?"*
+
+### Hard guardrails
+
+- **He may never say anything mechanistic about the central secret** — not the binding, not the [[Tree Spirit]], not why the Celebration works ([[CLAUDE]] Iron Rule 1). He is allowed to notice things the party already has: nobody translated the old words · the water does something on Celebration nights · they went under on one.
+- **He always stops one rung short.** He gets to the question. The answer is the table's.
+- **He is never the solution to a scene.** He is the pressure that makes the party solve it faster or confess. If a run sheet has him handing over a finding, hand it to a PC instead.
+- **The only lever that moves him is a better puzzle.** Threats, money, and lies all fail by design. If a scene needs him gone, the party has to *spend real information* — and that's the cost.
+
+### The line bank *(reuse freely; all mouth-tested)*
+
+**Opening on the party:**
+> *"You four were out very late."* [beat] *"I've been thinking about that all day."*
+
+> *"Question."* [he is already sitting down] *"Whose idea was the boat?"*
+
+**They dodge:**
+> *"That's the third time you've answered a different question than the one I asked."* [beat] *"I'm not upset. I'm delighted."*
+
+**They lie:**
+> *"Alright."* [he doesn't write anything down — he never writes anything down] *"Alright."*
+
+**They give him something true:**
+> *"Huh."* [genuinely stopped] *"That's not what I expected. Give me a day."*
+
+**They tell him to drop it** *(structural echo of his money line — it reads as him):*
+> *"I could."* [beat] *"What would I do instead."* — not a question.
+
+**They threaten him:**
+> *"You're bigger than me. We both knew that."* [beat] *"Was there a second part?"*
+
+**The funeral callback:**
+> *"Caspar loved a locked door. Not opening it — the part before."* [beat] *"So I'll keep at it. Seems like the polite thing."*
+
+**The one that should worry the GM** *(safe — the party already holds both halves):*
+> *"You four came out of that water on a Celebration night, and you can't leave. Caspar goes in the water and doesn't come out."* [beat] *"I'm not saying those are connected. I'm saying I'd be embarrassed not to check."*
+
+**Exit, plants the next appearance:**
+> *"Third pillar, past the rice dock. I'm usually wrong for about a week first."*
+
+**On the tether, any time** *(canon, and the most useful questions anyone asks them):*
+> *"Where exactly is the sensation? Not metaphorically — physically. What direction does it pull? Have you mapped the threshold?"*
+
+---
+
+## 🎣 The Theory *(a 15-minute encounter — drop it in whenever you want to squeeze them)*
+
+**What it is:** Sinope has spent a week on the one question nobody else has asked yet — *why did you go out in the middle of the night?* He's solved it. Every fact he has is true. His conclusion is wrong.
+
+**His conclusion: Caspar was dying, knew it, and asked the party to take him out on the water.** And they said yes.
+
+**⚠ Why agreeing is a trap.** Sinope never writes anything down — but he tells *everyone.* He has no discretion and never needed any; he's never had a secret in his life. **Confirming it is publishing it**, in the party's own names, as the version that came from the people who were there. That makes it the most credible account in the city.
+
+### The speech *(read it slow — short sentences, long ramble; let him stop between paragraphs)*
+
+> "Forty years. He never once took a boat out after dark. I know that because I asked him to — there's a bloom in the south channel that only shows at night. He said no. Then he said no for six more years."
+>
+> [beat]
+>
+> "Then he goes out at night. With you."
+>
+> "Not with Remy. Remy was forty feet away, asleep. Remy would've taken him anywhere for nothing and been *delighted*. He didn't wake Remy."
+>
+> "He'd gone quiet, this last while. Months. I put it down to money. Everybody here has money trouble eventually." [beat] "But he stopped arguing with me. Ten years. He stopped arguing."
+>
+> "And in the spring he told me to keep his books. I'd had them four years. He'd never once mentioned them. Then he mentioned them." [beat] "He said keep them."
+>
+> "So. A man who won't go out at night goes out at night. Doesn't wake the friend who'd have rowed him. Takes four people who've been here a month." [he looks at each of them] "Kind people. Outsiders. People who won't be here in a year. People who don't have to look Delphine in the face every day for the rest of their lives."
+>
+> [beat]
+>
+> "I don't think there was an accident. I think he asked you. And I think you said yes."
+
+**Then the turn — this is the part that makes it unbearable:**
+
+> "I'm not upset with you. I've spent a week trying to be and I can't get there." [beat] "It's the hardest thing anyone's ever asked any of you. And you did it for a man you'd known a month."
+>
+> "I'd have said no." [beat] "That's the bit I keep landing on. He knew I'd say no. That's why he didn't ask me."
+
+**And he stops one rung short, as always — one question, and it's the only one he wants:**
+
+> "So I'll ask you the one thing." [beat] "Was he frightened?"
+
+*(⚠ Deliberate rule-break: he asks for a **feeling**, not a physical detail — the only time he ever does. He isn't investigating here. He's grieving. And the true answer is **yes** — Caspar was terrified, of [[marcel-dray|Marcel]], for years — so the honest answer and the lie are the same word. Let that sit.)*
+
+### 🔍 The four branches
+
+**He opens:** *"I've had a week on you."* [he sits] *"I want to say it out loud once."*
+
+- **They agree / let it stand →** *"Thank you."* [he means it, completely] *"That's been sitting on my chest."* — **it publishes. See the consequence below.**
+- **They deny it →** *"Alright."* [he doesn't write it down; he never writes anything down] *"Then why at night?"* — **they now owe him a better answer, invented on the spot, and he will go and check it.**
+- **They tell him the truth →** *"...Huh."* [genuinely stopped, for once] *"Give me a day."* — **play it as relief, not disaster** ([[sinope]] §Where He Is Now, the safe-house twist). He owns nothing, owes nothing, wants nothing. There is no safer person in Sallowreach to tell.
+- **They tell him to drop it →** *"I could."* [beat] *"What would I do instead."* — not a question.
+
+**He leaves on:** *"He'd have liked you four. He'd have argued with every one of you."* [beat] *"That's the same thing, with him."*
+
+### 💥 The consequence, if they let it stand
+
+Sinope takes it to **[[delphine|Delphine]]** — *as a kindness*. He thinks he's bringing her comfort:
+
+> "He wasn't taken, cher. He chose it." [beat] "That's better. Isn't it?"
+
+It is not better. Her first question is *why didn't he come to me* — she is the city's healer and she loved him. Her second is *what was wrong with him*, and answering that sends her into his effects, where a loose unfinished letter is waiting for her hands ([[caspar-letters-handout]]).
+
+**The party did that.** Not by lying — by agreeing.
+
+*(Front 11 wiring: this is the Wear Ladder's rung 2 — the question gets loose from the man who asked it — except the party handed him the answer themselves. Log it in [[world-in-motion]] Front 11.)*
+
+---
+
+## Where He Is Now *(live — S5 canon, 2026-07-21)*
+
+- He was **crashing where the party had stashed their boat** the night they took Caspar out. Caspar wasn't with them yet. He asked what they were doing. **They were dodgy.** He was thrilled.
+- At the **Setting-Out**, he gave a short speech: Caspar loved puzzles, and he'll keep solving them in his honor.
+- **So the party knows they're being looked at**, by a friend, out in the open, with no way to make him stop.
+- **He does not suspect a faked death.** He suspects *something*, which is worse — it means he's checking everything.
+- **The safe-house twist, banked:** Sinope owns nothing, owes nothing, and has no faction — the exact qualities that make him unstoppable make him **the safest person in Sallowreach to tell.** Marcel gave up on leveraging him for this reason. The party doesn't know it yet. The day they break and tell him should play as *relief*, not disaster.
 
 ---
 
 ## Appearance
 
-A man in his late thirties who looks like his late forties — a decade of outdoor living has done what outdoor living does. Lean, weathered, with the particular tan of someone who is outside by choice rather than labor. His hair is long and unkempt in a way that stopped being accidental around year three. His clothes are clean enough — he begs from the laundresses as readily as anyone else — but they are many things layered over each other against the bayou damp and they tell no coherent story.
+Late thirties, looks late forties — a decade outdoors does that. Lean, weathered, the tan of someone outside by choice. Hair long and unkempt in a way that stopped being accidental around year three. Clothes clean enough, many layers, telling no coherent story.
 
-Two things betray him, to anyone paying attention.
-
-**His posture.** Not always — mostly he slouches, leans, occupies his alcove with the horizontal ease of someone who has made peace with the ground. But when someone with genuine authority enters a space — [[The City Leader]], [[Marcel Dray]] — something in him adjusts for just a moment. Not deference. Recognition. The muscle memory of someone who grew up around power, not someone who observed it from below.
-
-**His right hand.** He keeps it slightly curled when he's paying attention. When he's animated — mid-argument, making a point — he forgets. The faint indentation where a signet ring sat for the first twenty-something years of his life is still there, if you're close enough to see it.
+Two tells, if anyone's looking: **his posture adjusts** for half a second when real authority walks in ([[Adaline Roux]], [[Marcel Dray]]) — recognition, not deference. And **his right hand** stays slightly curled when he's paying attention.
 
 ---
 
-## Personality & Mannerisms
+## Personality
 
-He will argue with anyone. Not to win — to find out if they've thought about it. He opens debates in the market the way other people open storefronts: he shows up, he has something to say, and he sees who engages. Most people walk past. A surprising number stop. He's been told he's insufferable by people who came back the next day.
+He argues with anyone, never to win — to find out if they've thought about it. Most people walk past his alcove. A surprising number stop. He's been called insufferable by people who came back the next day.
 
-**He is not cruel about it.** The point is never humiliation. The point is the question. If someone answers well — if they've actually considered the thing, even if he disagrees — he says so, and means it, and asks the follow-up. If they haven't considered it, he says that too, and then asks anyway.
+**Never cruel.** The point is never humiliation, it's the question. If you've actually considered the thing, he says so and means it, then asks the follow-up.
 
-**He treats the tether as a puzzle.** Not *"how terrible"* — *"where exactly is the sensation? Describe it precisely. Not metaphorically — physically. What direction does it pull? Does the threshold change over time? Have you mapped it?"* This is annoying and also the most useful set of questions anyone will ask them.
-
-**His skepticism is not performed.** He's genuinely unconvinced. He participates in the Celebration every week because he lives here and it's a good meal and he's not churlish, but he watches it the way a naturalist watches a flock — with interest rather than devotion. His argument about the Celebration is not *"I don't believe in spirits"* but *"I believe you should understand what you're doing before you do it, and nobody here does."*
+**His skepticism isn't performed.** He goes to the Celebration every week — he lives here, it's a good meal, he isn't churlish. He watches it like a naturalist watches a flock. His objection isn't *"there's nothing in the water."* It's *"nobody's translated the words, and that seems relevant."*
 
 He is right about this. He does not know how right he is.
 
-**He is occasionally, precisely funny.** Flat delivery, long pauses, the kind of observation that takes a second to land and then can't be unfollowed. He does not laugh at his own jokes. He watches to see if you got it.
-
-**He doesn't accumulate.** Takes what people offer, gives away what he doesn't need by evening. Someone wealthy once gave him a significant sum trying to embarrass him; by nightfall it was distributed across the outer boardwalk families and he was eating the same dinner he always ate. He found this outcome entirely satisfying.
+**He doesn't accumulate.** Takes what's offered, gives away the surplus by evening. Someone wealthy once handed him a large sum to embarrass him; it was distributed across the outer boardwalk families by nightfall. He found this entirely satisfying.
 
 ---
 
 ## The Living Situation
 
-The alcove holds: a bedroll, a cooking pot, a walking stick, three books borrowed from [[Caspar Renne]] with no return date discussed or intended. The books are on Mire spirit lore. He read them to find the holes in Caspar's argument. He found fewer holes than expected. He has not mentioned this to Caspar.
+The alcove holds a bedroll, a cooking pot, a walking stick, and **three books borrowed from [[Caspar Renne]]** with no return date ever discussed. Mire spirit lore. He read them to find the holes in Caspar's argument and found fewer than expected. He never told Caspar that. *(He can't now. Play the weight of it if they're ever mentioned.)*
 
-The city has a complicated relationship with him. He's been here long enough to be part of the texture. He embarrasses people who deserve it, never actually hurts anyone, and is occasionally, irritatingly correct. The outer boardwalk families like him — he shows up to their gatherings, eats what they offer, and argues with them about anything they want to argue about, which they find bracing. The old-money establishment finds him distasteful but can't quite make him a villain. Marcel Dray has left him completely alone, which in Sallowreach functions as a form of civic endorsement.
+The city's relationship with him is complicated: he embarrasses people who deserve it, never hurts anyone, and is occasionally, irritatingly correct. The outer boardwalk families like him. The old money can't quite make him a villain. **[[Marcel Dray]] has left him entirely alone**, which in Sallowreach reads as civic endorsement.
 
 ---
 
 ## What He Wants
 
-To not be found.
+**To solve the party.** Openly, cheerfully, in front of them.
 
-Beyond that: to ask good questions and be left alone to do it. To eat. To sleep. To watch the Mire do things he'll explain to himself in the morning.
+Under it, the part he wouldn't say and probably hasn't named: **the investigating is the mourning.** He argued with Caspar for ten years and never said anything kind to him. Asking questions is the only thing he knows how to do for a friend, and the friend is gone.
 
-What he will not say: he wants someone else to solve the problem he left behind. He would like, very much, for the cousin to simply not inherit — for some other mechanism to assert itself, for someone else to step in, for the situation to resolve without requiring him to become something he walked away from. He is aware this is not a philosophy. He thinks about it twice a week and does not act on it.
-
----
-
-## What He's Hiding
-
-He is [[NOBLE NAME]], born to a barony in [[HOME REGION]], disappeared a decade ago without explanation. He left behind:
-
-- A title he didn't want
-- An estate that ran without him for a while and then didn't
-- A cousin — [[COUSIN NAME]] — who is next in line and is, by all accounts that reach him through careful listening, extraordinarily unfit for the responsibility. Not malevolent in any sophisticated way. Simply cruel in the blunt way of someone who has never had to consider consequences, and stupid enough not to learn from them.
-- A reward, posted by the family's solicitors, for credible information on his whereabouts
-
-The cousin has not yet inherited. There is a legal process — presumed death declarations, waiting periods, the machinery of noble succession — that has been grinding slowly. It will finish soon. Sinope knows this. He has no plan.
-
-**The recognition mechanic:**
-
-A PC from [[HOME REGION]] will know the story of the missing heir — possibly personally, depending on their background. They will not recognize Sinope on sight. A decade of deliberate vagrancy has done its work. What will accumulate, over time, across multiple conversations:
-
-- He references [[HOME REGION]] with the casual specificity of someone who grew up there — a wine, a weather pattern, a geographic feature mentioned in passing as if everyone would know it
-- His vocabulary, when he's worked up, becomes too precise — words and constructions from an education that doesn't match his stated life
-- He mentions *"a man I knew growing up, spectacularly unfit for any responsibility over others"* in the context of an argument about inherited power, and does not name him, and changes the subject
-- The posture tell, visible once you're looking for it
-- The hand, curled slightly, the indentation where the ring was
-
-None of these alone are enough. Together, over sessions, they accumulate. The PC will know before Sinope knows they know.
-
-**If the PC uses his real name — even just his given name — he goes still for half a second.** Recovers. Doesn't confirm. But the reaction is there, and it doesn't unhappen.
-
-**What the PC then holds:**
-A man worth a reward. A cousin about to inherit who will make people miserable. A clock. And a friend — the one person in the city who helped them without wanting anything — sitting in an alcove three streets away, reading Caspar's books, arguing about the Celebration with anyone who'll listen.
+**That's the engine of the whole thread.** The party can't threaten a man in mourning, can't lie him off, and can't even be annoyed with him — and the thing he's grieving didn't happen, and they're the reason.
 
 ---
 
-## The Unexplained Experience
+## The Southwest Edge
 
-He camps near the southwest Mire edge sometimes when the market alcove feels too enclosed. The bioluminescence behaves oddly there. During the Celebration especially — it organizes, moves with direction, does things that don't match random bioluminescent bloom patterns.
+He sometimes camps at the southwest Mire edge when the alcove feels too enclosed. The bioluminescence behaves oddly there — during the Celebration especially, it *organizes*, moves with direction.
 
-He has an explanation. It involves atmospheric acoustic resonance affecting the chemical light-production reactions in the bioluminescent organisms, with the Celebration's specific sound frequencies creating a temporary directional stimulus that — it's quite long. He knows it's quite long. He's refined it over four years of camping there. It keeps getting longer.
+He has an explanation. It involves acoustic resonance and chemical light-production. It is very long. He knows it's very long. Four years of refinement have only made it longer.
 
-He doesn't sleep well at the southwest edge. He attributes this to the humidity differential near the salt wall.
+He doesn't sleep well out there. He blames the humidity near the salt wall.
 
 ---
 
 ## Key Relationships
 
-- [[Caspar Renne]] — a decade of friendly antagonism; Caspar thinks he's frustrating but honest; Sinope thinks Caspar is credulous but rigorous; they've been having the same argument since Sinope arrived and both quietly prefer it to agreement; the borrowed books are the closest thing either of them has to a peace treaty
-- [[Fen]] — natural allies who disagree about everything; she questions the Celebration's form, he questions its content; they've argued about which matters more; they share the outer boardwalk sometimes; he tells her she plays too loud; she tells him he smells; this is affection
-- [[Marcel Dray]] — Marcel respects him specifically because he owns nothing, owes nothing, and cannot be leveraged; a person with no leverage points is philosophically interesting to someone whose entire operation runs on leverage; they've had one good conversation; neither has sought a second
-- [[Remy Duval]] — Remy finds him entertaining and occasionally feeds him; Sinope finds Remy's relationship with the Mire romantically overcomplicated and says so; Remy disagrees and says so; they get along fine
+- **[[Caspar Renne]]** — a decade of friendly antagonism and the same unfinished argument; the borrowed books are the closest thing they had to a peace treaty. **He believes Caspar is dead.**
+- **[[Fen]]** — natural allies who agree on nothing; she questions the Celebration's form, he questions its content. He says she plays too loud. She says he smells. This is affection.
+- **[[Marcel Dray]]** — Marcel respects him precisely because he owns nothing and can't be leveraged. One good conversation, years ago. Neither has sought a second.
+- **[[Remy Duval]]** — Remy feeds him and finds him entertaining; Sinope finds Remy's relationship with the Mire romantically overcomplicated and says so. They get along fine.
 
 ---
 
 ## Campaign Function
 
-**Early:** He meets the party almost immediately — they're interesting, they're stuck, and the tether is a genuinely novel philosophical puzzle. He becomes their agenda-free friend. Every other NPC who helps them wants something. Sinope just likes them and enjoys being useful. He's also the party's access point to the city's street-level social fabric — he knows everyone on the outer boardwalks, and they know him.
+**The extraction engine.** He asks the party the questions nobody else will, in public, for free — and the answers come out of *players' mouths*, which is where this campaign wants its clues. He is also their access to the street-level city: he knows everyone on the outer boardwalks.
 
-The recognition arc begins here, quietly. The PC from [[HOME REGION]] starts accumulating tells without knowing what they're accumulating.
+**As things develop:** his explanations get longer and strain harder. He starts asking better questions — *"What do you think it wants?"* — then walks himself back: *"I mean. Mechanistically. What force would produce that."* He never convinces himself.
 
-**As things develop:** His explanations get longer. The southwest bioluminescence is doing things his framework is straining to contain, and the Mire's acceleration is providing more data than his model wants. He gets quieter in specific conversations. He starts asking the party better questions — *"What do you think it wants?"* — and then walking them back: *"I mean. Mechanistically. What force would produce this behavior."* He doesn't convince himself.
+**Once things come to a head:** if something exceeds the framework entirely, he goes very still.
 
-The clock on the cousin's inheritance keeps ticking on its own. If the PC has picked up the thread, the tension sits.
+> *"...I don't know what that was."*
 
-**Once things come to a head:** If something happens that exceeds the framework entirely, he goes very still.
-
-*"...I don't know what that was."*
-
-That's it. That's the arc. Five words after a campaign of explaining everything.
-
-The cousin question resolves however the PC decides to resolve it — if they ever choose to. Sinope will not bring it up first. If the PC confronts him: he doesn't deny it. He asks how long they've known. He asks — quietly, specifically — what they're going to do about it. Whatever the PC decides, he doesn't argue. He's spent a decade not having the standing to argue about this.
+That's the arc. Five words after a campaign of explaining everything.
 
 ---
 
-## Dialogue Hooks
+## Unused: the missing heir *(GM has flagged this as dead weight — wing it if it ever comes up)*
 
-**On the Celebration, to anyone who'll engage:**
-*"Every week. Same words, same patterns, same torches in the same positions. Nobody knows what language the oldest chants are in. Nobody's looked it up. I checked — Caspar has a transcription and he can't place the dialect. That's not faith. That's inertia with better costumes."*
+Sinope is the missing heir to a minor barony, gone a decade, with a reward posted and an unfit cousin about to inherit by presumed-death declaration. He walked away from a title he didn't want and has no plan.
 
-**On the tether, immediately:**
-*"Fascinating. Where exactly is the sensation? Not metaphorically — physically. What direction does it pull? Have you mapped the threshold? Does it change?"*
+**Not in play.** The recognition arc depended on a PC sharing his home region, which was never assigned. Names, region, and cousin are deliberately unfixed — improvise them if a player ever pulls the thread. Do not write run-sheet content that depends on this.
 
-**On the honored guests tradition:**
-*"I don't doubt something's in that water. I've watched the water. Something's in it. My objection is to the assumption that whatever's in it shares your values, responds to your hospitality, or cares that you've set a nice table. You're projecting personhood onto a phenomenon you haven't characterized."* [beat] *"Also nobody's translated the words. That seems relevant."*
-
-**On where he's from, if asked:**
-*"Here."* If pressed: *"I've been here long enough. It counts."*
-
-**On being offered money:**
-*"What would I do with it."* Not a question.
-
-**On Fen's music:**
-*"She's right about the arrangement. She's wrong about why it matters. I've told her this."* [pause] *"She plays too loud."*
-
-**If the PC uses his real name:**
-[Half a second of stillness.]
-*"...Where did you hear that."*
+*(Kept for one reason: it's why the posture tell exists. If the GM wants the tell to pay off someday, it's here.)*
 
 ---
 
 ## Stat Block
 
-Not a combat encounter. If somehow in a fight, he argues with his attacker until someone else intervenes. He has been in one fight in his life, lost comprehensively, and considers this evidence in favor of his general approach.
+Not a combat encounter. If somehow in a fight, he argues with his attacker until someone intervenes. He has been in one fight in his life, lost comprehensively, and considers this evidence for his general approach.

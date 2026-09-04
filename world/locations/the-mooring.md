@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Mooring
+---
+
 # The Mooring
 
 **Type:** District / transit hub (the docks)

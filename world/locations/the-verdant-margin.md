@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Verdant Margin
+---
+
 # The Verdant Margin
 
 **Type:** Community garden / botanical research station

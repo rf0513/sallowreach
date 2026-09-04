@@ -1,3 +1,12 @@
+---
+aliases:
+  - Tree Spirit
+  - The Tree Spirit
+  - Mangrove Spirit
+  - The Mangrove Spirit
+  - The Tether
+---
+
 # Cosmology — The Honored Guests
 
 *GM Eyes Only*
@@ -66,7 +75,11 @@ The party will not understand this at first. The Mire's growth reads as threat. 
 
 The [[Tree Spirit]]'s essence saturates all the Mire's black water; it is charged everywhere, always. But the binding is **acoustic** — the old chants, the drum pattern, the torch positions — and once a week, at the [[The Celebration|Celebration]], it is *performed at full power.* On Celebration nights the binding peaks and the whole Mire's water **Turns.**
 
-**Attendance is amplitude** *(canon, 2026-07-03)*: the binding is choral — the city itself is the instrument, and "full power" means the *whole* city performing. Voices missing from a Celebration perform the working a little less than whole; sustained thin attendance frays the binding (and, per the Interlock, the ward) as surely as a wrong note inside the ritual would. No one alive knows this — see [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]]. Conversely, **nothing performed outside the working touches the binding at all** — busking, boardwalk sets, rehearsals; deviation and absence only count *inside* the ritual, live. And the taboo on variation is not superstition: **the founders built the binding as unchangeable sacred tradition on purpose** — tradition as error-correction, so the spell would survive two centuries of eroding meaning. The Accord's rigidity is the failsafe still working; [[adaline-roux|Adaline]]'s inherited warning — *variation is dangerous* — is the last surviving line of the operating manual.
+**The binding is choral** *(canon 2026-07-03; scoped down 2026-07-25)*: the city itself is the instrument, and "full power" means the whole city performing. **Treat this as background physics, not a mechanic.** ⚰️ The old corollary — *attendance is amplitude, so organized absence is a lever on the binding* — is **cut** with the walkout ([[world-in-motion]] Front 4). Nobody thins the Celebration, and the party cannot thin it on purpose.
+
+**Nothing performed touches the binding.** Not busking, not boardwalk sets, and ⚰️ **not an altered chant inside the working either** — the chant-alteration heist is retired ([[the-celebration]], [[resolution-options]]). **Nothing musical is a lever in this campaign.**
+
+**The taboo on variation is real and is not superstition:** the founders built the binding as unchangeable sacred tradition on purpose — tradition as error-correction, so the spell would survive two centuries of eroding meaning. The Accord's rigidity is the failsafe still working; [[adaline-roux|Adaline]]'s inherited warning — *variation is dangerous* — is the last surviving line of the operating manual. **At the table this is dread, not a tool:** the party gets to watch a whole city flinch at the idea of changing one bar, and watch every single person be unable to say why.
 
 **The Turn** — the binding singing, made physical in the water:
 - the black water goes *glass-still* for a few breaths;
@@ -103,9 +116,11 @@ Two hundred years ago, the Mages Guild noticed something anomalous in the Mire: 
 
 **The economic arrangement:** Sallowreach pays for the posting in lumber — quarterly shipments of Mire wood to Guild operations in the capital. **Nobody on either side calls it tribute** *(ruled 2026-07-18 — the word is out of the vocabulary)*: in every mouth it is only ever **"the quarterly shipment,"** and both parties treat it as what it also genuinely is — a service contract, two centuries old. Sallowreach pays for protection it requires. The Guild provides the service for which it is paid. Neither party pretends otherwise. And because the export is the spine of civic finance, the city's whole ledger is denominated in it — budgets, allocations, and debts are figured in wood before they're figured in coin. [[Oswin Cray|Oswin]] says it best: *"There is no money here. There are trees, and there is paper about trees."* The timber Sallowreach provides is extraordinary (GM SECRET: because of the Tree Spirit's saturating essence), which makes the arrangement economically sensible from the Guild's side regardless of the spiritual mechanics.
 
-**What the current wizard knows:** Technically, very little. They know the ward holds back Mire growth and that the spirit moves "directionally" rather than randomly — this is in the institutional records somewhere. They have not read the records carefully. They have been too consumed by their own crisis to do the research.
+**What the current wizard knows:** Technically, very little. They know the ward holds back Mire growth and that the spirit moves "directionally" rather than randomly — this is in the institutional records somewhere. **He has read the records** *(re-cut 2026-07-24)* — in year one, thoroughly, and found them boring. Two centuries of maintainers wrote down the same observation and no one above or below them ever asked a follow-up question. He will hand the whole thing to anyone who asks, flatly, as drainage. **The Guild's blindness is contempt, not ignorance** — which pairs against [[adaline-roux|Adaline]]'s, which is reverence. Neither has ever asked what the spirit is approaching *for*, and that question is the campaign.
 
-**The first maintainer's records:** [[The First Maintainer's Journal|Aldric Vane's field journal]] documents eleven years of observation. He identified the directional pull, confirmed the attractor was internal to Sallowreach rather than environmental, and could not identify the source. He left the question for his successors. No successor has answered it. The journal's current location is tracked in [[Caspar Renne]]'s research files — it went to an estate auction six years ago and was lost to him.
+**The first maintainer's records:** [[The First Maintainer's Journal|Augury Vane's field journal]] *(rewritten 2026-07-24 — four entries; see the item file)* covers the siting of the salt wall, the ward's dependence on constant upkeep, his own unnamed condition, and the plain admission that **the Guild never identified what the wall holds back** — *"unfamiliar to my textbooks… the locals simply rumble about their swamp spirits."* He left his journals to whoever held the posting next; [[oswin-cray|Oswin]] has the rest of them and has never opened the shelf. **✅ The party recovered this volume from Caspar's museum in S5.**
+
+*The **attractor** observation — that the great spirit moves toward the city with direction, "as if something inside the city has its attention" — is no longer Vane's. It lives in [[oswin-cray|Oswin's]] own quarterly reports, repeated for four years and ignored above and below him, and it's the thread [[silence|Magistra Silence]] pulled when she sent Tenson.*
 
 **The irony the Empire lives in:** They have maintained a ward against the Mangrove Spirit's approach for two hundred years, taking excellent lumber as payment, and the thing drawing the spirit there is the very binding that makes Sallowreach's lumber extraordinary. The arrangement is self-perpetuating in ways no one has noticed.
 

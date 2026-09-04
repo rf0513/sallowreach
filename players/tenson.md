@@ -5,7 +5,7 @@ aliases:
 
 # Tenson
 
-> **Arc: [[tenson-arc|The Reconciliation]]** *(designed 2026-07-02)* — the audit as reveal ladder; S4 opener: [[session-04-maintenance-house]] + [[oswin-papers-handout]].
+> **Arc: [[tenson-arc|The Reconciliation]]** *(designed 2026-07-02)* — the audit as reveal ladder; opener: [[set-piece-the-maintenance-house]] + [[oswin-papers-handout]].
 
 **Class:** Guardian — Stalwart subclass
 **Ancestry:** Faun

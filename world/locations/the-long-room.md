@@ -1,4 +1,11 @@
+---
+aliases:
+  - The Long Room
+---
+
 # The Long Room
+
+> ⭐ **Table-ready scene: [[set-piece-the-long-room]]** *(built 2026-07-24)* — sending word home, the thirty-word budget, and the Ask: getting Lucien to turn a trained ear on the Celebration. **Run the set piece at the table; this file is the engine under it.**
 
 **Type:** Business — magical message-sending parlor (the city's "telegraph room")
 **Region:** [[Sallowreach]] — a narrow stilt-house on the Thornside boardwalk, not far from [[Delphine]]'s

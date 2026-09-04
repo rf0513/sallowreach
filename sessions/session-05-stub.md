@@ -27,7 +27,7 @@ Session cut **mid-scene in Caspar's museum**, on the sentence *"help me fake my 
 4. Gault wants the two-headed snake **alive — "nothing that punctures the skin."** *(Still unfired; keeps for any Gault sighting.)*
 5. Caspar's placards lie: **"Object on Loan" means fenced to Marcel** — and the Tidebreaker's own papers say it cuts what spirit-water binds.
 6. The Empire **executed Marcel Dray twelve years ago** — tried, certified, filed. Caspar checked.
-7. The cultural liaison signs fiscal denials — a channel that shouldn't exist; someone built it. *(Oswin flex-slot bonus, untouched — [[session-04-maintenance-house]] is still fully in the bank.)*
+7. The cultural liaison signs fiscal denials — a channel that shouldn't exist; someone built it. *(Oswin flex-slot bonus, untouched — [[set-piece-the-maintenance-house]] is still fully in the bank.)*
 
 **Deliberately held, as ever:** Isotta's ledger-error deduction (hers) · the lab/authorship (Cold Cache) · Oswin's confession & the iron box · the binding, the Tree Spirit, the Celebration-as-cage.
 

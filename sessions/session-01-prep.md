@@ -109,7 +109,9 @@ Give the chosen PC the personal beat: they open their eyes and a single ray is *
 
 ## The Turn — Clue Chain *(the slow-burn reveal)*
 
-*The party's tether and the [[The Celebration|Celebration]] are the same force — see [[Cosmology#The Turn & The Tether|The Turn]]. They don't get told; they **recognize** it. Seed these in order; spring the click at the second Celebration. **Recognition ≠ understanding** — even after the click, they don't know it's a prison.*
+*The party's tether and the [[The Celebration|Celebration]] are the same force — see [[Cosmology#The Turn & The Tether|The Turn]]. They don't get told; they **recognize** it. **Recognition ≠ understanding** — even after the click, they don't know it's a prison.*
+
+> ⚠ **ARCHIVAL — this file is Session 1 prep and its reveal schedule is out of date.** Two changes since: the connection landed early via Vane's journal (S5), and there is now **only one Celebration**, where the click fires at the lantern release. Current spine: [[the-celebration-clue-map]] §The Critical Path, steps 4–5.
 
 1. **Seed — the wreck (this session):** plant The Turn as its own horrible beat the moment they go under — [[session-01-read-aloud#4 · The Cold Hand (the curse takes — see GM note)|Read-Aloud · Beat 4, The Cold Hand]]. They feel the tether *take:* the glass-still water, the deep swell, the iron-and-green taste, the closing hand. (Distinct from the rays' rescue light in Beat 7 — the deep glow here is the binding.)
 2. **Remy, after:** *"You went under on a Celebration night. The water was singing — I felt it from the surface, stronger than I ever have."* Timing + "unusually active." He does **not** read it as the ritual's *doing.*
@@ -117,7 +119,7 @@ Give the chosen PC the personal beat: they open their eyes and a single ray is *
 4. ~~**Fen's water:** the bioluminescence answers her drum — *"only with my arrangement."*~~ *(⚠ SUPERSEDED 2026-07-03 — never fired at the table; retired with [[fen|the Fen recast]]. The water has never answered her. Historical record only.)*
 5. **[[Delphine]]:** senses the tether *rhymes* with something the city does every week. Cryptic; she can't name it.
 6. **First Celebration:** they're swept up, at a feast table, away from the water. The Turn passes as background beauty. Maybe one PC half-notices and shrugs.
-7. **The click — second Celebration:** primed, and positioned at the water's edge when the lanterns drop, they witness The Turn and feel the tether *answer.* *"It's the same. The thing that took us is… this."* Then **keep the prison / Tree Spirit / love story hidden** — those are the end-game, earned through the chants.
+7. **The click — ~~second~~ the one Celebration** *(updated 2026-07-25)*: at the water's edge when the lanterns drop, they witness The Turn and feel the tether *answer.* *"It's the same. The thing that took us is… this."* Then **keep the prison / Tree Spirit / love story hidden** — those are the end-game, earned through the chants.
 
 ---
 

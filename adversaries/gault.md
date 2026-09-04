@@ -98,7 +98,9 @@ He told Brin himself, in front of the party: *"Everyone in this city is one bad 
 
 *GM structure. Run these across Acts 1–2. Full encounter details — including the Tessak, the lantern rays, and the ecological stakes — live in [[Lantern Rays]]. This section is the Gault-specific view of each encounter. **The arc past them (canon 2026-07-19):** the Offer refused → [[set-piece-the-bad-season]] (his win) → [[set-piece-beyond-the-season]] (the final battle — party vs. his expedition vs. the loose 2H-3, the mother inbound). [[set-piece-the-last-inventory]] remains live as a **door**, not the destination — it fires if the party corners him alone before the raid, or after his crew breaks.*
 
-### Encounter 1 — Dusk on the Wending *(Early Act 2)*
+### Encounter 1 — The Worked Basin *(Early Act 2)*
+
+> ⭐ **BUILT TABLE-READY 2026-07-26 → [[set-piece-name-them-if-you-want]].** Run it from there, not from this section. **Default home: [[set-piece-the-wrong-skin]] Beat 2.5**, outbound, right after the lantern-ray voiceover — the party watches the rays glide under their hull, and twenty minutes later finds those same rays going into jars. **First contact:** he has been seen twice (S1 tavern, S4 Ranging House) and has never spoken to the party.
 
 The party sees the lantern rays for the first time — properly, in safety, with Remy narrating in barely-contained reverence. Then they find the nets. Then Gault.
 
@@ -107,6 +109,8 @@ He is still loading the last container. He does not startle. He looks at them wi
 Remy objects. Gault says the line: *"Name them if you want. Makes the inventory easier to track."*
 
 He has two hired hands covering his exit on the far bank. He withdraws with what he has, unhurried. He looks back once.
+
+**⚠ The staging rule, canon 2026-07-26 (GM's call): there is no fight here by default, and he will not take one if offered.** He disengages with one feature and leaves. *"I'm not fighting four people over one basin. There's more water."* Four armed strangers over a single basin is a bad trade — **he is too smart to fight in the middle of the Mire, and that's business, not fear.** If they land a hit, it lands; he takes it, doesn't retaliate, and leaves on schedule (*"…Huh. You're a* cost *now. That's new."*). The scene's pressure is a visible clock — four containers left to seal, one ticking every beat the party spends arguing instead of acting — and its cost is a menu: **the net or the man, never both.**
 
 What he's taken: lantern rays in sealed containers. Their bioluminescent organs are what he's after — the oil inside is worth more per pound than anything else he's ever extracted. The rays will die in the containers within days. He knows this. The buyer doesn't require them alive.
 

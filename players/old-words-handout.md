@@ -78,11 +78,15 @@
 
 ## Where the prop travels
 
-1. **S4 — into their hands.** Caspar's archive holds it ("the old-words transcription stays either way" — [[session-03-caspar-encounter]]). With the Ask, it's part of the Legacy Bundle; without, it's on the archive floor for anyone who engages his research.
-2. **S5+ — the argument object.** At feasts, at Fen's collection, at Sinope's rant — the party now owns the *text* everyone else only knows by heart. Fen will trade her whole set of translations for a look. Sinope will locate the eleven *selas* in about four minutes and be *insufferable* about it.
-3. **Vane's journal lands** — his struck-through hunch plus this page welds *spirit + city + chants* (Layer 2). Two documents, one suspicion, zero answers. As designed.
+> ⚠ **RE-HOMED 2026-07-24 (GM ruling).** *"There is no transcription and the chants have not come up."* Caspar never delivered this prop, and he's now gone. **This file is Caspar's annotated copy**, still on the museum archive floor — a second-stage find, not the party's first contact with the text.
+
+1. **~~S4 — into their hands.~~ Never fired.** The Legacy Bundle delivery didn't happen. This page has never been at the table.
+2. **The party writes their own first** — at the Celebration, off Tenson's no-records find and Fletcher's sighting-frame ([[session-05-first-celebration]] §The Transcription). Clean text, no scholarship. *That* copy is theirs and it's the one that travels.
+3. **This copy arrives later, as confirmation + shortcut.** Whenever they go back through Caspar's archive: the same three movements, plus **forty years of a smarter man's dead ends** — the eleven *selas*, the shared verb with the founding fragment, Maud's eel recipe. It proves they transcribed it right and hands them every road already walked. **Emotional freight:** it's his life's work, and they can only read it because they helped him disappear.
+4. **The argument object.** [[sinope|Sinope]] will locate the eleven *selas* in about four minutes and be *insufferable* about it. [[fen|Fen]] would love to see it and has nothing to trade. *(2026-07-25: she has no collection to swap — one joke about five families, then she's a teenager at a festival.)*
+3. **Vane's journal lands** *(✅ landed S5)* — ⚠ **the journal no longer carries a chant-pointer.** The GM's 2026-07-24 rewrite cut Vane's struck-through hunch ([[the-first-maintainers-journal]] §What the Rewrite Cut), so **this page and [[fen|Fen's]] five contradictory translations are now the campaign's chant-pointers.** The journal welds *spirit + city + **cage***; the chants leg is yours. Weight this prop accordingly.
 4. **The Heart** — "ask it to read my fairytales back to me." The spear goes cold; the Reading runs ([[reveal-read-alouds]] §4); this page becomes the worst document in the campaign.
-5. **The heist lever** — the eight bars + the torch sightlines + Fen's drum-form are the derivation set for the Load-Bearing Element countdown ([[the-celebration]] hidden layer). The party holding this prop is the party that can eventually hand [[fen|Fen]] the altered second movement.
+5. ⚰️ **~~The heist lever.~~ CUT 2026-07-25 (GM ruling).** There is no derivation set, no Load-Bearing Element countdown, and **no chant-alteration ending** — Fen never plays an altered second movement, and nothing musical is a lever ([[resolution-options]] holds the real ones). **What this prop is for now:** dread and recognition. It proves the city has been singing an instruction it can't read for two hundred years. That's the payload — the horror, not a plan.
 
 **Player-cryptography note:** if a player tries to crack it early from the prop alone — let them get exactly as far as Vane and Caspar did (a repeating word, a shared verb with the founding fragment, a movement that never varies) and no further. The lexicon has no Rosetta stone in-world; the only fluent speaker is at the bottom of the Mire. Reward the noticing, bank the confirmation.
 

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Sallowreach (Campaign Frame)
+---
+
 # SALLOWREACH
 
 ***Strangers wake cursed at the edge of a living swamp — and the bayou town that holds their answers is hiding one it doesn't know it has.***

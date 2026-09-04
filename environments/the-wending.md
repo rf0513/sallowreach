@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Wending
+---
+
 # The Wending
 
 **Tier 1 Traversal**

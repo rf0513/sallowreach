@@ -7,7 +7,9 @@ aliases:
 
 # Oswin Cray
 
-> **First encounter (S4):** [[session-04-maintenance-house]] — tea, the flinch, the volunteered file; handouts in [[oswin-papers-handout]]. He is the co-lead of [[tenson-arc|Tenson's arc]].
+> **First encounter:** [[set-piece-the-maintenance-house]] — the tally, the flinch, the volunteered file, the crate of journals; handouts in [[oswin-papers-handout]]. He is the co-lead of [[tenson-arc|Tenson's arc]].
+>
+> ⚠ **Register re-cut 2026-07-24 — read this before the rest of the file.** Oswin plays **contemptuous, not pitiable**: too clever for the posting, aware of it, and quietly furious for four years. He is **not afraid of [[marcel-dray|Marcel]]** — Guild credentials are a hard wall and Marcel is practical, so their arrangement reads to him as a manageable understanding between businessmen. **The auditor is the threat.** Where this file's older passages write him as frightened of Marcel or pitiably weak, the set piece governs.
 
 **Role:** Mages Guild ward maintainer
 **Location:** [[Sallowreach]] — the Maintenance House, ward perimeter (Mire-edge, south side)
@@ -62,7 +64,7 @@ The gambling started in year two. Marcel Dray's establishment was the only place
 
 In any other context, Marcel would have had him hurt, or worse. But Guild credentials are a hard wall, and Marcel is practical. He found the embezzlement instead — maintenance funds redirected through fabricated "research expenses," a paper trail Oswin had told himself was well-hidden. It is not well-hidden. Marcel has it. Oswin knows Marcel has it. The arrangement is unspoken but perfectly understood: Oswin stays, keeps the ward running, says nothing, and Marcel doesn't deliver the evidence to the Guild.
 
-He is not a bad person. He is a weak person who got in too deep and then made it worse and then made it worse again and is now living inside the consequences. He would like very much to get out. He does not see how.
+He is not a bad person, and he is not a weak one either — that's the trap he'd like you to fall into. He is a **proud** person who decided that an institution which pays him in salt and silence had forfeited the right to his integrity, and who has been quietly collecting the difference. He tells himself it's arithmetic. He would like very much to get out. He does not see how.
 
 ---
 
@@ -81,7 +83,9 @@ What he will *settle for*: a day where nothing gets worse.
 - The ward has been underfunded. He skimmed the maintenance budget; the ward is not running at full capacity. The Mire's accelerating growth is not entirely the spirits — some of it is him.
 - He still gambles.
 
-He does **not** know about the binding. He does **not** know what the Celebration actually does. He hasn't done the research because doing the research would mean caring about the posting, and he stopped letting himself do that.
+He does **not** know about the binding. He does **not** know what the Celebration actually does — he has noticed the ward sits easier the morning after, filed it under "acoustics," and finds the question tedious.
+
+**He has read the institutional record** *(re-cut 2026-07-24)*. Two hundred years of maintainers all wrote down the same thing: a major spirit approaches from the southwest, salt disrupts it, nobody knows why it comes. He read it in year one, found it boring, and will hand it to anyone who asks in the tone of a man describing a drain. **The Guild has maintained a ward against grief for two centuries and found it beneath their interest** — that contempt, not ignorance, is the blindness he embodies.
 
 ### The Evidence (In His Office)
 
@@ -103,13 +107,13 @@ If he loses — if the evidence is taken from him — he goes very quiet. He wil
 - **The direction:** the spirit has been moving toward Sallowreach from the southwest for as long as records exist. "Not random. Something in the city has its attention. I've noted it every quarter for four years. The previous maintainers noted it too. No one's ever figured out what."
 - Institutional records for the past fifty years (pre-Vane records have a gap he's noticed and not pursued).
 - The lumber arrangement: he signs the quarterly shipment paperwork. He'll explain it without embarrassment — *"Payment for the posting. The Guild keeps the ward; the city ships the wood. The timber's worth it, believe me. Extraordinary stuff. I've never seen anything like it anywhere else."* And if anyone asks how a city this rich handles its coin, his answer — delivered flat, over his ledgers — is the truest sentence the party will hear about how Sallowreach works: *"There is no money here. There are trees, and there is paper about trees."*
-- [[The First Maintainer's Journal|Aldric Vane's original field journal]] is missing from his archive. He'll mention it as a mild frustration if asked about early records: *"There's a gap — Vane's original notes. First maintainer, two hundred years ago, obviously the most interesting source. Gone. Misfiled somewhere during a transition, probably."* He has not investigated. He has not wanted to pull on that thread.
+- [[The First Maintainer's Journal|Augury Vane's original field journal]] is missing from his archive. ⚠ **S5: the party has it.** And Vane's will left his journals — *plural* — to whoever held the posting next, which is Oswin. He has the rest of the shelf and has never opened it ([[the-first-maintainers-journal]] §The Other Volumes). He'll mention it as a mild frustration if asked about early records: *"There's a gap — Vane's original notes. First maintainer, two hundred years ago. Gone. Misfiled during a transition, probably."* He has not investigated and does not intend to. ⚠ **He will give the remaining volumes away without hesitation** — and if he's under audit pressure, he'll use them as a *deflection*, physically pushing the crate at whoever is asking about his ledgers ([[set-piece-the-maintenance-house]] Beat 6). *"Two hundred years of men writing down the weather."* He considers this a clean trade.
 
 ---
 
 ## Key Relationships
 
-- [[Marcel Dray]] — holds the debt and the evidence; Oswin is terrified of him in the bone-deep way of someone who has no move left and knows it
+- [[Marcel Dray]] — holds the debt and the evidence, and Oswin is **not** frightened of him. Credentials are a hard wall; Marcel has never threatened him with anything but paperwork. He's rationalized it into a manageable understanding between businessmen, and speaks of Marcel almost warmly. *(He is frightened of **auditors**. That's the inversion — a frightened man reads as a victim; a comfortable one reads as complicit.)*
 - [[Mages Guild]] — simultaneously his protection and his cage; they can't touch him while he's credentialed, but if the embezzlement surfaces, the credentials go first
 - The party — if they are kind to him, he will respond to it. This will be a problem.
 

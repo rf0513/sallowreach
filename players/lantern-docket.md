@@ -12,13 +12,31 @@ aliases:
 
 ---
 
+## ⚠ Compressed 2026-07-25 — read this before you run anything below
+
+**This file is no longer the arc's engine.** [[isotta-arc]] §The Standing Count is — one running investigation instead of five short stories, because with ~10 sessions left there is no room for five tutorials before the thing they teach toward. **The docket's new job is to supply the count with names and faces.**
+
+What that means at the table:
+
+| Case | Status |
+|---|---|
+| **4 · Year One** (Galen Merrow) | ⭐ **The keeper.** Run this one. *"You don't finish the journey, cher. You finish the leaving"* is the thematic bullseye and it's aimed at four tethered people who were all going somewhere. |
+| **the jewel** (first witnessed collection + the threshold line) | ⭐ **Unhooked.** It was locked inside Case 3, which is gated on [[set-piece-the-cold-cache]] — never played. Your two best Isotta beats were behind an unplayed side trip. **They now fire on whatever case closes next, whichever one that is.** |
+| **5 · The Rounds** (Lazare) | **Moved to the endgame menu** ([[isotta-arc]] §Endgame — *take the taper*). It was never a Tuesday: it's a permanent nightly duty and a real ending. Don't spend it mid-campaign. |
+| **2 · The Best Night** · **3 · Eleven of Twelve** | **Texture.** Names on the tally sheet, run only if the table reaches for them. Fully written below if you want one. |
+| **The Deathbed** | Unchanged — still the floating quiet one. |
+
+**And the oldest dead are not on this docket at all.** The eleven at the Celebration ([[session-05-first-celebration]] Beat 5.5b) cannot be worked as cases, cannot be spoken to, and **cannot be crossed** — that's the point of them. They're the first thing in her professional life she can't file.
+
+---
+
 ## Running a case *(the fixed shape — five beats, ~20 minutes each)*
 
 1. **The knock** — how it finds her. Ghosts don't wail; they *wait*, politely, where she'll pass. The creep is in the courtesy.
 2. **The stated want** — what the client *says* is unfinished. It's always concrete. It's always slightly wrong.
 3. **The snag** — the party grants the stated want and the ghost doesn't cross. The real anchor is one layer down; finding it is the mystery.
 4. **The balance** — the bridge, not the fetch-quest: she relays what the dead can't say to the living who can't hear ([[isotta-arc]] §How a Crossing Works).
-5. **The ledger** — closing pays out: clear her Slipping clock, grant a Hope `[VERIFY]`; after the introduction, loosen one loop of the grace cord. The heron is one roof closer. Write the casebook line.
+5. **The ledger** — closing pays out: clear her Slipping clock, grant a Hope `[VERIFY]`. *(⚰️ 2026-08-31: the grace cord is retired — closed cases no longer tick anything; they change what the Tallykeeper grants.)* ~~after the introduction, loosen one loop of the grace cord. The heron is one roof closer. Write the casebook line.
 
 **The casebook lines** *(read each aloud as she writes it — the Order's flat clinical prose is the running joke and the running knife)* are at the end of each case.
 
@@ -42,7 +60,9 @@ aliases:
 
 ---
 
-## Case 3 · Eleven of Twelve — *Émile Thibodeaux* ⭐ the banked jewel fires here
+## Case 3 · Eleven of Twelve — *Émile Thibodeaux*
+
+> ⚠ **2026-07-25:** the jewel no longer lives here — it fires on the **next case that closes**, whichever one that is (see the compression note above). The Cold Cache has never been played and this case is gated on it. The scene below is intact and good; it just isn't holding the crown jewels hostage anymore.
 
 *The setup rides in on [[set-piece-the-cold-cache]]: the drowned smuggler whose oilskin wallet Isotta carries out of the swamp — a pay-tally with eleven marks of twelve, bone dice, half an unsent letter. His wages sit with Cauvin at the night berths. His ghost waits there too.*
 
@@ -84,7 +104,9 @@ aliases:
 
 ---
 
-## Case 5 · The Rounds — *Lazare Bellaire*
+## Case 5 · The Rounds — *Lazare Bellaire* ⚰️ *(re-homed 2026-07-25 → [[isotta-arc]] §Endgame, "take the taper")*
+
+> **Not a mid-campaign case.** It hands her a nightly duty she keeps forever and quietly makes her belong to the spirit side in a way no cure undoes. That's an ending, and it's now the fifth door on her endgame menu. Everything below stays exactly as written — just play it at the finish, not on a Tuesday.
 
 **The knock:** through her second sight only. Every dusk, Veilside, an old man with a taper walks the boards lighting lanterns the living can't see — the spirit-side lamps that burn the color with no name ([[isotta-arc]] §Veilside Sallowreach). One evening he stops below her window, looks up, and holds out the taper.
 
@@ -116,4 +138,4 @@ When the player reviews the casebook — and mystery players always review the c
 
 ---
 
-*Related: [[isotta-arc]] (the engine, the Answer, the crossing rules — this file's spine) · [[the-tallykeeper]] (the collector + the grace cord) · [[set-piece-convince-me-to-wait]] (where the pattern pays off) · [[set-piece-the-cold-cache]] (Case 3's setup) · [[the-last-board]] (Maud) · [[the-eddy]] (Cassia, the Arrivals Ledger) · [[the-long-room]] (Case 3's coda) · [[session-04-salt-wall]] (Case 1, as played). Mechanics flagged `[VERIFY]` per house rule.*
+*Related: [[isotta-arc]] (the engine, the Answer, the crossing rules — this file's spine) · [[the-tallykeeper]] (the collector + the grace arrangement) · [[set-piece-convince-me-to-wait]] (where the pattern pays off) · [[set-piece-the-cold-cache]] (Case 3's setup) · [[the-last-board]] (Maud) · [[the-eddy]] (Cassia, the Arrivals Ledger) · [[the-long-room]] (Case 3's coda) · [[session-04-salt-wall]] (Case 1, as played). Mechanics flagged `[VERIFY]` per house rule.*

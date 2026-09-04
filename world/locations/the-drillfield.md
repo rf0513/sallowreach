@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Drillfield
+---
+
 # The Drillfield
 
 **Type:** Training ground / city guard muster

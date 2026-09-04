@@ -165,7 +165,7 @@ The spear has touched the one it was carved for. The moment it enters the pool:
 - **They tell [[delphine|Delphine]] or [[vael-miroux|Vael]].** Vael goes very quiet: the vast *held* thing he could never resolve now has a face and an address. Neither can add facts — both can add weight.
 - **They take it to [[adaline-roux|Adaline]].** This is evidence [[set-piece-show-me]] was built for. "There is a guest under your floor" is a sentence she has to go look at.
 - **They carry the answer southwest.** [[set-piece-the-delivery]] runs again, shorter, with a letter instead of a question.
-- **They start designing the disruption.** [[resolution-options]] + Fen. The spirit gave them structure, never a plan.
+- **They start designing the disruption.** [[resolution-options]] — the five levers, none of them musical. The spirit gave them structure, never a plan. *(⚰️ 2026-07-25: Fen is not part of this and never was after the recut — no chant-alteration heist.)*
 
 ---
 

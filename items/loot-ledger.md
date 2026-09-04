@@ -68,7 +68,7 @@ A tower shield built from the salvaged hull-door of **The Ridgeback** — Remy's
 - **The string:** it is physical proof of the sabotage — scorch-patterning on the timbers that an investigator (or an incident report…) could read. Caius has *opinions* about this shield existing. Tenson carries the crime scene into every room.
 - **The Rung-4 bridge ([[tenson-arc]]):** when a professional eye (Fletcher's hazard-read, or Théo mid-build) reads the pattern as a **rigged charge** — shown — Remy says the rest: *"A hired job? On my water? Nothing gets* hired *on this water without the Pale Room hearing the price."* That line is what sends the party to Marcel with the right question. It fires off the salvaged timbers whether or not the shield is ever commissioned.
 
-### The Truth-Teller's Ink *(plot key disguised as loot — [[the-long-room|the Long Room]], from Lucien Aubert)*
+### The Truth-Teller's Ink *(plot key disguised as loot — [[the-long-room|the Long Room]], from Lucien Aubert; hand it over in [[set-piece-the-long-room]] Beat 3)*
 A pot of sap-red archival ink, native-made, older than the imperial presence. Brushed thin over a page, it **blooms where the page has been altered** — erasures, substitutions, a signature written over a scraped name `[VERIFY — mostly a narrative key; roll only under pressure]`.
 - **The point:** Tenson's redlining becomes a superpower. Aim it at the incident report, Caius's file, Oswin's funding denials, the Cold Cache waybill. Lucien's price isn't coin — it's a favor owed to the Long Room, on the books, properly witnessed. *(Tenson will insist on the paperwork. Let him.)*
 

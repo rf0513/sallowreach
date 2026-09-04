@@ -72,7 +72,7 @@ If she stops at [[The Still Cup]] first (recommended — he's expecting her). He
 
 - The woman is **Solène Thouvenel**. Steady, dry-humored, too tired to be bitter out loud. The ward-fund petition to shore this stretch was **denied** months ago.
 - **Fen seed (free, one line)** — if anyone asks after family: *"My girl's taken it her own way. Out on the boards half the night, playing that drum at the open water like it'll answer her back."* Drier: *"It won't. But her grandfather taught her that drum, so I don't say it twice."*
-- **Tenson hook:** Solène has the creased denial notice. Don't reveal Caius's signature unless he digs. The notice points down the line to the man who filed the petitions → [[session-04-maintenance-house]].
+- **Tenson hook:** Solène has the creased denial notice. Don't reveal Caius's signature unless he digs. The notice points down the line to the man who filed the petitions → [[set-piece-the-maintenance-house]].
 
 ### Beat 2 — The Control Group
 

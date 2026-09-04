@@ -1,3 +1,9 @@
+---
+aliases:
+  - Lantern Rays
+  - Tessak
+---
+
 # Lantern Rays
 
 **Type:** Mire creature, keystone species

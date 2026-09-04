@@ -6,7 +6,11 @@ aliases:
 
 # Fen
 
-> **⚠ RECAST (2026-07-03) — supersedes the "Fenella Bast" version.** Two changes, both deliberate: **(1) She's a Thouvenel now** — [[session-04-salt-wall|Solène]]'s daughter, Anselme's granddaughter, one of the southwest edge families the party meets at the wall. **(2) Her music is not magical and never was.** The bioluminescence has never answered her; her rejected arrangement is not the wrong note. The binding is disrupted only by variation *inside the working* — see [[The Celebration]]'s hidden layer and [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]]. Fen is the campaign's *questioner*, not its accidental key: the party may one day derive the disruption themselves and need her hands to play it. Old Front 5 ("The Wrong Note") is retired; its teeth moved into Front 4.
+> **⚠ SCALED BACK (2026-07-25 — GM ruling; read this first, it overrides everything below).** Fen was carrying three campaign jobs she should never have had. **All three are cut:** the walkout/absence campaign (retired outright), her role as the mystery's research "lens," and her end-game role as "the hands" who performs an altered chant. **There is no chant-alteration heist in this campaign.** *(Reason: the lyric-tinkering plot fed one player and benched three, and previous drafts kept inflating it.)*
+>
+> **What she is now, entire:** a seventeen-year-old punk drummer the party meets at the Celebration. She wants to play her own arrangement at it. Nobody will let her, because changing the form feels wrong to everyone and no one can say why. She's fun, she's sharp, and she's the only local who thinks the question is worth asking — which makes her **the one person the party can be skeptical at** without insulting somebody's grandmother. That's her whole job. Do not grow it back.
+>
+> *(Still true from the 2026-07-03 recast: she's a **Thouvenel** — [[session-04-salt-wall|Solène]]'s daughter, Anselme's granddaughter — and **her music is mundane.** It has never touched anything. Old Front 5 "The Wrong Note" stays retired.)*
 
 **Real name:** Fenella Thouvenel — goes by Fen; will correct you once and then stop caring
 **Role:** Musician, agitator, the girl who asks the question nobody in two hundred years has answered
@@ -33,7 +37,11 @@ She loves Sallowreach. This is important. She is not trying to destroy the Celeb
 
 **She talks fast when she's certain.** When she's less certain, she gets quieter and more specific. The quiet version is the one worth listening to.
 
-**Her party trick — the collection.** She's spent three years asking elders what the old words actually *mean*, and she can recite the results: five families, five translations, all contradictory, all sung with total conviction. *"'The promise holds.' 'The water remembers.' 'Keep the good year.' 'Welcome the guests twice.' And old Maud Perrin swears it's a recipe."* [beat] *"Same words. Five meanings. And somehow* I'm *the problem."* — *(GM: this is the mystery doing its own work. She's assembled proof that the meaning was lost generations ago and the ritual runs anyway, and she has no idea what she's holding. Let her perform it; let the party's ears prick.)*
+**Her party trick — one bit, then move on.** She's asked a few elders what the old words actually *mean* and got a different answer every time. She'll perform it once, as a joke at the city's expense:
+
+*"Ask five families what it means, you get five answers. 'The promise holds.' 'The water remembers.' Old Maud swears it's a recipe."* [beat] *"Same words. And somehow* I'm *the problem."*
+
+*(GM: **one bit.** She's a teenager being funny about her hometown, not a researcher with a case file. She has no collection, no notes, no theory — if a player asks for her sources she shrugs: "I asked people. At parties." The point is the laugh and the hole it leaves.)*
 
 **She plays to the open water at night** — off the porch rail at [[the-last-board|The Last Board]], where the boards end, the drum and the dark. It's an old boardwalk gesture: you play for the drowned, because the drowned are out there and nobody visits. She started the season her grandfather went under and never stopped. *(GM — the gut-punch she cannot see: Anselme is literally out there, thirty yards past the salt line, hat in his hands, listening to every set. He cannot cross and she cannot know. [[isotta|Isotta]] can see both ends of it — see [[session-04-salt-wall]].)*
 
@@ -61,7 +69,7 @@ She will not compromise the arrangement to get there. She has had this conversat
 
 ## What She's Hiding
 
-**The absence campaign is working, and it scares her.** Since the relocation order, she's been saying it to the edge families, at the night sets, at the tables the Accord never visits: *"If the city won't sing for us, why do we sing for it?"* And they've started listening. A handful of Thornside households skipped the last Celebration. More are talking about it. The girl who wanted *in* to the tradition is becoming the reason people walk *out* of it — and she's half proud and half frightened of what she's steering, because she doesn't actually want the song to die. She wants it to *notice her people.* *(GM: this is [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4's new engine]]. Nobody in the city — Fen included — knows what absence does to the working.)*
+*(⚰️ **CUT 2026-07-25 — the absence campaign / walkout.** She is not organizing a boycott and never was. The edge families' grievance about the relocation is real and stays, but it belongs to the displacement front and to their own mouths — not to a seventeen-year-old running a movement. See [[world-in-motion]] Front 4.)*
 
 **She still mouths the old words.** At every Celebration, standing wherever the Accord can't see her, she sings along — phonetically, perfectly, in her gran's cadences. She'd rather drown than be caught doing it.
 
@@ -71,34 +79,28 @@ She will not compromise the arrangement to get there. She has had this conversat
 
 ## Key Relationships
 
-- **[[session-04-salt-wall|Solène Thouvenel]]** — her mother. Steady, dry, exhausted. They fight about the absence campaign in the low, flat register of people who love each other: Solène needs the city's goodwill for rehousing, and her daughter is spending it. *"You want them to hear you, Fenella. People don't hear a door slamming. They just hear noise."*
+- **[[session-04-salt-wall|Solène Thouvenel]]** — her mother. Steady, dry, exhausted. They fight about the drum in the low, flat register of people who love each other: Solène needs the city's goodwill for rehousing, and her daughter keeps making noise at the people she needs it from. *"You want them to hear you, Fenella. People don't hear a door slamming. They just hear noise."*
 - **Anselme Thouvenel** — grandfather. Taught her the drum; drowned three years ago. She plays to the water for him. *(As played, S4: he crossed — with the heron's help, while she was drumming somewhere else entirely — [[session-04-recap]].)* For three years he listened from past the salt line, every set, and **the only living person who knows is Isotta.** The card changed shape and got heavier: it's no longer a secret dramatic irony, it's a gift someone has to *decide* to give — "your grandfather heard every note, right up to the end" — knowing Fen will hear the other half too: the audience of one is gone, and the last set she played him, she didn't know was the last. Play it when it will land hardest. It will not land gently.
 - **The Musicians' Accord** — three formal rejections, two letters of concern; adversarial for years and now curdling into something with a constituency behind it.
 - **[[Caspar Renne]]** — met him twice; the only person in the city who engaged with her arrangement as a musical-historical question rather than a political one. He told her the old words predate written Sallowreach history — a fact she found interesting and filed away. She doesn't know he holds the only transcription in existence.
 - **[[Remy Duval]]** — comes to her shows; told her to her face, once, that her arrangement was better than the traditional. She has remembered this. He's one of a very short list of adults she doesn't approach with her guard up.
-- **[[the-last-board|Maud Perrin]]** — keeper of the Last Board, whose porch is Fen's stage and whose Singing Table is the walkout's counterweight. Fen thinks Maud is old guard; Maud thinks Fen is the best drummer Thornside has produced in three generations and has never said so. The open door between their two crowds is the front's live hinge — and the drum on Maud's wall is a door to the endgame stage ([[the-last-board#Fen's Sets|the named-hand custom]]).
+- **[[the-last-board|Maud Perrin]]** — keeper of the Last Board, whose porch is Fen's stage. Fen thinks Maud is old guard; Maud thinks Fen is the best drummer Thornside has produced in three generations and has never said so. *(⚰️ The "named hand" drum-carrier custom is retired with the heist, 2026-07-25 — it existed only to get Fen onto the platform.)*
 - **[[Sinope]]** — natural allies who disagree about everything; she questions the Celebration's form, he questions its content; he tells her she plays too loud, she tells him he smells. This is affection.
 
 ---
 
-## Campaign Function
+## Campaign Function *(one job — rewritten 2026-07-25)*
 
-### The Lens *(early — her real job)*
-The party finds her playing on the outer boardwalks, or seated three tables down at the Celebration playing an uninvited set, or hears the rumor about the drummer girl the Accord won't have. What she demonstrates, without anyone stating it: **this city performs a two-hundred-year-old ritual with religious exactness, and no living person knows what it means.** Her collection of contradictory translations, her unanswerable question — *"why these eight bars?"* — and the elders' loving non-answers (*"we just do it, child; it's how it's done"*) hand the party the Celebration's central mystery as a character, not a lecture. The party asked questions about the ritual in Session 1. Fen is the local who's been asking them for three years, out loud, and getting the same nothing.
+### The Pressure Valve
+Everyone else in Sallowreach answers a hard question about the Celebration with warmth and total satisfaction — *"it's how it's done, cher."* Push, and you're being rude to somebody's grandmother about the thing she loves most.
 
-### The Fracture's Voice *(ongoing — Front 4)*
-The displacement keeps feeding her audience, and the absence campaign gives the fracture a mechanism nobody understands (see [[world-in-motion#Front 4 — The Fracture & the Empty Verses|the front]]). Every empty bench at the Celebration is her grief doing what the Accord taught it to do — leave. The party can widen it, bridge it, or watch [[Caius Maren|Caius]] quietly discover that a fractured ritual serves his file.
+**Fen is the exit.** She's the one local who finds the question interesting, so she's the one person the party can be openly skeptical *at* — cheaply, rudely, at volume, with no social cost. Anything a player is thinking but is too polite to say to Adaline or Remy, they can say to Fen, and she'll agree and raise them.
 
-### The Hands *(end-game — if the party ever needs the binding disrupted)*
-Fen's own arrangement is just music. But the load-bearing element of the binding is *musical* — and if the party ever assembles the truth (Caspar's transcription + Adaline's inherited form + the journal; the Progress Countdown in [[The Celebration]]'s hidden layer) and derives the disruption themselves, they will hold an alteration that only works performed *inside* the ritual, live, precisely, in front of sixty thousand people — by someone who knows the traditional form cold enough to deviate from it on purpose and sell it as performance. That is one person in this city, and she's seventeen, and the Accord banned her from the stage she'd need.
+What she gives them, without anyone stating it: **this city has performed the same ritual with religious exactness for two hundred years, in a language nobody can read, and nobody wants to look into it.** She's proof the question is askable — and proof that asking it gets you nowhere, because she's been asking for three years and all she's got is two framed rejection letters.
 
-Getting Fen her slot becomes the heist. Her want and the party's need converge on the same eight bars.
+**She is not a researcher, a lead, or a key.** She has no answers, no collection, no plan. If the party tries to recruit her into an investigation she's delighted and completely useless: *"Yes! Finally! …I don't know anything, though. I want you to know that up front."*
 
-**If they tell her the truth and ask:** she is very still for a moment. Then a slow, incredulous exhale — not quite a laugh.
-
-*"I've spent three years telling them the form doesn't matter. Turns out it's the only thing that does."* [beat] *"And the Accord's been guarding a prison for two hundred years because nobody translated the words."* [long pause] *"Alright. What do you need me to play?"*
-
-She'll want to know what happens to the city when the binding breaks — she's a punk, not a nihilist, and she loves Sallowreach. If the answer is honest and hard, she'll weigh it for about ten seconds. It will, technically, be the thing that ends her career in Sallowreach. She will consider this a reasonable trade.
+⚰️ **Cut 2026-07-25 — do not rebuild:** her "lens" role (a research partner with a case file), the absence campaign, and **the heist** (deriving an altered second movement and getting Fen onto the platform to play it). There is no chant-alteration ending. If the party wants to break the binding, the levers are in [[resolution-options]] and none of them are musical.
 
 ---
 
@@ -113,8 +115,8 @@ She'll want to know what happens to the city when the binding breaks — she's a
 **The collection (her party trick):**
 *"Ask five families what the old words mean. Go on. I did. 'The promise holds.' 'The water remembers.' 'Keep the good year.' Five meanings, same words, everyone certain. Two hundred years of certain. Nobody's* checked."
 
-**On the absence campaign, quieter, if someone pushes:**
-*"I don't want them to stop singing. I want them to notice who stopped."* [pause] *"Those aren't the same thing. I know they're not the same thing."*
+**⭐ When a PC finally asks the rude question out loud** *(her best line — this is what she's for)*:
+*"Right? RIGHT?"* [she puts the drum down] *"Thank you. Three years I've been asking. Nobody's angry about it, that's the thing — they're not hiding anything, they just genuinely do not care."* [beat] *"You ask what it means and they smile at you like you've asked what colour Tuesday is."*
 
 **On why she plays to the water at night:**
 *"Old custom. You play for the drowned — they're out there and nobody visits."* [adjusts a tuning ring, doesn't look up] *"My grandfather taught me the second movement. So that's what he gets."*
@@ -127,4 +129,4 @@ Not a combat encounter. If somehow cornered, she fights with the drum (improvise
 
 ---
 
-*Related: [[session-04-salt-wall]] (Solène & Anselme — the family, on the page) · [[The Drowning Edge]] (the edge-family slot the Thouvenels now fill) · [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]] · [[The Celebration]] (hidden layer — the load-bearing element) · [[adaline-roux]] · [[caspar-renne]]*
+*Related: [[session-05-first-celebration]] Beat 5 (where the party meets her) · [[session-04-salt-wall]] (Solène & Anselme — the family, on the page) · [[The Drowning Edge]] (the edge-family slot the Thouvenels now fill) · [[the-last-board]] (her stage) · [[adaline-roux]] · [[caspar-renne]]*

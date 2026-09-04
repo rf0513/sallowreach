@@ -69,7 +69,7 @@
 
 1. *(T)* "The southwest wall's thinner than it was. My cousin's floor takes water at high tide now."
 2. *(½)* "That guild man at the Maintenance House hasn't filed a proper report in a year. Loses at cards, they say."
-3. *(T)* "Half of Thornside's saying they'll skip the next Celebration. After that relocation order? 'Let the inner districts sing to themselves' — that's [[Fen|the drummer girl's]] line, and it's catching."
+3. *(T)* "The Caillou row's not come to a Celebration since the spring. Nobody's making a point of it — they just stopped. After that relocation order, would you?"
 4. *(T)* "Don't take the Hinge this season. It's not where it was."
 5. *(T)* *(quietly, after a glance around)* "That whole table's feast last Celebration? Came from the Pale Room. Anonymous. You didn't hear it from me."
 6. *(T)* "The imperial one's been asking about that shipwreck. Buys you dinner just to ask."
@@ -77,7 +77,7 @@
 8. *(T)* "There's a frog-man at the Mire's edge who takes outsiders into the swamp. Lost his boat in that wreck, poor soul."
 9. *(T)* "The rays were thick as a road off the southeast last spring. Half as many now. Nobody says why."
 10. *(½)* "They pulled a wrecker's net from where that ship went down. Funny place for a net."
-11. *(½)* "The Celebration felt *off* this week. Flat. Like a string gone out of tune." — *(no one can prove it; everyone half-felt it. **Now quietly true**: benches went empty, and attendance is amplitude — [[world-in-motion]] Front 4)*
+11. *(½)* "The Celebration felt *off* this week. Flat. Like a string gone out of tune." — *(no one can prove it; everyone half-felt it. Leave it unexplained — it's atmosphere, not a mechanic.)*
 12. *(T)* "A man went into the deep Mire with the frog-guide three years back and never came out. Ruled an accident. They all are."
 13. *(½)* "The lizardfolk haven't traded at the edge in months. Something's wrong in the deep channels."
 14. *(T)* "You can send word out at [[The Long Room|Lucien's]]. Costs a fortune and the swamp eats half of it — but it leaves, even when you can't."

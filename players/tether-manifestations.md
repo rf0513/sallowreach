@@ -12,7 +12,7 @@ None of it hurts *as its first move.* That's the horror, and it's the same horro
 - **Never say Celebration.** These are chain-#3 priming beats ([[the-celebration-clue-map]]); they feed the click, they never pre-empt it. Recognition stays earned.
 - **Distinct from personal curses.** Isotta's Slipping clock, Leavy's clank-curse, the ghost-state — separate conditions, separate files. If a symptom could belong to a personal arc, it's the wrong symptom.
 - **One manifestation beat per session, at most** — same rationing as the coin beat. These land by being rare.
-- **All four go quiet on Celebration nights** (canon since [[session-05-first-celebration]]'s night button — the best sleep in Sallowreach). That correlation is *theirs* to notice. Say nothing.
+- **Celebration nights run taut, then quiet** — both halves, same night. See §Celebration Nights below. That correlation is *theirs* to notice. Say nothing.
 
 ---
 
@@ -75,6 +75,29 @@ None of it hurts *as its first move.* That's the horror, and it's the same horro
 **The Knife under it:** the assignment was supposed to end — investigate, report, return. The tether deleted the last verb, and Tenson's manifestation is the deletion made audible: a bell that calls them back to a post nobody assigned. Whether [[silence|Silence]] would call that a tragedy or an asset is already on their sheet. The bell doesn't care.
 
 ---
+
+## Celebration Nights — taut, then satisfied *(canon 2026-07-25; supersedes "all four go quiet")*
+
+The old ruling said the tether goes **quiet** on Celebration nights — the best sleep in Sallowreach. That's still true. It was only ever half the night, because the chant itself had no beat anywhere in the campaign. Now it does ([[session-05-first-celebration]] Beat 5.5), and the full shape is:
+
+| When | What happens | Where it's staged |
+|---|---|---|
+| **The second movement** — eight bars, four words, the only part that never varies | **All four spike at once**, each in their own register. Not pain. *Attention.* Roughly eight seconds. Then it's gone and the third movement rolls on. | [[session-05-first-celebration]] Beat 5.5 |
+| **First & third movements** | Nothing. This is the whole clue — the window is narrow and it is always the same window. | same |
+| **Walking home / sleeping** | All four **quiet**, settled, the best sleep since the water closed over them. No dreams. | same, Beat 7 |
+
+**The unifier, unchanged:** it welcomes, it doesn't punish. The working was performed at full power; they are a small binding cut from the great one; **they got tightened and then they got tucked in.** Nothing about that is hostile and all of it is horrifying.
+
+**The surge, per PC** *(one line each, delivered around the table with no pauses — the simultaneity is the effect)*:
+
+- **Fletcher** — the wrong-way pull stops being wrong-way. For eight bars it points **dead at the middle of the crowd**, at the same thing sixty thousand people are facing.
+- **Leavy** — the song gets a flavor. The welcome verse tastes like a room. The eight bars taste like **a seal going onto a jar.** *(Her craft, her words, zero content — and it rhymes with Maud Perrin's preserving-recipe reading of the chant without either of them ever knowing. Never connect those two out loud.)*
+- **Isotta** — everything that has been watching her all night **stops**, because for eight bars all of it is facing the same way she is. She isn't being watched; she's part of the watching.
+- **Tenson** — the sentry bell, which rings only at the boundary markers, rings **here**, mid-city, four beats on the song. And it isn't a watch changing. It's a watch being **set.**
+
+**⚠ Reserved — never in this beat:** iron on the tongue · crushed green · the vast soft closing pressure · glass-still water. Those four, in that order, are the click's and the click's alone ([[reveal-read-alouds]] §1). **Same night, twenty minutes later, at the lantern release** *(2026-07-25 — there is no second Celebration; the click moved onto this evening)*. Beat 5.5 is *the chant reaches us.* The release is *and I have felt this before, while drowning.* Keep them separate or the second one has nothing left to land on.
+
+**What it's worth:** the party cannot read a word of the language, and this hands them the load-bearing eight bars **by feel** — the same eight bars [[set-piece-the-long-room|Lucien]] names from the acoustic side and [[fen|Fen]] circles from the translation side. Three roads, one target, none of them explaining anything.
 
 ## The Comparison *(stage this — a campfire scene, S5–7, whenever they finally trade symptoms)*
 

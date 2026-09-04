@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Outer Market
+---
+
 # The Outer Market
 
 **Tier 1 Social** *(strong Exploration texture)*

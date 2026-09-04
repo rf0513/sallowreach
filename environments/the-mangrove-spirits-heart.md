@@ -1,3 +1,9 @@
+---
+aliases:
+  - "The Mangrove Spirit's Heart"
+  - "Mangrove Spirit's Heart"
+---
+
 # The Mangrove Spirit's Heart
 
 **Tier 2 Exploration**
@@ -48,6 +54,6 @@
 
 This is the **emotional core of the campaign**, and the single most important instruction is: **do not turn it into a fight.** The weight here is awe and choice, not combat. If the party arrives braced for a boss, the Heart should disarm them — there is nothing to swing at, and that absence is the horror and the wonder both. The danger is *insignificance:* the real risk is that the party feels how little they matter to the thing they came to save, and either breaks against that or rises to it. Run the *Slow Attention* and *Lost in the Attention* as the genuine stakes. A PC bleeding Stress here is more frightening than a PC bleeding HP, because what they lose is themselves.
 
-**The spear is a lever, not a resolution.** [[Communing with the Spear|Communing]] makes the truth available — that the growth is [[world-in-motion#Front 1 — The Grief Rises|grief reaching for the imprisoned Tree Spirit]] (Front 1, made flesh). It does **not** free anyone, lift the [[The Tether|tether]], or end the [[The Celebration|Celebration]]'s binding. **Do not script what the party does with the truth.** Present what contact makes possible — *now you understand; now you can find the [[The Tree Spirit|companion]] in the city's heart; now the choice is real* — and then get out of the way. The resolution belongs to the table: free the Tree Spirit, reunite the spirits, refuse, or walk away changed. The Heart's only job is to make the choice *unbearable in the right way,* by letting them feel, directly and once, exactly what is at stake and exactly how little the universe is asking it of them.
+**The spear is a lever, not a resolution.** [[#Communing with the Spear|Communing]] makes the truth available — that the growth is [[world-in-motion#Front 1 — The Grief Rises|grief reaching for the imprisoned Tree Spirit]] (Front 1, made flesh). It does **not** free anyone, lift the [[The Tether|tether]], or end the [[The Celebration|Celebration]]'s binding. **Do not script what the party does with the truth.** Present what contact makes possible — *now you understand; now you can find the [[The Tree Spirit|companion]] in the city's heart; now the choice is real* — and then get out of the way. The resolution belongs to the table: free the Tree Spirit, reunite the spirits, refuse, or walk away changed. The Heart's only job is to make the choice *unbearable in the right way,* by letting them feel, directly and once, exactly what is at stake and exactly how little the universe is asking it of them.
 
 **On Gault:** if his third encounter resolves here, run it *before* the party crosses fully into the Heart — at the threshold, in the spirit-adjacent dark. It's a small, earned, human fight against the backdrop of the vast, and the contrast is the point: a man dies over a workforce and some glowing oil, and the thing in the water doesn't even turn its head. After, the Mire goes still and the party walks into the Heart with that contrast ringing.

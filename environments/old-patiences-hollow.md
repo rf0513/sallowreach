@@ -2,7 +2,7 @@
 
 **Tier 1 Social/Exploration**
 
-> 🏦 **Banked scene, not shelfware** *(audit 2026-07-17)* — this is the Still Pool encounter carrying the **partial tether relief** lever (the first proof the binding can change). When the party nears it, promote to a `set-piece-*` file in the house format; until then it keeps here. Mechanics swept vs [[STATUS]] SRD Facts.
+> ⚙️ **Engine under a named scene** *(promoted 2026-07-24 — the audit's instruction, carried out).* This is the Still Pool encounter carrying the **partial tether relief** lever (the first proof the binding can change). It is now staged in the house format as **[[set-piece-what-the-water-keeps]]** — bring that to the table and use this block for the hazards (*The Lingering Stillness* is the Fear spend the set piece calls for). Mechanics swept vs [[STATUS]] SRD Facts.
 
 *"The water here does not glow so much as remember light. Sit at its edge and the stillness gets into you the way cold gets into stone — slowly, completely, and without your noticing the moment it began."*
 
@@ -28,7 +28,7 @@ None. There is no monster here. The only thing that can go wrong is the party �
 
 **The Withdrawal - Reaction:** **Spend a Fear** when the party commands, lies to, or takes from [[Old Patience]] without asking — or trigger this for free at three Presumption markers (see *The Hush*). The light does not attack. It **disperses.** The temperature levels. The sense of being watched by something *interested* is simply gone. The party keeps whatever they had already earned, but the offer of tether relief — if not yet accepted — is withdrawn for good, and so is the Mire-from-above vision. Worse: the Mire becomes a harder place afterward. For the next stretch of play, bioluminescence dims, readable channels turn confusing, and navigation rolls in [[The Wending]] and [[The Deep Mire]] are made at disadvantage. This is a real consequence, not a punishment — the honored guest was disrespected, and an honored guest who is disrespected withdraws its welcome.
 
-**The Lingering Stillness - Action:** **Spend a Fear** to let the pool's stillness reach for someone who sat too long at its edge — the way it caught the child [[Lenne]]. The target makes a Presence Reaction Roll or loses the thread of time and self: not harmed, not entranced by anything hostile, simply *stilled.* They mark 1 Stress and cannot take an action until another character speaks to them, touches them, or the spirit's attention shifts. This is the gentlest hazard in the campaign — there is no malice in it. The Still Pool is just very old and very still, and stillness that deep is not safe for the living to share without care.
+**The Lingering Stillness - Action:** **Spend a Fear** to let the pool's stillness reach for someone who sat too long at its edge — the way it caught the child [[old-patience|Lenne]]. The target makes a Presence Reaction Roll or loses the thread of time and self: not harmed, not entranced by anything hostile, simply *stilled.* They mark 1 Stress and cannot take an action until another character speaks to them, touches them, or the spirit's attention shifts. This is the gentlest hazard in the campaign — there is no malice in it. The Still Pool is just very old and very still, and stillness that deep is not safe for the living to share without care.
 
 ## Feature Questions
 
@@ -48,9 +48,9 @@ This is the campaign's **sacred scene, not a scary one.** Three principles carry
 
 2. **The reward is earned, not given.** *The Second Offering* is the load-bearing lever — partial tether relief, the first proof the binding can change. Gate it behind the protocols, especially the offering rule (decline once, accept on the second offer, never a third). If the party blunders the etiquette badly enough to trigger *The Withdrawal* before accepting, they lose it. That is allowed. The relief means something *because* it can be missed. See [[Old Patience]] for the full fiction and what it unlocks downstream.
 
-3. **Withdrawal, not violence.** There is no fight here. The only failure state is *The Withdrawal* — the light disperses, the Mire goes harder, [[Remy Duval]] won't speak for a while. Play that as loss, not punishment. The party found the child [[Lenne]]; that part is always complete. What they forfeit is the deeper gift. Let the silence after the light disperses do the work — do not explain it.
+3. **Withdrawal, not violence.** There is no fight here. The only failure state is *The Withdrawal* — the light disperses, the Mire goes harder, [[Remy Duval]] won't speak for a while. Play that as loss, not punishment. The party found the child [[old-patience|Lenne]]; that part is always complete. What they forfeit is the deeper gift. Let the silence after the light disperses do the work — do not explain it.
 
-Tie this to the living world lightly: the pressure [[Old Patience]] feels is the [[Mangrove Spirit]]'s approach (Front 1), and the southwest-brighter vision is the same truth [[Caspar Renne]]'s tide journals point at, delivered faster. [[Delphine]] will recognize the two-lights image [[Lenne]] describes — connect it in the scene that hits hardest.
+Tie this to the living world lightly: the pressure [[Old Patience]] feels is the [[Mangrove Spirit]]'s approach (Front 1), and the southwest-brighter vision is the same truth [[Caspar Renne]]'s tide journals point at, delivered faster. [[Delphine]] will recognize the two-lights image [[old-patience|Lenne]] describes — connect it in the scene that hits hardest.
 
 ## Dungeon Alchemist Notes
 

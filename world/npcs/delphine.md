@@ -6,6 +6,8 @@ aliases:
 
 # Delphine
 
+> ⚠ **Live as of S5:** she is grieving [[Caspar Renne|Caspar]], who is **alive on a balloon**, and she does not know. The party holds his forty years of unsent love letters to her. **The prop + the four doors (tell her / give them / keep them / burn them) + her one vision beat: [[caspar-letters-handout]].** She is Front 11's costliest holder ([[world-in-motion]]).
+
 **Role:** Healer, spiritual practitioner, community anchor
 **Location:** [[Sallowreach]] — her practice occupies the ground floor of her stilted home in the Thornside quarter; the door is always unlocked during the day
 **Faction:** Independent

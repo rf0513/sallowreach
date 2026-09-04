@@ -87,7 +87,21 @@ There's no clean answer baked in, which is the point — even Brin sometimes has
 - **The shed-skin trail:** she has four castings of her own to lay beside Fletcher's; matched, they confirm the same animal, same territory.
 - **The warning, flat and serious:** *"Two hunters went past the Double Knot after it and didn't come back. I won't go alone, and I won't send you alone. That's not caution. That's arithmetic."* She can't go *with* him into the deep channels easily (her work, and it's a party-and-boat expedition by then) — but she gives him everything, and she means it.
 
+## ⭐ The Hinge — she's the one who reads the water *(built 2026-07-24)*
+
+Two set pieces meet on her desk, and she is the only person in Sallowreach who can join them up. **Don't let the GM say any of this — let Brin say it.**
+
+| | |
+|---|---|
+| **The question** | [[set-piece-the-wrong-skin]], at the debrief. Old Plenty's colony is dying and she knows it shouldn't be: *"A rookery that size doesn't fail in one season. Something's changed in the water and it's been changing for years, and nobody's counting anything but board-feet."* [beat] *"I'd give a lot for somebody's numbers. Anybody's."* |
+| **The answer** | [[set-piece-what-the-water-keeps]]. **Old Sera Lethaby's forty years of tide journals** (the water now rises from the southwest; she's told three people and none wrote it down) — plus, if the party earned it, [[old-patience]]'s map of every current in the Mire flowing one way. |
+| **What she does with it** | Sits up all night with it and comes back with the line the party can't say: **this isn't a bird problem.** A direction, a rate of change, and decades of it. |
+| **What she still can't do** | **Name the cause.** Nobody can. She has arithmetic, not an explanation — she'll say so plainly, and she'll be annoyed about it. |
+
+**Why it's worth staging:** it turns [[Fletcher]]'s personal vendetta into the campaign's ecological front without a word of exposition, and it gives a steward who has spent her career being the only one who'll say the Mire is in trouble the first hard evidence anyone ever handed her. She will not be graceful about being moved. *(Fronts 1 and 2 — [[world-in-motion]].)*
+
 ## Key Relationships
+- ⭐ **Old Sera Lethaby** — never met her. Two women keeping count of the same water for forty years, one professionally and one out of stubbornness, in a city that reads neither ([[the-drowning-edge]])
 - [[Fletcher]] — the hunter who arrived for the exact creature she most needs culled; she will not trust him on sight, and the trust, once earned, is total; she's the first person to ask him whether his fire is discipline or recklessness, and to *care* about the answer
 - [[Gault]] — her antithesis and her grief; the extractor who got her hunter killed and whose chain, she'll learn, reaches into her own city
 - [[Remy Duval]] — kindred, in their way: two people who love the Mire and are tired of being the only ones who'll say it's in trouble; reverence (his) and stewardship (hers) get along fine

@@ -89,7 +89,13 @@ Then it waits. It has waited two hundred years. It will win any silence the tabl
 
 ## 📜 The Terms *(baseline is canon; the dials are what the parley can move)*
 
-**Baseline (always granted if she engages at all):** the grace cord — **six loose loops** around her wrist. A filled Slipping clock draws one tight; each closed docket case loosens one. Last loop closes → it collects, ready or not. Revocable if her fraying outpaces the value of waiting — and it will say so, politely, in advance. *(Mechanics + `[VERIFY]` ratio note: [[the-tallykeeper#The Grace Period]].)*
+⚰️ **THE GRACE CORD IS RETIRED** *(GM decision, 2026-09-01)* — it was a second six-segment counter stacked on the Slipping clock and wired to it. **Everything below that counts loops is dead.** The live version:
+
+**Baseline (always granted if it engages at all): it waits.** No cord, no loops, no number. **The [[isotta-arc|Slipping Clock]] is the only dial** — fill it and she frays toward dissolution, the one outcome the grace exists to prevent. Draw that clock where the player can see it. **Closed cases and her tally sheet do not tick anything**; they change what it will *grant*, and it keeps the count itself. Revocable if her fraying outpaces the value of waiting — and it will say so, politely, in advance.
+
+⭐ **As played:** S6 fired the knock and the time-freeze and stopped before any terms. The terms landed in **S7 at Basile's crossing** — [[set-piece-she-lets-me-win]] **Beat 4**, which is now the canonical terms scene. Use this file for a *reprise* or for a table that hasn't met it yet.
+
+*(Historical, for reference only — the retired baseline: a cord of six loose loops, one drawn tight per filled Slipping clock, one loosened per closed case.)*
 
 | Dial | Won by | The price *(it states prices only if asked)* |
 |---|---|---|
@@ -125,7 +131,11 @@ Whatever she doesn't ask, she doesn't learn. That's the investigation, made of n
 
 ---
 
-## 🪢 The Cord *(the closing image — hand the player the actual prop)*
+## 🪢 The Cord *(⚰️ RETIRED 2026-09-01 — kept as a tombstone, do not run)*
+
+> ⛔ **The wrist prop is gone.** The closing image below is superseded; the grace is now a standing arrangement with no countdown, and the terms scene is [[set-piece-she-lets-me-win]] Beat 4. **Its own ledger of knots — the veilside cord ledger and Isotta's smooth unknotted cord — is untouched canon and still fires.** Only the six loops around her wrist are retired.
+
+### *(superseded)*
 
 > It leans down — all that height, folding, careful — and ties a cord around your wrist. Six loops. Loose. Its movements are the same ones you watched it use on the ledger: unhurried, exact, *practiced.*
 >
@@ -163,7 +173,7 @@ The player walked in braced for a monster and walked out with a *creditor* — a
 
 ## 🧵 Threads Opened
 
-- **The cord is live** — wire loops to the Slipping clock and docket engine ([[isotta-arc]]); every session's wrap-up checks it.
+- ⚰️ *(retired — no loops to wire; the Slipping clock alone carries it)* — ~~wire loops to the Slipping clock and docket engine ([[isotta-arc]]); every session's wrap-up checks~~ it.
 - **Closed cases are collateral now** — the Lantern Docket stops being sidequests and starts being installments.
 - **The watch continues** — her fraying slows when the heron is near; it keeps standing watch while she sleeps. Never explain. *(Canon: [[the-tallykeeper#What It's Hiding]].)*
 - **The reprise is loaded** — out-of-grace or the endgame breath re-runs this engine with the arc's menu ([[isotta-arc#Endgame — a menu, not a script]]).

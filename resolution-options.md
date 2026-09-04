@@ -12,7 +12,9 @@ These are real things in the fiction the party could reach for. None is the "int
 
 **Break the ward.** Sabotaging [[Oswin Cray]]'s salt circle is possible, and catastrophic: the Mangrove Spirit floods in — not in anger, in *longing* — with 60,000 people in its path. Available, devastating, and far more useful as a threat the party could hold over the city than as something they'd actually want to do. If they reach for it anyway, let the weight be real.
 
-**Surgical sabotage of the Celebration.** Somewhere in the ritual is a load-bearing binding element — probably the old-dialect chants (the Mangrove Spirit can translate through the spear; Caspar has them transcribed). Disrupt that during a Celebration and the binding could unravel quietly. The Tree Spirit goes free; the city wakes to changed circumstances without knowing why. Requires research first. The weight here: it's done *to* Sallowreach, not *with* it, and without its consent.
+**Stop the ritual.** The chant is the binding — the Mangrove Spirit will say so plainly at the Heart, through the spear. So: don't let it be performed. Drown it out, prevent it, refuse it, break it up. The Tree Spirit goes free; the city wakes to changed circumstances without knowing why. The weight here: it's done *to* Sallowreach, not *with* it, and without its consent — and it happens in front of sixty thousand people on the night they love most.
+
+> ⚰️ **Trimmed 2026-07-25 (GM ruling).** This lever used to require a **research project**: derive the eight load-bearing bars from three keepers' knowledge, then have [[fen|Fen]] perform an altered second movement inside a live Celebration. **All of that apparatus is cut** — no derivation countdown, no altered arrangement, no performer. **Nothing musical is a lever in this campaign.** The lever survives; it's just blunt now, which suits it. *(Do not rebuild the heist — every previous draft grew it back.)*
 
 **Reveal the truth and let the city choose.** Translate the chants, build the case, bring it to [[Adaline Roux|the City Leader]]. [[Théo Rouchard|The Woodworker]] is plausibly the first civilian who'd accept it. If Sallowreach chooses to free the Tree Spirit, it loses the identity and economy built on the binding — but it *chose* that. This is the hardest version to reach, and the one that asks every Act 1 relationship to have meant something.
 
@@ -27,7 +29,7 @@ These are real things in the fiction the party could reach for. None is the "int
 | Lever | Needs consent | Who pays | Texture |
 |---|---|---|---|
 | Break the ward | No | 60,000 civilians | Easy to do, catastrophic to live with |
-| Surgical sabotage | No | Sallowreach (identity, economy) | Quiet, unilateral, done *to* the city |
+| Stop the ritual | No | Sallowreach (identity, economy) | Blunt, public, done *to* the city |
 | Truth + politics | Yes (the city's) | Sallowreach, knowingly | Hardest to reach, most earned |
 | Spear bridge | No | The Tree Spirit (still bound) | Easy, morally unresolved |
 | Through Oswin | Yes (Oswin's) | Marcel loses; Oswin freed | Depends on solving Marcel first |

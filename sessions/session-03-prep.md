@@ -142,7 +142,7 @@ Now that they know **leaving = death**, they want a way out. Delphine pointed th
 
 - **What he gives freely:** spirit-water binding lore, three accounts of "something similar," the Tree Spirit's existence, that the Celebration's old chants encode something he can't read. He's been *waiting* for people who'd listen.
 - **What he won't give:** the **name** of the man who has the curse-breaking spear. **Roll: Instinct** to read him → it lands clearly that he's hiding a *name out of fear,* not ignorance. (His tells: hands go still when fascinated, over-talk and shelf-straightening when hiding.)
-- **The trust path (don't resolve tonight):** find & return **The First Maintainer's Journal** (Aldric Vane's field notes) → he reads it in front of them, has his discovery moment, and gives the name. *(Long fuse. Plant it.)*
+- **The trust path (don't resolve tonight):** find & return **The First Maintainer's Journal** (Augury Vane's field notes) → he reads it in front of them, has his discovery moment, and gives the name. *(Long fuse. Plant it.)*
 - **The Warden:** the wax figure by the door is a golem. Only triggers if they push to coercion / move toward the archive stairs. Use the SRD **Construct** block: **Diff 13 · Thresholds 7/15 · HP 9 · Stress 4 · ATK +4 · Fist Slam (Melee) 1d20 phys.** He calls it off the instant they back down. *Don't reach for this unless they force it* — it's a relationship cost, not a set piece.
 
 > **Caspar:** *"Spirit-water binding. Yes — that's — yes. Sit down, please, all of you. This is going to take a moment."* …then, on the spear's location, the hands start moving: *"It's not that I don't know, it's that—"*

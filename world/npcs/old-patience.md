@@ -1,4 +1,11 @@
+---
+aliases:
+  - Old Patience
+---
+
 # Old Patience
+
+> ⭐ **STAGED TABLE-READY 2026-07-24 → [[set-piece-what-the-water-keeps]].** The Lenne hook, the protocols, the three things and the tether relief are all staged there in run order, with read-alouds, the Bilge clock on the passage, a clue ledger and per-PC beats — **and the return leg now lands the party in [[odile-verret|Odile]]'s reeds.** The two files were built months apart and share the same water and the same nine-year-old girl. This file stays the canon source; run the set piece.
 
 **Type:** Lesser Mire Spirit
 **Location:** [[The Mire]] — the Still Pool, an unnamed break in the mangroves off the southwest Wending channel

@@ -7,7 +7,7 @@ aliases:
 
 # Player Handouts — The Maintenance House Papers
 
-*Two documents [[oswin-cray|Oswin]] hands over in [[session-04-maintenance-house]] — the correspondence he volunteers (Beat 3) and the expense summary Tenson pries loose (Beat 4). Give them to Tenson's player physically and let him work. **The anomalies are real and findable — do not flag them.** GM answer keys at the bottom. The puzzle is allowed to take days of table time; it keeps.*
+*Two documents [[oswin-cray|Oswin]] hands over in [[set-piece-the-maintenance-house]] — the correspondence he volunteers and the expense summary Tenson pries loose (both in Beat 4). Give them to Tenson's player physically and let him work. **The anomalies are real and findable — do not flag them.** GM answer keys at the bottom. The puzzle is allowed to take days of table time; it keeps.*
 
 *(Currency note: figures are bare numbers — Daggerheart's handfuls-and-bags don't ledger well, and the ratios are the content, not the denomination.)*
 
@@ -15,47 +15,72 @@ aliases:
 
 ## HANDOUT 1 — The Correspondence *(abridged register, Oswin's own file copies)*
 
-### PETITION THE FIRST — Month One
-*To the Office of Guild-Imperial Fiscal Coordination, Sallowreach, by way of the civic registry.*
+### Month One
 
-> …accordingly request a supplemental release of **400** for emergency reinforcement of the southwest face, sections 9 through 14, where seasonal loss now exceeds the standing allocation's capacity to remediate. Survey figures enclosed. I stress that this is a maintenance emergency and not a discretionary improvement.
-> — O. Cray, Maintainer, Second Credential
+_To the Office of Guild-Imperial Fiscal Coordination, Sallowreach_
 
-*Registry log: dispatched via civic channel; logged at four desks; **eleven days** in transit.*
+> Requesting an emergency release of 400 for the southwest wall (sections 9 through 14). The seasonal wash is eating the salt faster than my base budget accounted for. This isn’t an upgrade, it’s keeping the wall from falling apart.  
+> - O. Cray, Maintainer, Second Credential
 
-**DENIAL — returned by direct courier, stamped the following day:**
-> The Office thanks the maintainer for his diligence. Existing maintenance guarantees are judged sufficient to present need. Pursuant to **Imperial Fiscal Provision Nine (Subventions, Capital Works)**, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
-> — *for the Office of the Cultural Liaison — **C. Maren***
+_Returned by direct courier, stamped the same day_
 
-### PETITION THE SECOND — Month Two
-> …resubmit the enclosed request of **400**, with amended survey figures showing accelerated loss in sections 9 through 14 and first seepage in section 8. I respectfully note that Provision Nine, as I read it, concerns the subvention of new works, and ask that the request be assessed under the standing maintenance covenant instead.
+> The Office thanks the maintainer for his diligence. Pursuant to Imperial Fiscal Provision Nine (Subventions, Capital Works), release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.  
+> 
+> - C. Maren, Ambassador to Sallowreach
 
-*Registry log: **thirteen days** in transit.*
+###   
 
-**DENIAL — returned by direct courier, stamped the same day:**
-> The Office thanks the maintainer for his diligence. The classification of the request has been reviewed and is affirmed. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
-> — *for the Office of the Cultural Liaison — **C. Maren***
+### Month Two
 
-### PETITION THE THIRD — Month Three
-> …the requested sum is now **650**, reflecting the enclosed schedule of losses. Sections 8 through 15 are in deficit. Two households on the outer boardwalk have petitioned the city regarding standing water. I am enclosing their petitions as well, that the human circumstance be on the record alongside the arithmetic.
+> Resubmitting the 400. Provision Nine is for 'new construction.' This is an existing wall that is actively rotting. Please look at the survey attached. I need the funds.  
+> - O. Cray
 
-**DENIAL — stamped the same day:**
-> The Office thanks the maintainer for his diligence and shares his concern for the affected households, whose circumstances have been **separately noted and filed**. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
-> — *for the Office of the Cultural Liaison — **C. Maren***
+_Returned by direct courier, stamped the same day_
 
-### PETITION THE FOURTH — Month Four
-> …**900**, itemized. I will be plain: the southwest face is losing ground at a rate the standing allocation has not matched in living memory, and I can no longer engage day labor at all. I am performing two-man work alone. If the Office requires that I fail before it releases funds, I request that requirement in writing.
+> The Office thanks the maintainer for his diligence. The classification of the request has been reviewed and is affirmed. Pursuant to Imperial Fiscal Provision Nine, release of fundsis declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
+> 
+> - C. Maren, Ambassador to Sallowreach -- Transcription by Living Spell #7 ("Bigsby")
 
-**DENIAL — stamped the same day:**
-> The Office thanks the maintainer for his diligence and notes with concern the increasingly irregular tone of his correspondence. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
-> — *for the Office of the Cultural Liaison — **C. Maren***
+###   
 
-### PETITION THE FIFTH — Month Five
-> …**1,200**, and I attach no further surveys, because the Office has disputed none of the previous ones. I note for the record that in five denials the Office has not once contested a single figure I have submitted. I am therefore addressing a copy of this petition, with the full file, **to the Citadel directly**. Without these funds the ward will fail. I have run out of politer sentences.
+### Month Three
 
-**DENIAL — stamped the same day:**
-> The Office thanks the maintainer for his diligence. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office wishes the maintainer every success with his wider correspondence.
-> — *for the Office of the Cultural Liaison — **C. Maren***
+> The ask is **650** now because the delay let the leak reach sections 8 through 15. Two families on the outer boardwalk have standing swamp water under their floorboards. Attaching their letters so you can see this isn't just numbers on a page  
+> - O. Cray
+
+_Returned by direct courier, stamped the same day_
+
+> The Office thanks the maintainer for his diligence and shares his concern for the affected households, whose circumstances have been separately noted and filed. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
+> 
+> - C. Maren, Ambassador to Sallowreach -- Transcription by Living Spell #7 ("Bigsby")
+
+###   
+
+### Month Four
+
+> Now it’s **900**. My day laborer quit because I couldn't pay him, so I’m out here doing a two-man job alone with a wheelbarrow. If the office wants the wall to fail, just put that in writing and save us both the postage.  
+> - O. Cray
+
+_Returned by direct courier, stamped the same day_
+
+> The Office thanks the maintainer for his diligence and notes the increasingly irregular tone of his correspondence. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.
+> 
+> - C. Maren, Ambassador to Sallowreach -- Transcription by Living Spell #7 ("Bigsby")
+> 
+>   
+
+### Month Five
+
+> It's **1,200** now. Not attaching surveys this time because in five months you haven't argued with a single number I sent. Without funds, the ward drops.  
+> - O. Cray
+
+_Returned by direct courier, stamped the same day_
+
+> The Office thanks the maintainer for his diligence. Pursuant to Imperial Fiscal Provision Nine, supplemental release is declined at this time. The Office remains confident in the maintainer's celebrated resourcefulness.  
+> 
+> - C. Maren, Ambassador to Sallowreach -- Transcription by Living Spell #7 ("Bigsby")
+> 
+>
 
 ---
 

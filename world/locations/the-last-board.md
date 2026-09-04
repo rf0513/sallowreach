@@ -11,7 +11,7 @@ aliases:
 **Region:** [[Sallowreach]] — the Thornside outer arc, where the boardwalk ends at open water; a short walk from the [[The Drowning Edge|drowning edge]] and the salt line
 **Controlled By:** **Maud Perrin** — nominally; in practice the room governs itself and Maud governs the room
 
-*The [[The Outer Market]] is where Sallowreach does its days. The Last Board is where the edge does its nights — and right now the edge's nights are where [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]] is being talked into existence, one round at a time. Whoever holds this room holds the walkout. Nobody has noticed that the person who holds this room wants the walkout to stop.*
+*The [[The Outer Market]] is where Sallowreach does its days. The Last Board is where the edge does its nights — and the edge's nights are where you can hear what [[world-in-motion#Front 4|Front 4]] actually sounds like: not a movement, just tired people who've stopped expecting the city to show up for them. Nobody in the inner districts has ever set foot in here.*
 
 ---
 
@@ -30,8 +30,8 @@ And above the bar, on two iron hooks polished by two hundred years of careful ha
 The Last Board has a geography, and the whole quarter can read it:
 
 - **The Singing Table** — the long communal table nearest the bar, under the drum. Maud's table. Sitting here means you'll be at the feast tables come Celebration; plates arrive unasked and are chalked to tabs that will never, ever be collected. It used to be the fullest table in the room.
-- **The Porch** — out the water-side doors, where the boards end at a rail and the rail ends at the dark. [[Fen]]'s ground. The night crowd out here skews young, displaced, and done singing. The porch is where *"if the city won't sing for us, why do we sing for it?"* gets said out loud.
-- **The door between them stands open.** That's Maud's doing, and it's not an accident. As long as the porch and the Singing Table can hear each other, this is one room and one quarter. The night that door gets shut, [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]] stops being an argument and starts being a schism.
+- **The Porch** — out the water-side doors, where the boards end at a rail and the rail ends at the dark. [[Fen]]'s ground. The night crowd out here skews young, displaced, and tired of being told to be patient. Nothing is being organized out here — it's just where you sit when you can't stand another conversation about the relocation forms.
+- **The door between them stands open.** That's Maud's doing, and it's not an accident. As long as the porch and the Singing Table can hear each other, this is one room and one quarter. The night that door gets shut, [[world-in-motion#Front 4 — The Fracture|Front 4]] stops being an argument and starts being a schism.
 - **The Slate Wall** — the chalked tabs. Read closely it's a census of the displacement: whole households' debts frozen mid-column the week the water took their row. Maud's quiet subsidy, visible to anyone who does the arithmetic ([[coin-in-sallowreach|every sink is a person]] — and this sink is bleeding her).
 - **The Drowned Shelf** — behind the bar, high, out of reach of casual hands: cups. Each one belonged to a regular the water took. Their tabs stay on the slate, unwiped. On a death-day, Maud fills the cup and carries it to the porch rail, and the room stands, and she pours it over into the black water. Nobody drinks to the drowned at the Last Board. You drink *with* them. **Anselme Thouvenel's cup is third from the left.** *(GM — the gut-punch inverted as of S4: he used to attend his own pours, thirty yards out — and he **crossed** ([[session-04-recap]]). At his next death-day pour, the water off the porch rail is empty for the first time, and only [[isotta|Isotta]] can see that it's empty — and knows it's the good ending. Whether she tells the room is hers to decide. Pair with the Fen card in [[fen]].)*
 
@@ -50,7 +50,9 @@ Somewhere north of eighty and built like the bar she stands behind — low, broa
 
 **What she wants:** Thornside back at the feast tables before the next Celebration — *without her people having to crawl.* Specifically, and she has already sent word through channels she trusts: she wants [[Adaline Roux|Adaline]] — not a letter, not an Accord steward with a counting-book, *Adaline* — to walk to the end of the boards, sit at the Singing Table, and eat. *"The wall took their houses and the city sent them a form. You don't mend that with paper. You mend it at a table. Mine's long enough."* It is a completely achievable ask that no one in the inner districts has thought to grant — which makes it a lever sitting in plain view for any party that talks to both women. *(Front 4, "Bridge it": this is the bridge.)*
 
-**What she's hiding:** **her own name is on the absence list.** Last Celebration — the one where the first Thornside benches went empty — Maud Perrin didn't go. First time in her life. She tells anyone who asks it was her knees, and it *was* her knees — and she has watched, sick, as her absence did more recruiting than Fen's whole campaign. *If Maud Perrin stays home, why can't we?* The Accord steward wrote her name down with all the others, no exceptions for drum-keepers. She knows the walkout she's trying to quietly starve is wearing her face. It is eating her alive, and she will admit it to exactly nobody — which means an observant PC who works it out holds something very tender and very dangerous to the front.
+**What she's hiding:** **she missed the last Celebration.** First time in her life — seventy-odd years, never once. She tells anyone who asks that it was her knees, and it *was* her knees, and that's exactly the problem: the drum-keeper of Thornside has just been retired from the only thing that ever made her important, by her own legs, without being consulted. She has not told her family. She has not told Fen. She got as far as the end of the boards, stood there listening to sixty thousand people sing without her, and went back inside.
+
+*(⚰️ **Recut 2026-07-25** — this used to be "her name is on the Accord's absence list and her absence is recruiting for the walkout." No walkout, no list. What's left is smaller and better: an old woman who can't do the thing anymore. **A PC who works it out is holding something very tender** — and the kindest possible use of it is getting her to the next one, in a chair, at the front.)*
 
 **On Fen** *(the relationship the room is built around)*: Maud thinks Fen is the best drummer Thornside has produced in three generations, *including the ones the Accord appointed,* and has never told her, because praise is a sauce you don't add while the pot's still fighting the fire. Fen thinks Maud is old guard. They are both wrong about each other in exactly the way that matters, and the open door between the Singing Table and the porch is the shape of Maud waiting.
 
@@ -60,7 +62,7 @@ Somewhere north of eighty and built like the bar she stands behind — low, broa
 - *"It's a recipe. I've said it seventy years and I'll say it seventy more. 'Keep it in the heart of the home, don't let it pass out.' That's not poetry, cher, that's* instructions. *Poetry doesn't tell you twice."*
 - *(quietly, the one crack)* *"I missed one. One, in eighty years."* [wipes the bar that is already clean] *"Knees. …Knees."*
 
-**Kin:** **Perrin** — the young southwest guard [[Sable Crue|Sable]] won't give up on ([[tenson-arc|Tenson's]] "Sweat First") — is her grandson. Off-shift he drinks his gran's small-ale at the Singing Table and gets fussed over in front of everyone. *(The wiring this buys: when Tenson patches Perrin up, the Last Board hears about it by supper — the room applauding "the auditor who fixed my knee" ([[twist-the-knife]] §Tenson) is best staged HERE, in Fen's room, in front of the walkout. An imperial-adjacent outsider earning Thornside's table is worth three fronts of goodwill.)*
+**Kin:** **Perrin** — the young southwest guard [[Sable Crue|Sable]] won't give up on ([[tenson-arc|Tenson's]] "Sweat First") — is her grandson. Off-shift he drinks his gran's small-ale at the Singing Table and gets fussed over in front of everyone. *(The wiring this buys: when Tenson patches Perrin up, the Last Board hears about it by supper — the room applauding "the auditor who fixed my knee" ([[twist-the-knife]] §Tenson) is best staged HERE, in front of the people least inclined to applaud an imperial-adjacent outsider. Earning Thornside's table is worth three fronts of goodwill.)*
 
 ---
 
@@ -70,14 +72,14 @@ Somewhere north of eighty and built like the bar she stands behind — low, broa
 
 **The last set is not for the room.** When the night winds down she turns her stool to face the rail and plays out — over the black water, to the drowned, the old boardwalk custom. The porch crowd goes quiet and lets her. She plays her grandfather's second movement, her way. *(What's actually out there listening: [[session-04-salt-wall]]. This porch is the single best place in the campaign to stage that reveal — the whole room watching a girl play to the dark, and one PC able to see the dark take its hat off.)*
 
-**The drum above the bar (GM — a door for the endgame, not a bypass):** if the party ever needs Fen *inside* the working ([[fen#The Hands (end-game — if the party ever needs the binding disrupted)|the heist]]), remember what hangs over Maud's bar. Keeper families surrender their drums to Accord-appointed hands each Celebration — but the *handover* is family custom older than the Accord's program, and custom says the keeper, or the keeper's **named hand**, carries the drum to the platform. Maud naming Fen her carrier doesn't get Fen a slot — the Accord's ban stands — but it gets a banned drummer onto the stage, holding a Celebration drum, in front of sixty thousand people, *legitimately.* The rest is the heist. Maud would be spending two hundred years of family standing on a girl the Accord calls a menace. She'd want one honest conversation first. Make it a scene.
+**The drum above the bar.** ⚰️ *(The "named hand" endgame door is **cut 2026-07-25** — it existed only to sneak Fen onto the Celebration platform for a chant-alteration heist that no longer exists.)* What's left is better and smaller: **it's Anselme's drum**, it hangs over Maud's bar, and Maud has never once offered it to the best drummer in Thornside — who is Anselme's granddaughter, plays two nights a week on the porch beneath it, and has never asked. Both of them know it's up there. Neither will say anything. **If the party gets Maud to take it down and hand it to Fen, that's the scene** — no plot attached, just two proud people and a dead poler's drum.
 
 ---
 
 ## Tonight at the Last Board *(d10 — walk-in seeds; pick beats roll)*
 
 1. An **Accord steward** at a corner table, counting the porch crowd, writing names. The room has noticed. The room is deciding.
-2. **Two sisters arguing the walkout** — one at the Singing Table, one on the porch, conducting the whole fight through the open door without once raising their voices.
+2. **Two sisters arguing about the relocation money** — one at the Singing Table, one on the porch, conducting the whole fight through the open door without once raising their voices.
 3. **Perrin, off-shift,** getting his ears boxed by his gran for a training bruise, to the room's delight. *(If Sweat First is paid: he's standing on a chair dedicating something to Tenson.)*
 4. A **displaced family's first night** in Maud's back room. Everyone is elaborately not mentioning it. Three separate people have quietly paid their tab up the slate.
 5. **Fen, tuning but not playing.** Somebody asks for the traditional second movement. The porch goes very quiet to hear what she does. *(She plays it. Perfectly. Straight. Then looks at the asker: "That's the one you meant?")*
@@ -102,15 +104,15 @@ Somewhere north of eighty and built like the bar she stands behind — low, broa
 
 ## Tensions & Hooks
 
-- **The room is Front 4's engine block.** Every porch set recruits; every Singing Table plate counter-recruits; the open door is the front's live hinge. A party that drinks here regularly gets a *felt* read on the walkout no report could give them — and gets known by the edge, which pays off everywhere from [[session-04-salt-wall|the salt wall]] to [[session-05-first-celebration|the empty benches]].
+- **The room is where Front 4 is *felt* rather than explained.** Nobody in here is organizing anything; they're just eating at the end of the boards because the city stopped being somewhere they're comfortable. A party that drinks here regularly gets known by the edge, which pays off everywhere from [[session-04-salt-wall|the salt wall]] to [[session-05-first-celebration|the cold plates at the feast]].
 - **Maud's ask is a quest sitting in the open:** get [[Adaline Roux|Adaline]] to the end of the boards for one meal. Adaline has reasons to hesitate (optics, the Accord, precedent) and better reasons to go — a party that brokers it moves Front 4 more than any speech, and earns two matriarchs at once.
 - **The party has history on these boards.** The Haunt of Thornside ([[session-03-critter|S3]]) ended with a caught cub, not a shot one — and Thornside noticed *how.* First drink's chalked. Word of what they do travels from this room at boardwalk speed, both directions.
-- **The absence list.** The Accord steward's counting-book names names — including one that would detonate quietly if the porch ever learned it. A PC who spots Maud's name on that list is holding a live charge: hand it to Fen and the walkout gets a martyr-myth; hand it to Maud and you've seen behind the bar; sit on it and it's leverage on the Accord ("you're writing up *drum-keepers* now?").
+- **The empty chair at the end of the bar** is Maud's, and it faces the water, and last Celebration night she sat in it. *(⚰️ The Accord "absence list" is cut with the walkout, 2026-07-25. The tender thing is now hers alone — see What She's Hiding.)*
 - **Caspar's cup** *(banked — arm in S4, fire when it lands)*: if the false incident report goes through ([[session-03-caspar-encounter|Object on Loan]]), the town's rumor kills Caspar off — and one evening his cup goes up on the Drowned Shelf, and the room drinks with him, and the party stands through a wake for a man they smuggled out alive. Play every minute of it.
 
 ## Secrets
 
-- **Maud is on the absence list** (above) — the front's most dangerous small fact.
+- **Maud missed the last Celebration** (above) — the room's most tender small fact, and nobody knows.
 - **The slate wall is a subsidy.** Maud is quietly feeding the displaced row-by-row and is closer to the bottom of her own strongbox than anyone knows. The Last Board itself is becoming one of [[coin-in-sallowreach|the coin doctrine's]] people-shaped sinks — a Bag-scale rescue nobody has asked for out loud.
 - **The recipe is instructions.** Maud's eel-preserving reading of Movement III is the nearest miss in two hundred years ([[old-words-handout]] — "Maud is the closest of all of them"). If the party ever works the old words like cryptographers, the funny old landlady's stubborn conviction is a *confirming datum* — the moment a player realizes the eel recipe was right all along is one of the campaign's best available gasps. Let them find it; never say it.
 
@@ -120,4 +122,4 @@ Single long stilt-house room at a boardwalk terminus over open black water: bar 
 
 ---
 
-*Related: [[Fen]] · [[world-in-motion#Front 4 — The Fracture & the Empty Verses|Front 4]] · [[session-04-salt-wall]] (what listens past the rail) · [[old-words-handout]] (Maud's recipe, canonized) · [[sable-crue]] / [[tenson-arc]] (Perrin) · [[Adaline Roux]] (the ask) · [[session-05-first-celebration]] (the benches this room empties or fills) · [[improv-ammo]] (names, rumors, food) · [[coin-in-sallowreach]] (the slate wall as sink)*
+*Related: [[Fen]] · [[world-in-motion#Front 4 — The Fracture|Front 4]] · [[session-04-salt-wall]] (what listens past the rail) · [[old-words-handout]] (Maud's recipe, canonized) · [[sable-crue]] / [[tenson-arc]] (Perrin) · [[Adaline Roux]] (the ask) · [[session-05-first-celebration]] (the benches this room empties or fills) · [[improv-ammo]] (names, rumors, food) · [[coin-in-sallowreach]] (the slate wall as sink)*

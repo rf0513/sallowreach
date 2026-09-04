@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Still Cup
+---
+
 # The Still Cup
 
 **Type:** Cat café / professional gathering space

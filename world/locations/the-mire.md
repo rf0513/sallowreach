@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Mire
+---
+
 # The Mire
 
 **Type:** Wilderness / Magical Swamp

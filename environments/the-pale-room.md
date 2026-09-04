@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Pale Room
+---
+
 # The Pale Room
 
 **Tier 1 Social**

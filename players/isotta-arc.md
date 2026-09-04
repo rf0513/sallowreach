@@ -42,7 +42,7 @@ This fixes the old plan's core flaw. She's not investigating the campaign's lore
 - **Death has no file on her.** Reflavor her *Avoid Death* move: it isn't luck — death literally cannot find her paperwork. Funny, right up until she deduces *why*. `[VERIFY — death moves per SRD]`
 
 ### The Slipping Clock
-A 6-segment countdown. The GM may tick it with a Fear on rolls made in darkness or thin-veil places, or when she over-reaches with ghost-side gifts. At full, she begins to come apart — half-crossing, outline guttering — until grounded. What a full clock ultimately threatens is not death — she can't — it's **dissolution**: fraying toward erasure, no crossing, nothing left to collect. (After the introduction, a filled clock also draws one loop of the grace cord tight — see [[the-tallykeeper#The Grace Period]].) **The grounding technique** (Vael teaches it; the salt-wall quest banks it) clears segments: a named anchor, spoken aloud — her own name, a held hand, lantern-light. `[VERIFY — countdown mechanics vs SRD]`
+A 6-segment countdown. The GM may tick it with a Fear on rolls made in darkness or thin-veil places, or when she over-reaches with ghost-side gifts. At full, she begins to come apart — half-crossing, outline guttering — until grounded. What a full clock ultimately threatens is not death — she can't — it's **dissolution**: fraying toward erasure, no crossing, nothing left to collect. ⭐ **This is now the arc's ONLY dial** *(2026-08-31 — the grace cord is retired; it was a second six-counter wired to this one).* Draw it on scrap where the player can see it. **The grounding technique** (Vael teaches it; the salt-wall quest banks it) clears segments: a named anchor, spoken aloud — her own name, a held hand, lantern-light. `[VERIFY — countdown mechanics vs SRD]`
 
 ## The Tallykeeper
 
@@ -58,9 +58,67 @@ The heron has its own sheet now: **[[the-tallykeeper]]** — six titles (the cou
 1. **Eerie (Act 1–2):** herons, everywhere, patient. The dead she helps whisper about "the Tallykeeper" with reverence, not fear — which reads as fear anyway. Her casebook fills with anomalies that don't fit the Order's taxonomy. Hold the line from her sheet: *she perceives, she does not understand.* No NPC hands her the answer — [[Vael Miroux]] can confirm evidence ("that is not haunting-sign") but genuinely doesn't know what it is; this is past even him.
 2. **The Introduction (the flip):** the deduction lands — likely at a docket case where a death is collected *properly* in front of her and she finally sees the transaction she never completed. Then the Tallykeeper introduces itself — in a later session on its own schedule, **or early, any night she directly and insistently addresses it (it will not refuse a direct question twice)** — and the horror inverts into something cleaner and worse: it was never hunting her. It has come to **collect, while there is still enough of her to take** — and the only thing on the table is **time**. The parley is not "live or die"; it is negotiating the grace period ([[the-tallykeeper#The Grace Period]]), with her closed cases as collateral.
 
+## ⭐ The Standing Count — the back-half engine *(built 2026-07-25)*
+
+**In plain words:** Isotta starts keeping a tally of every uncrossed dead person she sees in Sallowreach. It's the job her training is actually for, nobody else in the world can do it, and the number is the clue. What she eventually finds is that the town's dead all clear out on Celebration night — except a handful of very old ones who stand at the front and sing along, and have been doing it for two hundred years, and cannot be spoken to or helped or crossed. She never gets told what they are. She works it out from a tally sheet and a map.
+
+**Why this replaces case-of-the-week.** The [[lantern-docket]] was built as an Act-1/2 engine: five self-contained cases, each teaching her one rule about how dying works. With ~10 sessions left there is no room for five tutorials before the thing they teach toward. **One running investigation, in the background of every session, costing five minutes a night.** The docket survives underneath it (compressed — see below) as the source of names.
+
+### The kickoff — S6, at the Still Cup, ten minutes
+
+[[vael-miroux|Vael]] owes her the salt-wall verdict from S4 anyway (*"it threw you because you're not finished"*). He pays it, and then asks the question that starts everything:
+
+> "How many do you see? In a week. Give me a number."
+
+She gives one. **It is far too high**, and he's the only person alive who'd know — forty years of hunting, and he can tell her what a normal town's load of lingering dead looks like. He can't see them himself (the white eye reads *spirits*, not the town's uncrossed human dead — [[cosmology]] principle 4), so the eyes are hers and the professional judgment is his. That's the whole teacher/student shape.
+
+He gives her the protocol — *walk it, write it, same route, same hour* — and **Old Basile becomes her training exercise**, not a standalone quest: telling a spirit passing as human from an uncrossed ghost is exactly the skill a census needs.
+
+**The prop:** a blank tally sheet, in the player's hand, from that night. Names and marks go on it every session. Same principle as the Slipping Clock — **a number she watches grow beats a number you tell her about.**
+
+### What falls out of her own pages
+
+Two patterns. Both are **hers to find and say out loud** — no roll, no NPC, no reveal.
+
+1. **The dead cluster toward the middle of town** — thickest near the [[the-hall-of-the-mire|Hall of the Mire]].
+2. **Her heron's sightings form a ring around that same middle, with a hole punched in it.** Two hundred years and it has never once flown over the heart of the city *(Secret #9, below — this is what it was for)*.
+
+A crowd of dead standing in a spot her ferryman will not enter. **She derives the location of the drowned tree by doing bird arithmetic** — and she is the one PC the water can't kill, so she's the only one who can go and look. She learns there is a *there*. She learns nothing about what's in it; [[set-piece-the-honored-guest]] stage 1 is presence only and the spear still gates everything past it.
+
+### The eleven *(GM only — see [[session-05-first-celebration]] Beat 5.5b for the scene)*
+
+The oldest uncrossed dead in Sallowreach are the people who made the binding. **They are spent, not sorry.**
+
+- **They have faded past language.** Two centuries wears everything off a ghost except what repetition drove deepest — and what these particular dead have done every single week for two hundred years is the chant. **It is their entire remaining vocabulary.** They cannot explain, confess, warn, or answer. They can only mouth the old words. *(The horrible rhyme, free: the jailers and the prisoner have the same vocabulary — the Tree Spirit also speaks only in Celebration lines, [[set-piece-the-honored-guest]].)*
+- **No remorse.** There is no personality left to feel anything with. They didn't stay out of guilt; the arithmetic never closed and they wore out standing in it. *(Iron Rule 8's payload holds: nobody, living or dead, finds the question troubling.)*
+- **Their account cannot balance.** They owe a debt to something they can't reach and can't undo — you tricked a guest into a yes it can't take back, and there is no restitution available to a dead person.
+
+**So Isotta cannot cross a single one of them. Ever.** Not partly, not as a reward for clever play. This is the first case in her docket she *cannot close* — her whole toolkit failing at scale, permanently, in front of her. That's the pressure the arc has been missing and it costs zero extra scenes.
+
+**The endgame payoff, menu-safe:** whatever lever the table pulls, **if the binding falls, the oldest dead finally cross.** Not a script — an epilogue beat available under every option in [[resolution-options]]. The [[the-tallykeeper|Tallykeeper]] gets two hundred years of knots to tie in one night, and only Isotta sees it. *(Bank it into [[epilogue-seeds]] when the ending shape is known.)*
+
+### The ladder *(≈10 sessions; slot around whatever else is running)*
+
+| When | What fires | Prep |
+|---|---|---|
+| **S6** | **Kickoff.** Vael pays the wall-verdict, asks for a number, gives her the protocol. Basile = training. She leaves with a blank tally sheet. | Zero — the Still Cup is already a door in [[session-06-run-sheet]] slot 1c |
+| **The Celebration** | **The eleven.** The streets empty of dead (her daylight Find), then the handful who stayed, singing at the front. | [[session-05-first-celebration]] Beat 5.5b — written |
+| **+1** | **The polite turn**, if held: alone, at night, when she goes back on purpose. | Beat 5.5b, the fork |
+| **S6–S7** | ✅ **The heron introduction** — knock played S6; **terms agreed S7 at Basile's crossing** ([[set-piece-she-lets-me-win]] Beat 4). No cord. Slots cleanly once the count is a real asset, because closed cases are the currency. | [[set-piece-convince-me-to-wait]] — built |
+| **+1–2** | **The map.** She reviews her own pages; both patterns land as her deduction. Then she asks the heron a direct question and it won't refuse twice. | A one-page handout of her own notes for the player to arrange |
+| **+1** | **The dive** under the Hall's first pilings. She's the only one who can. | [[set-piece-the-honored-guest]] stage 1 — built |
+| **Endgame** | Her four doors, plus the fifth: **Lazare's taper** (below). | Written; just re-homed |
+
+### 🚫 Guardrails
+
+- **No plain sentences from the eleven. Ever.** Chant fragments only.
+- **Never call them founders** in narration or by implication. Eleven very old dead people who know the words. What they are is a much later deduction.
+- **Nobody can corroborate her.** Vael can't see them. No NPC channel exists for any of this and none will be built. **She is the only witness in the world** — don't soften it.
+- **What she brings back to the table is an object**, not a briefing: the tally, the map, the marks. **The table does the deduction.** She is an investigator, not a conduit ([[cosmology]] reveal rules; the mechanism stays locked).
+
 ## The Lantern Docket — the sidequest engine
 
-> **The casebook is built (2026-07-19): [[lantern-docket]]** — Cases 2–5 table-ready (the Best Night · Eleven of Twelve ⭐ where the banked jewel + threshold line fire · Year One · the Rounds), the Deathbed staged, and the stage-two tripwire (the heron-convergence pattern in her own margins). The sketches below are the seed list; run cases from the casebook.
+> **The casebook is built (2026-07-19): [[lantern-docket]]** — and **compressed 2026-07-25** now that §The Standing Count is the spine. The docket is no longer the engine; it's where the count gets *names*. **Run one case, not five:** **Case 4 (Year One)** is the keeper — *"you don't finish the journey, you finish the leaving"* is aimed straight at four tethered people who were all going somewhere. The **jewel** (first witnessed collection + the threshold line) is unhooked from the unplayed Cold Cache and fires on whatever case closes next. **Case 5 (the Rounds) moved to the endgame menu** — it was never a Tuesday. Cases 2 and 3 survive as texture. The sketches below are the seed list.
 
 Because she's a lit doorway, the dead of Sallowreach queue up. Case-of-the-session mysteries, each one small, each secretly asking her arc question in miniature — *what makes a person whole: the body, the memory, or being known?* — and each one a data point about how crossing is *supposed* to work.
 
@@ -88,7 +146,7 @@ She is watching the exact transaction that never completed for her. Casebook ent
 
 > **Banked (2026-07-15):** the jewel was slated to fire in the field (Gravois, [[set-piece-the-wrong-skin]]) — retired with the **ghosts-stay-in-town** ruling ([[cosmology]]). It fires on her **next closed town case** instead. Related pressure queued for S5: Old Plenty names her *"on another keeper's ledger"* out loud on the boat.
 
-**Closing a case (mechanics):** clear her Slipping clock and grant a Hope `[VERIFY]`; after the introduction, also loosen one loop of the grace cord — settling accounts calms the wound in the order of things around her. So helping the dead is literally how she manages her condition… and every closed case draws the Tallykeeper one roof closer. **She is medicating with the very thing that has come to collect her.**
+**Closing a case (mechanics):** clear her Slipping clock and grant a Hope `[VERIFY]`; ~~after the introduction, also loosen one loop of the grace cord — settling accounts calms the wound in the order of things around her. So helping the dead is literally how she manages her condition… and every closed case draws the Tallykeeper one roof closer. **She is medicating with the very thing that has come to collect her.**
 
 The salt-wall set piece is fully built as [[session-04-salt-wall]] — the lingering ghost there (**Anselme Thouvenel**, the Drowned Poler above) is her first docket case, not a clue dispenser.
 
@@ -96,7 +154,9 @@ The salt-wall set piece is fully built as [[session-04-salt-wall]] — the linge
 
 ## Veilside Sallowreach — the wonder budget
 
-Her second sight opens the campaign's best exclusive real estate: the spirit-side city. Lanterns a color that has no name on the living side. The dead keep their own version of the Celebration — and eventually, **she is invited.** Play the double edge and let her player decide which it is: the loneliest party in two worlds, or the first place she has ever unambiguously belonged. *(Keep [[spirit-world-metaphysics]] restraint: spirits are people, wonder over horror, the binding stays secret.)*
+Her second sight opens the campaign's best exclusive real estate: the spirit-side city. Lanterns a color that has no name on the living side. *(Keep [[cosmology]] restraint: spirits are people, wonder over horror, the binding stays secret.)*
+
+⚰️ **Not a thing** *(2026-07-25)*: the dead do **not** hold their own Celebration, and Isotta is never invited to one. A co-author invented it and it sat here reading like plan. It isn't. Don't regrow it.
 
 ## Endgame — a menu, not a script
 
@@ -105,8 +165,9 @@ Her second sight opens the campaign's best exclusive real estate: the spirit-sid
 The mid-campaign introduction buys **time**, not resolution. The cure is a separate, final scene — and the division of powers keeps it honest: **the Tallykeeper can only *sever* the ritual's tie, and severing is collection.** Only [[the-tidebreaker|The Tidebreaker]] can *unbind* it properly. The moment the tie comes unbound, she is collectible again for one held breath — and the ferryman will be standing there. It always is. Live options in that breath (per the no-hard-coded-endings rule):
 
 - **Step back into life.** Fully mortal. Someday it comes for her again, properly, at the end of a whole life — and that's the point. Whole means finishable.
-- **Out of grace.** If the last loop closed before she got here, the scene inverts: collection is *due*, and the spear becomes leverage for one final renegotiation the player has to actually win. (This is the pressure that makes the grace cord real — don't rescue her from it for free.)
+- **Out of grace.** If her Slipping Clock filled and the grace lapsed before she got here, the scene inverts: collection is *due*, and the spear becomes leverage for one final renegotiation the player has to actually win. (This is the pressure that makes the grace real — don't rescue her from it for free.)
 - **Choose the crossing.** She has the right to decide her account closes now — knot tied, gently, on her own terms. If the campaign has done its work, this is a real option, not a loss.
+- **Take the taper.** ⭐ *(Re-homed 2026-07-25 from [[lantern-docket]] Case 5 — it was always an ending, never a case.)* Lazare Bellaire hands over the Veilside lamp rounds and she keeps them: a nightly duty, hers, forever, and the city itself becomes her anchor network. She doesn't get fixed. She gets a **job on the other side** and chooses it. *(The Tallykeeper's dry note: offices are collateral too.)*
 - **The unwritten one** the player invents when they understand the stakes better than we do.
 
 ## What This Arc Deliberately Doesn't Do
@@ -127,5 +188,5 @@ The mid-campaign introduction buys **time**, not resolution. The cure is a separ
 6. The salt wall doesn't reject the dead; it rejects the *uncrossed*. There's a difference, and she's on the wrong side of it. ◐ *S4: SHOWN (the 200-ft rejection of her ghost form) — not yet said aloud; Vael is the mouth*
 7. A knotted-cord ledger hangs in her dreams; one cord is smooth and unknotted, and she wakes holding her own wrist.
 8. The night she died on the table, every heron within a day's flight of the ritual site took wing at once.
-9. The Tallykeeper has never once, in two hundred years, flown over the heart of the city.
+9. The Tallykeeper has never once, in two hundred years, flown over the heart of the city. ⭐ *This is the engine of §The Standing Count — plotted against her own sightings it's a ring with a hole in it, and the hole has a crowd standing in it.*
 10. An uncollected death doesn't just wound the one who owes it — something on the other side has been carrying the ache too.

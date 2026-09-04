@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Hall of the Mire
+---
+
 # The Hall of the Mire
 
 **Tier 1 Social**

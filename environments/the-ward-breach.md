@@ -1,3 +1,8 @@
+---
+aliases:
+  - The Ward Breach
+---
+
 # The Ward Breach / Mire Incursion
 
 **Tier 2 Event**
@@ -45,4 +50,4 @@ This is a **disaster payoff**, not a monster fight — the climax the fronts in 
 
 Do not let it read as anger. The single most important table move: every time the water does something awful, describe it as *reaching*, not *raging*. It comes through people, finds their grief, and is sorry without knowing how to be. The horror is that it isn't malicious — it is bereaved, and the city built its whole life on top of the reason. Save the **Pull Toward the Heart** for the moment a player commits everything to holding the line; that beat — the water grateful for the touch and then reaching *past* them, inland — is the campaign's thesis in one Fear.
 
-Do **not** script who caused the breach or how it ends. [[Oswin Cray]]'s underfunded ward, the emptying Celebration benches ([[world-in-motion]] Front 4 — attendance is amplitude), [[Caius Maren]]'s denied budget, and the rising grief are all upstream causes; let the table's history decide the mix. The party may shore it, channel it, reach the families, expose the cause, or stand in the water and refuse to move. Whatever they do, the grief underneath is not solved here — only met. [[The Drowning Edge]] covers the survivor-rescue scenes in detail; lean on it for the human face of the **Edge Gives Way** and **Slow Tide** features.
+Do **not** script who caused the breach or how it ends. [[Oswin Cray]]'s underfunded ward, [[Caius Maren]]'s denied budget, and the rising grief are all upstream causes; let the table's history decide the mix. *(⚰️ 2026-07-25: "emptying benches" is no longer one of them — attendance is not a dial, see [[world-in-motion]] Front 4.)* The party may shore it, channel it, reach the families, expose the cause, or stand in the water and refuse to move. Whatever they do, the grief underneath is not solved here — only met. [[The Drowning Edge]] covers the survivor-rescue scenes in detail; lean on it for the human face of the **Edge Gives Way** and **Slow Tide** features.

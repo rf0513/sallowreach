@@ -11,7 +11,7 @@ Isotta's player is the most diligent at the table, and her character is canonica
 
 ## Why it fits — the 200-year lineage
 Three diligent observers chased this mystery and all hit the same wall:
-- **Aldric Vane** spent 11 years proving the Mangrove Spirit is pulled toward something inside the city, and died never identifying it.
+- **Augury Vane** spent 11 years proving the Mangrove Spirit is pulled toward something inside the city, and died never identifying it.
 - **Caspar Renne** has spent 40 years on the same question, stuck, working from summaries.
 - **Delphine** feels the thing in the water and can't name it.
 

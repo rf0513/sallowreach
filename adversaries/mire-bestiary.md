@@ -116,7 +116,7 @@
 
 ## Mire-Wrought Mimic
 
-**Tier 1 Skulk** *(a one-off oddity — the surprise in Reille Preis's hoard; see [[The Field Journal of Aldric Vane]])*
+**Tier 1 Skulk** *(a one-off oddity — the surprise in Reille Preis's hoard; see [[The Field Journal of Augury Vane]]; **re-homed to Caspar's storage room, unfired as of S5**)*
 
 *A chest, wardrobe, or cabinet of dark Mire blackwood, finer than anything around it — and wrong, if you know how to look. The deep-Mire wood drank enough of the [[Tree Spirit]]'s saturating essence to half-wake. It doesn't hate you. It hungers, the way a thing that shouldn't be alive hungers, and it has learned to hold very, very still.*
 

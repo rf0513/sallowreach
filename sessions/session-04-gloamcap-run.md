@@ -181,15 +181,16 @@ Orna's half-said clue, if the table needs a nudge before the lights go out: *"�
 
 ## Clue Ledger
 
-| Secret | Shown | Said aloud | Deliberately held back |
-|---|---|---|---|
-| The hands know old-coven technique | the fold, at Lorne's bench | Lorne names it: hedge-order, the Nine Hedges | that the fold marks the *heir* specifically |
-| Orna chases an all-cure, tested on herself | the failed brew drunk anyway; the crust growing a fingernail's worth, live | Orna, flat: "An all-cure. Yes." / "Only honest lab I've got." | the lost miracle + the racing panic (*"I've—"* is the only crack); who she cured |
-| Orna's body is her notebook | the growths read as results — salamander ridge, moth-fern filament | **the player's line to land** (Delphine says it plainly later, if needed) | how much of the mind is already washed out |
-| The bond is old | Seven ignores the rite, knows the bench | Orna: "that bond is old — that bird knows you" | that Seven was *there* that night |
-| The name (Rue) | the pressed sprig | — *(held; rhyme + plant-name pattern land later)* | everything |
-| The grimoire is theirs | ghost-ink in their own older hand | Orna: "your book is older than your notes" | the Cup recipe; who "F." is |
-| The bird followed them | Fletcher spots the tail | Fletcher says it (Orna fallback) | from how far, and for how long |
+| Secret                                     | Shown                                                                      | Said aloud                                                                | Deliberately held back                                                           |
+| ------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| The hands know old-coven technique         | the fold, at Lorne's bench                                                 | Lorne names it: hedge-order, the Nine Hedges                              | that the fold marks the *heir* specifically                                      |
+| Orna chases an all-cure, tested on herself | the failed brew drunk anyway; the crust growing a fingernail's worth, live | Orna, flat: "An all-cure. Yes." / "Only honest lab I've got."             | the lost miracle + the racing panic (*"I've—"* is the only crack); who she cured |
+| Orna's body is her notebook                | the growths read as results — salamander ridge, moth-fern filament         | **the player's line to land** (Delphine says it plainly later, if needed) | how much of the mind is already washed out                                       |
+| The bond is old                            | Seven ignores the rite, knows the bench                                    | Orna: "that bond is old — that bird knows you"                            | that Seven was *there* that night                                                |
+| The name (Rue)                             | the pressed sprig                                                          | — *(held; rhyme + plant-name pattern land later)*                         | everything                                                                       |
+| The grimoire is theirs                     | ghost-ink in their own older hand                                          | Orna: "your book is older than your notes"                                | the Cup recipe; who "F." is                                                      |
+| The bird followed them                     | Fletcher spots the tail                                                    | Fletcher says it (Orna fallback)                                          | from how far, and for how long                                                   |
+|                                            |                                                                            |                                                                           |                                                                                  |
 
 ## Threads Opened
 

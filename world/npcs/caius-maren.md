@@ -127,6 +127,81 @@ He has two imperial guards. He is not a fighter. But desperate men do desperate 
 
 ---
 
+## ⚙️ The Signature Runner *(the writing spec — obey this when shipping him into a run sheet)*
+
+> **In plain words:** Tenson is an imperial auditor with no imperial seal. Every report he writes needs a signature from the Embassy, and the Embassy is Caius. So the man who arranged their shipwreck now holds a pen over every document Tenson produces — starting with the false report about Caspar's drowning. Caius never refuses anything. He is just slow, warmly, with paperwork. This section exists so the beat ships as a box instead of being re-invented every session.
+
+### The thesis
+
+**He never says no. He is slow.** A refusal gives Tenson something to fight; a delay gives him nothing to hold. Every appearance of this runner must leave the player *more* frustrated and *less* able to name a grievance. If a draft has Caius obstructing, that draft is wrong — rewrite it so he is helping, sincerely, at a pace he sets.
+
+He is not stalling out of suspicion. He genuinely likes Tenson's paperwork; a documented drowning on an unregulated waterway is **exactly** the incident his annexation file wants ([[caius-maren#The Plan|§The Plan]]). Every day he holds it is a day he decides how it gets used. He'd hold it if he adored them.
+
+### Register locks
+
+- **Warm, never smug.** He is glad to see them. He asks after them by name and remembers the answers.
+- **The delay is always someone else's** — a form, a channel, a clerk, the calendar. Never his preference.
+- **He offers something real every time**, small and genuinely useful. A recommendation, a name, a courtesy. The generosity is the trap and it is also sincere.
+- **He never brings up the Celebration first.** If they do, something in him goes quiet and honest for one line, and then he moves on. He finds it moving and has written that in no report. *(Never explain this. One line, then past it.)*
+- **He never mentions the drowning's oddities**, even when he's noticed them. Filing beats confronting.
+
+### The delay ladder *(advance one rung per ask; never skip, never resolve early)*
+
+| Rung | He says the delay is… | Real reason | New date |
+|:--:|---|---|---|
+| 1 | "There's a form on my end." | He is reading it properly. | after the Celebration |
+| 2 | "It's gone up-channel for countersign." | It hasn't. It's in his drawer. | a week |
+| 3 | "The shipment week eats everything." | True, and convenient. | after the quarterly shipment |
+| 4 | *He signs it* — and asks for one small thing in return. | The file is complete; now it's leverage. | — |
+
+**Rung 4 fires when you want Front 6 to move, not on a schedule.** The small thing is never money. It's a witness statement, a signature on something else, or an introduction.
+
+### The box *(copy this shape into any run sheet; swap the rung)*
+
+```markdown
+### 🖊️ Caius — the signature (5 min; recurring until Rung 4)
+**He opens:** [warm greeting, by name] + [he's already reading it, unhurried]
+- **They ask when →** [the rung's delay line + the new date]
+- **They push →** [Presence 14: a date in writing, still too far / on a fail he's KINDER and it's worse]
+- **They get angry →** [he agrees with them, completely, and nothing changes]
+- **They offer him something →** [he takes it gratefully and the date does not move]
+**He leaves on:** [one small genuine courtesy]
+```
+
+Four branches covers it. The GM never improvises him.
+
+### The line bank *(mouth-tested; reuse freely)*
+
+**Opening, any rung:**
+> "Of course. Leave it with me." *[already reading, without hurrying]* "Terrible thing."
+
+**The delay, Rung 1:**
+> "There's a form on my end. There's always a form." *[a small apologetic smile]* "Come back — say the day after the Celebration?"
+
+**The delay, Rung 2:**
+> "It's gone up for countersign. Out of my hands the moment I stamped it." *[this is a lie and it is delivered as a mild complaint about his own office]* "Give it a week."
+
+**They push:**
+> "You're right to push. I'd push." *[he writes a date on a slip and hands it over]* "There. Now it's a promise instead of a hope."
+
+**They get angry:**
+> "You're not wrong." *[he sets the pen down and gives them his whole attention]* "It's a bad system and a man died in it. I'd be short with me too." *[beat]* "Come back Thursday."
+
+**On the Celebration, only if they raise it:**
+> "I've been to three." *[something goes quiet]* "I don't write about them. Wouldn't know how." *[and he's moving again]* "Now — was there anything else?"
+
+**The free recurring beat, anywhere in the city:**
+> *"Did you sign my incident report?"* — Tenson's line, not his. Let the player use it as a running joke until it stops being one.
+
+### Hard guardrails
+
+- **He never refuses.** Not once, at any rung.
+- **He never learns the death was faked** from this runner. If the party confesses, that's a different scene and a much worse day.
+- **[[bigsby|Mr. Bigsby]] is in the room, writing, and Caius does not see him.** Read Bigsby's file before any Embassy scene — that blindness is load-bearing.
+- **Rung 4 is a front move, not a favor.** Log it in [[world-in-motion]] Front 6 the night it fires.
+
+---
+
 ## Dialogue Hooks
 
 **At the dinner, on the shipwreck:**

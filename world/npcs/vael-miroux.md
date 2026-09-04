@@ -42,10 +42,26 @@ Eleven years ago, deep in the Mire, the white eye showed Vael something it has n
 - **The cure for her condition is a parley, not an exorcism.** *"Exorcism kills what you are. What you'd need is to* talk *to whatever's holding you, and get it to let go."* Points, without Vael knowing it, straight at the campaign's center and the spear-path *(route her [[Delphine]] → [[Caspar Renne]] → the deep Mire, same chain as the spear)*.
 - **The hard truth about Isotta herself, once the white eye reads her:** she is *not* a spirit who crossed over. She's a human who was **bound here in a spirit's shape** — *tied,* not *crossed.* *"The ones I see came across on their own. You didn't. Someone* did *this to you, child. That's not a haunting. That's a* curse." This confirms her ghost-state is a curse (and a binding the spear can break), and marks her as an anomaly even to the one person who'd know.
 
-## The Quest — "Old Basile" *(Isotta; in town; the clean showcase of spirits-among-us)*
-Among the Still Cup's regulars is **Basile** — an old man who's played dominoes in the corner for as long as anyone can remember. *Longer,* if you press it: the grandparents of the current regulars remember him looking exactly the same. Everyone's honorary grandfather, gentle, beloved, harmless. He is a **small spirit** who crossed the veil generations ago, fell helplessly in love with the warmth of an ordinary human life — the coffee, the gossip, the slow afternoons — and simply *stayed,* anchored by that love. Vael has known for years and never said a word, because Basile does no harm and that is the whole of Vael's creed.
+## ⭐ The Count *(2026-07-25 — the ten minutes that start Isotta's back-half arc)*
 
-**The hook:** Basile is **slipping.** The straining veil is dragging at him; his anchor is failing. The tells are small and eerie and clean — he casts no reflection in the cup's polished urn some mornings; his shadow falls the wrong way; he forgets which decade it is, calls a regular by their dead grandmother's name, sets out a domino that isn't there. **Isotta notices first** — her ghost-sight and *Connects with Spirits* read him as *kin,* as something standing where she stands, between. She brings it to Vael, and Vael — deciding she's ready, and kin — opens the door: confirms what Basile is, and asks her to help, because *she's* the one built to.
+Vael's other job for her, and it's one question over a cup:
+
+> "How many do you see? In a week. Give me a number."
+
+Her number is far too high, and Vael is the only person alive qualified to say so — forty years of hunting is the whole credential. Delivered flat, no drama: *"That's not a town, girl. That's a backlog. Somebody ought to count them properly. Same route, same hour, write it down."*
+
+**The critical limitation, stated out loud at the table:** the white eye reads **spirits**, not the town's uncrossed human dead ([[cosmology]] principle 4). **Vael cannot see ghosts.** He supplies the protocol and the professional judgment; the eyes are hers alone. That's the teacher/student shape for the rest of the campaign — and it means **nothing she finds can ever be corroborated by anyone.** Don't soften that; it's the isolation the arc runs on.
+
+**Basile becomes the training exercise**, not a side errand: telling a spirit passing as human from an uncrossed ghost is exactly the skill the count needs. Frame the quest below that way.
+
+*Engine + the ladder: [[isotta-arc]] §The Standing Count. Where it pays off: [[session-05-first-celebration]] Beat 5.5b — and Vael will never be able to confirm a word of it.*
+
+## The Quest — "Old Basile" *(Isotta; in town; the clean showcase of spirits-among-us)*
+
+> ⭐ **Table-ready staging now exists:** [[set-piece-she-lets-me-win]] (2026-08-25) — the two-house detective case, the sister's name, and the crossing, as played from S6's mid-scene carry. The resolution options below are canon; that file is how it ran.
+Among the Still Cup's regulars is **Basile** — an old man who's played dominoes in the corner for as long as anyone can remember. *Longer,* if you press it: the grandparents of the current regulars remember him looking exactly the same. Everyone's honorary grandfather, gentle, beloved, harmless. He is a **small spirit** who crossed the veil generations ago, fell helplessly in love with the warmth of an ordinary human life — the coffee, the gossip, the slow afternoons — and simply *stayed,* anchored by that love. Vael has known for years and never said a word, because Basile does no harm and that is the whole of Vael's creed
+
+**The hook:** Basile is **slipping.** The straining veil is dragging at him; his anchor is failing. The tells are small and eerie and clean — he casts no reflection in the cup's polished urn some mornings; his shadow falls the wrong way; he forgets which decade it is, calls a regular by their dead grandmother's name, sets out a domino that isn't there. **Isotta notices first** — her ghost-sight and *Connects with Spirits* read him as *kin,* as something standing where she stands, between. She brings it to Vael, and Vael — deciding she's ready, and kin — opens the door: confirms what Basile is, and asks her to help, because *she's* the one built to
 
 **What it teaches Isotta (the point):**
 - **The cosmology, made flesh.** A spirit has been sitting in her favorite chair the whole time. Spirits-among-us stop being theory.

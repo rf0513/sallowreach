@@ -50,7 +50,7 @@ The party has finally won the magic spear. It cured two of them of their persona
 - **If Caspar is in town:** run his two scripted beats from [[the-tidebreaker]] — thirty seconds holding the spear, then the folio pressed on them: *"If it can speak to you — ask it to read my fairytales back to me."* He won't wave the boat off. He'll already be walking away.
 - **If Caspar is gone** *(the S4 fork)*: the dare lives in his letter's postscript ([[caspar-letter-handout]]). Have someone re-read it on the dock — a player will, if the letter's in their pack; Remy asks about it if not.
 - **The guides, in descending order** *(say this plainly when they plan the trip)*: **Remy** takes them to the edge of the known water and no farther — not fear, manners: *"Past the last stake, I'd just be one more lost thing you have to carry."* **[[odile-verret|Odile]]**, if they've earned her, will pole as far as the threshold — the deep water keeps her, and it lets her closer than anyone living. **Past the threshold, the spear is the only guide there is.** Each hand-off is a beat; let them feel the water getting emptier of help.
-- **Isotta, one image, free** *(GM dial — skip if the grace cord isn't live)*: the heron rides the bow-post out of the harbor as always. At the last known water it lifts off and does not follow. It watches them go. Say nothing. *(The [[the-tallykeeper|Tallykeeper]]'s ledger is town business; whatever they're sailing toward is not on it.)*
+- **Isotta, one image, free** *(GM dial — skip if the grace arrangement isn't live; ⚰️ the cord is retired, 2026-08-31)*: the heron rides the bow-post out of the harbor as always. At the last known water it lifts off and does not follow. It watches them go. Say nothing. *(The [[the-tallykeeper|Tallykeeper]]'s ledger is town business; whatever they're sailing toward is not on it.)*
 
 ### 1 · The Wending Out *(run [[the-wending]] — Diff 11 with Remy)*
 
@@ -145,7 +145,7 @@ The table felt the love story once, directly, and nobody at it said "monster" af
 - **The compass turns inward** → the Hall of the Mire; the levers open ([[resolution-options]] + the clue map's Hidden Layer).
 - **Front 1 dial:** the spirit has been *answered* for the first time in two hundred years — decide whether the reaching stills a little, or leans harder toward the city now that it knows the door can open. Log it in [[world-in-motion]].
 - **Caspar's dare, repaid** — if the Reading fired, someone owes a dead-or-departed man the translation of his fairytales. That delivery scene is theirs to invent; get out of its way.
-- **The second Celebration they attend after this trip** is unbearable in the right way. Check the clue map's L1 gate — if THE CLICK hasn't fired yet, it will land on a table that already knows. Let it.
+- **Any Celebration they stand in after this trip** is unbearable in the right way — they now know what the singing is doing, and everyone around them is happy. *(⚰️ 2026-07-25: this used to point at "the second Celebration" and the L1 gate. The click fires at the one Celebration, before this trip — so by the time they're here, they already know.)*
 
 ---
 

@@ -4,7 +4,7 @@ aliases:
   - Vivienne
 ---
 
-# Madame Vivienne
+# Mademoiselle Vivienne
 
 **Role:** Dressmaker on the tailors' boardwalk; dresses your soul, not your body
 **Location:** [[Sallowreach]] — a cramped, glorious shop on a tailors' boardwalk

@@ -20,7 +20,8 @@
 - [ ] **Strong start:** pick one — mid-action, a tell from a front, or an arc beat landing uninvited. Never "you wake up and…".
 - [ ] **Two spotlights:** whose night is it? Rotate — check the last two recaps for who got the last ones. Pull their `players/<name>-arc.md` and pick the next due beat from its ledger.
 - [ ] **One or two fronts** to show *with a face* (a person, not a status update). Usually the ones the party brushed but didn't resolve.
-- [ ] **Set pieces on deck:** which `set-piece-*` files could plausibly fire? List them; don't re-read them yet.
+- [ ] ⏰ **Scan the trigger board — [[GM-HOME]] §Fire It When.** One column of "if this is true, this is due." **Do not skip this step and do not do it from memory** — it exists because built material goes stale sitting in a folder nobody opens. If a row is true, that scene is on deck. If none are, nothing is overdue.
+- [ ] **Set pieces on deck:** anything the board flagged, plus whatever the party pointed at. List them; don't re-read them yet.
 - [ ] Check [[the-celebration-clue-map]] critical path — is a mystery beat due, or resting?
 
 ### ⏱ 20–40 · Assemble *(build the run sheet)*

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Remy Duval
+---
+
 # Remy Duval
 
 **Role:** Innkeeper of The Honored Guest; Sallowreach's only Mire guide for civilian clients

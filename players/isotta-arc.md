@@ -105,6 +105,7 @@ The oldest uncrossed dead in Sallowreach are the people who made the binding. **
 | **The Celebration** | **The eleven.** The streets empty of dead (her daylight Find), then the handful who stayed, singing at the front. | [[session-05-first-celebration]] Beat 5.5b — written |
 | **+1** | **The polite turn**, if held: alone, at night, when she goes back on purpose. | Beat 5.5b, the fork |
 | **S6–S7** | ✅ **The heron introduction** — knock played S6; **terms agreed S7 at Basile's crossing** ([[set-piece-she-lets-me-win]] Beat 4). No cord. Slots cleanly once the count is a real asset, because closed cases are the currency. | [[set-piece-convince-me-to-wait]] — built |
+| **S8 (the eve)** | **Pattern one, live.** At the Hall of the Mire the day before the Celebration, she watches the dead start walking out — thickest at the Hall, all heading away from it. Free, no roll; the roll only buys the exact count. Pattern two (the heron's ring) stays on her pages. | [[set-piece-they-give-us-the-night]] Beat 1 |
 | **+1–2** | **The map.** She reviews her own pages; both patterns land as her deduction. Then she asks the heron a direct question and it won't refuse twice. | A one-page handout of her own notes for the player to arrange |
 | **+1** | **The dive** under the Hall's first pilings. She's the only one who can. | [[set-piece-the-honored-guest]] stage 1 — built |
 | **Endgame** | Her four doors, plus the fifth: **Lazare's taper** (below). | Written; just re-homed |

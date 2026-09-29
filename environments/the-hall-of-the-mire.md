@@ -9,6 +9,8 @@ aliases:
 
 *"The whole room turns when you enter — sixty families' worth of watching — and somewhere behind the City Leader is a locked box none of them have ever asked her to open."*
 
+> ⭐ **Table-ready scene: [[set-piece-they-give-us-the-night]]** *(built 2026-09-28)* — Isotta's visit the day before the Celebration. Canon added there: **the handover book** (every City Leader signs *"Received of—: the keys, the seal, and the box"*; page one's giver is a dash) and the Hall clerk **Florent Guidry**.
+
 [[Adaline Roux]]'s civic seat: the stilted hall at the center of [[Sallowreach]] where the city governs itself, hears petitions, administers the honored-guest tradition, and remembers itself out loud. It is older than anyone in it. The floor is dense Mire-lumber worn pale by two centuries of standing feet; the high windows let in green canal-light; the long benches fill, on a hearing day, with the old families who have held this room since the first boardwalks went down. People come here to be heard, to be weighed, and — though no one would phrase it this way — to be permitted. Run it as warmth with teeth: this is hospitality administered by people who have been administering it longer than the petitioner has been alive.
 
 *(GM SECRET — the floor: the Hall stands on the city's **first pilings**, driven into the deepest pool inside the walls. Straight down, past the last light, is the drowned tree — the [[Tree Spirit]] itself. The spear's second compass points at this building because the key was cut from the wood below this floor. The dive and the meeting: [[set-piece-the-honored-guest]].)*

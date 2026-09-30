@@ -24,6 +24,8 @@ aliases:
 
 The founders built the city *around* this root instead of cutting it. Locals call it "her" and can't tell you why.
 
+> ⭐ **Canon added at the table, S8 (2026-09-29):** she **glows during the Celebration** · her roots **go way down** (GM: that deep root is the prison) · **Prosper's folk tale** — *she was hurt once and lost a piece of herself, and her sweetheart made a weapon from it* (the Tidebreaker's origin, told as a shrine legend nobody takes literally; Caspar told a version earlier). Scene file: [[set-piece-you-give-way]].
+
 **Smaller offering-roots exist all over the city** — anywhere old wood breaks the surface near a boardwalk, the boards are cut back and a clean ring is kept. Families also keep a shelf by the door with a full guest-cup: the "family altar."
 
 ---

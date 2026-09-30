@@ -10,6 +10,8 @@ aliases:
 *"The whole room turns when you enter — sixty families' worth of watching — and somewhere behind the City Leader is a locked box none of them have ever asked her to open."*
 
 > ⭐ **Table-ready scene: [[set-piece-they-give-us-the-night]]** *(built 2026-09-28)* — Isotta's visit the day before the Celebration. Canon added there: **the handover book** (every City Leader signs *"Received of—: the keys, the seal, and the box"*; page one's giver is a dash) and the Hall clerk **Florent Guidry**.
+>
+> ⭐ **S8 (2026-09-29):** the first City Leader on page one is **Reine Sauvage** (first name water-stained). The party asked Adaline about the box — she didn't open it. **GM decision, unrevealed: the box holds the founders' own written copy of the chant (all three movements), with the "hold" line on its first page.**
 
 [[Adaline Roux]]'s civic seat: the stilted hall at the center of [[Sallowreach]] where the city governs itself, hears petitions, administers the honored-guest tradition, and remembers itself out loud. It is older than anyone in it. The floor is dense Mire-lumber worn pale by two centuries of standing feet; the high windows let in green canal-light; the long benches fill, on a hearing day, with the old families who have held this room since the first boardwalks went down. People come here to be heard, to be weighed, and — though no one would phrase it this way — to be permitted. Run it as warmth with teeth: this is hospitality administered by people who have been administering it longer than the petitioner has been alive.
 

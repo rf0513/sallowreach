@@ -11,3 +11,7 @@ sessions/packets/
 
 # generated knowledge graph (rebuild with graphify update .)
 graphify-out/
+
+# Copyrighted base map + the snake map built on it (local only, never push)
+maps/ozarks.jpg
+maps/snake-*.png

@@ -8,9 +8,11 @@
 
 ## Where We Are
 
-⭐ **Session 7 is played: [[session-07-recap]]** (*"Kept"* — 2026-09-01). **S8 is the full Town Downtime Day → Long Rest 2 → Daytime Celebration** ([[session-05-first-celebration]]).
+⭐ **Session 8 is played: [[session-08-recap]]** (*"Packing"* — 2026-09-29). **S8 ended at the Pale Room's rope** — the party walked into Marcel's casino on their own. **S9 opens there** ([[set-piece-monsieur-dray-has-time]]) → Long Rest → **the Celebration.** Banked beats + unfired secrets: [[session-09-stub]].
+- **S8 in three lines:** they went *together* (off-plan) — the founders' book (*the keys, the seal, and the box*; page one from nobody; first leader **Reine Sauvage**), Adaline (the words are "a blessing"; box unopened), the Kept Root (warm, goes down; **Prosper's folk tale — the Tidebreaker was made from a piece the tree lost**; it glows during the Celebration). Tenson video-called Silence.
+- ⚠ **Table state:** the players feel *so close* but can't fit the clues together — pitch a "What We Know" board at S9 prep.
 
-**Sessions 1–7 are played.** Latest full recap: **[[session-07-recap]]** (*"Kept"* — 2026-09-01); prior: [[session-06-recap]] (*"Three Days Out"* — 2026-08-25). Board state also in the headlines below + the [[world-in-motion]] Front Tracker.
+**Sessions 1–8 are played.** Latest full recap: **[[session-08-recap]]** (*"Packing"* — 2026-09-29); prior: [[session-07-recap]] (*"Kept"* — 2026-09-01). Board state also in the headlines below + the [[world-in-motion]] Front Tracker.
 
 The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch ([[the-witch]], Witch/Hedge, Clank shapeshifter), [[isotta|Isotta]] (Bloodhunter/Ghost Slayer, Katari — *is a ghost*), [[tenson|Tenson]] (Guardian/Stalwart, Faun — citadel auditor). Full sheets in `players/`.
 
@@ -167,13 +169,16 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
 - **S8 prep rulings** *(GM, 2026-09-28)*:
   - **Official paper leaves by barge.** Everyday word goes out by sending ([[the-long-room]]), but **official reports travel as paperwork with the quarterly shipment** (the lumber barges). The S7 recap's "mail packet" is this — no separate mail boat exists. The barges leave **the morning after the Celebration.** [[caius-maren|Caius]] wants the dinner incident report (document fourteen) signed and in the pouch; **Caius does not know Tenson wants the fake Caspar drowning countersigned** — Tenson has never asked. The deal, if any, is Tenson's to propose.
   - **Adaline is satisfied with the museum** (the S6 mimic verdict). The formal inventory just confirms it — the trigger-board row is spent.
+  - **Marsh-lichen grows on the Kept Root** (for Leavy's Glow-Eye Elixir) — received for a first, never taken. Staged with clue 12b in [[set-piece-you-give-way]]. Also built S8: [[session-08-table-card]] (the one-page run card) and `maps/snake-spiral-2.png` (Brin's spiral map — Fletcher deduces the Double Knot).
+  - **New minor names (S8):** **Hercule Boudreaux** (fry cook at the Mooring, wants the gar's tail) · **Florent Guidry** (Hall clerk) · **Reine Sauvage** (first City Leader, page one of the founders' book — first name water-stained). All from the improv-ammo bank, grepped clean.
+  - **S8 table rulings (2026-09-29, wrap):** Prosper's Tidebreaker story is a **folk tale** — nobody alive takes it literally (Iron Rule 1 holds) · **the Kept Root glows during the Celebration** · ⭐ **the founders' box holds the founders' written copy of the chant + the "hold" line** (unrevealed; box unopened) · Adaline calls the old words "a blessing." Offered but unconfirmed: Silence's Empire worries (vanishing students / **the Chancery** / being watched).
   - **The dead start leaving the day before the Celebration** — the Tallykeeper's *"by dusk"* (S7) is when the exodus finishes, not when it starts. Staged in [[set-piece-they-give-us-the-night]].
 
 ---
 
 ## What's Next — Session 7
 
-⭐ **S8 IS PREPPED (2026-09-28): [[session-08-run-sheet]]** (*"Packing"* — the town day before the Celebration) + Isotta's set piece [[set-piece-they-give-us-the-night]]. The list below is the pre-S8 backlog.
+⭐ **S8 PLAYED 2026-09-29 → next is S9: start at [[session-09-stub]]** (opens at the Pale Room rope; then the Celebration). The list below is the older backlog — the stub supersedes it where they overlap.
 
 ⏰ **Before prepping anything, scan [[GM-HOME]] §Fire It When** — the trigger board. `/prep-session` checks it for you automatically.
 

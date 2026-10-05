@@ -8,7 +8,7 @@
 
 ## Where We Are
 
-⭐ **Session 8 is played: [[session-08-recap]]** (*"Packing"* — 2026-09-29). **S8 ended at the Pale Room's rope** — the party walked into Marcel's casino on their own. **S9 opens there** ([[set-piece-monsieur-dray-has-time]]) → Long Rest → **the Celebration.** Banked beats + unfired secrets: [[session-09-stub]].
+⭐ **Session 8 is played: [[session-08-recap]]** (*"Packing"* — 2026-09-29). **S8 ended at the Pale Room's rope** — the party walked into Marcel's casino on their own. **S9 opens there — prepped 2026-10-02: [[session-09-run-sheet]]** (*"Men Who Pay"*: the casino + the mother owlbear + Gault's hands). **The Celebration is S10.** Banked beats: [[session-09-stub]].
 - **S8 in three lines:** they went *together* (off-plan) — the founders' book (*the keys, the seal, and the box*; page one from nobody; first leader **Reine Sauvage**), Adaline (the words are "a blessing"; box unopened), the Kept Root (warm, goes down; **Prosper's folk tale — the Tidebreaker was made from a piece the tree lost**; it glows during the Celebration). Tenson video-called Silence.
 - ⚠ **Table state:** the players feel *so close* but can't fit the clues together — pitch a "What We Know" board at S9 prep.
 
@@ -174,11 +174,20 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
   - **S8 table rulings (2026-09-29, wrap):** Prosper's Tidebreaker story is a **folk tale** — nobody alive takes it literally (Iron Rule 1 holds) · **the Kept Root glows during the Celebration** · ⭐ **the founders' box holds the founders' written copy of the chant + the "hold" line** (unrevealed; box unopened) · Adaline calls the old words "a blessing." Offered but unconfirmed: Silence's Empire worries (vanishing students / **the Chancery** / being watched).
   - **The dead start leaving the day before the Celebration** — the Tallykeeper's *"by dusk"* (S7) is when the exodus finishes, not when it starts. Staged in [[set-piece-they-give-us-the-night]].
 
+- **S9 prep rulings** *(GM, 2026-10-02 — built as [[session-09-run-sheet]] + [[session-09-table-card]])*:
+  - **Scope: the casino only, plus two fights.** The Celebration moves to **S10**, its own full night (Risk B needs the fresh hour, not the tired one).
+  - **Oswin cheats.** He borrowed heavily from Marcel, lied about repaying, and three weeks ago started cheating at the Pale Room with **enchanted spectacles**. **Marcel knows; Oswin doesn't know he knows.** Swept: [[oswin-cray]] §The Spectacles (old "he will not cheat" line amended in place) · [[marcel-dray]] · [[set-piece-monsieur-dray-has-time]] (Oswin now reachable — "don't let them reach him" struck).
+  - **Why Marcel can't collect: the Empire, not the Guild.** Something happening to a Guild wizard on an imperial wall brings an investigation, and an executed man can't afford questions. *"Take the coat off him, and he's just a man who owes me money."* What collecting means: *"Whatever collecting takes. I don't decide that in advance."*
+  - **Caspar was never in danger.** He paid, so Marcel kept him nervous and nothing more; Caspar's terror was paranoia. **Marcel doesn't suspect the fake death** but is thorough: he **asks the party what happened**, to learn whether they cheat. The old "Marcel says it first" Closed Account opener is struck. He knows the drowning report was never signed by the Embassy and never raises it (*"Not yet, it doesn't"* only if someone claims otherwise).
+  - **The owlbear in Marcel's quarters is the sibling cub** (canon confirmed). The **mother arrives at the Pale Room mid-negotiation** in S9 — the existing Arena 3, restaged at the top of the stair.
+  - **Gault's hired hands come for Fletcher — as freight, alive.** The unfired S8 arrow opens the ambush; *"The frog. Alive. Half up front."* Gault never seen; nothing points at Whimsy. 🧵 For the wrap: that's a person shipped through **Marcel's** city — his one line.
+  - **Mechanic introduced:** **Oswin's Stack**, a visible six-chip standard countdown (the first standard countdown run at this table).
+
 ---
 
 ## What's Next — Session 7
 
-⭐ **S8 PLAYED 2026-09-29 → next is S9: start at [[session-09-stub]]** (opens at the Pale Room rope; then the Celebration). The list below is the older backlog — the stub supersedes it where they overlap.
+⭐ **S9 PREPPED 2026-10-02 → run [[session-09-table-card]]** (full sheet: [[session-09-run-sheet]], *"Men Who Pay"*) — the Pale Room, the mother owlbear, Gault's hands on the walk home. **The Celebration is S10.** *(Was: start at [[session-09-stub]].)* The list below is the older backlog — the stub supersedes it where they overlap.
 
 ⏰ **Before prepping anything, scan [[GM-HOME]] §Fire It When** — the trigger board. `/prep-session` checks it for you automatically.
 

@@ -1,5 +1,7 @@
 # Session 9 — Stub *(banked from S8 — read this first at prep)*
 
+> ✅ **Prepped 2026-10-02 → [[session-09-run-sheet]]** (*Men Who Pay*) · table card: [[session-09-table-card]]. **Scope changed at prep:** the casino only, plus two fights (the mother owlbear, Gault's hired hands). **The Celebration moved to S10** — its own full night. The unfired secrets below are carried or banked in the run sheet.
+
 **In plain words:** last session ended with the party standing at the velvet rope of the Pale Room, the crime boss's casino, being welcomed by his teenage hostess. The festival is still tomorrow. Next session opens right there: the casino floor, then the meeting with Marcel Dray about the spear. Then they sleep, and the Celebration happens. A lot of the prepared town-day material never fired — it's listed below, ready to reuse. Full as-played record: [[session-08-recap]].
 
 ---

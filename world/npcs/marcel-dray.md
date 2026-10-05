@@ -73,9 +73,25 @@ To collect his debt from [[The Wizard]] — which he cannot do as long as the wi
 
 He has been waiting for the right instrument. The tethered party, desperate and motivated and clean of any connection to his operation, are exactly that.
 
+**Why he can't just collect** *(GM decision, 2026-10-02)*: it isn't the Guild he fears, it's the **Empire**. Something happening to a Guild wizard on an imperial wall brings an imperial investigation to Sallowreach, and an executed man can't afford anyone asking questions in his city. Take the coat off and Oswin is nobody. In his words: *"He wears a Guild coat on an imperial wall. Something happens to a man like that, the Empire sends someone to ask why. I'd rather nobody asked anything in this city."* … *"Take the coat off him, and he's just a man who owes me money."*
+
+**He's done with Oswin.** Oswin borrowed heavily, lied about paying it back, and **three weeks before S9 started cheating at the Pale Room** ([[oswin-cray#The Spectacles (canon 2026-10-02 — the Pale Room cheat)|the spectacles]]). Marcel knows. Oswin doesn't know he knows. Asked why now: *"He owes me a great deal, and he's lied to me about paying it. And three weeks ago he started cheating at my tables. In my house. Where the games are fair."*
+
 ## What He's Hiding
 
 That once guild protection is revoked, the wizard's debt becomes immediately collectable. By any means. Marcel will confirm this plainly if asked directly. He considers it the party's responsibility to ask the right questions. He does not volunteer it.
+
+**If asked what collecting means** *(locked 2026-10-02)*: *"Whatever collecting takes. I don't decide that in advance."* True, plain, and the coldest answer he has. Never sharpen it into a threat or soften it into a promise.
+
+## Caspar, As Marcel Sees Him *(GM decision, 2026-10-02)*
+
+**Caspar was never in danger.** Caspar tried to cut him out of the Tidebreaker deal once; Marcel took the spear and the tribute and kept him **nervous** — pushed him around, taught him a lesson. That was all. Caspar *paid*, every month, and men who pay don't have accidents. Caspar's terror was his own paranoia; he made Marcel sound worse than he is. *(Already canon in [[session-03-caspar-encounter]]: "dead assets pay no tribute.")*
+
+**After the fake death, Marcel suspects nothing** — but he's thorough. The party took Caspar out on their boat and came back without him, so at his table he **asks them, plainly, what happened.** He isn't hunting a fraud. He's checking one thing before he gives them his word: *do these people cheat?* Truth costs nothing and buys the night's one discount; a lie is rolled; a failed lie is met without accusation — *"That's not all of it. That's allowed. It isn't my business until it touches the terms."* Staged: [[session-09-run-sheet]] Beat 3a.
+
+> "Caspar thought I wanted him dead. I wanted him *nervous.* He tried to cut me out once. Nervous was the lesson." … "And he paid. Every month. Men who pay don't have accidents."
+
+**He knows Tenson's drowning report was never signed by the Embassy** — everything reaches him. He never raises it. If someone claims the Embassy has it on file: *"Not yet, it doesn't."*
 
 ## The Operation
 
@@ -117,7 +133,8 @@ Marcel takes no meetings by default — you play, you spend, you leave, and the 
 ## Key Relationships
 
 - [[camille-babineaux|Camille Babineaux]] — front of house; his eyes before his voice; the living proof of the one line, working his floor by her own choice. He has never once mentioned the cage. *"You count things. Count for me."*
-- [[Oswin Cray]] — debtor; currently untouchable behind Guild protection; Marcel's primary irritation
+- [[Oswin Cray]] — debtor; currently untouchable behind Guild protection; Marcel's primary irritation. **Since 2026-10-02 canon: a liar and a cheat at his tables, and Marcel is done with him** — only the coat keeps him standing (§What He Wants)
+- [[caspar-renne|Caspar Renne]] — a tributary who paid and was kept nervous, never in danger (§Caspar, As Marcel Sees Him)
 - [[Sallowreach]] — his city, in a sense no one would say to his face. His *money* touches it; his person does not. He gives to the communal feast tables generously and anonymously — the food arrives, the giver doesn't — but he is never *seen* at the Celebration, never out among the boardwalks. He rules the underneath and leaves the warm surface to itself, which is exactly how the warm surface prefers it.
 
 ## Why Marcel Fits a Warm City
@@ -153,7 +170,7 @@ If the party tries to steal the spear rather than deal for it, Marcel will know 
 | **The Tidebreaker** | **The Deal** — Oswin's removal | His anchor. The spear is a doorstop to him; its price is *their want*, welded to *his goal* |
 | **The Caius evidence** (the shipwreck) | **The right question. Free.** | ⚠ Don't let them overpay — he *wants* this used; they're the clean instrument he's been waiting for (Front 7). Asking costs nothing but the asking |
 | **The second cub** | Not for sale — he's fond of it | But see Branch 3: arithmetic beats fondness |
-| **Caspar's leash** | He won't sell leverage | It dissolves if Caspar "dies" ([[session-03-caspar-encounter]]) — a dead man's debts close |
+| **Caspar's leash** | He won't sell leverage | It dissolves if Caspar "dies" ([[session-03-caspar-encounter]]) — a dead man's debts close. **But he asks the party what happened first** (§Caspar, As Marcel Sees Him) — their answer prices their word for the night |
 | **Oswin's debt** (the [[tenson-arc#The Auditor's Mercy (the Oswin resolution — never yes/no)|Mercy]] blocker) | Negotiable — value for value | Branch 2. The lane exists; *they* must find it |
 
 ### The branches

@@ -119,6 +119,7 @@
 - **Pressure (watch him close):** "The salt doesn't walk itself. That's the whole job. That's — I don't know what you've heard, but that's the whole job." [blink. blink.]
 - **The slip:** "Four years. It was supposed to be one. I've stopped asking when it ends." *(canon)*
 - **The laugh (that doesn't land):** "The locals call me 'the Wizard.' Capital W. I've never once corrected them. It's the only promotion I'm getting."
+- **At the Pale Room, caught** *(2026-10-02 — the spectacles)*: "Everyone in here cheats. They just do it with money." · **Told Marcel knows:** "He'd have said. That's the thing about Marcel — he always says." [beat] "…How long?"
 - **Exit:** "I'd walk you out but I — the southwest stretch needs — there's always a stretch. You understand."
 - **When surprised:** naked hope, instantly smothered: "You're not— are you here to *help?* No. Sorry. Nobody's here for that. What do you need."
 

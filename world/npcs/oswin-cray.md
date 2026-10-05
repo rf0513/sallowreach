@@ -10,6 +10,8 @@ aliases:
 > **First encounter:** [[set-piece-the-maintenance-house]] — the tally, the flinch, the volunteered file, the crate of journals; handouts in [[oswin-papers-handout]]. He is the co-lead of [[tenson-arc|Tenson's arc]].
 >
 > ⚠ **Register re-cut 2026-07-24 — read this before the rest of the file.** Oswin plays **contemptuous, not pitiable**: too clever for the posting, aware of it, and quietly furious for four years. He is **not afraid of [[marcel-dray|Marcel]]** — Guild credentials are a hard wall and Marcel is practical, so their arrangement reads to him as a manageable understanding between businessmen. **The auditor is the threat.** Where this file's older passages write him as frightened of Marcel or pitiably weak, the set piece governs.
+>
+> ⚠ **He cheats now** *(GM decision, 2026-10-02 — S9 prep)*. He's borrowed heavily from Marcel and lied about paying it back, and **three weeks before S9 he started cheating at the Pale Room** with enchanted spectacles. **Marcel knows. Oswin doesn't know Marcel knows.** Marcel is done with him and is only held back by the Guild coat. See **§The Spectacles** below; first staged in [[session-09-run-sheet]].
 
 **Role:** Mages Guild ward maintainer
 **Location:** [[Sallowreach]] — the Maintenance House, ward perimeter (Mire-edge, south side)
@@ -64,6 +66,8 @@ The gambling started in year two. Marcel Dray's establishment was the only place
 
 In any other context, Marcel would have had him hurt, or worse. But Guild credentials are a hard wall, and Marcel is practical. He found the embezzlement instead — maintenance funds redirected through fabricated "research expenses," a paper trail Oswin had told himself was well-hidden. It is not well-hidden. Marcel has it. Oswin knows Marcel has it. The arrangement is unspoken but perfectly understood: Oswin stays, keeps the ward running, says nothing, and Marcel doesn't deliver the evidence to the Guild.
 
+*(2026-10-02: the arrangement is over on Marcel's side and Oswin hasn't noticed. Oswin lied about repaying, then started cheating at Marcel's tables — §The Spectacles. Marcel's only reason for not collecting is the coat: something happening to a Guild wizard on an imperial wall brings the Empire to Sallowreach, and he can't afford that.)*
+
 He is not a bad person, and he is not a weak one either — that's the trap he'd like you to fall into. He is a **proud** person who decided that an institution which pays him in salt and silence had forfeited the right to his integrity, and who has been quietly collecting the difference. He tells himself it's arithmetic. He would like very much to get out. He does not see how.
 
 ---
@@ -81,7 +85,8 @@ What he will *settle for*: a day where nothing gets worse.
 - The embezzlement. Significant guild funds redirected over roughly eighteen months.
 - The scale of the debt to [[Marcel Dray]].
 - The ward has been underfunded. He skimmed the maintenance budget; the ward is not running at full capacity. The Mire's accelerating growth is not entirely the spirits — some of it is him.
-- He still gambles.
+- He still gambles — and at the Pale Room, lately, he cheats (§The Spectacles).
+- He's lied to Marcel about paying the debt back.
 
 He does **not** know about the binding. He does **not** know what the Celebration actually does — he has noticed the ward sits easier the morning after, filed it under "acoustics," and finds the question tedious.
 
@@ -113,7 +118,7 @@ If he loses — if the evidence is taken from him — he goes very quiet. He wil
 
 ## Key Relationships
 
-- [[Marcel Dray]] — holds the debt and the evidence, and Oswin is **not** frightened of him. Credentials are a hard wall; Marcel has never threatened him with anything but paperwork. He's rationalized it into a manageable understanding between businessmen, and speaks of Marcel almost warmly. *(He is frightened of **auditors**. That's the inversion — a frightened man reads as a victim; a comfortable one reads as complicit.)*
+- [[Marcel Dray]] — holds the debt and the evidence, and Oswin is **not** frightened of him. Credentials are a hard wall; Marcel has never threatened him with anything but paperwork. He's rationalized it into a manageable understanding between businessmen, and speaks of Marcel almost warmly. *(He is frightened of **auditors**. That's the inversion — a frightened man reads as a victim; a comfortable one reads as complicit.)* **He doesn't know Marcel knows about the cheating** — and that Marcel is done with him (2026-10-02).
 - [[Mages Guild]] — simultaneously his protection and his cage; they can't touch him while he's credentialed, but if the embezzlement surfaces, the credentials go first
 - The party — if they are kind to him, he will respond to it. This will be a problem.
 
@@ -131,11 +136,22 @@ The party may find another way. They may not. Either way, Oswin Cray's fate is i
 
 ---
 
+## The Spectacles *(canon 2026-10-02 — the Pale Room cheat)*
+
+- **What:** small round spectacles, smoked dark, enchanted to show him the faces of other players' cards. **He only wears them at the Pale Room.** His cover story is his eyes — he does blink too much in bright light. But the Pale Room is lit low and amber, so **tinted glasses in a dim room** is the tell.
+- **How it shows:** when he tips his head toward a neighbor, the lamp catches the lenses and you can see that man's cards in them, backwards, like a reflection in a shop window.
+- **Who can say it:** Tenson sat across a desk from him in S7 with no glasses on — *"He doesn't wear glasses."* Fallback, [[octave-cormier|Octave]]: *"Wizard got new spectacles. Started winning the same week."*
+- **Why he does it:** contempt. He thinks the Guild coat makes him untouchable, and cheating the one honest house in the city is the same arithmetic as skimming the wall.
+- **Marcel has known for three weeks.** Oswin doesn't know he knows. If caught: *"Everyone in here cheats. They just do it with money."* If told Marcel knows: *"He'd have said. That's the thing about Marcel — he always says."* … *"How long?"*
+- **Where it goes:** the S9 walk-out ([[session-09-run-sheet]] Beat 1) — two men in grey, a gentle hand, out for good. And Marcel's answer to *what happens to him once he's fired*: *"Whatever collecting takes. I don't decide that in advance."*
+
+---
+
 ## The Gambling Invitation
 
 If the party has been kind to him — good conversation, genuine interest, no obvious threat — Oswin will invite them to play cards. He'll frame it lightly: *"The locals play, but it's a different game, I've never quite gotten the hang of it. I have a deck from home if you — no, it's fine if not."* He wants the company more than the game.
 
-He is good at cards. Not supernaturally good — just trained good, the residual skill of someone who was once very up before becoming very down. He will not cheat. He will win more often than he loses, and he'll be quietly delighted about it.
+He is good at cards. Not supernaturally good — just trained good, the residual skill of someone who was once very up before becoming very down. He will not cheat — not here, not with company; he doesn't need to. *(At the Pale Room he does — see §The Spectacles, 2026-10-02.)* He will win more often than he loses, and he'll be quietly delighted about it.
 
 He will not mention Marcel. Not because he's protecting Marcel — because he's protecting himself. He knows that table is where his life went wrong and he is not going to hand a group of strangers the thread that unravels it. If pressed — *"You play at the Pale Room?"* — he will say, pleasantly, that he finds it a bit rich for his tastes these days, and change the subject.
 

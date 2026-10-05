@@ -2,6 +2,8 @@
 
 *The campaign's third social climax, beside [[set-piece-show-me]] (Adaline) and [[set-piece-the-tessak-camp]] (the Weighing). This file is the **scene**; the room's mechanics live in [[the-pale-room]], the man and his decision tree in [[marcel-dray]] — **keep the tree open at the table** — and the girl at the door in [[camille-babineaux]]. Three movements: **the floor** (20–30 min), **the door** (5), **the table** (30–45). Fires any night after the museum truth (S5 slot 0) — the party knows who Marcel is and what he holds.*
 
+> ▶ **Runs in S9 — staged in [[session-09-run-sheet]]** *(prepped 2026-10-02)*. Three changes ruled at that prep, swept in below: **Oswin is reachable** on a six-chip countdown and cheats with enchanted spectacles · **the Closed Account is now a question** (Marcel asks what happened to Caspar; he never suspected) · **the mother owlbear interrupts the table** before the terms close.
+
 ---
 
 ## 🧭 In Plain Words *(the whole scene — no jargon)*
@@ -50,7 +52,7 @@ Read:
 - **The bar: Octave Cormier** *(anyone who drifts to the bar meets him — third stool from the end, a row of untouched free drinks)*. The only man who ever beat Marcel and got paid in full — the lifetime tab hollowed him out, and he's the party's ghost-of-winnings-future: loud, kind, quoting odds on everything, and handing out the negotiation's meta-rule as bar wisdom (*"his word is iron once given; before it's given is the only part of him that moves"*). Full card: [[octave-cormier]]. **Remember: talking to him is broadcasting** — the floor files it all with Camille.
 - **The recognition (the beat this movement exists for).** Leavy heard it from the cub: *"a girl, tied up"* in the same hull the party now sails. Camille is that girl. Play it from the **party's** side — the hostess taking their coats is the face from Whimsy's memory. If they say the boat's name, or describe the bow, watch her: the floor-calm cracks for **one visible second**, her hand going to something small in her apron pocket *(the cage's broken padlock — she keeps it like a saint's medal)*. What she does next is a dial ([[camille-babineaux]]): quietly asks if they've repainted the bow yet — or their drinks are simply never charged again, and no one explains why.
 - **She will never say Marcel's name about the cage.** Her true channel, if asked about the smuggler: *"The cold men opened the cage. One of them gave me his coat because I was shaking. Nobody said anything the whole way home."* Warmth and dread in one breath — that's the register of the whole room.
-- **Oswin dial.** If you want Front 7 standing in one room: the ward wizard is at a far table tonight, into the house deep, laughing slightly too high. Tenson's Sinope tip (S2) fires on sight — *the money's grave is the Pale Room.* Don't let them reach him; see the Fear menu.
+- **Oswin dial.** If you want Front 7 standing in one room: the ward wizard is at a far table tonight, into the house deep, laughing slightly too high. Tenson's Sinope tip (S2) fires on sight — *the money's grave is the Pale Room.* ~~Don't let them reach him; see the Fear menu.~~ **Re-cut 2026-10-02:** let them reach him, on a clock — **Oswin's Stack**, six chips, one off per action roll, and at zero he's walked out. He's **cheating** with enchanted spectacles ([[oswin-cray#The Spectacles (canon 2026-10-02 — the Pale Room cheat)|his file]]), and Tenson can try for his signature on a payback schedule before the chips run out. Staged: [[session-09-run-sheet]] Beats 0–1.
 
 ### The Games *(the floor menu — let them lose a little before the door opens)*
 
@@ -113,14 +115,14 @@ Say it to her alone — a note, a whisper, however your table does private infor
 
 ### The Closed Account *(only if Caspar's death was faked)*
 
-- **The leash dissolves — and Marcel says so first.** Before anyone asks: *"You'll have heard about the curator. A dead man's debts close. His account is settled."* Watch them absorb that their forgery just erased a man's leash — in front of the man who held it.
+- ~~**The leash dissolves — and Marcel says so first.** Before anyone asks: *"You'll have heard about the curator. A dead man's debts close. His account is settled."*~~ **Re-cut 2026-10-02 (GM):** Marcel has no reason to suspect — but he's thorough, so **he asks.** *"Before the spear. The curator. You took Caspar Renne out on your boat, and you came back without him. I'd like to hear it from you."* Truth is free and buys the night's discount; a lie rolls Presence 14 under his eye; a failed lie is met without accusation. Then, always: *"Caspar thought I wanted him dead. I wanted him nervous… Men who pay don't have accidents."* Full branches: [[session-09-run-sheet]] Beat 3a · [[marcel-dray]] §Caspar, As Marcel Sees Him.
 - **He does not accuse.** But remember who he is: the Empire certified *his* death too, thorough and official — **Marcel Dray is the one man in Sallowreach who knows exactly what a certified death is worth.** The file stays open behind his eyes. He asks no questions about it tonight.
 - **The price of the lie is the discount they lose.** Candor is the only currency that buys one here. A party maintaining a fraud at his table plays every hand under the Composure passive, and if their nerve cracks around Caspar's name, the room notices — and the room files everything. Don't punish the plan; *price* it.
 
 ### Fear Menu *(performed — never a blade; one, maybe two, never three)*
 
 - **The envelope.** Mid-negotiation, a host slides a sealed envelope face-down across the felt — a secret the party thought buried, arriving as a courtesy. Marcel doesn't look at it. *"For later. It's not why you're here."* *(The Marker Comes Due, [[the-pale-room]] — spend the Fear.)*
-- **The walk-out.** Two enforcers materialize at Oswin's far table and *courteously* escort him out, mid-laugh, before the party is finished needing him in the room. Nobody hurries. That's what makes it land.
+- **The walk-out.** Two enforcers materialize at Oswin's far table and *courteously* escort him out, mid-laugh, before the party is finished needing him in the room. Nobody hurries. That's what makes it land. *(S9: no Fear — it fires when Oswin's Stack hits zero.)*
 - **The refill.** A PC bluffs or withholds — Marcel refills their glass himself, unasked, and says it plainly, without heat: *"You're holding something back. That's allowed. It's not my business until it touches the terms — and if it touches the terms, tell me before we agree, because I will hold you to exactly what we say."* No cat-and-mouse; the dread is that he's being **fair**, and everyone at the table knows it. Mark the Stress and move on.
 - **The stillness.** Something displeases him. He goes very still and very quiet, and the whole floor drops half a register without a signal anyone saw. Hold it three full seconds. Resume.
 

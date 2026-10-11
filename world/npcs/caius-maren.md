@@ -15,6 +15,8 @@ aliases:
 
 *His official mandate: observe, document, report. What he is actually doing is building the case for annexation. None of it has been sanctioned. He is betting the capital ratifies success after the fact.*
 
+> ⛔ **Rule (GM, 2026-10-11): Caius NEVER leaves the Embassy.** Not for the Celebration, not for anything. People come to him (the dinner, the redline meeting, tea). When he needs to reach out, he sends his aide, or a letter, or, very rarely, **a paper simulacrum**: a live copy of himself that looks completely real, speaks for him from his desk, and when he's done **folds itself down into a sheet of paper**. It's ruinously expensive, so he almost never does it. Using one means he's impatient. First use: [[session-10-run-sheet]] Beat 4b. **He watches the Celebration from an Embassy window**, and sings along, wet-eyed. *(Same rule as [[bigsby|Bigsby]], who also never leaves.)*
+>
 > **Set pieces & blind spot:** the report's return runs as [[session-04-redline-meeting]]. His attendant, [[bigsby|Mr. Bigsby]], is the one unsteered record in his house — and Caius has spent two years treating him as furniture. That blindness is load-bearing; see Bigsby's file before running any Embassy scene.
 
 ---
@@ -188,7 +190,7 @@ Four branches covers it. The GM never improvises him.
 > "You're not wrong." *[he sets the pen down and gives them his whole attention]* "It's a bad system and a man died in it. I'd be short with me too." *[beat]* "Come back Thursday."
 
 **On the Celebration, only if they raise it:**
-> "I've been to three." *[something goes quiet]* "I don't write about them. Wouldn't know how." *[and he's moving again]* "Now — was there anything else?"
+> "I've watched three. From up there." *[something goes quiet]* *(Line amended 2026-10-11 — he never leaves the Embassy; was "I've been to three.")* "I don't write about them. Wouldn't know how." *[and he's moving again]* "Now — was there anything else?"
 
 **The free recurring beat, anywhere in the city:**
 > *"Did you sign my incident report?"* — Tenson's line, not his. Let the player use it as a running joke until it stops being one.

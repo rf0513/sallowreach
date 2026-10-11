@@ -7,6 +7,8 @@ aliases:
 
 # Set Piece — The Bad Season *(the night the détente breaks)*
 
+> ⚠ **SWEEP PENDING (2026-10-11): Whimsy is gone.** The mother owlbear came in S9 and **left the city with both cubs** in S10 ([[session-10-run-sheet]] Beat 1). Every part of this file where Gault steals Whimsy — and the [[set-piece-beyond-the-season]] finale hook where the mother tracks her stolen cub southwest — **is dead.** Gault's appetite moved to Fletcher (the freight-tag ambush, S10 Beat 2). Don't run this file until it's re-cut. Logged in [[STATUS]] §S10 prep rulings.
+
 *The campaign's big heroic battle: the Tessak raid on the town's edge, and the robbery it was cover for. **Stats live here and in the rosters; Gault's plan is canon in [[gault]] §The Bad Season.** Timing: ~S7–8, after [[fletcher-arc]]'s Offer is refused. The party wins the battle; Gault wins the night. The finale this arms: **[[set-piece-beyond-the-season]]**.*
 
 ---

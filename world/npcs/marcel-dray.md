@@ -65,6 +65,8 @@ He is lawful evil: greedy, self-serving, and has done genuinely bad things he do
 
 The Empire executed Marcel Dray twelve years ago for crimes they've since classified. The method was official and thorough. He was pronounced dead. He did not stay dead.
 
+**The method was hanging** *(GM, 2026-10-11)*. He kept a piece of the rope: hand-length, grey, one end cut clean, and **bone dry**, like him. He gives a piece as a receipt for a favor owed and wants it back when the favor's done: *"Don't lose it. I've only got as much as the Empire tied around my neck."* It does nothing magic. It's a leash. *"While you carry that, you're on my books. People on my books don't have accidents."* First given to [[tenson|Tenson]] in [[session-10-run-sheet]] Beat 0.
+
 What happened in between is something Marcel doesn't discuss — not from trauma, but because he finds the question uninteresting. He died. He came back. He came to Sallowreach because it's as far from imperial jurisdiction as you can get without leaving the continent, and because legally he's already dead, which makes extradition complicated. He arrived with nothing and built his operation from a single card table in the back of a distillery. He has been here eleven years.
 
 ## What He Wants
@@ -167,9 +169,9 @@ If the party tries to steal the spear rather than deal for it, Marcel will know 
 
 | The party wants | His price | GM note |
 |---|---|---|
-| **The Tidebreaker** | **The Deal** — Oswin's removal | His anchor. The spear is a doorstop to him; its price is *their want*, welded to *his goal* |
+| **The Tidebreaker** | ~~**The Deal** — Oswin's removal~~ ⚠ **Open** *(S10 ruling)* | ⚠ **Re-priced 2026-10-11:** Marcel **didn't know the party wanted the spear** — it never came up in S9. The Oswin job went to buy **the second cub** instead (row below). If they raise the spear: *"One deal a night. I'll have time after the lanterns."* **Its new price is undecided — set it at S11 prep, not at the table.** |
 | **The Caius evidence** (the shipwreck) | **The right question. Free.** | ⚠ Don't let them overpay — he *wants* this used; they're the clean instrument he's been waiting for (Front 7). Asking costs nothing but the asking |
-| **The second cub** | Not for sale — he's fond of it | But see Branch 3: arithmetic beats fondness |
+| **The second cub** | ~~Not for sale — he's fond of it~~ **A favor from Tenson: the Oswin job** *(S10 ruling, 2026-10-11)* | The party asked to buy her with the mother waiting upstairs. Price: take the audit evidence to the Guild so Oswin is fired; paperwork on the barges the morning after the Celebration. **Paid on credit** — the cub goes up the stair on a handshake, and Tenson carries **the rope** as the receipt (§Background). Staged: [[session-10-run-sheet]] Beat 0 |
 | **Caspar's leash** | He won't sell leverage | It dissolves if Caspar "dies" ([[session-03-caspar-encounter]]) — a dead man's debts close. **But he asks the party what happened first** (§Caspar, As Marcel Sees Him) — their answer prices their word for the night |
 | **Oswin's debt** (the [[tenson-arc#The Auditor's Mercy (the Oswin resolution — never yes/no)|Mercy]] blocker) | Negotiable — value for value | Branch 2. The lane exists; *they* must find it |
 

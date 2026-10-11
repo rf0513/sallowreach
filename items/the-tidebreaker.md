@@ -10,7 +10,7 @@ aliases:
 
 **Type:** Artifact (appears mundane)
 **Current Location:** [[Marcel Dray]]'s private quarters, displayed as a curiosity
-**Origin:** Carved by [[The Tree Spirit]] as a gift for [[The Mangrove Spirit]]
+**Origin:** ~~Carved by [[The Tree Spirit]] as a gift for [[The Mangrove Spirit]]~~ **⚠ Re-ruled by the GM, 2026-10-04; sweep pending after S9:** made **by the Mangrove Spirit** from a piece the Tree Spirit (*he*) lost, and **given to him.** It let him wave off any curse, until the founders' trick (*a guest leaves his weapon at the door*) parted them. Everything below that says "never delivered" or "made *for* the Mangrove Spirit" is stale until the sweep. See [[STATUS]] §S9 prep rulings.
 
 *A fishing leister that breaks curses. Named in old accounts, dismissed as fairytale by the one man who owned the proof. The single object the whole curse-path runs toward — and it's sitting in a loan shark's parlor, mistaken for a pretty antique.*
 

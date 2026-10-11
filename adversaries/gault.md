@@ -88,6 +88,8 @@ He is aware of [[Remy Duval]] in the way that two people who operate in the same
 
 He told Brin himself, in front of the party: *"Everyone in this city is one bad season from a number."* So he manufactures the season. He stages the sign of the biggest wreck the Tessak have ever been offered — inside the town's own waterways — and breaks the two-hundred-year détente on purpose, as **cover**. While the town fights man-eaters on the boards, he takes three things: **the brightfin basin** (every remaining ray, the score of his career), **Brin's drawer** (the four castings and the channel map he was refused — the trail-read for 2H-3), and **Whimsy** (a live owlbear cub is the richest freight his pipeline has ever moved). He is never seen. He spends the town's blood and Brin's courage like coin.
 
+> ⚠ **SWEEP PENDING (2026-10-11): he can't take Whimsy anymore.** The mother left the city with both cubs (S10). The Whimsy theft above and the finale hook below are dead until re-cut. His appetite moved to **Fletcher, as freight** ([[session-10-run-sheet]] Beat 2). See [[STATUS]] §S10 prep rulings.
+
 **His one mistake:** he priced everything except what the cub is worth to the thing that loves it. The mother tracks her child southwest — and the party follows *her*, no map needed, to the finale: **[[set-piece-beyond-the-season]]**.
 
 **If confronted with it later, his whole defense, flat:** *"I didn't eat anyone."*

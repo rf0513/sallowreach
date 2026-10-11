@@ -19,7 +19,18 @@
 
 **When:** *after* Beat 5.5 (the chant reaching all four of them) — so this is the second, deeper turn of the same screw, twenty minutes later, in the same evening. Beat 5.5 is *the song touches us.* This is *and I have felt this exact thing before, while drowning.*
 
-**Staging — one PC, then it spreads** *(GM call 2026-07-25)*. Deliver the script below to **one** tethered PC alone: lean over, drop your voice, make the table watch a private thing happen to somebody. Speak slowly — this is the campaign's hinge, spend a full minute. **Then, the moment that player says any of it out loud, the other three feel it too.** One line each, fast, no script needed: *"—yeah. Yeah, I've got it too."* The intimacy of the original delivery survives, nobody watches the campaign's biggest moment happen to someone else, and the reveal travels through **a player's mouth** rather than yours.
+**⭐ Staging — all four, four cards** *(GM ruling 2026-10-11 — supersedes the one-PC staging below)*. Every PC gets the click. The four drowning sensations are split one per player on **index cards, face down**; the players flip and **read them aloud themselves**, in fingerprint order, and the GM only frames:
+
+| Card | PC | On the card |
+|:--:|---|---|
+| 1 | **Fletcher** | *The water in front of me goes still. Not calm. Still. Like glass. And something's glowing way down underneath — slow, like something huge rolling over in its sleep.* |
+| 2 | **Leavy** | *There's iron on my tongue. Like I bit it.* |
+| 3 | **Isotta** | *Crushed green in my nose. Like stems snapped in my hands.* |
+| 4 | **Tenson** | *Pressure. Soft. Everywhere at once. Like a giant hand, slowly closing.* |
+
+**GM says:** "The chant peaks." → cards out → Fletcher reads → **GM:** *"And the cold spot where your curse sits — all four of you — answers it. It doesn't hurt. That's the terrible part. It answers the way your name answers when somebody calls it."* → Leavy, Isotta, Tenson read, no talk between → **GM closes** with the script's last two paragraphs (*"The last time you felt this…"* / *"And the entire city is singing."*). Then stop. Why it works: the fingerprint order survives, nobody is benched, and the campaign's hinge is said entirely by the players. Table use: [[session-10-run-sheet]] Beat 4f.
+
+~~**Staging — one PC, then it spreads** *(GM call 2026-07-25)*.~~ *(Retired 2026-10-11, kept for reference.)* Deliver the script below to **one** tethered PC alone: lean over, drop your voice, make the table watch a private thing happen to somebody. Speak slowly — this is the campaign's hinge, spend a full minute. **Then, the moment that player says any of it out loud, the other three feel it too.** One line each, fast, no script needed: *"—yeah. Yeah, I've got it too."* The intimacy of the original delivery survives, nobody watches the campaign's biggest moment happen to someone else, and the reveal travels through **a player's mouth** rather than yours.
 
 > The chant peaks — and the water in front of you goes still. Not calm. *Still.* Glass. A thousand lanterns sitting on a black mirror.
 >

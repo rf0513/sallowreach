@@ -8,7 +8,10 @@
 
 ## Where We Are
 
-⭐ **Session 9 is played: [[session-09-recap]]** (the Pale Room — 2026-10-06). **Ended on a cliffhanger:** Marcel will sell the party the second owlbear cub for **a favor from Tenson**; the mother and Whimsy wait upstairs. The Deal (spear for Oswin) was never offered; the spear never came up. ⚠ **S9 wrap bookkeeping not yet run** (front dials, clue-map ticks).
+⭐ **Session 10 is played: [[session-10-recap]]** (*"On the Books"* — 2026-10-13). **Ended mid-chant** on the Eleven's first read-aloud; **S11 opens mid-Celebration** (second movement → lanterns → **the click, four cards** → night button). Rope deal done (Tenson's term: no lying/cheating; Marcel fine). Gault's ambush at the landing with **4 Tessak**; the ringleader **knows Gault** and named the Tessak link; a rogue sits with **Sable for 48 hours**.
+- ⭐ **S11 headline (GM):** bigger, easier clues. The party **knows it's an incantation** and knows the Tree Spirit lore, but can't yet bridge to **the spirit is trapped.** Pitch the bridge at S11 prep (in chat first — Iron Rule 21).
+
+*(Previous:)* **Session 9 is played: [[session-09-recap]]** (the Pale Room — 2026-10-06). **Ended on a cliffhanger:** Marcel will sell the party the second owlbear cub for **a favor from Tenson**; the mother and Whimsy wait upstairs. The Deal (spear for Oswin) was never offered; the spear never came up. ⚠ **S9 wrap bookkeeping not yet run** (front dials, clue-map ticks).
 - ⭐ **S10 prepped 2026-10-11: [[session-10-run-sheet]]** (*"On the Books"*): the rope (the favor = the Oswin job) → the mother leaves with both cubs → Gault's hands on the walk home → **the Celebration**, with all four PCs taking the click.
 
 *(Previous:)* **Session 8 played: [[session-08-recap]]** (*"Packing"* — 2026-09-29). S9 prep: [[session-09-run-sheet]] (*"Men Who Pay"*). Banked beats: [[session-09-stub]].
@@ -196,10 +199,17 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
   - **Gault can't take Whimsy anymore** — the mother leaves with both cubs. The ambush stays (the GM's reason: *"since Gault can't steal Whimsy"*). ⚠ **Sweep pending:** [[set-piece-the-bad-season]] + [[set-piece-beyond-the-season]] relied on the Whimsy theft — flagged in-file, not yet re-cut.
   - **Mechanic introduced:** the **Tag Team Roll**, in the ambush.
   - **Front 11, step 3 (Remy defends the night)** is due per the trigger board; runs as an optional feast moment.
+  - **Fun first, creepy later** *(GM, 2026-10-13, chat walkthrough)*: the Celebration's opening 20–30 min (Remy, the Build, the Games) carries **no eerie splinters** — the Four Finds start in the afternoon (Fletcher's fires off the forcing line, the brass frame, any time). Games pick: **One in a Krillion + the Polers' Dash** if time allows (Dash winner lights the first lantern → on the platform for the click).
+  - **The table calls Leavy's magpie "Chip Chip"** *(table canon, logged 2026-10-13)*. Its true name is **Seven** ([[leavy-arc]]) — not yet recovered at the table. The Counting Game rhyme (*"…seven for a secret never to be told"*) is the planned trigger: the bird drops to Leavy's shoulder; if they say "Seven," it answers. Chip Chip stays the pet name; Seven is the real one.
+  - **Solène's empty-benches beat is CUT** *(GM, 2026-10-13: "I don't want people skipping the celebration")* — attendance-gap material is walkout residue. Her row is full. Solène still seats them; **Fen is introduced here, at her mother's table,** and clicks with **Isotta** (meet line: *"You've been counting something all night… What are you counting?"* → *"That's the first real answer I've heard all year."*). Isotta is the one who catches Fen mouthing the chant. Default (GM tired, unconfirmed): Fen likes and takes her seriously but never says "I believe you" — Isotta stays the only witness.
+  - **S10 table rulings (live, 2026-10-13):** the Walk Home became **an ambush at the landing — 2 rogues + 4 Tessak** (Diver stats; they hold the edge, never climb onto the boards; they ignore the rogues) — the GM's call, *"feeds that Gault works with the Tessak."* **The ringleader knows Gault** (GM override of the run sheet's "never knows his name"). Recovered: an empty, **pre-labeled frog jar**.
+  - **Remy-defending (Front 11 step 3) is delivered by [[sinope|Sinope]],** not a random old woman: *"You'd have rowed him anywhere. He didn't wake you… Forty years, Caspar never once took a boat out at night."* → Remy: *"He did that night. They were there."* → Sinope: *"Did they."* Teaser by default; **if the party confronts him, the full Theory fires** ([[sinope]] §The Theory), away from Remy's hearing.
 
 ---
 
 ## What's Next — Session 7
+
+⭐ **S11 → banked beats in [[session-10-recap]] §Open threads.** Unprepped. Start `/prep-session` from there.
 
 ⭐ **S10 PREPPED 2026-10-11 → run [[session-10-run-sheet]]** (*"On the Books"*) — the rope, the cubs, the walk home, **the Celebration**. **Open for S11 prep:** the spear's new price · the morning after (three papers want the barges: Oswin's evidence, Caius's report, the Caspar report) · the Bad Season re-cut. *(S9 was [[session-09-run-sheet]], played — [[session-09-recap]].)* The list below is the older backlog.
 
@@ -253,6 +263,7 @@ Top threads:
 - **Stress:** cleared by crits and downtime moves (features may also grant clears); marking your **last** Stress → Vulnerable; must-mark-but-can't → mark 1 HP instead.
 - **Fear:** GM starts with 1/PC, gains when a PC rolls with Fear and on rests, cap 12; spends: interrupt/extra move, adversary or environment Fear feature, add an adversary Experience.
 - **Countdowns:** standard (tick per action roll) and dynamic Progress/Consequence (tick 0–3 by outcome: crit 3 · Hope-success 2 · Fear-success 1 · failures 0/2/3 on the consequence side); loop/linked/long-term variants exist.
+- **Clearing a temporary condition (adversary)** *(web-checked 2026-10-13, [daggerheart.org conditions](https://daggerheart.org/core-mechanics/conditions))*: the GM spotlights the adversary and describes it breaking free — **no roll, no Fear, but it uses that adversary's spotlight.** Restrained = can't move, can still act/attack from where it stands.
 - **Conditions:** Hidden, Restrained, Vulnerable only — "Overwhelmed" (our celebration/heart files) is homebrew; run as its stated effect (mark Stress, lose spotlight), which is legal.
 - **Adversary benchmarks** *(verified 2026-07-16 from official SRD blocks — use these when statting or resolving `[VERIFY]` tags)*:
   - **Tier 1 Solo** (Cave Ogre): Diff 13 · Thr 8/15 · HP 8 · Stress 3 · ATK +1 · 1d10+2

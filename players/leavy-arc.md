@@ -19,6 +19,8 @@ In plain table language: **Delphine was exactly right — the curse was cast to 
 
 ## What the table already holds (locked canon)
 
+- ⭐ **S11 (2026-10-20) — the player got there:** Leavy circled that they **had a witch life before this one**, and that they need to **"mind meld" with their familiar** to get it back. Both are on target (the coven life; Seven remembers in behavior). Don't confirm in words — reward it with the hoard and the true-name beat.
+
 - **Delphine, Session 3** (run-sheet): *"There's a hole in you, child. Someone took a whole life out clean… A witch with no past and no coven is a candle with no wick."*
 - **Delphine, improvised at the table — captured here as canon:** the memory-curse was cast **"to stop a coronation."** *(This line lived nowhere in the repo until now; it's the arc's player-facing cornerstone.)*
 - **Orna, Sessions 2–3:** *"Every witch needs a coven"* — and Leavy has none; plus the carrot: *help me get the gloamcap, and I'll help you get a familiar.*

@@ -8,7 +8,10 @@
 
 ## Where We Are
 
-⭐ **S11 prepped 2026-10-20 (same day): [[session-11-run-sheet]]** (*"Eleven"*) — finish the Celebration, words pasted in chat, four DM'd click cards, end on the night button. **New canon:** eleven founders (page one of the founders' book, eleven signatures) · the Eleven's count shifts but **maxes at eleven** · the chant as sung has *sela* **eleven times**.
+⭐ **Session 11 is played: [[session-11-recap]]** (*"Eleven"* — 2026-10-20). The click and the Paper Man fired; **the words were never written** (festival over). **Big deduction night:** Gault blew up their boat, Tenson was the target, Caius is suspected; **the chant keeps something IN, the wall keeps something OUT.** Not yet: the folk-tale tree = the trapped thing. **S12 opens the morning after** with Leavy's kids.
+- ⭐ **Retcon (GM, S11 wrap):** **Caius paid Gault** to sink the ship, targeting **Tenson as Silence's favorite**; the Tessak eat the evidence; **Marcel is out of the wreck story**; the proof is **Bigsby's verbatim record** (he transcribes Caius's malfeasance too).
+
+*(Previous:)* ⭐ **S11 prepped 2026-10-20 (same day): [[session-11-run-sheet]]** (*"Eleven"*) — finish the Celebration, words pasted in chat, four DM'd click cards, end on the night button. **New canon:** eleven founders (page one of the founders' book, eleven signatures) · the Eleven's count shifts but **maxes at eleven** · the chant as sung has *sela* **eleven times**.
 
 ⭐ **Session 10 is played: [[session-10-recap]]** (*"On the Books"* — 2026-10-13). **Ended mid-chant** on the Eleven's first read-aloud; **S11 opens mid-Celebration** (second movement → lanterns → **the click, four cards** → night button). Rope deal done (Tenson's term: no lying/cheating; Marcel fine). Gault's ambush at the landing with **4 Tessak**; the ringleader **knows Gault** and named the Tessak link; a rogue sits with **Sable for 48 hours**.
 - ⭐ **S11 headline (GM):** bigger, easier clues. The party **knows it's an incantation** and knows the Tree Spirit lore, but can't yet bridge to **the spirit is trapped.** Pitch the bridge at S11 prep (in chat first — Iron Rule 21).
@@ -125,6 +128,8 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
 
 ## Key Decisions Made *(history log — trace a ruling's origin here. The enforceable distillation is CLAUDE.md § The Iron Rules; read that instead on a cold start.)*
 
+- **2026-10-20 (S11) — the shipwreck retcon.** Caius paid **Gault** (not a goon through Marcel's network) to sink the ship; target **Tenson**, Silence's favorite; Tessak eat the evidence; proof lives in **Bigsby's** record. Marcel's shipwreck lever retired (tombstones in [[caius-maren]], [[marcel-dray]], [[bigsby]], [[tenson-arc]], [[world-in-motion]] Front 6). Played session files S1–S4 keep the old wording as history.
+- **2026-10-20 (S11 prep) — eleven.** Eleven founders (page one of the founders' book) · the Eleven's count maxes at eleven · *sela* ×11 as sung · Basile's Domino works on the Eleven.
 - **The tether** = cannot leave the Mire. That's it. No party-to-party distance component (removed). They can split freely within the Mire.
 - **No ticking clock.** Players should not feel rushed. Urgency comes from personal stakes (where each PC was going), not a countdown. The world still *moves* — see [[world-in-motion]] for the living fronts the GM advances, slows, or redraws based on what players do. Fronts, not a doom timer.
 - **Personal tether manifestations** — ~~held in reserve until PCs are known~~ **BUILT 2026-07-11 → [[tether-manifestations]]** (the welcome-not-punishment unifier, per-PC signature/cost/gift, the Comparison scene, the Edge, Fear hooks).
@@ -211,7 +216,9 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
 
 ## What's Next — Session 7
 
-⭐ **S11 → banked beats in [[session-10-recap]] §Open threads.** Unprepped. Start `/prep-session` from there.
+⭐ **S12 → banked beats in [[session-11-recap]] §Open threads.** Unprepped. **Top priority: the words on paper (Risk B)** and the tree bridge. Starts with Leavy's kids ([[session-11-run-sheet]] §7c).
+
+*(Old:)* S11 → banked beats in [[session-10-recap]] §Open threads.
 
 ⭐ **S10 PREPPED 2026-10-11 → run [[session-10-run-sheet]]** (*"On the Books"*) — the rope, the cubs, the walk home, **the Celebration**. **Open for S11 prep:** the spear's new price · the morning after (three papers want the barges: Oswin's evidence, Caius's report, the Caspar report) · the Bad Season re-cut. *(S9 was [[session-09-run-sheet]], played — [[session-09-recap]].)* The list below is the older backlog.
 

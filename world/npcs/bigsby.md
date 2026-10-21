@@ -45,7 +45,7 @@ He is not cold. He is *precise*, which people mistake for cold because no one in
 - **The incident file's index.** He catalogued it. Thirteen entries. He can recite the titles — and the thirteenth, *a vessel lost in the southwest channels*, was indexed **before its survivors were ever invited to dinner.**
 - **The visitor log, two years deep.** Who came, when, how long.
 
-**What he does NOT hold (guardrail):** anything Caius did off the books and off the premises — the goon, the hire, Marcel's network. The shipwreck's *authorship* stays [[marcel-dray|Marcel's]] road ([[tenson-arc]] Rung 4); Bigsby proves the **steering**, the **turnarounds**, and the **file's shape.** He is a witness to paperwork, not to crimes. And he holds nothing about the binding, the spirits, or the Celebration — he's been indoors for two years.
+⭐ **He holds the crime too**  **Retcon 2026-10-20 (S11, GM):** Caius has Bigsby transcribe **everything — even his malfeasance.** Somewhere in the record: **Caius arranging the payment to [[gault|Gault]]** to sink the party's ship, with Tenson as the target. Recitable on lawful request, like everything else. This is Caius's undoing and [[tenson-arc]] Rung 4's new road. *(Retired guardrail: "he holds no crimes; the shipwreck stays Marcel's road.")* And he holds nothing about the binding, the spirits, or the Celebration — he's been indoors for two years.
 
 ## What He Wants
 

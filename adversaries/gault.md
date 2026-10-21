@@ -72,6 +72,9 @@ The serpent followed the smell of his own Mire-sweating crates down the corridor
 
 ## Operations
 
+⭐ **Canon 2026-10-20 (S11): Gault sank the party's ship, paid by [[caius-maren|Caius]].** Target: Tenson (Silence's favorite). The Tessak ate what was left — that's why his wrecks leave no witnesses. The deal with the clan, as his hired rogue told Tenson: **safe passage** through Tessak water, **free live-capture hunters**, **first pick of every wreck**; the Tessak take the crews. The party connected him to their wreck themselves.
+
+
 He works alone, or with hired hands he picks up in port towns outside Sallowreach and drops off after each run. The hired hands know the job is extraction and don't ask about permits because the pay is good and Gault doesn't answer questions. He has gone through eleven hired hands in eight years. Some left. Some didn't make it out of the Mire. He has no feelings about this.
 
 His buyers are not in Sallowreach. He sells through intermediaries in port cities — no paper trail back to him, no names attached to the goods. By the time a collector in the capital puts a glowing creature on their shelf, Gault is three runs and four hundred miles of Mire removed from the transaction.

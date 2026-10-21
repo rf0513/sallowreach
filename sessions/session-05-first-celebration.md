@@ -345,6 +345,8 @@ She's a lit doorway ([[isotta-arc]] §Costs). One of them is nearer every time s
 
 ### The count won't hold still
 
+⭐ **GM ruling 2026-10-20 (S11 prep): it shifts, but the max is eleven.** Nine, seven, eleven again — never above eleven. The "thirteen" below is retired. The players are fixated on *eleven*, and eleven founders are now findable (page one of the founders' book — [[set-piece-they-give-us-the-night]]).
+
 **Eleven at first. Nine an hour later. Thirteen when she checks again.** Never the same number twice, and never a number she can make behave.
 
 Her protocol is the one thing she's good at, and it's the first thing that breaks. Play it straight and slightly boring — *you count, you get a different answer, you count again* — because the flatness is what sells it. **If she asks for a roll to get a true count: let her roll, and let her succeed, and give her a different number anyway.** Nothing supernatural happens. She just can't hold them still.

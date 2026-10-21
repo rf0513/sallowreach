@@ -652,7 +652,7 @@ She turns it over once.
 - **Vane's later volumes are unbuilt.** Shape only, nothing new.
 - **Nothing musical is a lever.** If anyone asks about the chant: nobody can read it, and nobody minds.
 - **Remy's shipment berth** ([[remy]] §The Shipment Berth — he signed on to pilot these barges, never played) — **don't raise it tonight.** Decide at the wrap.
-- ⚠ **If you reach the Celebration — Basile's Domino on the Eleven:** default ruling, it works on *spirits,* and the Eleven are the town's dead. The tile clicks down. Nothing changes. *(Change it if you want — but the Eleven never speak a plain sentence.)*
+- ⚰️ **Superseded 2026-10-20 → [[session-11-run-sheet]] §4: the domino WORKS on the eleven** (one stops singing, looks toward the Kept Root, gets pulled back in; still no words). Old note: ⚠ **If you reach the Celebration — Basile's Domino on the Eleven:** default ruling, it works on *spirits,* and the Eleven are the town's dead. The tile clicks down. Nothing changes. *(Change it if you want — but the Eleven never speak a plain sentence.)*
 - **Chip Chip is fine.**
 
 ---

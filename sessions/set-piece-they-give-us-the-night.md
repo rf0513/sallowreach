@@ -161,6 +161,7 @@ Isotta is a player character who is secretly a ghost, and the only person in tow
 
 - **Sixteen pages, sixteen City Leaders,** about two hundred years. Adaline is the sixteenth.
 - **The keys and the seal are decoys.** The Hall's doors, the city's seal. Ordinary. The box is the only one of the three nobody explains. She has to notice the odd one out herself.
+- ⭐ **Page one has eleven signatures** *(GM ruling 2026-10-20)*: under the water stain, held to a lamp, eleven names are crammed onto the first page, all signing for the box together. Only *…Sauvage* is readable. **No roll to count them**; Instinct 13 `[VERIFY]` for a second name. Pairs with the Eleven at the chant ([[isotta-arc]]).
 - **The dash:** the first leader signed for the box from *nobody*. The book starts after the thing it records. *(Same shape as the Accord's ledger, which [[sinope|Sinope]] brings up at the Celebration — that's this clue's second pass, free, tomorrow.)*
 - **The box is real.** It's the Founders' Box ([[the-hall-of-the-mire]] §The Founders' Box). **Its contents stay gated on standing** — see Guardrails.
 

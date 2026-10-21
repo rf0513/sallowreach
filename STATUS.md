@@ -8,6 +8,8 @@
 
 ## Where We Are
 
+⭐ **S11 prepped 2026-10-20 (same day): [[session-11-run-sheet]]** (*"Eleven"*) — finish the Celebration, words pasted in chat, four DM'd click cards, end on the night button. **New canon:** eleven founders (page one of the founders' book, eleven signatures) · the Eleven's count shifts but **maxes at eleven** · the chant as sung has *sela* **eleven times**.
+
 ⭐ **Session 10 is played: [[session-10-recap]]** (*"On the Books"* — 2026-10-13). **Ended mid-chant** on the Eleven's first read-aloud; **S11 opens mid-Celebration** (second movement → lanterns → **the click, four cards** → night button). Rope deal done (Tenson's term: no lying/cheating; Marcel fine). Gault's ambush at the landing with **4 Tessak**; the ringleader **knows Gault** and named the Tessak link; a rogue sits with **Sable for 48 hours**.
 - ⭐ **S11 headline (GM):** bigger, easier clues. The party **knows it's an incantation** and knows the Tree Spirit lore, but can't yet bridge to **the spirit is trapped.** Pitch the bridge at S11 prep (in chat first — Iron Rule 21).
 

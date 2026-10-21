@@ -89,6 +89,9 @@ A crowd of dead standing in a spot her ferryman will not enter. **She derives th
 
 The oldest uncrossed dead in Sallowreach are the people who made the binding. **They are spent, not sorry.**
 
+⭐ **2026-10-20 (S11 prep): there were exactly eleven founders.** Page one of the founders' book holds **eleven signatures** under the water stain (only *…Sauvage* readable) — findable with no roll. Isotta's count shifts but **never goes above eleven**. And the chant as sung uses *sela* ("stay") **eleven times** ([[old-words-handout]]). The players' own theory (S10): the eleven are "city leaders." Reward the obsession; never confirm in words.
+- **Basile's Domino works on them** *(GM ruling 2026-10-20)*: one stops singing for a breath, turns to look toward [[the-kept-root|the Kept Root]]'s glow, then the chant pulls it back in. No words, ever. Shows they don't *choose* to sing.
+
 - **They have faded past language.** Two centuries wears everything off a ghost except what repetition drove deepest — and what these particular dead have done every single week for two hundred years is the chant. **It is their entire remaining vocabulary.** They cannot explain, confess, warn, or answer. They can only mouth the old words. *(The horrible rhyme, free: the jailers and the prisoner have the same vocabulary — the Tree Spirit also speaks only in Celebration lines, [[set-piece-the-honored-guest]].)*
 - **No remorse.** There is no personality left to feel anything with. They didn't stay out of guilt; the arithmetic never closed and they wore out standing in it. *(Iron Rule 8's payload holds: nobody, living or dead, finds the question troubling.)*
 - **Their account cannot balance.** They owe a debt to something they can't reach and can't undo — you tricked a guest into a yes it can't take back, and there is no restitution available to a dead person.

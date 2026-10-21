@@ -6,6 +6,8 @@
 
 ---
 
+**⭐ As sung (GM ruling 2026-10-20):** the full cycle = first movement **twice**, second movement once, third movement **twice** → *sela* lands exactly **eleven** times (3+3+1+2+2). The party's own copy (S11, [[session-11-run-sheet]] §2) is written this way so a player can count it.
+
 ## The Prop *(print this — one aged page, close-written, forty years of different inks in the margins)*
 
 > **THE OLD WORDS — as sung at the Celebration**

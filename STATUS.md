@@ -8,6 +8,8 @@
 
 ## Where We Are
 
+⭐ **S12 prepped 2026-11-02: [[session-12-run-sheet]]** (*"Unfinished Business"*): every PC to the start of their finale. Leavy's kids → Fletcher at Brin's (map + **Water-Strung bow**, [[fletcher-arc]] §The Bow) · Tenson's Silence call (⏰ 12 days) · Leavy's three ingredients → sweat lodge · Isotta's heron report → Ferrand's trail → night 2, the wall breaks.
+
 ⭐ **Session 11 is played: [[session-11-recap]]** (*"Eleven"* — 2026-10-20). The click and the Paper Man fired; **the words were never written** (festival over). **Big deduction night:** Gault blew up their boat, Tenson was the target, Caius is suspected; **the chant keeps something IN, the wall keeps something OUT.** Not yet: the folk-tale tree = the trapped thing. **S12 opens the morning after** with Leavy's kids.
 - ⭐ **Retcon (GM, S11 wrap):** **Caius paid Gault** to sink the ship, targeting **Tenson as Silence's favorite**; the Tessak eat the evidence; **Marcel is out of the wreck story**; the proof is **Bigsby's verbatim record** (he transcribes Caius's malfeasance too).
 
@@ -216,7 +218,8 @@ The party: [[fletcher|Fletcher]] (Ranger/Wayfinder, Ribbit), **Leavy** the Witch
 
 ## What's Next — Session 7
 
-⭐ **S12 → banked beats in [[session-11-recap]] §Open threads.** Unprepped. **Top priority: the words on paper (Risk B)** and the tree bridge. Starts with Leavy's kids ([[session-11-run-sheet]] §7c).
+⭐ **S12 → banked beats in [[session-11-recap]] §Open threads.** Unprepped. Top priority: the tree bridge. *(The words on paper were downgraded at S12 prep: Remy can give them any time, and Caspar's folio still makes the boat.)* Starts with Leavy's kids ([[session-11-run-sheet]] §7c).
+- ⭐ **S12 prep (2026-10-25 → 11-02, done → [[session-12-run-sheet]]):** the goal is to get all four personal quests to the start of their finales. **Leavy:** the mind meld. The kids guide Leavy to the sweat-lodge ingredients ([[leavy-arc]] §The Mind Meld). ⭐ **Leavy's backstory was rewritten** (GM): Leavy was the *old* witch, and the coven turned them into a clank through a loophole on the eve of their apprentice's coronation. **Feverfew and Bindweed are retired** ([[leavy-arc]] §The Answer). **Isotta:** the heron demands a report, then sends her after Ferrand, a missing ghost whose trail ends at the Kept Root ([[isotta-arc]] §S12). Her ending menu is now three options; **Lazare's taper is retired**. **Tenson:** pressure only. Caius's magic dispatch → Silence calls (day 1) → ⏰ **12 days** until Caius's paper reaches the Chancery → the wall breaks, Oswin hurt (day 2) ([[tenson-arc]] §S12). **Fletcher:** Brin's map table (S8 §2c, never run) + finishing the bow → **Water-Strung**, defined at last (homebrew `[VERIFY]`: wet-proof passive + **Breach**, spend a Hope: the arrow surfaces anywhere within Far, hits underwater/behind cover with advantage).
 
 *(Old:)* S11 → banked beats in [[session-10-recap]] §Open threads.
 

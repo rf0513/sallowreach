@@ -106,6 +106,8 @@ What that means at the table:
 
 ## Case 5 · The Rounds — *Lazare Bellaire* ⚰️ *(re-homed 2026-07-25 → [[isotta-arc]] §Endgame, "take the taper")*
 
+> ⚰️ **Fully retired 2026-10-25:** Lazare never reached the table, and the taper ending is gone from the menu ([[isotta-arc]] §Endgame).
+
 > **Not a mid-campaign case.** It hands her a nightly duty she keeps forever and quietly makes her belong to the spirit side in a way no cure undoes. That's an ending, and it's now the fifth door on her endgame menu. Everything below stays exactly as written — just play it at the finish, not on a Tuesday.
 
 **The knock:** through her second sight only. Every dusk, Veilside, an old man with a taper walks the boards lighting lanterns the living can't see — the spirit-side lamps that burn the color with no name ([[isotta-arc]] §Veilside Sallowreach). One evening he stops below her window, looks up, and holds out the taper.

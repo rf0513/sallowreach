@@ -173,6 +173,19 @@ Delphine's warning has a flip side the party earns mid-arc, said aloud by her or
 
 **The image the whole arc aims at** (from his sheet): the frog who cannot be in a room with a snake, standing in the water in front of one, bodily afraid, doing it anyway — because this time there are people holding the line beside him.
 
+## ⭐ The Bow — Water-Strung *(GM green-lit 2026-11-02, S12 prep)*
+
+**In plain words:** Fletcher has been building a bow since S7. The last piece is the Bull Gar's spine-sinew. He finishes it at Brin's bench, and the bow inherits the gar's best trick: it hides under the water and comes up where nobody is looking. It's the bow that can hit the snake where every other weapon misses. Until now, "Water-Strung" was only a name with no rules behind it. This section defines it.
+
+- **Where it happens:** [[session-08-run-sheet]] §2c, at Brin's bench, after the map. **Finesse 13** + *Swamp Specialist*. Two boxes left. The outcome table is there.
+- **On success, Brin:** she turns it over in her hands. *"Nothing wasted. Good."* (Her creed: understand it, kill it, use it whole.)
+- **The ammo already in hand:** 3x **Gar-Tooth Broadheads** (+1d6 damage; the target becomes Vulnerable and can't dive).
+
+**Water-Strung** *(homebrew, `[VERIFY]` balance against the SRD)*
+- **Passive:** gar sinew never goes slack when it's wet. He shoots in rain, from a swamped boat, or while swimming, with no penalty.
+- **Breach (spend a Hope):** the arrow goes into the water, runs under it, and **breaks the surface anywhere within Far range.** It can hit a target that's underwater, behind a hull, or behind cover, **and it rolls with advantage.** It makes no sound until it breaks the surface.
+- *Named after the Bull Gar's own Breach feature ([[mire-bestiary]]). Don't confuse it with [[the-ward-breach]], the salt-wall disaster.*
+
 ## The Ladder *(S4 →; bend to the table, ~1 strong beat + 2 clues per session)*
 
 - **S4 — The Collision + the Map Scene.** *(One scene, two movements — the session still belongs to Isotta's wall. **Table-ready run file: [[session-04-ranging-house]].**)* Cold open: the party walks in on **Gault vs. Brin** ([[#The Ranging House Collision — S4]]) — he wants her castings, she throws him out, he clocks the frog's journal on the way past. Then, the door barely shut behind him, Brin pays her promise: Fletcher's journal open beside her four castings, pinned across her channel map. The lines match — and the matched line isn't animal. **Said aloud:** *"Animals wander. This thing traveled. That's a freight road."* She flags the shedding hollow she's never reached — **the Side-Quest 1 commission lands here.** Close on the cage-marks: the cub's broken cage and the party's boat carry the same maker's stamps.

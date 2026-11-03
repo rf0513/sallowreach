@@ -11,11 +11,21 @@ aliases:
 
 > **Status: ACTIVE** *(designed 2026-07-01).* Supersedes the "they did it to themselves" GM-truth on [[the-witch|Leavy's sheet]] — sheet updated with a pointer; every word of the *player-facing* text there stays true. Tuned for the player: the table's comic relief, playing a super-literal automaton, whose one true love is **making potions.** So the arc runs through the cauldron — comedy on the surface, grief in the sediment. Opener set piece: [[session-04-gloamcap-run]].
 
-## The Answer (GM only — the whole arc in one paragraph)
+## ⭐ The Answer — rewritten 2026-10-25 (GM, S12 prep)
 
-Leavy was the chosen heir of **the Nine Hedges** — a northern coven of nine hedge-witches whose seats carry plant-names that outlive their wearers. Their teacher, **Feverfew**, the coven's head, was dying; on coronation eve Leavy was to drink the cup and take the waiting name: **Rue**. **Bindweed** — the elder witch passed over for the succession — struck first: a curse that killed the heir, scoured the mind, and dissolved the ninth seat entirely, its share of the coven's power flowing to the surviving eight. What Bindweed never learned: Leavy, contingency-planner to the bone, had years earlier built a clank vessel in their own workshop — *in case* — and Feverfew spent the last hours of her life pouring her student's soul into it. She died completing the transfer; that's why no maker was waiting when Leavy woke. The curse took the *story* of the life. It couldn't take the **craft** (practice isn't stored as story — the hands remember), and it couldn't reach the **taste-vault** (the memory-backup Feverfew keyed to the tongue). And it left one mercy nobody intended: to scrying and sending, Leavy now reads as a smooth blank. **Bindweed believes the heir was destroyed. The curse is the only thing hiding them.**
+**In plain words:** Covens are old, and every witch in one holds a **station**: a seat with a plant name that outlives the witch in it. If a witch dies without training someone to take the station over, the station is gone forever, the coven shrinks, and its power is split among the rest. Leavy was **an old, old witch** holding the station **Rue**, and could never keep an apprentice. The other witches liked that and waited for the station to die out. Then Leavy finally found an apprentice who stayed. So the coven struck on **the eve of the apprentice's coronation**, the night the station would have passed down.
 
-In plain table language: **Delphine was exactly right — the curse was cast to stop a coronation.** Leavy has spent three years investigating a crime committed against a stranger. The stranger is them.
+- **The loophole — nobody kills Leavy.** A witch can't kill a coven sister; the stations would know. So they make Leavy **stop being a witch**: the curse turns them into a made thing, a clank. A made thing can't hold a station, so the station sees an empty chair and goes out like a candle. *"We never touched a hair on her head."*
+- **"They died" and "turned into a golem" are both true.** From inside, the change *is* dying: heart stops, breath stops, nothing. On paper nobody died. (The sheet's "died, dragged back into a built body, no maker waiting" stays true.)
+- **The memory wipe is part of the curse.** A clank that remembered would walk straight back in and name names. So it takes the *story* and leaves the *hands*: Leavy can still brew and can't remember why.
+- **The heartbreak — the tea.** The curse came in **the apprentice's coronation-eve tea**, their first brew for their teacher, from a recipe one of the coven sisters "kindly" gave them. The apprentice handed Leavy the cup with both hands. Leavy drank it because their student made it.
+- **After.** The coven told the apprentice their teacher died in her sleep, held a funeral over an empty coffin, and sold the "broken clank in the workshop" to a passing tinker as junk. That's why Leavy woke far away with no maker waiting. **Seven followed the cart.**
+- **Where the apprentice is now:** taken in by a rival witch in the same coven, not as a student but as **low-level grunt labor**. Scrubbing pots for the people who did it, and grateful to them. Nobody plays this; it's an image for the trip and an epilogue hook.
+- **The mercy nobody intended (kept):** to scrying and sending, Leavy reads as a smooth blank. **The curse is the only thing hiding them.**
+
+In plain table language: **Delphine was exactly right — the curse was cast to stop a coronation.** It just wasn't Leavy's coronation. It was their student's.
+
+> ⚰️ **Retired 2026-10-25 — the old Answer.** Leavy as the young heir; **Feverfew** the dying teacher who poured Leavy's soul into a clank Leavy built *in case*; **Bindweed** the passed-over elder as the lone curser; Leavy *about to receive* the name Rue; the three memory draughts. Replaced by the GM's version above: Leavy is the old witch, the coven acted together through a loophole, and the apprentice is the one who lost the coronation. Kept from the old version: the coven's plant-named seats (now "stations"), **Rue**, Seven and the hoard, craft-survives-story, and the scrying blank. Sections below that still name Feverfew or Bindweed are the old design; read them through this note.
 
 ## What the table already holds (locked canon)
 
@@ -26,6 +36,76 @@ In plain table language: **Delphine was exactly right — the curse was cast to 
 - **Orna, Sessions 2–3:** *"Every witch needs a coven"* — and Leavy has none; plus the carrot: *help me get the gloamcap, and I'll help you get a familiar.*
 - **Orna's careless diagnosis** (sheet): *"You're not sick. You're* bound.*"*
 - **Sheet canon that still stands, word for word:** they died, were dragged back across death into a built body, and woke with no maker waiting. All true. Only the GM-side *who* has changed.
+
+## ⭐ The Mind Meld — the S12 plan *(GM green-lit 2026-10-25)*
+
+**In plain words:** Orna told Leavy to "mind meld" with their familiar, the magpie Seven, through a hallucinogenic sweat-lodge trip. The GM assumed Leavy would just take the herbs from Orna's garden. Leavy wants to find them in the wild, in town or in the swamp. So the session's opening comedy becomes the guide: the wired kids who got dumped on Leavy all know the one plant they're never allowed to touch.
+
+- **Canon (S11, at the table, captured late):** Orna suggested the mind meld and the sweat lodge.
+- **The kids are the guide.** Leavy asks the swamp and gets nothing. Then a sticky-faced kid says:
+  > *"You can't eat the blue stuff under the Mooring. Tomas's brother did and he talked to a fish for two days."*
+
+  Now Leavy has a lead and four thrilled accomplices.
+- **Three ingredients, three stops:**
+  1. **Old Plenty's antler.** Leavy already has it (from S7). It's spirit-touched, the part that lets the trip reach a spirit. A free find.
+  2. **The kids' blue stuff**, in town at [[the-mooring]]. **It's a glowing blue moss on the Mooring's pilings, just under the waterline.** It's the same spore-grown moss the lantern rays spread ([[the-lantern-ray-shallows]]): a real piece of the Mire, not an invented drug. The kids know it because it glows at night and every parent says "don't." A short, silly scene, with a roll for the kids.
+  3. **A salt-root from the wall** ([[session-04-salt-wall|the salt wall]]). On the Mire side, mangrove roots grow right up to the salt line and stop. Where a tip touches salt, it dies and goes white and hard. Leavy has to stand at the line and cut one.
+     - **The Mangrove notices.** When Leavy cuts, the Mire-side water leans toward them, like a dog lifting its head, and the roots shift. When Leavy steps back it settles; when they step in, it leans again. Weather and tide only: no voice, no feelings (Iron Rule 5).
+     - The party's own deduction lands on site: *this* is what the wall keeps OUT, and it just noticed one of us.
+     - **Why Leavy:** they're a hedge witch, and the Mangrove is the biggest plant there is. Nobody explains it; Leavy carries the question into the sweat lodge.
+     - ⚠ **Guardrail:** the link is *felt*, never a message. Leavy must not become the campaign's lore conduit (CLAUDE.md §PC arc design).
+- **The trip replaces the three memory draughts** (§The Memory Engine). One sweat lodge, six short scenes, all **seen through Seven's eyes**: the bird remembers in pictures, and Leavy sees their own old face for the first time. The kids wait outside; the tiny accountant kid takes notes.
+- **Rolls (suggested, GM's call):** a roll to go deeper, about every two scenes. **Fear** costs memory bleed (a feeling from the old life sticks after waking). **Failure** wakes Leavy early, but they keep the scene they were in. Rolls forward, always.
+
+### The six scenes *(read-alouds, GM-approved 2026-10-25)*
+
+**1 · The Doors**
+> You're small. Black and white. You've got feathers, and you're up on a windowsill.
+> Down below there's a gate. A kid walks out of it with a bag over their shoulder. Doesn't look back.
+> Then it's later. The leaves are a different color. Another kid. Another bag. Same gate.
+> Somebody's waving them off. An old witch. Grey braid, ink all over the fingers. You know that face. You've never seen it.
+> They shut the gate, look up at you, and go, "Well. Just us, then."
+
+**2 · The Table**
+> A round room. Nine chairs, and a plant carved into the back of every one.
+> Eight of them have witches in them, and they're all smiling. They're smiling at the ninth chair.
+> The old witch is sitting in it. Carved on the back, deep: a little sprig of rue.
+> Somebody pours tea and says, real sweet, "Any luck with a student yet, Rue?"
+> And all eight of them wait.
+
+**3 · The One Who Stayed**
+> A kitchen, full of smoke. Something in a pot just died horribly.
+> There's a kid at the stove. Soot on their face, eyebrows mostly gone.
+> The old witch is laughing so hard they have to sit down.
+> Next morning, the kid's back. Same apron. They knock twice.
+> The old witch opens the door, doesn't say a word, and puts the kettle on.
+
+**4 · The Recipe**
+> Same kitchen. Evening, candles.
+> One of the witches from the table is here, the one who poured the tea. She's holding out a little folded paper.
+> "For your teacher. Tonight. It's tradition."
+> The kid takes it like it's made of glass.
+> You don't like that paper. You hop down and grab it in your beak, and she flicks you right off the table. Laughs. "Your bird's a thief, dear."
+
+**5 · The Cup** *(one sip is all the curse needs; Leavy tastes it, but it's already working)*
+> Night. The good cups are out.
+> The kid holds one out with both hands. They're shaking a little. They're so proud.
+> The old witch takes a sip.
+> And stops. Just for a second. You see it. Nobody else does.
+> Then the cup goes down on the table, gentle as anything. A smile.
+> "It's perfect. You're ready."
+> And the hand still touching the cup is going grey. Going hard. Going metal.
+
+**6 · The Cart**
+> A road, in the rain. You're on a fence post, soaked.
+> A cart goes by. There's something under the tarp in the back, shaped like a person but wrong. A metal hand hangs off the edge.
+> You follow it, post to post. Days. Weeks.
+> And somewhere else, in a big kitchen, the kid is on their knees with a scrub brush. Somebody walks past and says, "Missed a spot."
+> Then a voice, old and warm, right in your ear: "Seven."
+> Leavy, you open your eyes. The bird's sitting on your chest, looking at you.
+
+*Leave it to the player to say "Seven" out loud. When they do, the bird answers: the first true name recovered.*
+- **The Mangrove's edge:** somewhere in the last scene, something huge leans in, the same lean as the water at the wall. Felt only, never explained.
 
 ## The Truth, in beats (GM)
 

@@ -94,7 +94,7 @@ The charade structure, when Seven really needs to say something: **object → ac
 
 - **The coven comes up:** "Every feather flattens at once. It's a smaller bird suddenly. It does not like this conversation."
 - **The curse / what was done:** "You have never heard a magpie growl. You have now — a low ratchet, way down in the chest, and it doesn't stop until the subject changes."
-- **Feverfew** *(once the name is known)*: "It bows its head. All the way down — beak to the wood, wings a little open. And it holds it. Birds don't do this. This one learned it from someone."
+- ⚰️ *(Superseded 2026-10-25: there is no Feverfew. Seven was old Leavy's own familiar; see [[leavy-arc]] §The Answer.)* ~~**Feverfew**~~ *(once the name is known)*: "It bows its head. All the way down — beak to the wood, wings a little open. And it holds it. Birds don't do this. This one learned it from someone."
 - **The sprig, the pin, any keepsake being examined:** "It comes and stands next to the object while you look. Not guarding it. Attending it."
 - **Leavy asks it, quietly, 'did you know me?':** "One tap. Then — after a beat — its head comes to rest against your knuckles, and the tap becomes the whole answer to every question you haven't asked yet."
 
@@ -124,7 +124,7 @@ Everything. Involuntarily. It was there that night; it knows the coven, the teac
 ## Key Relationships
 
 - [[the-witch|Leavy]] — its witch. Was, is. The bond survived death, the curse, and the distance; the bird never voted on "was."
-- [[leavy-arc|Feverfew]] — it was *her* gift to Leavy, hatchling-tamed for the heir. The bow is for her.
+- ⚰️ ~~[[leavy-arc|Feverfew]] — it was *her* gift to Leavy~~ *(Superseded 2026-10-25: Seven was old Leavy's own familiar, for a very long time. See [[leavy-arc]] §The Answer.)*
 - [[orna-tessant|Orna]] — grudging colleague; her Calling didn't summon it, but her garden is the best bench in the city and it knows it.
 - [[Delphine]] — the one who understood on sight. Mutual professional silence.
 

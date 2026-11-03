@@ -15,6 +15,20 @@ Silence sent Tenson to answer one question: *why does the wall keep asking for m
 
 **In plain table language:** the further the audit goes, the more it proves — and the more dangerous the truth gets to say out loud. Filing the honest report gets Oswin destroyed, Marcel paid, the wall orphaned, and Caius his crisis. The arc's endgame is Tenson learning what Caius already knows: *documents are written toward conclusions* — and then writing better ones.
 
+## ⭐ S12 — Pressure, not plot *(GM green-lit 2026-11-02)*
+
+**In plain words:** the GM will improvise whatever Tenson does; the prep job is only to **lean on him.** Caius's version of events is already on its way to the capital, Silence is annoyed, there's a twelve-day clock, and on day two the salt wall breaks.
+
+- **The morning after the festival:** Caius sends a **short magical dispatch** to the Chancery, one paragraph, his version, including *"the auditor declined to cooperate with a routine incident review."* His **full paper report rides the barges**, which left the same morning.
+- **Day 1 — Silence calls** (same magic call as S8), annoyed:
+  > "I have a letter from the Chancery liaison. It says my auditor 'declined to cooperate with a routine incident review.' Explain that to me."
+
+  Then the clock, in her mouth:
+  > "His paper arrives in twelve days. If you have something better, I want it before then."
+- ⏰ **The clock: 12 days** until Caius's full file lands on the Chancery's desk. Tenson's counter-report has to beat it. *(Track the days in STATUS.)*
+- **Day 2 — the wall breaks.** The salt stays settled for a day or two after the festival (canon, S7), then a section gives way at night and a house goes into the water. **[[Oswin Cray|Oswin]] is hurt holding the line**: the thief who is also the only man keeping the wall up is down. By dawn **Caius is on the scene with a blank incident form**, page fourteen of his file, and asks Tenson to sign as a witness.
+- **Improvise everything else.** The road to proof is still [[bigsby|Bigsby]] (must produce records to anyone with **standing**; Silence's warrant is standing). He doesn't leave the Embassy.
+
 ## The Auditor's Dilemma (the emotional engine)
 
 The two gut-punches [[tenson|his sheet]] loaded are both scheduled here:

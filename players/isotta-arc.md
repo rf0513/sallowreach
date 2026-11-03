@@ -111,7 +111,7 @@ The oldest uncrossed dead in Sallowreach are the people who made the binding. **
 | **S8 (the eve)** | ✅ **Fired S8.** She also stopped one of the leaving dead (an old woman) and questioned her. **Pattern one, live.** At the Hall of the Mire the day before the Celebration, she watches the dead start walking out — thickest at the Hall, all heading away from it. Free, no roll; the roll only buys the exact count. Pattern two (the heron's ring) stays on her pages. | [[set-piece-they-give-us-the-night]] Beat 1 |
 | **+1–2** | **The map.** She reviews her own pages; both patterns land as her deduction. Then she asks the heron a direct question and it won't refuse twice. | A one-page handout of her own notes for the player to arrange |
 | **+1** | **The dive** under the Hall's first pilings. She's the only one who can. | [[set-piece-the-honored-guest]] stage 1 — built |
-| **Endgame** | Her four doors, plus the fifth: **Lazare's taper** (below). | Written; just re-homed |
+| **Endgame** | ⭐ The three-option menu (§Endgame, GM-set 2026-10-25). *(Lazare's taper retired.)* | Option 3's job being designed |
 
 ### 🚫 Guardrails
 
@@ -119,6 +119,56 @@ The oldest uncrossed dead in Sallowreach are the people who made the binding. **
 - **Never call them founders** in narration or by implication. Eleven very old dead people who know the words. What they are is a much later deduction.
 - **Nobody can corroborate her.** Vael can't see them. No NPC channel exists for any of this and none will be built. **She is the only witness in the world** — don't soften it.
 - **What she brings back to the table is an object**, not a briefing: the tally, the map, the marks. **The table does the deduction.** She is an investigator, not a conduit ([[cosmology]] reveal rules; the mechanism stays locked).
+
+## ⭐ S12 — The Report and the Missing Fisherman *(GM green-lit 2026-11-02)*
+
+**In plain words:** the heron comes to Isotta's window and demands a report on the festival. She's only still in this world because she has to deliver. It takes her answers, says the one line it has saved all campaign, and hands her a small, weird case: one ghost ignored the urge to leave town before the festival, and now he's missing. She follows his trail across town. It gets fainter the closer it gets to the middle, and it ends at the Kept Root, where he's simply gone. Not crossed, not hiding: gone. It's her own worst ending, happening to someone else.
+
+### The report (the heron demands, she answers)
+> It's late. The heron's not on the roofline tonight. It's on your windowsill. Inside.
+> One foot is standing on your tally sheet.
+> "Report."
+
+- *"What did you see at the singing."* · *"How many."* (takes the number like a clerk) · *"What holds them."* (she doesn't know; neither does it)
+- After the count: *"You are not the oldest open account in this city. You are the second."* If pushed: *"That line is not yours."*
+
+### The trail — five stops, every clue explicit
+*She sees one thing, someone says one thing, it points to the next stop.* **Ferrand** is an old fisherman, a brand-new ghost (name from `gm-table-pack/improv-ammo.md`, unused in canon).
+
+**0 · The heron (first clue)**
+> "Ferrand. Fisherman. He died on the Mooring, four days before the singing. The others left by the water. He did not. Start at his bench."
+
+**1 · [[the-mooring|The Mooring]] — his bench**
+- **She sees:** ghost pipe smoke still hanging over the bench, and **wet bootprints** only she can see. They don't go out to the water like the other dead. **They go inland.**
+- **[[the-mooring#Sabine Aucoin|Sabine Aucoin]]:** *"Ferrand? Stubborn old goat. Said he'd sit the festival out at the Last Board like he always did."*
+- **Points to:** the Last Board.
+
+**2 · [[the-last-board|The Last Board]] — his stool**
+- **She sees:** his usual stool, frost-cold, with a ghost ring where his mug sat. The prints leave, **fainter now**, heading up the boardwalk toward the square.
+- **[[the-last-board#Maud Perrin|Maud Perrin]]:** *"His stool's been cold since the festival. Nobody'll sit on it."*
+- **Points to:** the square.
+
+**3 · The square — the doorway**
+- **She sees:** his outline on a door at the edge of the square, faint as breath on glass. **This is where he stood during the singing. She walked right past him.** *(Canon check: she looked for ghosts at the Celebration and saw none but the eleven. By then he was already too thin to see.)* The prints are barely there, and **they don't go toward the singing.** They turn off down a side boardwalk.
+- **Said (her, or Remy as fallback):** *"He wasn't going to the singing. He was going somewhere else."*
+- **Points to:** the side boardwalk.
+
+**4 · [[the-kept-root|The Kept Root]] — the end**
+- **She sees:** one faint print every few boards, then the plaza, then the last print right beside the root. On the ring of offerings, **his ghost-pipe, set down neatly, still warm.** Then nothing.
+- **Prosper:** *"Morning after the festival, the offerings were all pushed aside. Like somebody made room to sit."*
+- ⚠ **Why the pipe matters:** the Tree Spirit is *friendly* (Iron Rule 6). The pipe says he went *to* it, like company. It didn't take him. Never explain it.
+
+### The report back
+> "Then his line does not close."
+
+### The cost
+At stops 3 and 4, **any roll with Fear marks a segment on her Slipping Clock.** The deeper she follows him, the more she feels what he felt.
+
+### What it does
+- Shows why spirits flee (staying wears you away), and why the eleven are smoke with only the words left.
+- Makes it personal: **the Celebration is bad for her too**, and this is her own worst ending (no crossing, nothing to collect).
+- Leads to the tree. The GM accepts that the tree bridge may land here.
+- **Stays inside canon:** spirits can't be in the center; spirits leave town; the urge is felt, never explained.
 
 ## The Lantern Docket — the sidequest engine
 
@@ -166,6 +216,20 @@ Her second sight opens the campaign's best exclusive real estate: the spirit-sid
 
 *(Per the no-hard-coded-endings rule: these are live options, chosen at the table.)*
 
+⭐ **The menu, GM-set 2026-10-25 (S12 prep).** Three options, chosen at the table:
+
+1. **Break the curse: become mortal again.** The Tidebreaker *unbinds* the tie (the heron can only *sever*, and severing is collection). She lives a whole life, and the heron collects her properly at the end of it.
+2. **Cross over.** She closes her own account now, gently, on her own terms. A real option, not a loss.
+3. **A cool job as a half-spirit, with consequences.** *(Placeholder, GM 2026-10-25.)* **She becomes the heron's clerk**, and it grows out of the tally sheet she already keeps. She isn't tied to Sallowreach (the GM flagged that as a likely dealbreaker), because the heron collects everywhere.
+   - **Pros:** the best witness list in the world (every case solvable by asking the dead) · she keeps her ghost gifts · a lifetime of spirit-side wonder · the heron stops being her creditor and becomes her colleague · **nobody she loves ever crosses alone**, because she walks them over.
+   - **Cost:** she outlives everyone, and one day she counts her friends herself.
+
+**How her two threads close together:** the eleven are her last case. When the binding falls, they finally cross, and the heron ties two hundred years of knots in one night that only she sees. Then it turns to her line, and she chooses.
+
+> ⚰️ **Retired 2026-10-25: Lazare's taper.** Lazare Bellaire (the Veilside lamplighter) never appeared at the table, so a brand-new NPC this late would feel sudden (GM). Option 3 replaces it. *(Also folded away: "Out of grace", the full-Slipping-Clock inversion, which is a pressure on these options, not an option itself.)*
+
+<details><summary>Old menu (pre-2026-10-25)</summary>
+
 The mid-campaign introduction buys **time**, not resolution. The cure is a separate, final scene — and the division of powers keeps it honest: **the Tallykeeper can only *sever* the ritual's tie, and severing is collection.** Only [[the-tidebreaker|The Tidebreaker]] can *unbind* it properly. The moment the tie comes unbound, she is collectible again for one held breath — and the ferryman will be standing there. It always is. Live options in that breath (per the no-hard-coded-endings rule):
 
 - **Step back into life.** Fully mortal. Someday it comes for her again, properly, at the end of a whole life — and that's the point. Whole means finishable.
@@ -173,6 +237,9 @@ The mid-campaign introduction buys **time**, not resolution. The cure is a separ
 - **Choose the crossing.** She has the right to decide her account closes now — knot tied, gently, on her own terms. If the campaign has done its work, this is a real option, not a loss.
 - **Take the taper.** ⭐ *(Re-homed 2026-07-25 from [[lantern-docket]] Case 5 — it was always an ending, never a case.)* Lazare Bellaire hands over the Veilside lamp rounds and she keeps them: a nightly duty, hers, forever, and the city itself becomes her anchor network. She doesn't get fixed. She gets a **job on the other side** and chooses it. *(The Tallykeeper's dry note: offices are collateral too.)*
 - **The unwritten one** the player invents when they understand the stakes better than we do.
+
+
+</details>
 
 ## What This Arc Deliberately Doesn't Do
 

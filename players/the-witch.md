@@ -44,6 +44,8 @@ The charged Mire water itself is part of why this place can touch their conditio
 ## The Truth — GM Only
 > **Superseded 2026-07-01.** The old default here — *"they did it to themselves"* — is retired; the live answer is **[[leavy-arc]] ("Seven for a Secret").** Short version below; the full truth, memory engine, clue ladder, and endgame menu live in the arc file.
 
+> ⚰️ **Superseded 2026-10-25:** the backstory below is the old version. The GM rewrote it: Leavy was the *old* witch, the coven cursed them into a clank through a loophole on the eve of their **apprentice's** coronation, and there is no Feverfew or Bindweed. See [[leavy-arc]] §The Answer.
+
 **Leavy was the chosen heir of the Nine Hedges coven.** Their dying teacher, **Feverfew**, named them successor; on coronation eve a passed-over rival — **Bindweed** — cursed them: killed the heir, scoured the mind, dissolved the ninth seat to grow the other eight. The clank vessel was **old Leavy's own contingency build** (the "search ends at a mirror" irony survives as a half-truth: the maker *was* them), and Feverfew spent her last hours pouring her student's soul into it — she died completing it, which is why no maker was waiting. Delphine's table-canon line was exactly right: the curse was cast **"to stop a coronation."** The coronation was Leavy's.
 
 **What survived the wipe:** the craft (the hands remember), the taste-vault (memories brewed into unfinished draughts, keyed to Leavy's tongue, carried by the old familiar — the magpie **Seven**), and one unintended mercy: Leavy reads as a **smooth blank** to all scrying. Bindweed believes the heir destroyed. **The curse is the only thing hiding them — and the day it breaks, the blank lifts.** That's the price tag on the cure.

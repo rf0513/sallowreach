@@ -44,13 +44,48 @@ At the festival, Leavy gave the kids potions: four caffeine, one calming.
 
 ## 2 · Fletcher → Brin's War Table *(Day 1)*
 
-**Run [[session-08-run-sheet]] §2c as written.** It has never been played. Here's the short version:
+> Brin's back room at the Ranging House is basically one big table.
+>
+> Her channel map's pinned flat across it. Four old snakeskins down one side, and the big new one rolled up at the end like a carpet.
+>
+> Gault's traps are in the corner, stacked and tagged.
+>
+> Brin's got her hat off, which you've never seen. She points at the chair across from her.
+>
+> "Sit. I've got three questions before I've got any answers."
 
-1. **Her three questions:** How many are you bringing? What do you know about the venom? Now you know somebody made it, do you still want it dead?
-2. **The map.** Hand over the map image. *"Read it for me."* Then **stop talking.** The pins make a spiral, and its empty eye is the nest. When he points at the middle: *"Write it down. It's called the Double Knot. Two hunters went in there. Neither came back."*
-   - 🎲 **Instinct 13** + *Swamp Specialist* to read the approach. **Success:** *"Both came in from the east. Same way twice. It learned the way."* That gives advantage on the approach later.
-3. **Her checklist**, written in the margin: antivenom · something so it can't smell you · all four of you.
-4. **The bow, at her bench.** 🎲 **Finesse 13** + *Swamp Specialist*. Two boxes left.
+1. **"How many are you bringing?"** If the answer is anything but four:
+   > "It's read every hunter that ever came." *[beat]* "It has never read four people who love each other."
+2. **"What do you know about the venom?"** She taps the broken fang from the gar:
+   > "Two hunters went after it. Everybody says they drowned. They didn't. The venom took them first." *[beat]* "You need antivenom. And the best reagent in the Mire is in your pack."
+
+   *(She means the pressed skins in his journal.)*
+3. **"Now you know somebody made it. Still want it dead?"** Whatever he says:
+   > "Pity's allowed." *[beat]* "The arithmetic doesn't change."
+
+**The map.** Share the map image.
+
+> Brin slides her channel map across the table. It's got red pins in it.
+>
+> "Every skin anybody's ever brought me. Yours, mine, the rookery's." *[beat]* "It came in from upriver. That's the arrow."
+>
+> *[she sits back]*
+>
+> "Read it for me."
+
+Then **stop talking.** *(GM only: the pins make a spiral, and its empty eye is the nest.)*
+
+- **If he stalls,** Brin runs her finger along the pins, around and in: *"Animals wander."* [beat] *"This one doesn't."*
+- **If someone says "it's a spiral":** *"Nothing in the Mire moves like that."* Then she waits.
+- **When he points at the middle:**
+  > "Write it down." *[hands him a pencil]* "It's called the Double Knot." *[beat]* "Two hunters went in there. Neither came back."
+
+🎲 **Instinct 13** + *Swamp Specialist* to read the approach. **Success:** *"Both came in from the east. Same way twice. It learned the way."* That gives advantage on the approach later.
+
+**Her checklist,** written in the margin: antivenom · something so it can't smell you · all four of you. Then:
+> "After the lanterns. Nobody hunts on Celebration day." *[beat]* "So. Now."
+
+**The bow, at her bench.** 🎲 **Finesse 13** + *Swamp Specialist*. Two boxes left.
 
 | Roll | What happens |
 |---|---|
@@ -70,6 +105,12 @@ At the festival, Leavy gave the kids potions: four caffeine, one calming.
 ## 3 · Tenson → Silence Calls *(Day 1)*
 
 *GM only:* this morning Caius sent a one-paragraph magic dispatch to the capital. His full paper report left on the barges. Full notes: [[tenson-arc]] §S12.
+
+> Tenson, your pocket's buzzing. The little mirror.
+>
+> You open it, and it's Silence. Not at her desk. Standing. That's never good.
+>
+> She doesn't say hello.
 
 > "I have a letter from the Chancery liaison. It says my auditor 'declined to cooperate with a routine incident review.' Explain that to me."
 
@@ -91,6 +132,16 @@ Orna said to "mind meld" with Seven in a sweat lodge. Leavy wants to find the in
 
 1. **Old Plenty's antler.** Leavy already has it. This is the part that lets the trip reach a spirit.
 2. **The blue moss** on the Mooring's pilings, just under the waterline. It glows at night, and every parent says "don't." Keep it short and silly, with a roll for the kids.
+
+   > The Mooring at low tide. The pilings are slick and black.
+   >
+   > And just under the waterline, there it is. Blue. Glowing a little, even in daylight.
+   >
+   > All four kids lean over the edge at once.
+   >
+   > "Don't touch it," says one of them, already touching it.
+
+   **The accountant kid,** quietly: *"I'm writing down that we told you not to."*
 3. **A salt-root from the wall.** On the swamp side, the mangrove roots grow right up to the salt line and stop. Where a tip touches salt, it goes white and hard. Leavy has to stand at the line and cut one.
 
 > You cut. And the water on the swamp side… leans toward you. Like a dog lifting its head.
@@ -131,6 +182,12 @@ Full notes: [[isotta-arc]] §S12.
 | **3 · A doorway on the square** | His outline, faint as breath on glass. **She walked right past him** at the festival. The prints turn away from the singing | **Isotta, or Remy as a fallback:** *"He wasn't going to the singing. He was going somewhere else."* | Side boardwalk |
 | **4 · The Kept Root** | The last print, right by the root. His ghost-pipe on the offerings ring, set down neatly, **still warm.** Then nothing | **Prosper:** *"Morning after the festival, the offerings were all pushed aside. Like somebody made room to sit."* | — |
 
+**What she sees, out loud (one per stop):**
+1. **Bench:** *"There's smoke over the bench. Pipe smoke. Nobody's there. And there are wet boot prints, but they don't go to the water. They go into town."*
+2. **Stool:** *"The stool by the window has frost on it. In this heat. There's a ring on the bar where a mug used to sit. The prints keep going. They're harder to see now."*
+3. **Doorway:** *"There's a shape on this door, like breath on a window. A man, standing. You walked right past this spot during the singing."*
+4. **The root:** *"One print. Then a few boards later, another. Then right by the root, the last one. And on the offerings, a pipe. Set down neat. You touch it. It's still warm."*
+
 - ⚠ **Stops 3–4: any roll with Fear marks her Slipping Clock.**
 - **Why he isn't there at the festival:** he was already too thin to see.
 - **The pipe** says he went *to* the tree like he was visiting company. It didn't take him. Never explain it.
@@ -138,12 +195,26 @@ Full notes: [[isotta-arc]] §S12.
 **The report back:**
 
 > "Then his line does not close."
+>
+> It steps off your tally sheet.
+>
+> There's a wet footprint on it now, right on the number.
+>
+> And it's gone.
 
 ---
 
 ## 6 · Leavy → The Sweat Lodge *(whenever all three ingredients are in)*
 
 Everything is seen through Seven's eyes. The kids wait outside, and the tiny accountant kid takes notes.
+
+> It's hot. Hot like the inside of a mouth.
+>
+> The antler's in the coals. The blue stuff's smoking. The salt-root's going white.
+>
+> Seven's on your knee. Not moving. Just watching you.
+>
+> And the walls start to breathe.
 
 🎲 **About every two scenes, a roll to go deeper** (your pick of trait, 13). **Fear:** a feeling from the old life sticks after waking. **Failure:** Leavy wakes early but keeps the scene they were in.
 

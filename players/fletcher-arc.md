@@ -175,6 +175,8 @@ Delphine's warning has a flip side the party earns mid-arc, said aloud by her or
 
 ## ⭐ The Bow — Water-Strung *(GM green-lit 2026-11-02, S12 prep)*
 
+> ✅ **S12 (2026-11-03): finished. Fletcher named it Scalepiercer.** Same session: he read Brin's spiral and **found the Double Knot**; Brin told him to go talk to her other rangers; **he never went**, so he doesn't know **Gault is hiring them** (triple pay, southwest, nets). *(Corrected 2026-11-15.)* It reaches him in S13 via **Coralie Pelletier** ([[session-13-run-sheet]] §5). [[session-12-recap]]
+
 **In plain words:** Fletcher has been building a bow since S7. The last piece is the Bull Gar's spine-sinew. He finishes it at Brin's bench, and the bow inherits the gar's best trick: it hides under the water and comes up where nobody is looking. It's the bow that can hit the snake where every other weapon misses. Until now, "Water-Strung" was only a name with no rules behind it. This section defines it.
 
 - **Where it happens:** [[session-08-run-sheet]] §2c, at Brin's bench, after the map. **Finesse 13** + *Swamp Specialist*. Two boxes left. The outcome table is there.

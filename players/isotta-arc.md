@@ -158,11 +158,15 @@ The oldest uncrossed dead in Sallowreach are the people who made the binding. **
 - **Prosper:** *"Morning after the festival, the offerings were all pushed aside. Like somebody made room to sit."*
 - ⚠ **Why the pipe matters:** the Tree Spirit is *friendly* (Iron Rule 6). The pipe says he went *to* it, like company. It didn't take him. Never explain it.
 
+> ⏸ **S12 (2026-11-03): not run — banked whole to S13** ([[session-13-stub]]). ⚠ **The Slipping Clock has never been shown at the table.** It starts at **0** and debuts on its first tick (a Fear roll at trail stops 3–4). Why it wakes now (GM, never said aloud): the singing wears down ghost-touched things, the same thing that happened to Ferrand.
+
 ### The report back
 > "Then his line does not close."
 
 ### The cost
-At stops 3 and 4, **any roll with Fear marks a segment on her Slipping Clock.** The deeper she follows him, the more she feels what he felt.
+> ⭐ **S13 (GM, 2026-11-15): no clock. Her fraying is shown, never counted.** At stops 3–4 a Fear roll shows a **slip** (her own print fainter than his · someone talks to the air beside her · the offerings ring visible through her fingers). Plus the kids' crash: a sleeping kid slides *through* her. Whether the Slipping Clock is retired for good is open for wrap. [[session-13-run-sheet]] §2, §4.
+
+~~At stops 3 and 4, **any roll with Fear marks a segment on her Slipping Clock.**~~ The deeper she follows him, the more she feels what he felt.
 
 ### What it does
 - Shows why spirits flee (staying wears you away), and why the eleven are smoke with only the words left.

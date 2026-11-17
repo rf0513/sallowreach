@@ -29,6 +29,12 @@ Silence sent Tenson to answer one question: *why does the wall keep asking for m
 - **Day 2 — the wall breaks.** The salt stays settled for a day or two after the festival (canon, S7), then a section gives way at night and a house goes into the water. **[[Oswin Cray|Oswin]] is hurt holding the line**: the thief who is also the only man keeping the wall up is down. By dawn **Caius is on the scene with a blank incident form**, page fourteen of his file, and asks Tenson to sign as a witness.
 - **Improvise everything else.** The road to proof is still [[bigsby|Bigsby]] (must produce records to anyone with **standing**; Silence's warrant is standing). He doesn't leave the Embassy.
 
+### ✅ As played, S12 (2026-11-03) — [[session-12-recap]]
+- **Bigsby, pre-dawn:** entry 13 indexed four days before the dinner invite; the denial pattern; the payment record exists but needs **standing** (Silence's seal).
+- **Called Silence from the Embassy** — she wants **facts, not hearsay**; he hung up. **No warrant yet.**
+- **Oswin confessed everything** (Tenson crit): two in five, the field-research billing, **the debt to Marcel**. Exposure = Marcel kills him. ⭐ **Tenson promised Oswin a heads-up before filing.**
+- **Evening: Silence called. ⏰ 12 days** (Day 1 evening).
+
 ## The Auditor's Dilemma (the emotional engine)
 
 The two gut-punches [[tenson|his sheet]] loaded are both scheduled here:

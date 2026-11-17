@@ -11,7 +11,7 @@ aliases:
 **Role:** Leavy's familiar — the old one, from the life before; the only witness at the table who remembers the person, and it can't tell anyone
 **Location:** wherever [[the-witch|Leavy]] is; officially "resident" at [[The Verdant Margin]]
 **Faction:** Independent (fiercely)
-**Table name:** **Chip Chip** (Leavy named it S6). The true name *Seven* is not yet recovered at the table. **S10:** Leavy turned it into an owlbear for the Celebration talent show (temporary — Orna's recipe book, a big roll); the crowd loved it.
+**Table name:** **Chip Chip** (Leavy named it S6). The true name *Seven* is not yet recovered at the table. **S10:** Leavy turned it into an owlbear for the Celebration talent show (temporary — Orna's recipe book, a big roll); the crowd loved it. ⭐ **S12: the true name is recovered** — after the sweat-lodge mind meld the player said "Seven" and the bird answered. **Leavy can now talk to Seven telepathically** (table canon, [[session-12-recap]]).
 **Tier:** 1 *(narrative NPC; mechanics per the table's Witch familiar rules — Ranger companion framework as fallback `[VERIFY]`)*
 
 > **The player names it.** Whatever devastatingly literal thing Leavy picks, every NPC adopts it instantly — record the table name here when it lands: ________. Its true name is **Seven**, and the day Leavy *calls* it that, the bird answers ([[leavy-arc#Seven — the magpie|the arc]]).

@@ -29,6 +29,7 @@ In plain table language: **Delphine was exactly right — the curse was cast to 
 
 ## What the table already holds (locked canon)
 
+- ⭐ **S12 (2026-11-03) — the mind meld ran.** The kids led Leavy to all three ingredients (Leavy had no recipe; folk saying: *"salt brings you back"*). All six scenes played, long versions, **no Fear** (no memory bleed). **The player said "Seven" — the true name is recovered; Leavy now talks to Seven telepathically.** Also: Leavy **communed with the Mangrove** at the wall (rolled 5) and saw every root growing toward the glowing root at the town's center ([[the-celebration-clue-map]] #16b). Antivenom still unbrewed. [[session-12-recap]]
 - ⭐ **S11 (2026-10-20) — the player got there:** Leavy circled that they **had a witch life before this one**, and that they need to **"mind meld" with their familiar** to get it back. Both are on target (the coven life; Seven remembers in behavior). Don't confirm in words — reward it with the hoard and the true-name beat.
 
 - **Delphine, Session 3** (run-sheet): *"There's a hole in you, child. Someone took a whole life out clean… A witch with no past and no coven is a candle with no wick."*

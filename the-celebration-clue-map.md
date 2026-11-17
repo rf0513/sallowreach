@@ -102,6 +102,7 @@ The party never gets the truth as one reveal. It comes in layers, each with its 
 | 14 | Vael: feels something vast ***held*** deep in the Mire, can't resolve it | [[vael-miroux]] (fragment-holder; end-game guardrail) | said (a hunter's word choice: *held*, not *living*) | 🗄 |
 | 15 | Isotta's Reach past the wall: "a pressure. Something enormous. Patient. **Sad.**" | [[session-04-salt-wall]] Beat 5 | shown | ✅/🔵 |
 | 16 | Delphine's lantern-release tears ("some things aren't clues" — it is) + her southwest dread | [[session-05-first-celebration]] · S3 | said | 🔵 |
+| **16b** | ⭐ **Leavy's Commune vision** — the Mire from above, every root growing toward one small glowing root in a plaza at the middle of town; singing far off, and every root stops at the salt and waits | [[session-12-recap]] (improvised at the table, S12) | shown (a vision; no voice, no feelings — Iron Rule 5) | ✅ **fired S12** — Leavy asked "is there any way to stop the spread?" Points at [[the-kept-root]]; Isotta's Ferrand trail (banked) ends at the same root |
 
 ### L3 — "The form is a machine" *(the mechanism hints — all deniable as tradition)*
 
